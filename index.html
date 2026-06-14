@@ -227,6 +227,13 @@
     text-overflow: ellipsis;
     max-width: 180px;
   }
+  .app-stats {
+    font-size: 10px;
+    color: var(--muted);
+    margin-top: 2px;
+    opacity: .8;
+  }
+  .app-stats .star { color: #f59e0b; }
 
   .change-cell { text-align: right; font-size: 12px; font-weight: 700; white-space: nowrap; }
   .ch-up   { color: var(--up); }
@@ -460,6 +467,7 @@ function renderTable(country, data) {
           <div>
             <div class="app-name" title="${esc(app.app_name)}">${esc(app.app_name)}</div>
             <div class="app-dev">${esc(app.developer || '')}</div>
+            ${statsLine(app)}
           </div>
         </div>
       </td>
@@ -470,6 +478,25 @@ function renderTable(country, data) {
 
 function esc(s) {
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function fmtCount(n) {
+  if (!n || n <= 0) return '';
+  if (n >= 1e9) return (n/1e9).toFixed(1).replace(/\.0$/,'') + 'B';
+  if (n >= 1e6) return (n/1e6).toFixed(1).replace(/\.0$/,'') + 'M';
+  if (n >= 1e3) return (n/1e3).toFixed(1).replace(/\.0$/,'') + 'K';
+  return String(n);
+}
+
+function statsLine(app) {
+  if (app.installs) {
+    return `<div class="app-stats">📥 ${esc(app.installs)}</div>`;
+  }
+  if (app.rating_count > 0) {
+    const stars = app.rating ? `<span class="star">★</span>${app.rating} · ` : '';
+    return `<div class="app-stats">${stars}${fmtCount(app.rating_count)} oy</div>`;
+  }
+  return '';
 }
 
 async function loadStatus() {
@@ -484,6 +511,8 @@ async function loadStatus() {
 
 loadStatus();
 loadAll();
+// Otomatik yenile — Actions ile senkron (30 dk)
+setInterval(() => { loadStatus(); loadAll(); }, 30 * 60 * 1000);
 </script>
 </body>
 </html>
