@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Store Tracker</title>
+<style>
+  :root {
+    --bg: #080d18;
+    --surface: #0f1623;
+    --surface2: #161e2e;
+    --border: #1e2d42;
+    --text: #e8edf5;
+    --muted: #6b7a99;
+    --apple: #2997ff;
+    --google: #01a86a;
+    --up: #22c55e;
+    --down: #f43f5e;
+    --new: #f59e0b;
+    --same: #4b5675;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 28px;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(12px);
+  }
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -.3px;
+  }
+  .brand svg { width: 28px; height: 28px; }
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  #status-chip {
+    font-size: 11px;
+    color: var(--muted);
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    padding: 4px 10px;
+    border-radius: 20px;
+  }
+  #refresh-btn {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 6px 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+    transition: background .15s, border-color .15s;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  #refresh-btn:hover { background: var(--surface2); border-color: var(--apple); }
+  #refresh-btn.loading svg { animation: spin .7s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── Tabs ── */
+  .tab-bar {
+    display: flex;
+    gap: 6px;
+    padding: 16px 28px 0;
+  }
+  .tab {
+    padding: 8px 18px;
+    border-radius: 8px 8px 0 0;
+    border: 1px solid transparent;
+    border-bottom: none;
+    background: var(--surface2);
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: color .15s, background .15s;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+  }
+  .tab:hover { color: var(--text); }
+  .tab.active[data-platform="appstore"]  { background: var(--surface); border-color: var(--border); color: var(--apple); }
+  .tab.active[data-platform="playstore"] { background: var(--surface); border-color: var(--border); color: var(--google); }
+  .tab.active[data-cat] { background: var(--surface); border-color: var(--border); color: var(--text); }
+
+  /* ── Controls bar ── */
+  .controls-bar {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 12px 28px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .cat-btn {
+    padding: 6px 16px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    background: none;
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 500;
+    transition: all .15s;
+  }
+  .cat-btn:hover { color: var(--text); }
+  .cat-btn.active {
+    background: var(--surface2);
+    color: var(--text);
+    border-color: #2d4060;
+  }
+
+  /* ── Main grid ── */
+  .main {
+    padding: 24px 28px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+
+  /* ── Card ── */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    overflow: hidden;
+  }
+  .card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 18px;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface2);
+  }
+  .card-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  .flag { font-size: 20px; }
+  .card-sub { font-size: 11px; color: var(--muted); }
+  .card-count {
+    font-size: 11px;
+    color: var(--muted);
+    background: var(--bg);
+    border: 1px solid var(--border);
+    padding: 3px 9px;
+    border-radius: 10px;
+  }
+
+  /* ── Table ── */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  thead th {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: .8px;
+    color: var(--muted);
+    padding: 10px 18px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+  }
+  thead th:last-child { text-align: right; }
+  tbody tr {
+    border-bottom: 1px solid var(--border);
+    transition: background .1s;
+  }
+  tbody tr:last-child { border-bottom: none; }
+  tbody tr:hover { background: var(--surface2); }
+  td {
+    padding: 10px 18px;
+    vertical-align: middle;
+  }
+
+  .rank-cell {
+    width: 36px;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--muted);
+    text-align: center;
+  }
+  .rank-top { color: var(--text); }
+
+  .app-cell {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+  }
+  .app-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    object-fit: cover;
+    background: var(--surface2);
+    flex-shrink: 0;
+    border: 1px solid var(--border);
+  }
+  .app-icon-placeholder {
+    width: 40px; height: 40px;
+    border-radius: 10px;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+  .app-name {
+    font-size: 13px;
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 180px;
+  }
+  .app-dev {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 180px;
+  }
+
+  .change-cell {
+    text-align: right;
+    font-size: 12px;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  .ch-up   { color: var(--up); }
+  .ch-down { color: var(--down); }
+  .ch-new  {
+    color: var(--new);
+    background: rgba(245,158,11,.12);
+    border: 1px solid rgba(245,158,11,.3);
+    padding: 2px 7px;
+    border-radius: 6px;
+    font-size: 10px;
+    letter-spacing: .5px;
+  }
+  .ch-same { color: var(--same); }
+
+  /* ── Empty / loading / error ── */
+  .placeholder {
+    padding: 40px 0;
+    text-align: center;
+    color: var(--muted);
+    font-size: 13px;
+  }
+  .spinner {
+    display: inline-block;
+    width: 24px; height: 24px;
+    border: 2px solid var(--border);
+    border-top-color: var(--apple);
+    border-radius: 50%;
+    animation: spin .7s linear infinite;
+    margin-bottom: 10px;
+  }
+  .error-msg { color: var(--down); }
+
+  /* ── Legend ── */
+  .legend {
+    display: flex;
+    gap: 16px;
+    padding: 10px 28px;
+    font-size: 11px;
+    color: var(--muted);
+    border-top: 1px solid var(--border);
+    background: var(--surface);
+  }
+  .legend-item { display: flex; align-items: center; gap: 5px; }
+
+  @media (max-width: 860px) {
+    .main { grid-template-columns: 1fr; }
+    header { flex-wrap: wrap; gap: 10px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <svg viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="28" height="28" rx="8" fill="url(#g)"/>
+      <path d="M8 20L12 12L16 17L19 14L22 20H8Z" fill="white" fill-opacity=".9"/>
+      <circle cx="10" cy="10" r="2" fill="white" fill-opacity=".7"/>
+      <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="28" y2="28">
+          <stop stop-color="#2997ff"/>
+          <stop offset="1" stop-color="#01a86a"/>
+        </linearGradient>
+      </defs>
+    </svg>
+    Store Tracker
+  </div>
+  <div class="header-right">
+    <span id="status-chip">Yükleniyor…</span>
+    <button id="refresh-btn" onclick="doRefresh()">
+      <svg id="refresh-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M23 4v6h-6"/><path d="M1 20v-6h6"/>
+        <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+      </svg>
+      Yenile
+    </button>
+  </div>
+</header>
+
+<div class="tab-bar" id="platform-tabs">
+  <button class="tab active" data-platform="appstore"  onclick="setPlatform('appstore',  this)">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+    App Store
+  </button>
+  <button class="tab" data-platform="playstore" onclick="setPlatform('playstore', this)">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M3.18 23.76c.28.15.6.19.92.12l12.47-7.21-2.78-2.78-10.61 9.87zm-1.31-19.6C1.6 4.57 1.5 5 1.5 5.48v13.03c0 .48.1.91.37 1.28l.07.07 7.3-7.3v-.17L1.87 4.16zm16.68 8.45l-2.59-1.5-3.07 3.08 3.07 3.07 2.62-1.52c.75-.43.75-1.14-.03-1.13zM4.1.3L16.57 7.5 13.79 10.29 3.18.41A1.06 1.06 0 014.1.3z"/></svg>
+    Google Play
+  </button>
+</div>
+
+<div class="controls-bar">
+  <button class="cat-btn active" data-cat="apps"  onclick="setCategory('apps',  this)">📱 Uygulamalar</button>
+  <button class="cat-btn"        data-cat="games" onclick="setCategory('games', this)">🎮 Oyunlar</button>
+</div>
+
+<div class="main">
+  <div class="card" id="card-tr">
+    <div class="card-header">
+      <div class="card-title">
+        <span class="flag">🇹🇷</span>
+        <div>
+          <div>Türkiye</div>
+          <div class="card-sub" id="sub-tr">Top Ücretsiz</div>
+        </div>
+      </div>
+      <span class="card-count" id="count-tr">— uygulama</span>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Uygulama</th>
+          <th style="text-align:right">Değişim</th>
+        </tr>
+      </thead>
+      <tbody id="tbody-tr">
+        <tr><td colspan="3"><div class="placeholder"><div class="spinner"></div><br>Yükleniyor…</div></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="card" id="card-us">
+    <div class="card-header">
+      <div class="card-title">
+        <span class="flag">🇺🇸</span>
+        <div>
+          <div>United States</div>
+          <div class="card-sub" id="sub-us">Top Free</div>
+        </div>
+      </div>
+      <span class="card-count" id="count-us">— apps</span>
+    </div>
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>App</th>
+          <th style="text-align:right">Change</th>
+        </tr>
+      </thead>
+      <tbody id="tbody-us">
+        <tr><td colspan="3"><div class="placeholder"><div class="spinner"></div><br>Loading…</div></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="legend">
+  <span class="legend-item" style="color:var(--up)">↑ Yükseliş</span>
+  <span class="legend-item" style="color:var(--down)">↓ Düşüş</span>
+  <span class="legend-item"><span class="ch-new">YENİ</span>&nbsp;Listeye yeni girdi</span>
+  <span class="legend-item" style="color:var(--same)">− Aynı sıra</span>
+  <span style="margin-left:auto">Günlük 06:00'da otomatik güncellenir</span>
+</div>
+
+<script>
+let platform = 'appstore';
+let category = 'apps';
+
+function setPlatform(p, btn) {
+  platform = p;
+  document.querySelectorAll('#platform-tabs .tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  loadAll();
+}
+
+function setCategory(c, btn) {
+  category = c;
+  document.querySelectorAll('.cat-btn').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  loadAll();
+}
+
+function loadAll() {
+  loadCountry('tr');
+  loadCountry('us');
+}
+
+async function loadCountry(country) {
+  const tbody = document.getElementById(`tbody-${country}`);
+  tbody.innerHTML = `<tr><td colspan="3"><div class="placeholder"><div class="spinner"></div><br>Yükleniyor…</div></td></tr>`;
+
+  try {
+    const res = await fetch(`/api/rankings/${platform}/${category}/${country}`);
+    if (!res.ok) throw new Error(res.statusText);
+    const data = await res.json();
+    renderTable(country, data);
+  } catch(e) {
+    tbody.innerHTML = `<tr><td colspan="3"><div class="placeholder error-msg">Veri alınamadı: ${e.message}</div></td></tr>`;
+  }
+}
+
+function renderTable(country, data) {
+  const tbody = document.getElementById(`tbody-${country}`);
+  const countEl = document.getElementById(`count-${country}`);
+
+  if (!data || data.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="3"><div class="placeholder">Bugün için veri bulunamadı.<br><small>Manuel yenile butonunu deneyin.</small></div></td></tr>`;
+    countEl.textContent = '—';
+    return;
+  }
+
+  countEl.textContent = `${data.length} uygulama`;
+
+  tbody.innerHTML = data.map(app => {
+    const rankClass = app.rank <= 3 ? 'rank-cell rank-top' : 'rank-cell';
+    const rankLabel = app.rank <= 3 ? ['🥇','🥈','🥉'][app.rank-1] : app.rank;
+
+    let changeHtml;
+    if (app.change === 'new') {
+      changeHtml = `<span class="ch-new">YENİ</span>`;
+    } else if (app.change === '=') {
+      changeHtml = `<span class="ch-same">−</span>`;
+    } else {
+      const val = parseInt(app.change);
+      if (val > 0) changeHtml = `<span class="ch-up">↑${val}</span>`;
+      else         changeHtml = `<span class="ch-down">↓${Math.abs(val)}</span>`;
+    }
+
+    const iconHtml = app.icon_url
+      ? `<img class="app-icon" src="${app.icon_url}" alt="" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'app-icon-placeholder'}))">`
+      : `<div class="app-icon-placeholder"></div>`;
+
+    return `<tr>
+      <td><div class="${rankClass}">${rankLabel}</div></td>
+      <td>
+        <div class="app-cell">
+          ${iconHtml}
+          <div>
+            <div class="app-name" title="${esc(app.app_name)}">${esc(app.app_name)}</div>
+            <div class="app-dev">${esc(app.developer || '')}</div>
+          </div>
+        </div>
+      </td>
+      <td class="change-cell">${changeHtml}</td>
+    </tr>`;
+  }).join('');
+}
+
+function esc(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+async function updateStatus() {
+  try {
+    const res = await fetch('/api/status');
+    const d = await res.json();
+    const chip = document.getElementById('status-chip');
+    chip.textContent = d.last_fetch
+      ? `Son güncelleme: ${d.last_fetch}`
+      : 'Henüz veri yok';
+  } catch {}
+}
+
+async function doRefresh() {
+  const btn = document.getElementById('refresh-btn');
+  const icon = document.getElementById('refresh-icon');
+  btn.disabled = true;
+  icon.style.animation = 'spin .7s linear infinite';
+  try {
+    await fetch('/api/refresh', { method: 'POST' });
+    await loadAll();
+    await updateStatus();
+  } finally {
+    btn.disabled = false;
+    icon.style.animation = '';
+  }
+}
+
+// Guard: must be served over HTTP, not opened as file://
+if (window.location.protocol === 'file:') {
+  document.body.innerHTML = `
+    <div style="display:flex;align-items:center;justify-content:center;height:100vh;flex-direction:column;gap:20px;font-family:sans-serif;background:#080d18;color:#e8edf5;text-align:center;padding:40px">
+      <svg width="48" height="48" viewBox="0 0 28 28" fill="none"><rect width="28" height="28" rx="8" fill="url(#g)"/><path d="M8 20L12 12L16 17L19 14L22 20H8Z" fill="white" fill-opacity=".9"/><circle cx="10" cy="10" r="2" fill="white" fill-opacity=".7"/><defs><linearGradient id="g" x1="0" y1="0" x2="28" y2="28"><stop stop-color="#2997ff"/><stop offset="1" stop-color="#01a86a"/></linearGradient></defs></svg>
+      <h2 style="margin:0;font-size:22px">Store Tracker</h2>
+      <p style="color:#6b7a99;max-width:380px;line-height:1.6">
+        Bu dosyayı doğrudan tarayıcıda açamazsın.<br>
+        Önce sunucuyu başlat, sonra tarayıcıdan eriş:
+      </p>
+      <div style="background:#0f1623;border:1px solid #1e2d42;border-radius:10px;padding:16px 24px;font-size:14px;color:#9ca3af">
+        <div style="margin-bottom:8px"><b style="color:#e8edf5">1.</b> Terminali aç ve şu klasöre git:</div>
+        <code style="background:#080d18;padding:4px 10px;border-radius:5px;color:#2997ff">cd Desktop\\store-tracker</code>
+        <div style="margin:12px 0 8px"><b style="color:#e8edf5">2.</b> Sunucuyu başlat:</div>
+        <code style="background:#080d18;padding:4px 10px;border-radius:5px;color:#2997ff">python main.py</code>
+        <div style="margin:12px 0 8px"><b style="color:#e8edf5">3.</b> Tarayıcıda aç:</div>
+        <a href="http://localhost:8000" style="color:#01a86a;font-size:16px;font-weight:700">http://localhost:8000</a>
+      </div>
+    </div>`;
+} else {
+  // Normal init
+  updateStatus();
+  loadAll();
+  setInterval(() => { loadAll(); updateStatus(); }, 30 * 60 * 1000);
+}
+
+
+</script>
+</body>
+</html>
