@@ -6,7 +6,7 @@
       "app_id": "com.miniclip.eightballpool",
       "app_name": "8 Ball Pool",
       "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
       "installs": "1,000,000,000+",
       "rating": 4.8,
       "rating_count": 0,
@@ -66,7 +66,7 @@
       "app_id": "com.imangi.templerun2",
       "app_name": "Temple Run 2: Endless Escape",
       "developer": "Imangi Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/go4XqS4mYs-G2tZymiVLF4wJYXIi5QrvwixNRzssk4G_vRBHrAdg4E1ddNwy9c2cZA",
+      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
@@ -78,7 +78,7 @@
       "app_id": "com.block.juggle",
       "app_name": "Block Blast!",
       "developer": "HungryStudio",
-      "icon_url": "https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E",
+      "icon_url": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
       "installs": "500,000,000+",
       "rating": 4.8,
       "rating_count": 0,
@@ -159,30 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "com.dreamgames.royalmatch",
-      "app_name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 15,
-      "app_id": "com.topfreegames.bikeracefreeworld",
-      "app_name": "Bike Race：Motorcycle Games",
-      "developer": "Wildlife Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
-      "installs": "100,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 16,
       "app_id": "com.soccer.score.star",
       "app_name": "Soccer Superstar",
       "developer": "Real Freestyle Soccer",
@@ -190,11 +166,23 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "app_id": "com.dreamgames.royalmatch",
+      "app_name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 16,
       "app_id": "com.fungames.sniper3d",
       "app_name": "Sniper 3D：Gun Shooting Games",
       "developer": "Wildlife Studios",
@@ -202,11 +190,35 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "com.topfreegames.bikeracefreeworld",
+      "app_name": "Bike Race：Motorcycle Games",
+      "developer": "Wildlife Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
+      "installs": "100,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
+      "app_id": "com.firsttouchgames.dls7",
+      "app_name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/xb1Vz614Oef63tpwV3AmcC4QWOeEQ5rw_bYOimuNF6M3NoINRmZV6WNmPgl4cBYc1rMJhAu0ohPhn4coq_AQlw",
+      "installs": "100,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
       "app_id": "com.rovio.baba",
       "app_name": "Angry Birds 2",
       "developer": "Rovio Entertainment Oy",
@@ -214,11 +226,11 @@
       "installs": "100,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "app_id": "com.vitastudio.mahjong",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -226,20 +238,8 @@
       "installs": "100,000,000+",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "com.ea.gp.fifamobile",
-      "app_name": "EA SPORTS FC Soccer Mobile 26",
-      "developer": "ELECTRONIC ARTS",
-      "icon_url": "https://play-lh.googleusercontent.com/7TaYZEwbAtjM_rU_9d3CgMQx_QCdV4nH7KBzvztC_mrPKG4qKEK2SiQ8YbtQDcidCqrx5U8A2mVdFzPgBZkG",
-      "installs": "500,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
