@@ -9,9 +9,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/95/a8/6995a8e4-a247-dee0-4939-77c9e3699576/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 873360,
-      "change": "+16",
-      "change_val": 16
+      "rating_count": 873495,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -21,9 +21,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/04/7b/5b047bef-4700-50e5-0180-e36188e4062f/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 160408,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 162155,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -33,9 +33,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/79/dc/3f79dccc-2e54-c955-5712-45d332cd2177/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3417920,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 3419132,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -45,45 +45,45 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/ec/33/00ec3381-b756-542e-3a77-50955634add0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 34462,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 35424,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f6/e3/e7f6e3fb-8e24-ba31-03ff-aba23d60841f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 7926055,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 6,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/03/21/22032103-e65c-2bea-9a13-0fa2e791f0d9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 66924,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 7,
       "app_id": "6648798962",
       "app_name": "Polymarket",
       "developer": "Polymarket",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/71/db/5671db24-a90e-74da-d0d2-825970b7f04f/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 31414,
-      "change": "+3",
-      "change_val": 3
+      "rating_count": 31447,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 6,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f6/e3/e7f6e3fb-8e24-ba31-03ff-aba23d60841f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 7931157,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 7,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/03/21/22032103-e65c-2bea-9a13-0fa2e791f0d9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 67657,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -92,34 +92,34 @@
       "developer": "FIFA",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/c5/03/7bc503eb-1864-b7b8-3e26-594d4f8fd6b3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 2.5,
-      "rating_count": 434,
-      "change": "-1",
-      "change_val": -1
+      "rating": 2.4,
+      "rating_count": 447,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "905401434",
-      "app_name": "Fubo: Watch Live TV & Sports",
-      "developer": "fuboTV Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/09/5b/8c095b22-7c1a-c846-ecf9-66620b9d58bb/Fubo-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 110131,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 10,
       "app_id": "886445756",
       "app_name": "Tubi: Movies & Live TV",
       "developer": "Tubi, Inc",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/91/74/599174fe-6ad5-18d9-d99b-82893347a733/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1138316,
-      "change": "-5",
-      "change_val": -5
+      "rating_count": 1139014,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "905401434",
+      "app_name": "Fubo: Watch Live TV & Sports",
+      "developer": "fuboTV Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/09/5b/8c095b22-7c1a-c846-ecf9-66620b9d58bb/Fubo-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 110152,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -129,33 +129,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f9/8f/b7f98f34-318d-ca76-9943-4c7e838adb1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 1.8,
-      "rating_count": 240,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 241,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "680595680",
-      "app_name": "Telemundo: Series y TV en vivo",
-      "developer": "NBCUniversal Media, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/0d/89/6d0d89ad-9310-afb1-2271-927f4d85ed0c/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 332894,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 13,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/3a/d1/2e3ad179-9b94-5349-c0ac-a7cb14d60082/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 172280,
+      "rating_count": 172525,
       "change": "+1",
       "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/24/a0/9a24a041-cd76-09cc-c1f4-c2d9da14a483/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2014439,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 14,
@@ -165,57 +165,57 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/c6/a3/a9c6a3d3-da87-9c4a-5264-9ca6e9a57e63/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1850162,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1851259,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/24/a0/9a24a041-cd76-09cc-c1f4-c2d9da14a483/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2013821,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 16,
-      "app_id": "1193350206",
-      "app_name": "YouTube TV",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/f2/88/bcf28866-6ce6-998b-0010-51968497b49b/logo_youtube_television_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.6,
-      "rating_count": 59150,
-      "change": "-7",
-      "change_val": -7
-    },
-    {
-      "rank": 17,
       "app_id": "1375031369",
       "app_name": "DraftKings: Sports & Casino",
       "developer": "DraftKings",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/6b/87/7b6b8720-1cdc-8f25-2b28-adf52291b944/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1028242,
+      "rating_count": 1028251,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 16,
+      "app_id": "1465944282",
+      "app_name": "Love Island USA",
+      "developer": "ITV America Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ff/0f/f4ff0fa3-24a1-f86e-541d-0cac6a3ea260/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.9,
+      "rating_count": 5703,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5e/47/045e4716-99d8-f058-1d82-b36131a7d3ae/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 4684277,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 4685168,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "680595680",
+      "app_name": "Telemundo: Series y TV en vivo",
+      "developer": "NBCUniversal Media, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/0d/89/6d0d89ad-9310-afb1-2271-927f4d85ed0c/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 333108,
+      "change": "-6",
+      "change_val": -6
     },
     {
       "rank": 19,
@@ -225,21 +225,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/fa/66/c0fa6632-5510-7a38-2fa2-c9296a5dfe69/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 855712,
-      "change": "new",
+      "rating_count": 856220,
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/fc/69/5dfc6928-acee-faaa-5c06-9b3b13197ebd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/6a/09/f46a0998-37f4-91fc-4db8-74f1e7485960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 18081197,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.6,
+      "rating_count": 1111539,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }

@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "com.soccer.score.star",
-      "app_name": "Soccer Superstar",
-      "developer": "Real Freestyle Soccer",
-      "icon_url": "https://play-lh.googleusercontent.com/LRpKgyf_oEOouVJ8vZIGkyQBpAOxbuHqTDo_gu_SnuxuTNoSGKNDhFsTzbiV2pggeV63oBE7FDRM_FFRiGM6",
-      "installs": "100,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 15,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -178,23 +166,11 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
-      "app_id": "com.fungames.sniper3d",
-      "app_name": "Sniper 3D：Gun Shooting Games",
-      "developer": "Wildlife Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E",
-      "installs": "500,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
+      "rank": 15,
       "app_id": "com.topfreegames.bikeracefreeworld",
       "app_name": "Bike Race：Motorcycle Games",
       "developer": "Wildlife Studios",
@@ -202,8 +178,32 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 16,
+      "app_id": "com.soccer.score.star",
+      "app_name": "Soccer Superstar",
+      "developer": "Real Freestyle Soccer",
+      "icon_url": "https://play-lh.googleusercontent.com/LRpKgyf_oEOouVJ8vZIGkyQBpAOxbuHqTDo_gu_SnuxuTNoSGKNDhFsTzbiV2pggeV63oBE7FDRM_FFRiGM6",
+      "installs": "100,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
+      "app_id": "com.fungames.sniper3d",
+      "app_name": "Sniper 3D：Gun Shooting Games",
+      "developer": "Wildlife Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E",
+      "installs": "500,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -238,7 +238,7 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]

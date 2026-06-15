@@ -3,27 +3,27 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6761760135",
-      "app_name": "Meowdoku!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/9c/ad/ca9cad33-82da-a48f-06bf-86df1e6f35d2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 20718,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6752672568",
       "app_name": "Block Out! - Color Sort Puzzle",
       "developer": "Grand Games A.Ş.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/4d/f4/c54df4ae-5417-0fb5-908c-6d201883e747/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 78564,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 79029,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6761760135",
+      "app_name": "Meowdoku!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/9c/ad/ca9cad33-82da-a48f-06bf-86df1e6f35d2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 21094,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -33,21 +33,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/01/ee/3501ee75-8c2d-b234-1bf9-d4126928c0bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 489389,
+      "rating_count": 489990,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 4,
-      "app_id": "6748084174",
-      "app_name": "Smash Fest!",
-      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/f5/4a/54f54a94-bef4-9e0d-6394-3a96a5f6ff23/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "app_id": "6748397500",
+      "app_name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore GmbH",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/2a/32/4a2a329c-7d3d-74c6-1d39-373a32b07027/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.6,
-      "rating_count": 35,
-      "change": "+10",
-      "change_val": 10
+      "rating": 4.9,
+      "rating_count": 229403,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 5,
@@ -57,21 +57,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/e9/c6/55e9c669-771a-b400-8acd-9966ab67c108/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 1507537,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 1508091,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
-      "app_id": "6748397500",
-      "app_name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore GmbH",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/2a/32/4a2a329c-7d3d-74c6-1d39-373a32b07027/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6748084174",
+      "app_name": "Smash Fest!",
+      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/f5/4a/54f54a94-bef4-9e0d-6394-3a96a5f6ff23/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 228474,
-      "change": "=",
-      "change_val": 0
+      "rating": 3.6,
+      "rating_count": 36,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 7,
@@ -81,9 +81,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/88/e7/7d88e781-19fa-9997-10f0-9f545d331c4c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 19024384,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 19027576,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -93,9 +93,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/d2/9a/e6d29ac8-c0c8-c9a3-4f78-38b849d47532/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 2524635,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 2525327,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -105,9 +105,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/c4/49/35c44906-b5c6-b953-a642-3d729dc8843f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 107162,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 107526,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -117,9 +117,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/78/cf/f678cfa5-6114-7ef5-398e-4eb6d1913195/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 3712325,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 3712838,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -129,9 +129,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/31/ce/7731ce84-3836-3085-72e5-e904abdc4c6d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 155356,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 155408,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -141,45 +141,45 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.1,
-      "rating_count": 834444,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 834486,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
       "app_id": "1606549505",
       "app_name": "Royal Kingdom",
       "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/d5/cc/b7d5cc67-6697-b4ea-9749-7108da704d4f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/bc/cb/c0bccb1d-ac41-730e-e4d5-68356d63c776/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1022912,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 1023342,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 23139,
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 15,
       "app_id": "6759077038",
       "app_name": "Profile Perfect",
       "developer": "Lion Studios Plus",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/ec/99/dfec99cf-a193-ff4e-5aa0-f2d14d7a43f7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 4148,
+      "rating_count": 4213,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 15,
-      "app_id": "6751056652",
-      "app_name": "Pixel Flow!",
-      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/1c/9f/f81c9fe6-e718-c32f-4fcc-00dcd4cf52c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 104600,
-      "change": "+3",
-      "change_val": 3
     },
     {
       "rank": 16,
@@ -189,9 +189,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/a7/d8/40a7d82f-e64f-e659-2616-19712300466a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 197255,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 197325,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -201,45 +201,45 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/79/49/50794992-7b5c-fc6a-9858-fbf583b6acba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 182243,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 18,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 22867,
-      "change": "new",
+      "rating_count": 182298,
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 19,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/b7/1f/33b71faa-cf48-5466-203b-b2cc911dbd6f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 18,
+      "app_id": "6751056652",
+      "app_name": "Pixel Flow!",
+      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/1c/9f/f81c9fe6-e718-c32f-4fcc-00dcd4cf52c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 3742083,
-      "change": "-4",
-      "change_val": -4
+      "rating_count": 104779,
+      "change": "-3",
+      "change_val": -3
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "6471045672",
       "app_name": "Tasty Travels: Merge Game",
       "developer": "Century Games Pte. Ltd.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/6c/ee/4a6cee59-fdd6-b5ed-6895-00ba239840b6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 29065,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 29132,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/b0/a1/69b0a15a-467b-bb86-ea92-0f1022033460/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 3742330,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
