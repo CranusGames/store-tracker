@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "1632713844",
-      "app_name": "Kalshi: Trade the Cup",
-      "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/04/7b/5b047bef-4700-50e5-0180-e36188e4062f/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 162308,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "1508186374",
       "app_name": "Peacock TV: Stream TV & Movies",
       "developer": "Peacock TV LLC",
@@ -34,23 +22,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3419318,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "1632713844",
+      "app_name": "Kalshi: Trade the Cup",
+      "developer": "KalshiEX LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/04/7b/5b047bef-4700-50e5-0180-e36188e4062f/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 162308,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f6/e3/e7f6e3fb-8e24-ba31-03ff-aba23d60841f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 7932833,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 5,
       "app_id": "6746049430",
       "app_name": "FOX One: Live News, Sports, TV",
       "developer": "Fox Digital Services, LLC",
@@ -58,6 +46,18 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 35471,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f6/e3/e7f6e3fb-8e24-ba31-03ff-aba23d60841f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 7932833,
       "change": "-1",
       "change_val": -1
     },
@@ -70,23 +70,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 31452,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 7,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/03/21/22032103-e65c-2bea-9a13-0fa2e791f0d9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 67676,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "6476561442",
       "app_name": "FIFA World Cup 2026™",
       "developer": "FIFA",
@@ -94,11 +82,11 @@
       "installs": "",
       "rating": 2.4,
       "rating_count": 452,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "6532603739",
       "app_name": "FWC2026 Mobile Tickets",
       "developer": "FIFA",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 1.8,
       "rating_count": 241,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/03/21/22032103-e65c-2bea-9a13-0fa2e791f0d9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 67676,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 10,
@@ -118,23 +118,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 172599,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/72/07/a07207e3-9102-3699-30db-9a086554ffd3/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2014715,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 12,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -142,20 +130,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1851667,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/72/07/a07207e3-9102-3699-30db-9a086554ffd3/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2014715,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
       "app_id": "886445756",
       "app_name": "Tubi: Movies & Live TV",
       "developer": "Tubi, Inc",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/91/74/599174fe-6ad5-18d9-d99b-82893347a733/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/fb/00/dffb00ac-fd93-86a1-1162-74c5445140e4/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
       "rating_count": 1139110,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 110154,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,11 +178,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 4685540,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
+      "app_id": "680595680",
+      "app_name": "Telemundo: Series y TV en vivo",
+      "developer": "NBCUniversal Media, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/0d/89/6d0d89ad-9310-afb1-2271-927f4d85ed0c/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 333148,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -190,11 +202,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18082844,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 18,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/a1/fc/b6a1fc21-1e74-4e0c-20c2-51a6cd2d65e9/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 656820,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 17,
+      "rank": 19,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -202,32 +226,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1111547,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 18,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/fa/66/c0fa6632-5510-7a38-2fa2-c9296a5dfe69/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 856343,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 19,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/45/c9/ce45c9d8-a788-1d9b-0bc2-3b4137aa1df2/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2138643,
-      "change": "new",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7234388,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]

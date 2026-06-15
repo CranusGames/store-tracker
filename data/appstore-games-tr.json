@@ -10,8 +10,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2587,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 11608,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 250092,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 15456,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "6754688040",
-      "app_name": "Last Light: Rebirth",
-      "developer": "BINGCHUAN NETWORK (HONG KONG) COMPANY LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/46/16/d2461665-6c05-936d-bda6-9ee0cf2bb49c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 142,
-      "change": "+5",
-      "change_val": 5
-    },
-    {
-      "rank": 10,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -118,6 +106,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1923251,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "6754688040",
+      "app_name": "Last Light: Rebirth",
+      "developer": "BINGCHUAN NETWORK (HONG KONG) COMPANY LIMITED",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/46/16/d2461665-6c05-936d-bda6-9ee0cf2bb49c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 142,
       "change": "-1",
       "change_val": -1
     },
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 683643,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 42976,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1332,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 24796,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 433,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 9139,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 643,
-      "change": "-6",
-      "change_val": -6
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -226,7 +226,7 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 2708,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 731,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]

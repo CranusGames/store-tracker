@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "com.imangi.templerun2",
-      "app_name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
-      "installs": "1,000,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "com.block.juggle",
       "app_name": "Block Blast!",
       "developer": "HungryStudio",
@@ -82,8 +70,20 @@
       "installs": "500,000,000+",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "com.imangi.templerun2",
+      "app_name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
+      "installs": "1,000,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -114,7 +114,7 @@
       "app_id": "com.wildspike.wormszone",
       "app_name": "Worms Zone .io - Hungry Snake",
       "developer": "CASUAL AZUR GAMES",
-      "icon_url": "https://play-lh.googleusercontent.com/zzZGooAZam4PFxZwOOPz-hRxODyakOtGChSbZaPmOdT3Zuu-zpivvMb5nP9rjvCN_A",
+      "icon_url": "https://play-lh.googleusercontent.com/IWjxTBVVD88RxhnTd6nhSxhlFTSOyA5PNTh5YICQjK-f9QEyY7Js4dDd-awFuPa2YDw2f_-o-NzJaa8kA5QBfq8",
       "installs": "500,000,000+",
       "rating": 4.3,
       "rating_count": 0,
@@ -147,15 +147,15 @@
     },
     {
       "rank": 13,
-      "app_id": "com.roblox.client",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.2,
+      "app_id": "com.topfreegames.bikeracefreeworld",
+      "app_name": "Bike Race：Motorcycle Games",
+      "developer": "Wildlife Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
+      "installs": "100,000,000+",
+      "rating": 4.4,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 14,
@@ -166,11 +166,23 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
+      "app_id": "com.roblox.client",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+      "installs": "1,000,000,000+",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -182,28 +194,16 @@
       "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "app_id": "com.fungames.sniper3d",
       "app_name": "Sniper 3D：Gun Shooting Games",
       "developer": "Wildlife Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/8gHksx7nW7IK09ThtTM_f1Pgjblh5to4-q9pdsJQMb2zxDZ7VnFObxaihhAr-_HBf6E",
+      "icon_url": "https://play-lh.googleusercontent.com/seWyOBcAUUgzE8USqm7I5W9qZ2McX6USk8aRBSQ7HJLLwjPyjnrJV9rf66ZD2icbwKUXcBnB3fCchLqXGtGEEKY",
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
-      "app_id": "com.topfreegames.bikeracefreeworld",
-      "app_name": "Bike Race：Motorcycle Games",
-      "developer": "Wildlife Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
-      "installs": "100,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -212,9 +212,9 @@
       "developer": "First Touch Games Ltd.",
       "icon_url": "https://play-lh.googleusercontent.com/xb1Vz614Oef63tpwV3AmcC4QWOeEQ5rw_bYOimuNF6M3NoINRmZV6WNmPgl4cBYc1rMJhAu0ohPhn4coq_AQlw",
       "installs": "100,000,000+",
-      "rating": 4.4,
+      "rating": 4.5,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -226,20 +226,20 @@
       "installs": "100,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
       "app_id": "com.vitastudio.mahjong",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio.",
-      "icon_url": "https://play-lh.googleusercontent.com/RETWTV6fTThcDWtsRJqDJ14c_plFWlByxP6MEcvJmvyKwl7YBCiPQ8HQIp-CBDZjOHQ",
+      "icon_url": "https://play-lh.googleusercontent.com/ioTu_sdNBDPnNsW2I-fHJgxsfOVmQr7wbtJOELatIcpPdToqSnmxsYTa3U7RdXrE1QSp1RBBscN6aNYSnkc",
       "installs": "100,000,000+",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }

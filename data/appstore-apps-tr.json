@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 16772,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,23 +46,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 444662,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/0a/68/510a68b4-e133-3e4e-e139-68353814fb5f/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 169984,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 6,
       "app_id": "6499423131",
       "app_name": "DOA Depozitosu Olan Ambalajlar",
       "developer": "TURKIYE CEVRE AJANSI",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 704,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/0a/68/510a68b4-e133-3e4e-e139-68353814fb5f/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 169984,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9198,
-      "change": "+6",
-      "change_val": 6
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,11 +94,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1060620,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 9,
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/94/a1/7b94a173-3df9-70a8-076f-b5343f3cd5ca/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1915029,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -110,18 +122,6 @@
       "change_val": -1
     },
     {
-      "rank": 10,
-      "app_id": "373034841",
-      "app_name": "Yemeksepeti: Food & Grocery",
-      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/94/a1/7b94a173-3df9-70a8-076f-b5343f3cd5ca/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1915029,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 11,
       "app_id": "980446169",
       "app_name": "e-Nabız",
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548182,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -154,35 +154,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 326396,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 14,
-      "app_id": "1668441657",
-      "app_name": "tabii",
-      "developer": "Turkiye Radyo ve Televizyon Kurumu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 68037,
-      "change": "-11",
-      "change_val": -11
-    },
-    {
-      "rank": 15,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/df/e1/acdfe167-d441-0c63-6930-f764bfd6879a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2076085,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 16,
+      "rank": 14,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -194,19 +170,31 @@
       "change_val": 2
     },
     {
-      "rank": 17,
-      "app_id": "1068841746",
-      "app_name": "Halkbank Mobil",
-      "developer": "Turkiye Halk Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/d0/4a/09d04acf-fa00-78dc-4391-b04cdd65ea82/HBAppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "rank": 15,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/df/e1/acdfe167-d441-0c63-6930-f764bfd6879a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 393031,
-      "change": "new",
+      "rating": 4.7,
+      "rating_count": 2076085,
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "app_id": "1668441657",
+      "app_name": "tabii",
+      "developer": "Turkiye Radyo ve Televizyon Kurumu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 68037,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
       "app_id": "6478287397",
       "app_name": "Speak & Learn English: Learna",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
@@ -214,11 +202,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 22459,
-      "change": "-7",
-      "change_val": -7
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "835599320",
       "app_name": "TikTok - Videos, Music & LIVE",
       "developer": "TikTok Ltd.",
@@ -226,11 +214,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1060617,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "885993234",
       "app_name": "Ziraat Mobil",
       "developer": "T.C. Ziraat Bankası A.Ş.",
@@ -238,6 +226,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1664306,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/88/52/5b8852af-db0d-a95b-0f6b-fa52fb7736f2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 269238,
       "change": "new",
       "change_val": 0
     }
