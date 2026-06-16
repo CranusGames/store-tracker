@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "rankings": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/c6/a3/a9c6a3d3-da87-9c4a-5264-9ca6e9a57e63/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 312162,
+      "rating_count": 312937,
       "change": "=",
       "change_val": 0
     },
@@ -21,7 +21,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f6/e3/e7f6e3fb-8e24-ba31-03ff-aba23d60841f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 827085,
+      "rating_count": 828478,
       "change": "=",
       "change_val": 0
     },
@@ -33,33 +33,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/43/05/9d430506-2d3e-a14e-d853-695844f95624/ling_logo-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 16772,
+      "rating_count": 16830,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 4,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/3b/0d/203b0d78-325d-fe4a-c6f3-51d988846031/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 444662,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6499423131",
       "app_name": "DOA Depozitosu Olan Ambalajlar",
       "developer": "TURKIYE CEVRE AJANSI",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/ba/85/72ba8564-e9ee-1ed0-d663-f050e8a505a8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.1,
-      "rating_count": 704,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 711,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/3b/0d/203b0d78-325d-fe4a-c6f3-51d988846031/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 444675,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -69,45 +69,45 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/0a/68/510a68b4-e133-3e4e-e139-68353814fb5f/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 169984,
+      "rating_count": 170006,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 7,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/6a/eb1f6a77-d1d3-5acf-7287-22535a0c800b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.4,
-      "rating_count": 9198,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
-      "app_id": "995280265",
-      "app_name": "getir: groceries, food&beyond",
-      "developer": "Getir",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/bf/ae/55bfae90-45de-db3d-3ad9-78b3e934ab01/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1060620,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/6a/09/f46a0998-37f4-91fc-4db8-74f1e7485960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 92800,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 92805,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 8,
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/6a/eb1f6a77-d1d3-5acf-7287-22535a0c800b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 9200,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 9,
+      "app_id": "995280265",
+      "app_name": "getir: groceries, food&beyond",
+      "developer": "Getir",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/bf/ae/55bfae90-45de-db3d-3ad9-78b3e934ab01/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1060701,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -117,9 +117,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/94/a1/7b94a173-3df9-70a8-076f-b5343f3cd5ca/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1915029,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 1915396,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -129,9 +129,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/3c/c7/7b3cc711-af80-9f35-f352-c7579b46bd18/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2993332,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 2993818,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -141,9 +141,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 548182,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 548181,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -153,9 +153,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/c0/fa/17c0facb-660d-84e0-aeeb-b045efc1ada5/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1871375,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1871635,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -165,9 +165,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5e/47/045e4716-99d8-f058-1d82-b36131a7d3ae/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 326396,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 326554,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -177,33 +177,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/fb/83/90fb831d-60cd-f6a3-a55d-5542863c3c97/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 22459,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 22516,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Music & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/cf/06/c8cf0625-604f-e6c1-575f-e49014356b5b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 1060660,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/df/e1/acdfe167-d441-0c63-6930-f764bfd6879a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2076085,
+      "rating_count": 2076504,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 17,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Music & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/a4/81/c5a4815a-b971-a1d9-99d1-5ea06c689def/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 1060617,
-      "change": "+1",
-      "change_val": 1
     },
     {
       "rank": 18,
@@ -213,9 +213,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 68037,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 68043,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -225,8 +225,8 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/5a/1b/a15a1b2f-8256-119e-4c5f-9c438c1f5865/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 42463,
-      "change": "new",
+      "rating_count": 42481,
+      "change": "=",
       "change_val": 0
     },
     {
@@ -237,7 +237,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/88/52/5b8852af-db0d-a95b-0f6b-fa52fb7736f2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 269238,
+      "rating_count": 269684,
       "change": "=",
       "change_val": 0
     }

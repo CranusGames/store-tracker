@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "rankings": [
     {
       "rank": 1,
@@ -87,18 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "com.miniclip.realsniper",
-      "app_name": "Pure Sniper: 3D Silah Oyunları",
-      "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/9tApY1vWqKiKGzKHGot-6H3u8TLRwaEqeiThVvBsfTUo72Fk3PebIiECwWc8DCi1QyYudu3T2sYZAQnYXtytHrw",
-      "installs": "100,000,000+",
-      "rating": 4.8,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "com.dts.freefireth",
       "app_name": "Free Fire: Fire Kickoff",
       "developer": "GARENA INTERNATIONAL I",
@@ -106,8 +94,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "com.miniclip.realsniper",
+      "app_name": "Pure Sniper: 3D Silah Oyunları",
+      "developer": "Miniclip.com",
+      "icon_url": "https://play-lh.googleusercontent.com/9tApY1vWqKiKGzKHGot-6H3u8TLRwaEqeiThVvBsfTUo72Fk3PebIiECwWc8DCi1QyYudu3T2sYZAQnYXtytHrw",
+      "installs": "100,000,000+",
+      "rating": 4.8,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
