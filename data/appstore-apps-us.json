@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/72/07/a07207e3-9102-3699-30db-9a086554ffd3/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2020126,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1862582,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/72/07/a07207e3-9102-3699-30db-9a086554ffd3/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2020126,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -111,27 +111,27 @@
     },
     {
       "rank": 10,
-      "app_id": "6476561442",
-      "app_name": "FIFA World Cup 2026™",
-      "developer": "FIFA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/c5/03/7bc503eb-1864-b7b8-3e26-594d4f8fd6b3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/fc/69/5dfc6928-acee-faaa-5c06-9b3b13197ebd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 2.3,
-      "rating_count": 536,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 18095741,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 11,
-      "app_id": "6767364919",
-      "app_name": "Trump Accounts: Official App",
-      "developer": "U.S. Department of the Treasury",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/74/24/d47424e8-20fe-6dbe-5539-230a8247c926/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "680595680",
+      "app_name": "Telemundo: Series y TV en vivo",
+      "developer": "NBCUniversal Media, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/0d/89/6d0d89ad-9310-afb1-2271-927f4d85ed0c/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.1,
-      "rating_count": 199,
-      "change": "+3",
-      "change_val": 3
+      "rating": 4.7,
+      "rating_count": 335043,
+      "change": "+6",
+      "change_val": 6
     },
     {
       "rank": 12,
@@ -142,35 +142,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 4694857,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/fc/69/5dfc6928-acee-faaa-5c06-9b3b13197ebd/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "app_id": "6476561442",
+      "app_name": "FIFA World Cup 2026™",
+      "developer": "FIFA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/c5/03/7bc503eb-1864-b7b8-3e26-594d4f8fd6b3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 18095741,
-      "change": "+6",
-      "change_val": 6
+      "rating": 2.3,
+      "rating_count": 536,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 14,
-      "app_id": "530168168",
-      "app_name": "Paramount+",
-      "developer": "CBS Interactive",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/ab/d0/d4abd0cb-3caa-f946-aee2-f25540cd5107/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 878593,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 15,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -178,35 +166,35 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1111916,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/a1/fc/b6a1fc21-1e74-4e0c-20c2-51a6cd2d65e9/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 657887,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/03/21/22032103-e65c-2bea-9a13-0fa2e791f0d9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "6767364919",
+      "app_name": "Trump Accounts: Official App",
+      "developer": "U.S. Department of the Treasury",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/74/24/d47424e8-20fe-6dbe-5539-230a8247c926/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 70812,
+      "rating": 4.1,
+      "rating_count": 199,
       "change": "-5",
       "change_val": -5
     },
     {
       "rank": 17,
-      "app_id": "680595680",
-      "app_name": "Telemundo: Series y TV en vivo",
-      "developer": "NBCUniversal Media, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/0d/89/6d0d89ad-9310-afb1-2271-927f4d85ed0c/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 335043,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 18,
       "app_id": "1488269261",
       "app_name": "Whatnot: Shop, Sell, Connect",
       "developer": "Whatnot Inc.",
@@ -214,11 +202,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 860750,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "6648798962",
       "app_name": "Polymarket",
       "developer": "Polymarket",
@@ -226,18 +214,30 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 31648,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/0a/68/510a68b4-e133-3e4e-e139-68353814fb5f/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 7237368,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "632064380",
-      "app_name": "Vinted: Pre-loved marketplace",
-      "developer": "Vinted Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/70/ed/f470ed6d-8896-e50d-94e8-429ee45787a7/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "422689480",
+      "app_name": "Gmail - Email by Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/87/42/8387429d-b63c-d5e9-9fb7-1933117f75d2/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 87131,
+      "rating": 4.7,
+      "rating_count": 2416055,
       "change": "new",
       "change_val": 0
     }
