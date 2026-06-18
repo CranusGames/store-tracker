@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 10990,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 324304,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -87,30 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "1117270703",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/0c/8f/f70c8f63-9613-a144-8f0c-57039d41fc9a/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 250508,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 9,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/7f/b5/f17fb584-abc5-0c9f-4e02-43ed9f0b8e6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1923544,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -118,8 +94,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 43181,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 9,
+      "app_id": "1117270703",
+      "app_name": "eFootball™",
+      "developer": "KONAMI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/0c/8f/f70c8f63-9613-a144-8f0c-57039d41fc9a/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 250508,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 10,
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/7f/b5/f17fb584-abc5-0c9f-4e02-43ed9f0b8e6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1923544,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 684198,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 437,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 52,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 38587,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 6400,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6746328263",
-      "app_name": "Castle Busters",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/00/d8/f000d885-d1c2-8584-3d11-bc5f5c085302/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1160056295",
+      "app_name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/93/a3/9f93a387-0c5b-84a2-cc0b-1ea8145abd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 2783,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.4,
+      "rating_count": 241401,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
