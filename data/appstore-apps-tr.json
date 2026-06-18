@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/72/07/a07207e3-9102-3699-30db-9a086554ffd3/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.3,
-      "rating_count": 25849,
+      "rating_count": 25846,
       "change": "=",
       "change_val": 0
     },
@@ -21,33 +21,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/dc/9e/f7dc9ef9-1731-1c66-7e00-ca58d011f1d9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 314880,
+      "rating_count": 315112,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 3,
+      "app_id": "6740515136",
+      "app_name": "DİLİM-MEB",
+      "developer": "EBA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/b9/bc/2db9bcbc-9159-6bf0-031f-bd37c69bcd72/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.0,
+      "rating_count": 23,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c7/eb/e6c7eb69-ade8-00b8-3454-d359249c6a0a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 832471,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
-      "app_id": "6740515136",
-      "app_name": "DİLİM-MEB",
-      "developer": "EBA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/b9/bc/2db9bcbc-9159-6bf0-031f-bd37c69bcd72/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.1,
-      "rating_count": 19,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 832832,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -69,7 +69,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/43/05/9d430506-2d3e-a14e-d853-695844f95624/ling_logo-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 17085,
+      "rating_count": 17118,
       "change": "=",
       "change_val": 0
     },
@@ -81,7 +81,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/9c/ec/6c9cec83-9272-f86f-0407-9871cd74a2b6/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 444693,
+      "rating_count": 444696,
       "change": "=",
       "change_val": 0
     },
@@ -99,27 +99,27 @@
     },
     {
       "rank": 9,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/0a/68/510a68b4-e133-3e4e-e139-68353814fb5f/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 170084,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/37/1f/bb371fbb-68b3-a368-186d-947bfad8e540/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 92836,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 92848,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/0a/68/510a68b4-e133-3e4e-e139-68353814fb5f/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 170087,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -129,33 +129,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/aa/94/39aa9402-c43c-50a4-b51d-048c7d0c9843/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 497621,
+      "rating_count": 497650,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548182,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/94/a1/7b94a173-3df9-70a8-076f-b5343f3cd5ca/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1915920,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 1915951,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 548184,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -165,7 +165,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/42/db/9542db8c-84d8-6e5e-4231-1871fa2d4eb8/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2995269,
+      "rating_count": 2995344,
       "change": "=",
       "change_val": 0
     },
@@ -177,12 +177,36 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/c0/fa/17c0facb-660d-84e0-aeeb-b045efc1ada5/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1872471,
+      "rating_count": 1872525,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 16,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5e/47/045e4716-99d8-f058-1d82-b36131a7d3ae/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 327151,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Music & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/cf/06/c8cf0625-604f-e6c1-575f-e49014356b5b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 1060725,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 18,
       "app_id": "839482639",
       "app_name": "MEB E-OKUL VBS",
       "developer": "T.C. Milli Egitim Bakanligı",
@@ -190,44 +214,20 @@
       "installs": "",
       "rating": 1.7,
       "rating_count": 33592,
-      "change": "=",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 17,
-      "app_id": "284815942",
-      "app_name": "Google - More ways to search",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5e/47/045e4716-99d8-f058-1d82-b36131a7d3ae/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 327102,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
+      "rank": 19,
       "app_id": "995280265",
       "app_name": "getir: groceries, food&beyond",
       "developer": "Getir",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/70/88/d070887e-8453-61fb-f5d9-0c633c034663/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1060948,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Music & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/cf/06/c8cf0625-604f-e6c1-575f-e49014356b5b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 1060718,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 1060963,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
@@ -237,7 +237,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/df/e1/acdfe167-d441-0c63-6930-f764bfd6879a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2079437,
+      "rating_count": 2079502,
       "change": "=",
       "change_val": 0
     }
