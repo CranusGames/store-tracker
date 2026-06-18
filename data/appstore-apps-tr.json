@@ -46,11 +46,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 444721,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/6a/eb1f6a77-d1d3-5acf-7287-22535a0c800b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 9208,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 6,
       "app_id": "6740515136",
       "app_name": "DİLİM-MEB",
       "developer": "EBA",
@@ -60,18 +72,6 @@
       "rating_count": 28,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 6,
-      "app_id": "6499423131",
-      "app_name": "DOA Depozitosu Olan Ambalajlar",
-      "developer": "TURKIYE CEVRE AJANSI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/ba/85/72ba8564-e9ee-1ed0-d663-f050e8a505a8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.1,
-      "rating_count": 737,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 7,
@@ -87,30 +87,18 @@
     },
     {
       "rank": 8,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/6a/eb1f6a77-d1d3-5acf-7287-22535a0c800b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6499423131",
+      "app_name": "DOA Depozitosu Olan Ambalajlar",
+      "developer": "TURKIYE CEVRE AJANSI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/ba/85/72ba8564-e9ee-1ed0-d663-f050e8a505a8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.4,
-      "rating_count": 9208,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.1,
+      "rating_count": 737,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 9,
-      "app_id": "373034841",
-      "app_name": "Yemeksepeti: Food & Grocery",
-      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/94/a1/7b94a173-3df9-70a8-076f-b5343f3cd5ca/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1916183,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 10,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -122,19 +110,19 @@
       "change_val": 1
     },
     {
-      "rank": 11,
-      "app_id": "1358107315",
-      "app_name": "Ringtones Maker - the ring app",
-      "developer": "苏娟 陈",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/43/05/9d430506-2d3e-a14e-d853-695844f95624/ling_logo-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "rank": 10,
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/94/a1/7b94a173-3df9-70a8-076f-b5343f3cd5ca/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 17211,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 1916183,
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "980446169",
       "app_name": "e-Nabız",
       "developer": "T.C. Saglik Bakanligi",
@@ -142,23 +130,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548190,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 13,
-      "app_id": "1507132907",
-      "app_name": "Watsons: Kozmetik ve Alışveriş",
-      "developer": "A.S. Watson Guzellik ve Bakim Urunleri Ticaret Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/9b/ee/9d9beed9-4e52-194f-2703-e14492fcabba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 81154,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 14,
+      "rank": 12,
+      "app_id": "1358107315",
+      "app_name": "Ringtones Maker - the ring app",
+      "developer": "苏娟 陈",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/43/05/9d430506-2d3e-a14e-d853-695844f95624/ling_logo-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 17211,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 13,
       "app_id": "839482639",
       "app_name": "MEB E-OKUL VBS",
       "developer": "T.C. Milli Egitim Bakanligı",
@@ -170,31 +158,7 @@
       "change_val": 1
     },
     {
-      "rank": 15,
-      "app_id": "723672499",
-      "app_name": "Pegasus: Cheap Flight Tickets",
-      "developer": "Pegasus Hava Tasimaciligi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/aa/94/39aa9402-c43c-50a4-b51d-048c7d0c9843/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 498204,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 16,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/71/5c/30715caf-af42-a049-6a15-bcea718f92e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 69185,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 17,
+      "rank": 14,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -202,11 +166,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2995923,
-      "change": "+1",
-      "change_val": 1
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 18,
+      "rank": 15,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -214,8 +178,44 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1872886,
-      "change": "-1",
-      "change_val": -1
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 16,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5e/47/045e4716-99d8-f058-1d82-b36131a7d3ae/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 327368,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
+      "app_id": "1507132907",
+      "app_name": "Watsons: Kozmetik ve Alışveriş",
+      "developer": "A.S. Watson Guzellik ve Bakim Urunleri Ticaret Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/9b/ee/9d9beed9-4e52-194f-2703-e14492fcabba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 81154,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 18,
+      "app_id": "723672499",
+      "app_name": "Pegasus: Cheap Flight Tickets",
+      "developer": "Pegasus Hava Tasimaciligi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/aa/94/39aa9402-c43c-50a4-b51d-048c7d0c9843/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 498204,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 19,
@@ -226,19 +226,19 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2080614,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/fe/88/e0fe884f-ad42-db8b-1db8-e20fc570d2c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Music & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/cf/06/c8cf0625-604f-e6c1-575f-e49014356b5b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 365612,
-      "change": "=",
+      "rating": 4.5,
+      "rating_count": 1060769,
+      "change": "new",
       "change_val": 0
     }
   ]
