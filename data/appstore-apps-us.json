@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 8005147,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 45591,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1866109,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 71826,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 205,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -135,6 +135,30 @@
     },
     {
       "rank": 12,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/37/1f/bb371fbb-68b3-a368-186d-947bfad8e540/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1112022,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 13,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5e/47/045e4716-99d8-f058-1d82-b36131a7d3ae/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4697618,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 14,
       "app_id": "680595680",
       "app_name": "Telemundo: Series y TV en vivo",
       "developer": "NBCUniversal Media, LLC",
@@ -146,19 +170,7 @@
       "change_val": -2
     },
     {
-      "rank": 13,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5e/47/045e4716-99d8-f058-1d82-b36131a7d3ae/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4697618,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 14,
+      "rank": 15,
       "app_id": "1488269261",
       "app_name": "Whatnot: Shop, Sell, Connect",
       "developer": "Whatnot Inc.",
@@ -166,20 +178,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 862488,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 15,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/37/1f/bb371fbb-68b3-a368-186d-947bfad8e540/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1112022,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18099515,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 32001,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,23 +214,11 @@
       "installs": "",
       "rating": 2.3,
       "rating_count": 543,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 19,
-      "app_id": "399857015",
-      "app_name": "Planet Fitness",
-      "developer": "Planet Fitness Holdings, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/22/e6/b222e654-89e7-d82a-074c-ab4241c49f93/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 726591,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2140917,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "399857015",
+      "app_name": "Planet Fitness",
+      "developer": "Planet Fitness Holdings, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/22/e6/b222e654-89e7-d82a-074c-ab4241c49f93/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 726591,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
