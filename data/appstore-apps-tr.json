@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 2.9,
       "rating_count": 35,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 835463,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,23 +58,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 170145,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/6a/eb1f6a77-d1d3-5acf-7287-22535a0c800b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.4,
-      "rating_count": 9212,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 7,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 444728,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/6a/eb1f6a77-d1d3-5acf-7287-22535a0c800b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 9212,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548187,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 92830,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 742,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1916269,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,20 +142,20 @@
       "installs": "",
       "rating": 1.7,
       "rating_count": 33632,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "1358107315",
-      "app_name": "Ringtones Maker - the ring app",
-      "developer": "苏娟 陈",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/43/05/9d430506-2d3e-a14e-d853-695844f95624/ling_logo-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/df/e1/acdfe167-d441-0c63-6930-f764bfd6879a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 17239,
-      "change": "-3",
-      "change_val": -3
+      "rating": 4.7,
+      "rating_count": 2081165,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 14,
@@ -183,54 +183,18 @@
     },
     {
       "rank": 16,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/df/e1/acdfe167-d441-0c63-6930-f764bfd6879a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1358107315",
+      "app_name": "Ringtones Maker - the ring app",
+      "developer": "苏娟 陈",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/43/05/9d430506-2d3e-a14e-d853-695844f95624/ling_logo-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2081165,
-      "change": "+4",
-      "change_val": 4
+      "rating": 4.6,
+      "rating_count": 17239,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 17,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/9a/e8/879ae81f-a8f1-320e-272c-18b6d41c1bd5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 272432,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
-      "app_id": "1507132907",
-      "app_name": "Watsons: Kozmetik ve Alışveriş",
-      "developer": "A.S. Watson Guzellik ve Bakim Urunleri Ticaret Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/9b/ee/9d9beed9-4e52-194f-2703-e14492fcabba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 81204,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 19,
-      "app_id": "284815942",
-      "app_name": "Google - More ways to search",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5e/47/045e4716-99d8-f058-1d82-b36131a7d3ae/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 327522,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "1234494259",
       "app_name": "Cepte Şok",
       "developer": "Şok Marketler Tic. A.Ş.",
@@ -238,8 +202,44 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 69185,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 18,
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/9a/e8/879ae81f-a8f1-320e-272c-18b6d41c1bd5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 272432,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/fe/88/e0fe884f-ad42-db8b-1db8-e20fc570d2c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 365665,
       "change": "new",
       "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5e/47/045e4716-99d8-f058-1d82-b36131a7d3ae/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 327522,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }

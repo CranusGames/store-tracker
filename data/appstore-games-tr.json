@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/b0/a1/69b0a15a-467b-bb86-ea92-0f1022033460/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 324437,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "1531842415",
       "app_name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 11037,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/b0/a1/69b0a15a-467b-bb86-ea92-0f1022033460/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 324437,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 15608,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 250644,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,35 +106,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1923617,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "1351168404",
-      "app_name": "Among Us!",
-      "developer": "InnerSloth LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.8,
-      "rating_count": 38593,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 11,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a0/f1/42a0f10c-fde1-87ba-a22e-493304fd9c96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 684373,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 12,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -142,23 +118,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 43262,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 11,
+      "app_id": "1351168404",
+      "app_name": "Among Us!",
+      "developer": "InnerSloth LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.8,
+      "rating_count": 38593,
       "change": "-1",
       "change_val": -1
     },
     {
-      "rank": 13,
-      "app_id": "6475003879",
-      "app_name": "Tabu Kelime 2026",
-      "developer": "Yavuz Selim Yildirim",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 436,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "app_id": "6739124364",
       "app_name": "Top Tycoon: Coin Theme Empire",
       "developer": "BeheFun Games Limited",
@@ -166,8 +142,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 9404,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 13,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a0/f1/42a0f10c-fde1-87ba-a22e-493304fd9c96/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 684373,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 14,
+      "app_id": "6475003879",
+      "app_name": "Tabu Kelime 2026",
+      "developer": "Yavuz Selim Yildirim",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 436,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 9715,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 9708,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,20 +214,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 25005,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "6773045305",
-      "app_name": "Pigeon Paradise Lite",
-      "developer": "Ali YAPICI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/64/f2/9a64f23d-5ade-9462-738d-bc0fc61107c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1482155847",
+      "app_name": "Royal Match",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/3d/ab/503dabf4-c381-e224-5630-5b031703c08d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 88,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 232423,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 20,
