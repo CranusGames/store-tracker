@@ -123,15 +123,15 @@
     },
     {
       "rank": 11,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/df/e1/acdfe167-d441-0c63-6930-f764bfd6879a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "418535251",
+      "app_name": "sahibinden #AlSatKiralaKesfet",
+      "developer": "sahibinden.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/42/db/9542db8c-84d8-6e5e-4231-1871fa2d4eb8/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2081754,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 2996698,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 12,
@@ -147,54 +147,18 @@
     },
     {
       "rank": 13,
-      "app_id": "418535251",
-      "app_name": "sahibinden #AlSatKiralaKesfet",
-      "developer": "sahibinden.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/42/db/9542db8c-84d8-6e5e-4231-1871fa2d4eb8/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2996698,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "839482639",
       "app_name": "MEB E-OKUL VBS",
       "developer": "T.C. Milli Egitim Bakanligı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/01/33/9401335a-3b53-7c45-cad2-1cbb492f3298/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/d5/6e/59d56e07-a805-2cf0-3b0f-360d825f9ae6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 1.7,
       "rating_count": 33649,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
-      "app_id": "6499423131",
-      "app_name": "DOA Depozitosu Olan Ambalajlar",
-      "developer": "TURKIYE CEVRE AJANSI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/ba/85/72ba8564-e9ee-1ed0-d663-f050e8a505a8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.1,
-      "rating_count": 749,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/71/5c/30715caf-af42-a049-6a15-bcea718f92e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 69186,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
+      "rank": 14,
       "app_id": "835599320",
       "app_name": "TikTok - Videos, Music & LIVE",
       "developer": "TikTok Ltd.",
@@ -202,11 +166,35 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1060817,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 18,
+      "rank": 15,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/df/e1/acdfe167-d441-0c63-6930-f764bfd6879a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2081754,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 16,
+      "app_id": "6499423131",
+      "app_name": "DOA Depozitosu Olan Ambalajlar",
+      "developer": "TURKIYE CEVRE AJANSI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/ba/85/72ba8564-e9ee-1ed0-d663-f050e8a505a8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 749,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 17,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -214,23 +202,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1873312,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/9a/e8/879ae81f-a8f1-320e-272c-18b6d41c1bd5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 272830,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/fe/88/e0fe884f-ad42-db8b-1db8-e20fc570d2c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 365725,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -238,7 +226,19 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 85195,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "524362642",
+      "app_name": "Trendyol: Online Shopping",
+      "developer": "trendyol.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/5e/be/6b5ebec9-9f55-630a-da61-0bf8140ce7e7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4505354,
+      "change": "new",
       "change_val": 0
     }
   ]

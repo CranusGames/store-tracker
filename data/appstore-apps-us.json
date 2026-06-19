@@ -3,30 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "1508186374",
-      "app_name": "Peacock TV: Stream TV & Movies",
-      "developer": "Peacock TV LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/79/dc/3f79dccc-2e54-c955-5712-45d332cd2177/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 3436236,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
-      "app_id": "1632713844",
-      "app_name": "Kalshi: Trade the Cup",
-      "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/5c/14/b75c14fc-9558-d10d-3792-5cd9247f9b56/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 186129,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "6746049430",
       "app_name": "FOX One: Live News, Sports, TV",
       "developer": "Fox Digital Services, LLC",
@@ -34,8 +10,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 49402,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 2,
+      "app_id": "1508186374",
+      "app_name": "Peacock TV: Stream TV & Movies",
+      "developer": "Peacock TV LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/79/dc/3f79dccc-2e54-c955-5712-45d332cd2177/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 3436236,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 3,
+      "app_id": "1632713844",
+      "app_name": "Kalshi: Trade the Cup",
+      "developer": "KalshiEX LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/5c/14/b75c14fc-9558-d10d-3792-5cd9247f9b56/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 186129,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "1465944282",
-      "app_name": "Love Island USA",
-      "developer": "ITV America Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ff/0f/f4ff0fa3-24a1-f86e-541d-0cac6a3ea260/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.9,
-      "rating_count": 5812,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "6648798962",
       "app_name": "Polymarket",
       "developer": "Polymarket",
@@ -142,11 +130,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 32877,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1112135,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/26/aa/0626aaa5-0c1b-d7b7-598e-e2cb8a1f8523/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 7239945,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 14,
@@ -171,30 +171,18 @@
     },
     {
       "rank": 15,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/26/aa/0626aaa5-0c1b-d7b7-598e-e2cb8a1f8523/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "1465944282",
+      "app_name": "Love Island USA",
+      "developer": "ITV America Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ff/0f/f4ff0fa3-24a1-f86e-541d-0cac6a3ea260/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 7239945,
-      "change": "=",
-      "change_val": 0
+      "rating": 1.9,
+      "rating_count": 5812,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 16,
-      "app_id": "6532603739",
-      "app_name": "FWC2026 Mobile Tickets",
-      "developer": "FIFA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f9/8f/b7f98f34-318d-ca76-9943-4c7e838adb1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.8,
-      "rating_count": 290,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "905401434",
       "app_name": "Fubo: Watch Live TV & Sports",
       "developer": "fuboTV Inc.",
@@ -202,8 +190,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 110260,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "6532603739",
+      "app_name": "FWC2026 Mobile Tickets",
+      "developer": "FIFA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f9/8f/b7f98f34-318d-ca76-9943-4c7e838adb1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.8,
+      "rating_count": 290,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/cf/06/c8cf0625-604f-e6c1-575f-e49014356b5b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/91/15/db911559-4f13-4610-4146-17917dcb76f8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 18303667,
-      "change": "=",
+      "rating": 4.8,
+      "rating_count": 866328,
+      "change": "new",
       "change_val": 0
     }
   ]
