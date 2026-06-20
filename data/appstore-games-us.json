@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "1351168404",
-      "app_name": "Among Us!",
-      "developer": "InnerSloth LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.1,
-      "rating_count": 835059,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "6758326278",
       "app_name": "Amaze GO!",
       "developer": "Oakever Games",
@@ -166,8 +154,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 113151,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "1351168404",
+      "app_name": "Among Us!",
+      "developer": "InnerSloth LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 835059,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/a6/4a/8aa64aa1-9dac-aaec-3192-a268ac3e7f5e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 183609,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "6751056652",
       "app_name": "Pixel Flow!",
       "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
@@ -214,23 +202,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 106906,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
-      "app_id": "1274132545",
-      "app_name": "Total Battle: War Strategy",
-      "developer": "Scorewarrior",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/8f/10/7b8f104e-93b8-12f2-21a1-c95f1c4acd4e/crowd_multipliers_v6-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 56918,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
+      "rank": 18,
       "app_id": "512939461",
       "app_name": "Subway Surfers",
       "developer": "Sybo Games ApS",
@@ -238,8 +214,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3747741,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/a6/4a/8aa64aa1-9dac-aaec-3192-a268ac3e7f5e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 183609,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 20,
+      "app_id": "1274132545",
+      "app_name": "Total Battle: War Strategy",
+      "developer": "Scorewarrior",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/8f/10/7b8f104e-93b8-12f2-21a1-c95f1c4acd4e/crowd_multipliers_v6-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 56918,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
