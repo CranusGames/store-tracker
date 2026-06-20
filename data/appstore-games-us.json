@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 498353,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19085600,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,20 +82,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 245807,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/e9/c6/55e9c669-771a-b400-8acd-9966ab67c108/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/7f/34/b27f3401-ae0b-ebe4-4ea3-aa6492ee7005/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
       "rating_count": 1517912,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 25109,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 156275,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "1606549505",
-      "app_name": "Royal Kingdom",
-      "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/bc/cb/c0bccb1d-ac41-730e-e4d5-68356d63c776/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1030638,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 15,
       "app_id": "6758326278",
       "app_name": "Amaze GO!",
       "developer": "Oakever Games",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 113035,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "1606549505",
+      "app_name": "Royal Kingdom",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/bc/cb/c0bccb1d-ac41-730e-e4d5-68356d63c776/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1030638,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -214,7 +214,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 106845,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -226,19 +226,19 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 56897,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1621328561",
-      "app_name": "MONOPOLY GO!",
-      "developer": "Scopely, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/63/c3/3563c36e-dc8f-45d4-1991-d9ab6db39557/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/b0/a1/69b0a15a-467b-bb86-ea92-0f1022033460/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 3721732,
-      "change": "=",
+      "rating": 4.6,
+      "rating_count": 3747615,
+      "change": "new",
       "change_val": 0
     }
   ]
