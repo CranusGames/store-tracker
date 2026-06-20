@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6741503079",
-      "app_name": "Pokémon Champions",
-      "developer": "The Pokemon Company",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/df/08/fbdf085f-5aec-446d-7ebc-eab804aebeae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 5302,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6761760135",
       "app_name": "Meowdoku!",
       "developer": "Oakever Games",
@@ -22,8 +10,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 28965,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6741503079",
+      "app_name": "Pokémon Champions",
+      "developer": "The Pokemon Company",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/df/08/fbdf085f-5aec-446d-7ebc-eab804aebeae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 5302,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -51,30 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "6748397500",
-      "app_name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore GmbH",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/2a/32/4a2a329c-7d3d-74c6-1d39-373a32b07027/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 246572,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
-      "app_id": "6499209744",
-      "app_name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/df/dc/61dfdca9-6c81-db86-1756-5b63b642a0a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 498695,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -82,8 +58,32 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19088671,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 6,
+      "app_id": "6748397500",
+      "app_name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore GmbH",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/2a/32/4a2a329c-7d3d-74c6-1d39-373a32b07027/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 246572,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 7,
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/df/dc/61dfdca9-6c81-db86-1756-5b63b642a0a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 498695,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "6483539426",
-      "app_name": "Fortnite",
-      "developer": "Epic Games Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/31/ce/7731ce84-3836-3085-72e5-e904abdc4c6d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 156304,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "1606549505",
       "app_name": "Royal Kingdom",
       "developer": "Dream Games",
@@ -166,8 +154,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1030930,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "6483539426",
+      "app_name": "Fortnite",
+      "developer": "Epic Games Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/31/ce/7731ce84-3836-3085-72e5-e904abdc4c6d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 156304,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "1274132545",
-      "app_name": "Total Battle: War Strategy",
-      "developer": "Scorewarrior",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/8f/10/7b8f104e-93b8-12f2-21a1-c95f1c4acd4e/crowd_multipliers_v6-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 56929,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "512939461",
       "app_name": "Subway Surfers",
       "developer": "Sybo Games ApS",
@@ -214,11 +202,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3747854,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "6751056652",
       "app_name": "Pixel Flow!",
       "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
@@ -226,19 +214,31 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 106953,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/22/eed22297-9313-d8b0-52c8-95f42a2795b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 196615,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1094930513",
-      "app_name": "EA SPORTS FC Soccer Mobile 26",
-      "developer": "Electronic Arts",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/d2/78/86d27854-818e-9b6e-daef-ba77dca3865b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/1e/1d/e51e1db7-4655-6bb8-9441-af76dbfd291c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2384989,
-      "change": "=",
+      "rating": 4.6,
+      "rating_count": 434186,
+      "change": "new",
       "change_val": 0
     }
   ]

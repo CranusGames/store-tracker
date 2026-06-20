@@ -63,30 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "1668441657",
-      "app_name": "tabii",
-      "developer": "Turkiye Radyo ve Televizyon Kurumu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 68040,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
-      "app_id": "6740515136",
-      "app_name": "DİLİM-MEB",
-      "developer": "EBA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/b9/bc/2db9bcbc-9159-6bf0-031f-bd37c69bcd72/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.0,
-      "rating_count": 46,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -94,8 +70,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1916556,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 7,
+      "app_id": "1668441657",
+      "app_name": "tabii",
+      "developer": "Turkiye Radyo ve Televizyon Kurumu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 68040,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 8,
+      "app_id": "6740515136",
+      "app_name": "DİLİM-MEB",
+      "developer": "EBA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/b9/bc/2db9bcbc-9159-6bf0-031f-bd37c69bcd72/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.0,
+      "rating_count": 46,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "6478287397",
-      "app_name": "Speak & Learn English: Learna",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/fb/83/90fb831d-60cd-f6a3-a55d-5542863c3c97/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 22912,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -142,23 +130,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2997188,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 13,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/33/f3/c433f38c-df8a-9a19-a61c-5471c55bd959/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 85055,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "app_id": "995280265",
       "app_name": "getir: groceries, food&beyond",
       "developer": "Getir",
@@ -166,20 +142,44 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1061260,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 13,
+      "app_id": "6478287397",
+      "app_name": "Speak & Learn English: Learna",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/fb/83/90fb831d-60cd-f6a3-a55d-5542863c3c97/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 22912,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 14,
+      "app_id": "1234494259",
+      "app_name": "Cepte Şok",
+      "developer": "Şok Marketler Tic. A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/71/5c/30715caf-af42-a049-6a15-bcea718f92e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 69187,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 15,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/6a/eb1f6a77-d1d3-5acf-7287-22535a0c800b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/fe/88/e0fe884f-ad42-db8b-1db8-e20fc570d2c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 3.4,
-      "rating_count": 9216,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 365840,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 16,
@@ -195,38 +195,38 @@
     },
     {
       "rank": 17,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/fe/88/e0fe884f-ad42-db8b-1db8-e20fc570d2c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "app_id": "1511527605",
+      "app_name": "Museums of Türkiye - Official",
+      "developer": "T. C. Kültür ve Turizm Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/33/f3/c433f38c-df8a-9a19-a61c-5471c55bd959/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 365840,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 85055,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 18,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/71/5c/30715caf-af42-a049-6a15-bcea718f92e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/6a/eb1f6a77-d1d3-5acf-7287-22535a0c800b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 69187,
-      "change": "=",
-      "change_val": 0
+      "rating": 3.4,
+      "rating_count": 9216,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 19,
-      "app_id": "333903271",
-      "app_name": "X",
-      "developer": "X Corp.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/76/56/3876564b-28a8-faba-5cea-c88e9eacfbf2/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5e/47/045e4716-99d8-f058-1d82-b36131a7d3ae/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 1635001,
-      "change": "=",
+      "rating": 4.4,
+      "rating_count": 327893,
+      "change": "new",
       "change_val": 0
     },
     {
