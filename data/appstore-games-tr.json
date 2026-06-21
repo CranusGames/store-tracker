@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "1531842415",
-      "app_name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/97/a8/e397a8eb-66c4-d43c-608b-748985f23b40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 11175,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6748397500",
       "app_name": "Arrows – Puzzle Escape",
       "developer": "Lessmore GmbH",
@@ -58,8 +46,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 12934,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "1531842415",
+      "app_name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/97/a8/e397a8eb-66c4-d43c-608b-748985f23b40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 11175,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/7f/34/b27f3401-ae0b-ebe4-4ea3-aa6492ee7005/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 43438,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -130,11 +118,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1923899,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1506,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/7f/34/b27f3401-ae0b-ebe4-4ea3-aa6492ee7005/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 43438,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 13,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "6739124364",
-      "app_name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/a3/f4/d8a3f421-e977-c3ca-73c3-40e16df135d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 9558,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "1351168404",
       "app_name": "Among Us!",
       "developer": "InnerSloth LLC",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 38635,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6739124364",
+      "app_name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/a3/f4/d8a3f421-e977-c3ca-73c3-40e16df135d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 9558,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -207,18 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "1550945606",
-      "app_name": "Soccer Superstar - Football",
-      "developer": "Real Free Soccer",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/33/f3/6f33f30b-be06-13d9-8ac1-620fdf9094ce/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 31621,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "1094930513",
       "app_name": "EA SPORTS FC™ Football Mobile",
       "developer": "Electronic Arts",
@@ -226,19 +214,31 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 389384,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "6747834136",
+      "app_name": "Mafia Life: Underworld Boss",
+      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/6c/7a/756c7a4c-c95a-7808-e10f-62dfc54a4129/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 1593,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1374868881",
-      "app_name": "Car Parking Multiplayer",
-      "developer": "Aidana Kengbeiil",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/bd/dc/adbddcd5-9457-cdf8-016c-14a32f779f7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1369521645",
+      "app_name": "Words of Wonders: Crossword",
+      "developer": "FUGO BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/45/86/ae4586e2-9bce-912b-4b90-3517e91f396e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.2,
-      "rating_count": 31829,
-      "change": "=",
+      "rating": 4.7,
+      "rating_count": 588564,
+      "change": "new",
       "change_val": 0
     }
   ]

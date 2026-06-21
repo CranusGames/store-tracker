@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Music & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/cf/06/c8cf0625-604f-e6c1-575f-e49014356b5b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 1060908,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -118,8 +106,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2998088,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Music & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/cf/06/c8cf0625-604f-e6c1-575f-e49014356b5b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 1060908,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -171,30 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/f3/0e/77f30e4d-537d-e50c-7986-46b9fcd7d623/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2920640,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "983886691",
-      "app_name": "Hopi - Rewarding Shopping",
-      "developer": "Boyner Holding",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/6a/51/c56a51d3-0c59-0719-5fc6-fdb44bf30d60/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 23965,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "524362642",
       "app_name": "Trendyol: Online Shopping",
       "developer": "trendyol.com",
@@ -202,23 +178,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4506939,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 18,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/33/f3/c433f38c-df8a-9a19-a61c-5471c55bd959/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "rank": 16,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/f3/0e/77f30e4d-537d-e50c-7986-46b9fcd7d623/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 85055,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 2920640,
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 19,
+      "rank": 17,
       "app_id": "995280265",
       "app_name": "getir: groceries, food&beyond",
       "developer": "Getir",
@@ -226,11 +202,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1061477,
-      "change": "=",
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 18,
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/1f/6a/eb1f6a77-d1d3-5acf-7287-22535a0c800b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 9217,
+      "change": "new",
       "change_val": 0
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -238,7 +226,19 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 85214,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/f6/1c/8df61cc0-b728-f1df-2934-967bd49f2933/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1874043,
+      "change": "new",
       "change_val": 0
     }
   ]
