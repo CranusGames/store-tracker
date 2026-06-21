@@ -87,18 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "com.roblox.client",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-      "installs": "1,000,000,000+",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 9,
       "app_id": "com.kitkagames.fallbuddies",
       "app_name": "Stumble Guys",
       "developer": "Scopely",
@@ -106,29 +94,41 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "com.roblox.client",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+      "installs": "1,000,000,000+",
+      "rating": 4.2,
+      "rating_count": 0,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 10,
-      "app_id": "com.king.candycrushsaga",
-      "app_name": "Candy Crush Saga",
-      "developer": "King",
-      "icon_url": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-      "installs": "1,000,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 11,
       "app_id": "com.dts.freefiremax",
       "app_name": "Free Fire MAX: Fire Kickoff",
       "developer": "GARENA INTERNATIONAL I",
       "icon_url": "https://play-lh.googleusercontent.com/TT62E-DXCuWxGYN2XCvmIwKIW3g9PS3jOEyQElTwo8t7RZM1DI7i8a0t9H6hpsb4Rx5I6gXFEEQ51itsXa4kzQ",
       "installs": "500,000,000+",
       "rating": 4.4,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "com.king.candycrushsaga",
+      "app_name": "Candy Crush Saga",
+      "developer": "King",
+      "icon_url": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+      "installs": "1,000,000,000+",
+      "rating": 4.6,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
