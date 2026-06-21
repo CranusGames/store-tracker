@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "rankings": [
     {
       "rank": 1,
@@ -70,11 +70,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 499044,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
+      "app_id": "1617391485",
+      "app_name": "Block Blast！",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/69/f8/a969f8bd-83e1-7632-adfb-6a6a97914540/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 2538215,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 8,
       "app_id": "6748397500",
       "app_name": "Arrows – Puzzle Escape",
       "developer": "Lessmore GmbH",
@@ -86,7 +98,7 @@
       "change_val": -1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -94,20 +106,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1518672,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
-      "app_id": "1617391485",
-      "app_name": "Block Blast！",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/69/f8/a969f8bd-83e1-7632-adfb-6a6a97914540/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 2538215,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 156348,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 113466,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -190,11 +190,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3748232,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
+      "app_id": "1094930513",
+      "app_name": "EA SPORTS FC Soccer Mobile 26",
+      "developer": "Electronic Arts",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/d2/78/86d27854-818e-9b6e-daef-ba77dca3865b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2385713,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -206,31 +218,7 @@
       "change_val": -1
     },
     {
-      "rank": 18,
-      "app_id": "1094930513",
-      "app_name": "EA SPORTS FC Soccer Mobile 26",
-      "developer": "Electronic Arts",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/d2/78/86d27854-818e-9b6e-daef-ba77dca3865b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2385713,
-      "change": "new",
-      "change_val": 0
-    },
-    {
       "rank": 19,
-      "app_id": "6443575749",
-      "app_name": "Whiteout Survival",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/1e/1d/e51e1db7-4655-6bb8-9441-af76dbfd291c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 434265,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 20,
       "app_id": "6739554056",
       "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
@@ -238,6 +226,18 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 196690,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/1e/1d/e51e1db7-4655-6bb8-9441-af76dbfd291c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 434265,
       "change": "-1",
       "change_val": -1
     }
