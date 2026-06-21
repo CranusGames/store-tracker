@@ -51,6 +51,18 @@
     },
     {
       "rank": 5,
+      "app_id": "com.dts.freefiremax",
+      "app_name": "Free Fire MAX: Fire Kickoff",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/TT62E-DXCuWxGYN2XCvmIwKIW3g9PS3jOEyQElTwo8t7RZM1DI7i8a0t9H6hpsb4Rx5I6gXFEEQ51itsXa4kzQ",
+      "installs": "500,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "+5",
+      "change_val": 5
+    },
+    {
+      "rank": 6,
       "app_id": "com.innersloth.spacemafia",
       "app_name": "Among Us",
       "developer": "Innersloth LLC",
@@ -58,11 +70,11 @@
       "installs": "500,000,000+",
       "rating": 3.9,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "app_id": "bubbleshooter.orig",
       "app_name": "Bubble Shooter - Classic Pop",
       "developer": "Bubble Shooter",
@@ -70,11 +82,11 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "app_id": "com.king.candycrushsodasaga",
       "app_name": "Candy Crush Soda Saga",
       "developer": "King",
@@ -82,20 +94,8 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
-      "app_id": "com.kitkagames.fallbuddies",
-      "app_name": "Stumble Guys",
-      "developer": "Scopely",
-      "icon_url": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
-      "installs": "100,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -106,20 +106,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "com.dts.freefiremax",
-      "app_name": "Free Fire MAX: Fire Kickoff",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/TT62E-DXCuWxGYN2XCvmIwKIW3g9PS3jOEyQElTwo8t7RZM1DI7i8a0t9H6hpsb4Rx5I6gXFEEQ51itsXa4kzQ",
-      "installs": "500,000,000+",
-      "rating": 4.4,
+      "app_id": "com.kitkagames.fallbuddies",
+      "app_name": "Stumble Guys",
+      "developer": "Scopely",
+      "icon_url": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
+      "installs": "100,000,000+",
+      "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
