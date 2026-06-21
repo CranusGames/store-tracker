@@ -154,8 +154,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -190,8 +190,8 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "5,000,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -212,7 +212,7 @@
       "developer": "GARENA INTERNATIONAL I",
       "icon_url": "https://play-lh.googleusercontent.com/TT62E-DXCuWxGYN2XCvmIwKIW3g9PS3jOEyQElTwo8t7RZM1DI7i8a0t9H6hpsb4Rx5I6gXFEEQ51itsXa4kzQ",
       "installs": "500,000,000+",
-      "rating": 4.6,
+      "rating": 4.7,
       "rating_count": 0,
       "change": "=",
       "change_val": 0
