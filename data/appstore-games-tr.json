@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/22/eed22297-9313-d8b0-52c8-95f42a2795b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 15742,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -94,23 +82,11 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 685069,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 9,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1525,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -122,7 +98,7 @@
       "change_val": 2
     },
     {
-      "rank": 11,
+      "rank": 9,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -130,8 +106,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1924024,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 10,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1525,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 11,
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/22/eed22297-9313-d8b0-52c8-95f42a2795b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 15742,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 43533,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -183,30 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "6739124364",
-      "app_name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a3/51/f3a351bc-9dad-2bad-c5b8-11727f44d9e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 9645,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "951744068",
-      "app_name": "Traffic Rider",
-      "developer": "Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/0a/ed/430aed0d-316c-7722-6baf-008eb7a20f3a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 50322,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 18,
       "app_id": "1160056295",
       "app_name": "Mobile Legends: Bang Bang",
       "developer": "MOONTON",
@@ -214,32 +190,56 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 241846,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "1369521645",
+      "app_name": "Words of Wonders: Crossword",
+      "developer": "FUGO BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/86/19/40861984-a161-1baf-6ead-314a611ec7a7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 588650,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 19,
-      "app_id": "6747834136",
-      "app_name": "Mafia Life: Underworld Boss",
-      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/6c/7a/756c7a4c-c95a-7808-e10f-62dfc54a4129/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 18,
+      "app_id": "951744068",
+      "app_name": "Traffic Rider",
+      "developer": "Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/0a/ed/430aed0d-316c-7722-6baf-008eb7a20f3a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 1605,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.4,
+      "rating_count": 50322,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "6739124364",
+      "app_name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a3/51/f3a351bc-9dad-2bad-c5b8-11727f44d9e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 9645,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 20,
-      "app_id": "1550945606",
-      "app_name": "Soccer Superstar - Football",
-      "developer": "Real Free Soccer",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/33/f3/6f33f30b-be06-13d9-8ac1-620fdf9094ce/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "app_id": "1374868881",
+      "app_name": "Car Parking Multiplayer",
+      "developer": "Aidana Kengbeiil",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/bd/dc/adbddcd5-9457-cdf8-016c-14a32f779f7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 31696,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.2,
+      "rating_count": 31900,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }

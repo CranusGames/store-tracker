@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "6748397500",
-      "app_name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore GmbH",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/2a/32/4a2a329c-7d3d-74c6-1d39-373a32b07027/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 253897,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1522783,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6748397500",
+      "app_name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore GmbH",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/2a/32/4a2a329c-7d3d-74c6-1d39-373a32b07027/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 253897,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 156633,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,23 +166,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 197414,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "1606549505",
-      "app_name": "Royal Kingdom",
-      "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/bc/cb/c0bccb1d-ac41-730e-e4d5-68356d63c776/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1034118,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 16,
       "app_id": "6758326278",
       "app_name": "Amaze GO!",
       "developer": "Oakever Games",
@@ -194,6 +182,18 @@
       "change_val": 1
     },
     {
+      "rank": 16,
+      "app_id": "1606549505",
+      "app_name": "Royal Kingdom",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/bc/cb/c0bccb1d-ac41-730e-e4d5-68356d63c776/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1034118,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 17,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
@@ -202,23 +202,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 199443,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 18,
-      "app_id": "6751056652",
-      "app_name": "Pixel Flow!",
-      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/49/75/ae497535-57ba-8548-5e7b-d68d2c627638/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 108007,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "1351168404",
       "app_name": "Among Us!",
       "developer": "InnerSloth LLC",
@@ -226,11 +214,11 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 835348,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "1094930513",
       "app_name": "EA SPORTS FC Soccer Mobile 26",
       "developer": "Electronic Arts",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2391533,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "6751056652",
+      "app_name": "Pixel Flow!",
+      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/49/75/ae497535-57ba-8548-5e7b-d68d2c627638/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 108007,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
