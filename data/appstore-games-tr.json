@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/82/82/cb8282de-0cce-5372-1cd9-0fc686ea588e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 325151,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "1531842415",
       "app_name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -74,6 +62,18 @@
       "change_val": 1
     },
     {
+      "rank": 6,
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/82/82/cb8282de-0cce-5372-1cd9-0fc686ea588e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 325151,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 7,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1534,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 43562,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1924080,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 251321,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 15758,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 38655,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1296,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 442,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,11 +190,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 25206,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
+      "app_id": "6754688040",
+      "app_name": "Last Light: Rebirth",
+      "developer": "BINGCHUAN NETWORK (HONG KONG) COMPANY LIMITED",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/46/16/d2461665-6c05-936d-bda6-9ee0cf2bb49c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 213,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
       "app_id": "1636821805",
       "app_name": "Crostic Crossword－Word Puzzles",
       "developer": "Severex",
@@ -206,19 +218,19 @@
       "change_val": -1
     },
     {
-      "rank": 18,
-      "app_id": "6754688040",
-      "app_name": "Last Light: Rebirth",
-      "developer": "BINGCHUAN NETWORK (HONG KONG) COMPANY LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/46/16/d2461665-6c05-936d-bda6-9ee0cf2bb49c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 19,
+      "app_id": "951744068",
+      "app_name": "Traffic Rider",
+      "developer": "Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/0a/ed/430aed0d-316c-7722-6baf-008eb7a20f3a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 213,
-      "change": "new",
-      "change_val": 0
+      "rating": 4.4,
+      "rating_count": 50330,
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "app_id": "1369521645",
       "app_name": "Words of Wonders: Crossword",
       "developer": "FUGO BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
@@ -228,18 +240,6 @@
       "rating_count": 588695,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 20,
-      "app_id": "951744068",
-      "app_name": "Traffic Rider",
-      "developer": "Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/0a/ed/430aed0d-316c-7722-6baf-008eb7a20f3a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 50330,
-      "change": "new",
-      "change_val": 0
     }
   ]
 }
