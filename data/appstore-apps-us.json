@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 8121291,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3449274,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6746049430",
-      "app_name": "FOX One: Live News, Sports, TV",
-      "developer": "Fox Digital Services, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/ec/33/00ec3381-b756-542e-3a77-50955634add0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 57140,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2034220,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6746049430",
+      "app_name": "FOX One: Live News, Sports, TV",
+      "developer": "Fox Digital Services, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/ec/33/00ec3381-b756-542e-3a77-50955634add0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 57140,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1112536,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,23 +130,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 35859,
-      "change": "+5",
-      "change_val": 5
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/7a/93/127a93a5-cec9-29f8-710a-ea1ee2540f8c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 874930,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 13,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4718915,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/7a/93/127a93a5-cec9-29f8-710a-ea1ee2540f8c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 874930,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18128355,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 874319,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 10757974,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 1.8,
       "rating_count": 306,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,19 +226,19 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 91526,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "399857015",
-      "app_name": "Planet Fitness",
-      "developer": "Planet Fitness Holdings, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/22/e6/b222e654-89e7-d82a-074c-ab4241c49f93/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/26/aa/0626aaa5-0c1b-d7b7-598e-e2cb8a1f8523/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 730417,
-      "change": "=",
+      "rating": 4.7,
+      "rating_count": 7244679,
+      "change": "new",
       "change_val": 0
     }
   ]
