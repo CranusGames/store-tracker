@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "rankings": [
     {
       "rank": 1,
@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "com.king.candycrushsaga",
-      "app_name": "Candy Crush Saga",
-      "developer": "King",
-      "icon_url": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-      "installs": "1,000,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "com.kitkagames.fallbuddies",
       "app_name": "Stumble Guys",
       "developer": "Scopely",
@@ -58,23 +46,23 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "com.king.candycrushsaga",
+      "app_name": "Candy Crush Saga",
+      "developer": "King",
+      "icon_url": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+      "installs": "1,000,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
-      "app_id": "com.imangi.templerun2",
-      "app_name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
-      "installs": "1,000,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "com.google.android.play.games",
       "app_name": "Google Play Games",
       "developer": "Google LLC",
@@ -82,8 +70,20 @@
       "installs": "5,000,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "com.imangi.templerun2",
+      "app_name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
+      "installs": "1,000,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "com.tencent.ig",
-      "app_name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "icon_url": "https://play-lh.googleusercontent.com/Se7jR6A5R0Mk9ClaIguf46yi2K3k32JsqKb3gAtrktIh3JwnFfxrQRmG9GLvdMpbxbMrReUOxzDkStxGxNo-5Q",
-      "installs": "1,000,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
       "app_name": "Kids Games: For Toddlers 3-5",
       "developer": "RV AppStudios",
@@ -146,7 +134,7 @@
       "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "com.king.bubblewitch3",
       "app_name": "Bubble Witch 3 Saga",
       "developer": "King",
@@ -158,6 +146,18 @@
       "change_val": 1
     },
     {
+      "rank": 13,
+      "app_id": "com.tencent.ig",
+      "app_name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "icon_url": "https://play-lh.googleusercontent.com/Se7jR6A5R0Mk9ClaIguf46yi2K3k32JsqKb3gAtrktIh3JwnFfxrQRmG9GLvdMpbxbMrReUOxzDkStxGxNo-5Q",
+      "installs": "1,000,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
       "rank": 14,
       "app_id": "com.miniclip.eightballpool",
       "app_name": "8 Ball Pool",
@@ -166,8 +166,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,17 +226,17 @@
       "installs": "100,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "com.playrix.township",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-      "installs": "500,000,000+",
-      "rating": 4.7,
+      "app_id": "com.kiloo.subwaysurf",
+      "app_name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "icon_url": "https://play-lh.googleusercontent.com/T7az9M7td7A24vOr7Jp3C9NG16kyWA1NnlUySyl_mbDV9BtlrFbxps5TD5DzT7kCBxpNeTbIIju2_aFN4xtFoYM",
+      "installs": "1,000,000,000+",
+      "rating": 4.5,
       "rating_count": 0,
       "change": "new",
       "change_val": 0

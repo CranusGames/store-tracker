@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "rankings": [
     {
       "rank": 1,
@@ -82,18 +82,18 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 685069,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "1117270703",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/0c/8f/f70c8f63-9613-a144-8f0c-57039d41fc9a/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 251255,
+      "rating": 4.6,
+      "rating_count": 1525,
       "change": "+2",
       "change_val": 2
     },
@@ -106,20 +106,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1924024,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "app_id": "1117270703",
+      "app_name": "eFootball™",
+      "developer": "KONAMI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/0c/8f/f70c8f63-9613-a144-8f0c-57039d41fc9a/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 1525,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.3,
+      "rating_count": 251255,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 15742,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -183,18 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "1160056295",
-      "app_name": "Mobile Legends: Bang Bang",
-      "developer": "MOONTON",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/93/a3/9f93a387-0c5b-84a2-cc0b-1ea8145abd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 241846,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 17,
       "app_id": "1369521645",
       "app_name": "Words of Wonders: Crossword",
       "developer": "FUGO BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
@@ -202,20 +190,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 588650,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "1160056295",
+      "app_name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/93/a3/9f93a387-0c5b-84a2-cc0b-1ea8145abd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 241846,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
-      "app_id": "951744068",
-      "app_name": "Traffic Rider",
-      "developer": "Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/0a/ed/430aed0d-316c-7722-6baf-008eb7a20f3a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "app_id": "1636821805",
+      "app_name": "Crostic Crossword－Word Puzzles",
+      "developer": "Severex",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/85/ea/7a85ea84-7e7e-09a4-73ec-a8c0852b1e57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.4,
-      "rating_count": 50322,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.6,
+      "rating_count": 9793,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 9645,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1374868881",
-      "app_name": "Car Parking Multiplayer",
-      "developer": "Aidana Kengbeiil",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/bd/dc/adbddcd5-9457-cdf8-016c-14a32f779f7f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "951744068",
+      "app_name": "Traffic Rider",
+      "developer": "Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/0a/ed/430aed0d-316c-7722-6baf-008eb7a20f3a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.2,
-      "rating_count": 31900,
-      "change": "new",
-      "change_val": 0
+      "rating": 4.4,
+      "rating_count": 50322,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
