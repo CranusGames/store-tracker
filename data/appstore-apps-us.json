@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "rankings": [
     {
       "rank": 1,
@@ -9,9 +9,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/dd/c4/26ddc4fe-fca4-c946-961d-d0c320bb694d/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 214750,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 216716,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -21,9 +21,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/59/ed/2259edf9-6bd5-a17a-c035-074aac0954d2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 8130550,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 8137676,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -33,7 +33,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/79/dc/3f79dccc-2e54-c955-5712-45d332cd2177/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3450433,
+      "rating_count": 3451513,
       "change": "=",
       "change_val": 0
     },
@@ -45,7 +45,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/d7/62/40d7621a-ab61-da3e-627a-3f48dc6c8867/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 1106,
+      "rating_count": 1205,
       "change": "=",
       "change_val": 0
     },
@@ -57,7 +57,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/4b/b4/734bb4e9-6ba5-4087-0e2d-c7d3e64df4c9/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 2035266,
+      "rating_count": 2035781,
       "change": "=",
       "change_val": 0
     },
@@ -69,7 +69,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/77/ba/5077ba2f-7c32-6f5d-f6e4-126f1c741a98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 180923,
+      "rating_count": 181179,
       "change": "=",
       "change_val": 0
     },
@@ -81,9 +81,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/ec/33/00ec3381-b756-542e-3a77-50955634add0/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 57895,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 58878,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -93,33 +93,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/dc/9e/f7dc9ef9-1731-1c66-7e00-ca58d011f1d9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1892853,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 1894046,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/67/3d/75673d46-c5ba-cdd3-ad05-8b7e08f5ae4e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18130996,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 10,
       "app_id": "407558537",
       "app_name": "Capital One Mobile",
       "developer": "Capital One",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/d6/75/bad675dd-804a-d986-3864-33df33312c5b/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 10759650,
+      "rating_count": 10760633,
       "change": "+1",
       "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/67/3d/75673d46-c5ba-cdd3-ad05-8b7e08f5ae4e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18132233,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -129,33 +129,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/eb/33/c3eb33ac-b8d4-a804-d198-6b29b331de0b/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 4720755,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 4721969,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/a1/fc/b6a1fc21-1e74-4e0c-20c2-51a6cd2d65e9/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 660191,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 13,
       "app_id": "6447582581",
       "app_name": "Netflix Game Controller",
       "developer": "Netflix, Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ce/b3/4aceb3ac-ce12-347e-7cda-059f8de00e8b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 80130,
-      "change": "-4",
-      "change_val": -4
+      "rating_count": 80552,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/a1/fc/b6a1fc21-1e74-4e0c-20c2-51a6cd2d65e9/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 660366,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -165,9 +165,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/37/1f/bb371fbb-68b3-a368-186d-947bfad8e540/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1112588,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 1112612,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -177,9 +177,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/6f/46/506f465f-9acd-1389-978f-1b52bc075de2/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 36086,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 36298,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -189,9 +189,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/65/aa/c065aa3f-e3db-0801-b8a3-25ce9e04cde6/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2144584,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 2144794,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -201,7 +201,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/26/aa/0626aaa5-0c1b-d7b7-598e-e2cb8a1f8523/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 7245297,
+      "rating_count": 7245640,
       "change": "=",
       "change_val": 0
     },
@@ -213,33 +213,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/7a/93/127a93a5-cec9-29f8-710a-ea1ee2540f8c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 875640,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 876271,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
+      "app_id": "6767364919",
+      "app_name": "Trump Accounts: Official App",
+      "developer": "U.S. Department of the Treasury",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/9a/65/fa9a650f-92ba-c834-22df-88ad3b1c18a3/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 234,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/11/ff/9711ffb7-e099-6d43-7813-faac3d8f1a4d/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2417662,
+      "rating_count": 2417699,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 20,
-      "app_id": "6532603739",
-      "app_name": "FWC2026 Mobile Tickets",
-      "developer": "FIFA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f9/8f/b7f98f34-318d-ca76-9943-4c7e838adb1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.9,
-      "rating_count": 309,
-      "change": "new",
-      "change_val": 0
     }
   ]
 }
