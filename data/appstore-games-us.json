@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 26489,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 7,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -82,6 +70,18 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1526012,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 26489,
       "change": "-1",
       "change_val": -1
     },
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19141521,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 258732,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 275021,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 199885,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -166,20 +166,20 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 156864,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "1351168404",
-      "app_name": "Among Us!",
-      "developer": "InnerSloth LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6758326278",
+      "app_name": "Amaze GO!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/a2/57/69a25772-6707-b207-50a6-dbe244ea8442/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.1,
-      "rating_count": 835518,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.6,
+      "rating_count": 117183,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 16,
@@ -190,18 +190,18 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 197971,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "6758326278",
-      "app_name": "Amaze GO!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/a2/57/69a25772-6707-b207-50a6-dbe244ea8442/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1351168404",
+      "app_name": "Among Us!",
+      "developer": "InnerSloth LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 117183,
+      "rating": 4.1,
+      "rating_count": 835518,
       "change": "-2",
       "change_val": -2
     },
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 108649,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,18 +226,18 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 58548,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "820613069",
-      "app_name": "Guild Wars® Reforged",
-      "developer": "ArenaNet, LLC.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/ce/a1/1ccea171-cb0d-68a5-96bd-60061875eccc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6754839783",
+      "app_name": "Bubble Word Jam",
+      "developer": "Lion Studios Plus",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/a2/de/cfa2de64-164c-e3cf-1e2f-f2182d085439/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 0,
-      "rating_count": 0,
+      "rating": 4.7,
+      "rating_count": 31277,
       "change": "new",
       "change_val": 0
     }
