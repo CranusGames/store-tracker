@@ -123,6 +123,18 @@
     },
     {
       "rank": 11,
+      "app_id": "975709372",
+      "app_name": "My Earthquake Alerts & Feed",
+      "developer": "JRustonApps B.V.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/50/5b/61505b5c-caac-ef13-aa21-b28e7df2b79d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 128061,
+      "change": "+9",
+      "change_val": 9
+    },
+    {
+      "rank": 12,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -130,20 +142,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4728023,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2f/ab/932fab9e-d387-6f31-5a20-348a233ec70e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 82298,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -159,42 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/1a/c3/e41ac3c2-ddbe-34e8-c201-8d074c495a9c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 879377,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/38/b6/0938b688-2185-f0f5-66ac-53bb6cd76d52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 876897,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "680595680",
-      "app_name": "Telemundo: Series y TV en vivo",
-      "developer": "NBCUniversal Media, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/0d/89/6d0d89ad-9310-afb1-2271-927f4d85ed0c/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 337284,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -202,11 +166,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18140033,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 18,
+      "rank": 15,
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/1a/c3/e41ac3c2-ddbe-34e8-c201-8d074c495a9c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 879377,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 16,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -214,8 +190,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2145788,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/38/b6/0938b688-2185-f0f5-66ac-53bb6cd76d52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 876897,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 18,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2f/ab/932fab9e-d387-6f31-5a20-348a233ec70e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 82298,
+      "change": "-6",
+      "change_val": -6
     },
     {
       "rank": 19,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "975709372",
-      "app_name": "My Earthquake Alerts & Feed",
-      "developer": "JRustonApps B.V.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/50/5b/61505b5c-caac-ef13-aa21-b28e7df2b79d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "6532603739",
+      "app_name": "FWC2026 Mobile Tickets",
+      "developer": "FIFA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/f9/8f/b7f98f34-318d-ca76-9943-4c7e838adb1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 128061,
-      "change": "=",
+      "rating": 1.9,
+      "rating_count": 317,
+      "change": "new",
       "change_val": 0
     }
   ]
