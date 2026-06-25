@@ -10,8 +10,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 226844,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3456764,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/77/ba/5077ba2f-7c32-6f5d-f6e4-126f1c741a98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 182648,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 7,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -86,19 +74,19 @@
       "change_val": 1
     },
     {
-      "rank": 8,
-      "app_id": "6648798962",
-      "app_name": "Polymarket",
-      "developer": "Polymarket",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/6f/46/506f465f-9acd-1389-978f-1b52bc075de2/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "rank": 7,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/77/ba/5077ba2f-7c32-6f5d-f6e4-126f1c741a98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 37260,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.7,
+      "rating_count": 182648,
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "632064380",
       "app_name": "Vinted: Pre-loved marketplace",
       "developer": "Vinted Limited",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 93505,
-      "change": "+3",
-      "change_val": 3
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6648798962",
+      "app_name": "Polymarket",
+      "developer": "Polymarket",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/6f/46/506f465f-9acd-1389-978f-1b52bc075de2/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 37260,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -123,30 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2f/ab/932fab9e-d387-6f31-5a20-348a233ec70e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 82278,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 12,
-      "app_id": "680595680",
-      "app_name": "Telemundo: Series y TV en vivo",
-      "developer": "NBCUniversal Media, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/0d/89/6d0d89ad-9310-afb1-2271-927f4d85ed0c/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 337280,
-      "change": "-6",
-      "change_val": -6
-    },
-    {
-      "rank": 13,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -154,8 +130,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4727726,
-      "change": "-2",
-      "change_val": -2
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 12,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2f/ab/932fab9e-d387-6f31-5a20-348a233ec70e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 82278,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 13,
+      "app_id": "680595680",
+      "app_name": "Telemundo: Series y TV en vivo",
+      "developer": "NBCUniversal Media, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/0d/89/6d0d89ad-9310-afb1-2271-927f4d85ed0c/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 337280,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -166,20 +166,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18139634,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/1a/c3/e41ac3c2-ddbe-34e8-c201-8d074c495a9c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/b9/d0/ebb9d0fe-2aab-e93b-127a-871d19d7e4e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 879279,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 1112738,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 16,
@@ -190,20 +190,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 876847,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/b9/d0/ebb9d0fe-2aab-e93b-127a-871d19d7e4e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/1a/c3/e41ac3c2-ddbe-34e8-c201-8d074c495a9c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 1112738,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.8,
+      "rating_count": 879279,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
@@ -214,11 +214,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2145771,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
+      "app_id": "1558240027",
+      "app_name": "Meta AI",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/41/80/954180ed-9d76-0006-84ff-15a0df8388ab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 141216,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "6532603739",
       "app_name": "FWC2026 Mobile Tickets",
       "developer": "FIFA",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 1.9,
       "rating_count": 317,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "407558537",
-      "app_name": "Capital One Mobile",
-      "developer": "Capital One",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/d6/75/bad675dd-804a-d986-3864-33df33312c5b/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 10765532,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }

@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 83498,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,23 +34,11 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 16,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
-      "app_id": "6752672568",
-      "app_name": "Block Out! - Color Sort Puzzle",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ba/a8/f9baa8ca-6eee-5c55-40ac-c462a1f393c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 3352,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 5,
       "app_id": "1229016807",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
@@ -58,6 +46,18 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 840653,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6752672568",
+      "app_name": "Block Out! - Color Sort Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ba/a8/f9baa8ca-6eee-5c55-40ac-c462a1f393c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 3352,
       "change": "-1",
       "change_val": -1
     },
@@ -94,11 +94,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 13596,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/7f/34/b27f3401-ae0b-ebe4-4ea3-aa6492ee7005/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 43718,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 10,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -110,43 +122,7 @@
       "change_val": -1
     },
     {
-      "rank": 10,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/d2/83/9cd28373-9ab5-12c0-09e4-2e55b5c61989/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1924240,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 11,
-      "app_id": "1117270703",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/0c/8f/f70c8f63-9613-a144-8f0c-57039d41fc9a/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 251559,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/7f/34/b27f3401-ae0b-ebe4-4ea3-aa6492ee7005/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 43718,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -154,8 +130,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1313,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 12,
+      "app_id": "1117270703",
+      "app_name": "eFootball™",
+      "developer": "KONAMI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/0c/8f/f70c8f63-9613-a144-8f0c-57039d41fc9a/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 251559,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 13,
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/d2/83/9cd28373-9ab5-12c0-09e4-2e55b5c61989/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1924240,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 14,
@@ -183,15 +183,15 @@
     },
     {
       "rank": 16,
-      "app_id": "6475003879",
-      "app_name": "Tabu Kelime 2026",
-      "developer": "Yavuz Selim Yildirim",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1660171117",
+      "app_name": "Zen Word® - Relax Puzzle Game",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/35/dc/1335dc64-720e-74c2-c666-748ff140db74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 443,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.9,
+      "rating_count": 20698,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 17,
@@ -207,15 +207,15 @@
     },
     {
       "rank": 18,
-      "app_id": "1660171117",
-      "app_name": "Zen Word® - Relax Puzzle Game",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/35/dc/1335dc64-720e-74c2-c666-748ff140db74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6475003879",
+      "app_name": "Tabu Kelime 2026",
+      "developer": "Yavuz Selim Yildirim",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 20698,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.3,
+      "rating_count": 443,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 19,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "506627515",
-      "app_name": "Hay Day",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/1f/58/8f1f5835-b486-6fc1-55db-6279bbbffcae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "951744068",
+      "app_name": "Traffic Rider",
+      "developer": "Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/0a/ed/430aed0d-316c-7722-6baf-008eb7a20f3a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 150597,
-      "change": "=",
+      "rating": 4.4,
+      "rating_count": 50353,
+      "change": "new",
       "change_val": 0
     }
   ]

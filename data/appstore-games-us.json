@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 506770,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 11255,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 26848,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 276401,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -195,42 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "1621328561",
-      "app_name": "MONOPOLY GO!",
-      "developer": "Scopely, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/8a/df/808adf25-ce31-e3ea-b716-a71a5e43b100/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3729357,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 18,
-      "app_id": "6758326278",
-      "app_name": "Amaze GO!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/a2/57/69a25772-6707-b207-50a6-dbe244ea8442/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 118115,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "6751056652",
-      "app_name": "Pixel Flow!",
-      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/49/75/ae497535-57ba-8548-5e7b-d68d2c627638/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 109074,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 20,
       "app_id": "6739554056",
       "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
@@ -238,8 +202,44 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 198251,
-      "change": "-3",
-      "change_val": -3
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 18,
+      "app_id": "1621328561",
+      "app_name": "MONOPOLY GO!",
+      "developer": "Scopely, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/8a/df/808adf25-ce31-e3ea-b716-a71a5e43b100/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3729357,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "6758326278",
+      "app_name": "Amaze GO!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/a2/57/69a25772-6707-b207-50a6-dbe244ea8442/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 118115,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 20,
+      "app_id": "6751056652",
+      "app_name": "Pixel Flow!",
+      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/49/75/ae497535-57ba-8548-5e7b-d68d2c627638/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 109074,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
