@@ -4,9 +4,9 @@
     {
       "rank": 1,
       "app_id": "1632713844",
-      "app_name": "Kalshi: Trade the Cup",
+      "app_name": "Kalshi: Trade the World Cup",
       "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/00/42/2000428d-8993-f3d3-076c-1041dec5f039/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/57/ea/c857eaff-ddc5-b33a-4d1f-fbc00209fa86/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
       "rating_count": 227055,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1900796,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 37269,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1112746,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 879377,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 876897,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 337284,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18140033,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 128061,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
