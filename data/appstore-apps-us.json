@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/57/ea/c857eaff-ddc5-b33a-4d1f-fbc00209fa86/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 234868,
+      "rating_count": 235938,
       "change": "=",
       "change_val": 0
     },
@@ -21,33 +21,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/59/ed/2259edf9-6bd5-a17a-c035-074aac0954d2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 8193298,
+      "rating_count": 8198955,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 3,
-      "app_id": "6746049430",
-      "app_name": "FOX One: Live News, Sports, TV",
-      "developer": "Fox Digital Services, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/72/e1/3972e181-72b9-8cfd-51c0-42e56b594e6b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 62967,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "1508186374",
       "app_name": "Peacock TV: Stream TV & Movies",
       "developer": "Peacock TV LLC",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/03/31/b10331b9-d8c8-eb9c-3530-173124c851b1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3460738,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 3461326,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "6746049430",
+      "app_name": "FOX One: Live News, Sports, TV",
+      "developer": "Fox Digital Services, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/72/e1/3972e181-72b9-8cfd-51c0-42e56b594e6b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 62997,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -57,33 +57,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/20/99/c12099c6-4c56-2c3f-b993-b42c12899eda/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 94622,
+      "rating_count": 94992,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 6,
-      "app_id": "1465944282",
-      "app_name": "Love Island USA",
-      "developer": "ITV America Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ff/0f/f4ff0fa3-24a1-f86e-541d-0cac6a3ea260/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.9,
-      "rating_count": 5892,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "6741796873",
       "app_name": "TikTok Pro - Events",
       "developer": "TikTok Ltd.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/d7/62/40d7621a-ab61-da3e-627a-3f48dc6c8867/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 2296,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 2382,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "1465944282",
+      "app_name": "Love Island USA",
+      "developer": "ITV America Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ff/0f/f4ff0fa3-24a1-f86e-541d-0cac6a3ea260/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.9,
+      "rating_count": 5893,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -93,7 +93,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/4b/b4/734bb4e9-6ba5-4087-0e2d-c7d3e64df4c9/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 2041246,
+      "rating_count": 2041859,
       "change": "=",
       "change_val": 0
     },
@@ -105,60 +105,48 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/77/ba/5077ba2f-7c32-6f5d-f6e4-126f1c741a98/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 183529,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 183760,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "6648798962",
-      "app_name": "Polymarket: Trade Soccer",
-      "developer": "Polymarket",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/bd/4b/70bd4b66-84ef-7d0f-a257-cf3b25a4fe07/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 38126,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 11,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a8/91/99a89102-0509-7ef5-c5ca-fe437b86ac53/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1905139,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 1906470,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "6648798962",
+      "app_name": "Polymarket: Trade Soccer",
+      "developer": "Polymarket",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/bd/4b/70bd4b66-84ef-7d0f-a257-cf3b25a4fe07/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 38260,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/91/d0/5991d0af-e7bc-d381-4d5b-084f17559c96/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/3a/2b/b53a2b18-7238-0d30-3435-fc6471e1a34d/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 4732252,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 4733321,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "975709372",
-      "app_name": "My Earthquake Alerts & Feed",
-      "developer": "JRustonApps B.V.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/50/5b/61505b5c-caac-ef13-aa21-b28e7df2b79d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 128275,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -166,20 +154,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1112835,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/65/aa/c065aa3f-e3db-0801-b8a3-25ce9e04cde6/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2146430,
+      "rating_count": 2146519,
       "change": "+1",
       "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "975709372",
+      "app_name": "My Earthquake Alerts & Feed",
+      "developer": "JRustonApps B.V.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/50/5b/61505b5c-caac-ef13-aa21-b28e7df2b79d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 128300,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
@@ -189,57 +189,57 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/88/62/818862d2-d9d2-cedd-dece-05fd9208ba95/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 18145166,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 18146392,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
+      "app_id": "1558240027",
+      "app_name": "Meta AI",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/fe/09/3bfe0933-35f6-07e0-53d7-51cea840ede3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 142352,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 18,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/38/b6/0938b688-2185-f0f5-66ac-53bb6cd76d52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 877993,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 18,
-      "app_id": "1673567402",
-      "app_name": "Freecash - Get Paid Real Money",
-      "developer": "256 REWARDS LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/0d/bc/520dbcaa-6890-9aad-8799-0d7001c8aa97/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 87316,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 878229,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
-      "app_id": "1558240027",
-      "app_name": "Meta AI",
-      "developer": "Meta Platforms, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/41/80/954180ed-9d76-0006-84ff-15a0df8388ab/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/26/aa/0626aaa5-0c1b-d7b7-598e-e2cb8a1f8523/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 142137,
-      "change": "=",
+      "rating_count": 7248751,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/1a/4d/831a4d3e-cd11-16a7-eca1-77e2121e70ba/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1673567402",
+      "app_name": "Freecash - Get Paid Real Money",
+      "developer": "256 REWARDS LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a2/ae/27a2aeee-5add-54a7-5624-9b17f6416a1a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 881426,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 87358,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
