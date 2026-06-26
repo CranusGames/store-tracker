@@ -1,20 +1,8 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6761760135",
-      "app_name": "Meowdoku!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/6a/f7/2e6af708-5a0b-f1f9-b4c6-eac18c4da3b2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 37051,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6748084174",
       "app_name": "Smash Fest!",
       "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
@@ -22,8 +10,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 27539,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6761760135",
+      "app_name": "Meowdoku!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/6a/f7/2e6af708-5a0b-f1f9-b4c6-eac18c4da3b2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 37051,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1528755,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 507428,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "1274132545",
-      "app_name": "Total Battle: War Strategy",
-      "developer": "Scorewarrior",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/b1/97/13b19787-3dc8-64ee-56e6-4c59d6c4680d/crowd_multipliers_v6-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 57793,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "6475757306",
       "app_name": "Disney Solitaire",
       "developer": "SuperPlay",
@@ -158,6 +146,18 @@
       "change_val": 1
     },
     {
+      "rank": 13,
+      "app_id": "1274132545",
+      "app_name": "Total Battle: War Strategy",
+      "developer": "Scorewarrior",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/b1/97/13b19787-3dc8-64ee-56e6-4c59d6c4680d/crowd_multipliers_v6-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 57793,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 14,
       "app_id": "6483539426",
       "app_name": "Fortnite",
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 157008,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 198397,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 200289,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -207,30 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/82/82/cb8282de-0cce-5372-1cd9-0fc686ea588e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 3754025,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 19,
-      "app_id": "6751056652",
-      "app_name": "Pixel Flow!",
-      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/49/75/ae497535-57ba-8548-5e7b-d68d2c627638/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 109302,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "1351168404",
       "app_name": "Among Us!",
       "developer": "InnerSloth LLC",
@@ -238,6 +214,30 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 835669,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/82/82/cb8282de-0cce-5372-1cd9-0fc686ea588e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 3754025,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 20,
+      "app_id": "1094930513",
+      "app_name": "EA SPORTS FC Soccer Mobile 26",
+      "developer": "Electronic Arts",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/c5/4e/07c54e36-942e-ccbf-0bf7-c125f1261d42/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2398353,
       "change": "new",
       "change_val": 0
     }

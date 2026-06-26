@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "rankings": [
     {
       "rank": 1,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 92914,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1917716,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,11 +130,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3001119,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/91/d0/5991d0af-e7bc-d381-4d5b-084f17559c96/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 329481,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 13,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
@@ -142,11 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2088121,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "app_id": "397585390",
       "app_name": "Migros: Food & Groceries",
       "developer": "MigrosOne",
@@ -158,18 +170,6 @@
       "change_val": -1
     },
     {
-      "rank": 14,
-      "app_id": "284815942",
-      "app_name": "Google - More ways to search",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/91/d0/5991d0af-e7bc-d381-4d5b-084f17559c96/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 329481,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
       "rank": 15,
       "app_id": "547951480",
       "app_name": "ZARA",
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 171655,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,11 +190,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1061140,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/9a/e8/879ae81f-a8f1-320e-272c-18b6d41c1bd5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 276913,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "app_id": "6740533412",
       "app_name": "HAYAT 112 Acil",
       "developer": "T.C. İçişleri Bakanlığı",
@@ -206,18 +218,6 @@
       "change_val": -1
     },
     {
-      "rank": 18,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/9a/e8/879ae81f-a8f1-320e-272c-18b6d41c1bd5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 276913,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 19,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
@@ -226,8 +226,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 85250,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4513267,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
