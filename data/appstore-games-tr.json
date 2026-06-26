@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 43809,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3415,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 13859,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 251797,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 685700,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1924347,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 443,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -198,12 +198,12 @@
       "app_id": "6782892148",
       "app_name": "Cat Me If u Can",
       "developer": "Omer Salih Sar",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/00/3f/2f003f3a-178c-7169-9d52-9c5d07f9d428/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/c3/a6/1cc3a671-b69a-bb63-d1c5-f158ace41b97/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.7,
       "rating_count": 54,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 50370,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
