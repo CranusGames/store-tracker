@@ -6,7 +6,7 @@
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade the World Cup",
       "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/57/ea/c857eaff-ddc5-b33a-4d1f-fbc00209fa86/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/a9/1a/5ca91a00-16a9-53e6-6213-9f6af01996c7/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
       "rating_count": 235938,
@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "1465944282",
-      "app_name": "Love Island USA",
-      "developer": "ITV America Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ff/0f/f4ff0fa3-24a1-f86e-541d-0cac6a3ea260/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.9,
-      "rating_count": 5893,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -94,11 +82,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2041859,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 183760,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "1465944282",
+      "app_name": "Love Island USA",
+      "developer": "ITV America Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ff/0f/f4ff0fa3-24a1-f86e-541d-0cac6a3ea260/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.9,
+      "rating_count": 5893,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 10,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "6648798962",
-      "app_name": "Polymarket: Trade Soccer",
-      "developer": "Polymarket",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/bd/4b/70bd4b66-84ef-7d0f-a257-cf3b25a4fe07/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 38260,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4733321,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6648798962",
+      "app_name": "Polymarket: Trade Soccer",
+      "developer": "Polymarket",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/bd/4b/70bd4b66-84ef-7d0f-a257-cf3b25a4fe07/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 38260,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "975709372",
-      "app_name": "My Earthquake Alerts & Feed",
-      "developer": "JRustonApps B.V.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/50/5b/61505b5c-caac-ef13-aa21-b28e7df2b79d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 128300,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -190,35 +178,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18146392,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
-      "app_id": "1558240027",
-      "app_name": "Meta AI",
-      "developer": "Meta Platforms, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/fe/09/3bfe0933-35f6-07e0-53d7-51cea840ede3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 142352,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/38/b6/0938b688-2185-f0f5-66ac-53bb6cd76d52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 878229,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
+      "rank": 16,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -226,8 +190,44 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7248751,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 17,
+      "app_id": "975709372",
+      "app_name": "My Earthquake Alerts & Feed",
+      "developer": "JRustonApps B.V.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/50/5b/61505b5c-caac-ef13-aa21-b28e7df2b79d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 128300,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 18,
+      "app_id": "1558240027",
+      "app_name": "Meta AI",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/fe/09/3bfe0933-35f6-07e0-53d7-51cea840ede3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 142352,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/38/b6/0938b688-2185-f0f5-66ac-53bb6cd76d52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 878229,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
