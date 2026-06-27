@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 92909,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 366650,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,23 +94,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 277876,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/44/60/b34460c8-fd27-3494-ca70-cb4effc83b5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.4,
-      "rating_count": 9239,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 10,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -118,20 +106,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1917911,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/44/60/b34460c8-fd27-3494-ca70-cb4effc83b5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 9239,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
-      "app_id": "6749068146",
-      "app_name": "yandex ai: assistant & ai chat",
-      "developer": "Direct Cursus Computer Systems Trading",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/06/62/1a0662a6-11dd-9ae8-78b7-529c7a6f0738/YandexAppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "1511527605",
+      "app_name": "Museums of Türkiye - Official",
+      "developer": "T. C. Kültür ve Turizm Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/33/f3/c433f38c-df8a-9a19-a61c-5471c55bd959/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.1,
-      "rating_count": 2739,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.8,
+      "rating_count": 85066,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 12,
@@ -142,23 +142,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 31902,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548196,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -166,20 +154,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3002055,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "6749068146",
+      "app_name": "yandex ai: assistant & ai chat",
+      "developer": "Direct Cursus Computer Systems Trading",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/06/62/1a0662a6-11dd-9ae8-78b7-529c7a6f0738/YandexAppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 2739,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 15,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/33/f3/c433f38c-df8a-9a19-a61c-5471c55bd959/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 85066,
-      "change": "new",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 548196,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
@@ -190,7 +190,7 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 23541,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 1370508,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,7 +214,7 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 251266,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 329873,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/df/e1/acdfe167-d441-0c63-6930-f764bfd6879a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1234494259",
+      "app_name": "Cepte Şok",
+      "developer": "Şok Marketler Tic. A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a5/b5/b4a5b51a-bec7-7397-1031-abb02939cb9e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2089587,
-      "change": "-3",
-      "change_val": -3
+      "rating": 4.5,
+      "rating_count": 69198,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
