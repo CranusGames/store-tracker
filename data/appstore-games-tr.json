@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/a7/d8/40a7d82f-e64f-e659-2616-19712300466a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 1364,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "1617391485",
       "app_name": "Block Blast!",
       "developer": "Hungry Studio",
@@ -22,8 +10,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 84033,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/a7/d8/40a7d82f-e64f-e659-2616-19712300466a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 1364,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -39,30 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "1531842415",
-      "app_name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/97/a8/e397a8eb-66c4-d43c-608b-748985f23b40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 11518,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/7f/34/b27f3401-ae0b-ebe4-4ea3-aa6492ee7005/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 43970,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "1229016807",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
@@ -70,8 +46,32 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 842092,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 5,
+      "app_id": "1531842415",
+      "app_name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/97/a8/e397a8eb-66c4-d43c-608b-748985f23b40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 11518,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 6,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/7f/34/b27f3401-ae0b-ebe4-4ea3-aa6492ee7005/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 43970,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/d2/83/9cd28373-9ab5-12c0-09e4-2e55b5c61989/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1924548,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -118,23 +106,23 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 686041,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/d2/83/9cd28373-9ab5-12c0-09e4-2e55b5c61989/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1924548,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
-      "app_id": "1160056295",
-      "app_name": "Mobile Legends: Bang Bang",
-      "developer": "MOONTON",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/93/a3/9f93a387-0c5b-84a2-cc0b-1ea8145abd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 242132,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -142,35 +130,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 252100,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 13,
-      "app_id": "6748397500",
-      "app_name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore GmbH",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/f5/00/e5f5009d-4e27-9e59-e088-91b4ba7e003a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 14122,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/22/eed22297-9313-d8b0-52c8-95f42a2795b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 15945,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
+      "rank": 12,
       "app_id": "6475003879",
       "app_name": "Tabu Kelime 2026",
       "developer": "Yavuz Selim Yildirim",
@@ -178,8 +142,44 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 445,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 13,
+      "app_id": "1160056295",
+      "app_name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/93/a3/9f93a387-0c5b-84a2-cc0b-1ea8145abd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 242132,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 14,
+      "app_id": "6748397500",
+      "app_name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore GmbH",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/f5/00/e5f5009d-4e27-9e59-e088-91b4ba7e003a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 14122,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 15,
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/22/eed22297-9313-d8b0-52c8-95f42a2795b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 15945,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "1550945606",
-      "app_name": "Soccer Superstar - Football",
-      "developer": "Real Free Soccer",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/33/f3/6f33f30b-be06-13d9-8ac1-620fdf9094ce/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/df/dc/61dfdca9-6c81-db86-1756-5b63b642a0a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 32033,
-      "change": "=",
+      "rating_count": 25411,
+      "change": "new",
       "change_val": 0
     }
   ]
