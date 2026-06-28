@@ -207,18 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "com.nintendo.zaka",
-      "app_name": "Mario Kart Tour",
-      "developer": "Nintendo Co., Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/nuFtr86rUfHTNf2vk_MuxWkXm6LOswzIYbxJ7Nd6E48WcyzEhAmIugThYVXvJ6qbQrMmhsPxmstAsQA4y7P7iw",
-      "installs": "100,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "com.vincentb.MobControl",
       "app_name": "Mob Control",
       "developer": "VOODOO",
@@ -226,20 +214,32 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "com.playrix.township",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+      "installs": "500,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "com.dreamgames.royalkingdom",
-      "app_name": "Royal Kingdom",
-      "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
-      "installs": "50,000,000+",
-      "rating": 4.6,
+      "app_id": "com.nintendo.zaka",
+      "app_name": "Mario Kart Tour",
+      "developer": "Nintendo Co., Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/nuFtr86rUfHTNf2vk_MuxWkXm6LOswzIYbxJ7Nd6E48WcyzEhAmIugThYVXvJ6qbQrMmhsPxmstAsQA4y7P7iw",
+      "installs": "100,000,000+",
+      "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
