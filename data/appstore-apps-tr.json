@@ -42,7 +42,7 @@
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/26/aa/0626aaa5-0c1b-d7b7-598e-e2cb8a1f8523/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/70/47/4370474c-620e-4c2c-1b96-1cd4f306402e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
       "rating_count": 170540,
@@ -82,7 +82,7 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9250,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -94,7 +94,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548194,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 7449,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918280,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 92930,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 279514,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,7 +154,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2091425,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3003368,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 32029,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 367016,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 85075,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,7 +214,7 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 42758,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -226,7 +226,7 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 13,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 393024,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
