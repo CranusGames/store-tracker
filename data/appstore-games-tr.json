@@ -39,30 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6752672568",
-      "app_name": "Block Out! - Color Sort Puzzle",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ba/a8/f9baa8ca-6eee-5c55-40ac-c462a1f393c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 3576,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 5,
-      "app_id": "1229016807",
-      "app_name": "Brawl Stars",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/ec/30/9aec30a3-8cd3-bd88-2491-c2c1e0946c4c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 842350,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 6,
       "app_id": "1531842415",
       "app_name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -70,6 +46,30 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 11530,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 5,
+      "app_id": "6752672568",
+      "app_name": "Block Out! - Color Sort Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ba/a8/f9baa8ca-6eee-5c55-40ac-c462a1f393c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 3576,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 6,
+      "app_id": "1229016807",
+      "app_name": "Brawl Stars",
+      "developer": "Supercell",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/ec/30/9aec30a3-8cd3-bd88-2491-c2c1e0946c4c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 842350,
       "change": "-1",
       "change_val": -1
     },
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1924583,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 14222,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,35 +130,11 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 686134,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "1160056295",
-      "app_name": "Mobile Legends: Bang Bang",
-      "developer": "MOONTON",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/93/a3/9f93a387-0c5b-84a2-cc0b-1ea8145abd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 242169,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 13,
-      "app_id": "6475003879",
-      "app_name": "Tabu Kelime 2026",
-      "developer": "Yavuz Selim Yildirim",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 446,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -166,11 +142,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 252201,
-      "change": "-3",
-      "change_val": -3
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 15,
+      "rank": 13,
       "app_id": "6739554056",
       "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
@@ -178,11 +154,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 15971,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 16,
+      "rank": 14,
+      "app_id": "1160056295",
+      "app_name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/93/a3/9f93a387-0c5b-84a2-cc0b-1ea8145abd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 242169,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 15,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -190,11 +178,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1634,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -202,23 +190,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 25452,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "6475003879",
+      "app_name": "Tabu Kelime 2026",
+      "developer": "Yavuz Selim Yildirim",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 446,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 18,
-      "app_id": "6760320099",
-      "app_name": "FIFA Heroes: Football Action",
-      "developer": "Solace Games SARL",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/f1/e6/19f1e647-1a8b-e930-fcf2-406535b28d87/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 1378,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "1636821805",
       "app_name": "Crostic Crossword－Word Puzzles",
       "developer": "Severex",
@@ -226,20 +214,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 9890,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "1423046460",
+      "app_name": "Paper.io 2",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/e0/b4/c3e0b43a-dd75-6a0d-d7d9-247a241fb1d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 63941,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1443446174",
-      "app_name": "Magic Tiles 3™: Piano Game",
-      "developer": "Amanotes Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/fc/c8/99fcc84a-8981-20a0-2b97-fffc730e73ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1550945606",
+      "app_name": "Soccer Superstar - Football",
+      "developer": "Real Free Soccer",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/33/f3/6f33f30b-be06-13d9-8ac1-620fdf9094ce/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.2,
-      "rating_count": 24172,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.5,
+      "rating_count": 32064,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
