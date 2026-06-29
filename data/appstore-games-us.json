@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "rankings": [
     {
       "rank": 1,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19191111,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 511746,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -102,7 +102,7 @@
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/d0/c7/c4d0c7fb-9f9a-c473-9622-0dea64dfa4c3/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/c3/b3/3ac3b3bb-a768-8bc1-b1b2-fcc291a55b43/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
       "rating_count": 2555557,
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "6475757306",
-      "app_name": "Disney Solitaire",
-      "developer": "SuperPlay",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/76/5f/86765fea-b7f7-dcd0-6446-0dd01ca74367/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 624114,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 11,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -130,6 +118,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 27778,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "6475757306",
+      "app_name": "Disney Solitaire",
+      "developer": "SuperPlay",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/76/5f/86765fea-b7f7-dcd0-6446-0dd01ca74367/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 624114,
       "change": "-1",
       "change_val": -1
     },
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 159184,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 58324,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -183,18 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/a7/d8/40a7d82f-e64f-e659-2616-19712300466a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 201062,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "6739554056",
       "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
@@ -206,6 +194,18 @@
       "change_val": 1
     },
     {
+      "rank": 17,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/a7/d8/40a7d82f-e64f-e659-2616-19712300466a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 201062,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 18,
       "app_id": "1094930513",
       "app_name": "EA SPORTS FC Soccer Mobile 26",
@@ -214,23 +214,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2404834,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "6754839783",
-      "app_name": "Bubble Word Jam",
-      "developer": "Lion Studios Plus",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/a2/de/cfa2de64-164c-e3cf-1e2f-f2182d085439/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 35494,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 20,
       "app_id": "1351168404",
       "app_name": "Among Us!",
       "developer": "InnerSloth LLC",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 836024,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1443446174",
+      "app_name": "Magic Tiles 3™: Piano Game",
+      "developer": "Amanotes Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/fc/c8/99fcc84a-8981-20a0-2b97-fffc730e73ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 782903,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }

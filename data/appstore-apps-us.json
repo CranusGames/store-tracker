@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "rankings": [
     {
       "rank": 1,
@@ -63,30 +63,18 @@
     },
     {
       "rank": 6,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/4b/b4/734bb4e9-6ba5-4087-0e2d-c7d3e64df4c9/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/26/aa/0626aaa5-0c1b-d7b7-598e-e2cb8a1f8523/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 2046680,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 7251608,
+      "change": "+9",
+      "change_val": 9
     },
     {
       "rank": 7,
-      "app_id": "632064380",
-      "app_name": "Vinted: Pre-loved marketplace",
-      "developer": "Vinted Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/20/99/c12099c6-4c56-2c3f-b993-b42c12899eda/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 98228,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -98,7 +86,31 @@
       "change_val": 1
     },
     {
+      "rank": 8,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/4b/b4/734bb4e9-6ba5-4087-0e2d-c7d3e64df4c9/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2046680,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
       "rank": 9,
+      "app_id": "632064380",
+      "app_name": "Vinted: Pre-loved marketplace",
+      "developer": "Vinted Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/20/99/c12099c6-4c56-2c3f-b993-b42c12899eda/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 98228,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 10,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -110,7 +122,7 @@
       "change_val": -1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
@@ -118,11 +130,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 185429,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -130,20 +142,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4742214,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/88/62/818862d2-d9d2-cedd-dece-05fd9208ba95/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18157399,
-      "change": "+7",
-      "change_val": 7
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -154,35 +154,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 886645,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "6746049430",
-      "app_name": "FOX One: Live News, Sports, TV",
-      "developer": "Fox Digital Services, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/72/e1/3972e181-72b9-8cfd-51c0-42e56b594e6b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/88/62/818862d2-d9d2-cedd-dece-05fd9208ba95/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 65657,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 18157399,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 15,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/26/aa/0626aaa5-0c1b-d7b7-598e-e2cb8a1f8523/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 7251608,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 16,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -190,11 +178,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1113126,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "6445905219",
       "app_name": "DramaBox - Stream Drama Shorts",
       "developer": "STORYMATRIX PTE. LTD.",
@@ -202,23 +190,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 767828,
-      "change": "-4",
-      "change_val": -4
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 18,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/51/a5/7c51a528-3204-0598-d629-2d23004a5160/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18310189,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
+      "rank": 17,
       "app_id": "1558240027",
       "app_name": "Meta AI",
       "developer": "Meta Platforms, Inc.",
@@ -226,11 +202,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 144071,
-      "change": "-2",
-      "change_val": -2
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 20,
+      "rank": 18,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
@@ -238,8 +214,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 880309,
-      "change": "-2",
-      "change_val": -2
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "719972451",
+      "app_name": "DoorDash: Food, Grocery, More",
+      "developer": "DoorDash, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/3e/20/bb3e203d-a641-59b7-2ce6-5efd845aac71/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 22504985,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "6746049430",
+      "app_name": "FOX One: Live News, Sports, TV",
+      "developer": "Fox Digital Services, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/72/e1/3972e181-72b9-8cfd-51c0-42e56b594e6b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 65657,
+      "change": "-6",
+      "change_val": -6
     }
   ]
 }

@@ -1,20 +1,8 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "rankings": [
     {
       "rank": 1,
-      "app_id": "1617391485",
-      "app_name": "Block Blast!",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/d0/c7/c4d0c7fb-9f9a-c473-9622-0dea64dfa4c3/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 84033,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 2,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -22,6 +10,18 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1364,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "1617391485",
+      "app_name": "Block Blast!",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/c3/b3/3ac3b3bb-a768-8bc1-b1b2-fcc291a55b43/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 84033,
       "change": "-1",
       "change_val": -1
     },
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 842092,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,11 +58,23 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 11518,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
+      "app_id": "6752672568",
+      "app_name": "Block Out! - Color Sort Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ba/a8/f9baa8ca-6eee-5c55-40ac-c462a1f393c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 3532,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -72,18 +84,6 @@
       "rating_count": 43970,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 7,
-      "app_id": "6752672568",
-      "app_name": "Block Out! - Color Sort Puzzle",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/ba/a8/f9baa8ca-6eee-5c55-40ac-c462a1f393c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 3532,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 8,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 686041,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1924548,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 252100,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 445,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 242132,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 14122,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 15945,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -195,42 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "6760320099",
-      "app_name": "FIFA Heroes: Football Action",
-      "developer": "Solace Games SARL",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/f1/e6/19f1e647-1a8b-e930-fcf2-406535b28d87/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 1292,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "1443446174",
-      "app_name": "Magic Tiles 3™: Piano Game",
-      "developer": "Amanotes Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/fc/c8/99fcc84a-8981-20a0-2b97-fffc730e73ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 24152,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "1351168404",
-      "app_name": "Among Us!",
-      "developer": "InnerSloth LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.8,
-      "rating_count": 38695,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -238,8 +202,44 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 25411,
-      "change": "new",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 18,
+      "app_id": "6760320099",
+      "app_name": "FIFA Heroes: Football Action",
+      "developer": "Solace Games SARL",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/f1/e6/19f1e647-1a8b-e930-fcf2-406535b28d87/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 1292,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "1443446174",
+      "app_name": "Magic Tiles 3™: Piano Game",
+      "developer": "Amanotes Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/fc/c8/99fcc84a-8981-20a0-2b97-fffc730e73ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 24152,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 20,
+      "app_id": "1351168404",
+      "app_name": "Among Us!",
+      "developer": "InnerSloth LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.8,
+      "rating_count": 38695,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
