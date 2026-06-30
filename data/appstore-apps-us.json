@@ -3,27 +3,27 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "1632713844",
-      "app_name": "Kalshi: Trade the World Cup",
-      "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/31/04/9a3104f0-32f7-25c0-b555-40e0c9c9f9de/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 262825,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6767364919",
       "app_name": "Trump Accounts: Official App",
       "developer": "U.S. Department of the Treasury",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/9a/65/fa9a650f-92ba-c834-22df-88ad3b1c18a3/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.8,
-      "rating_count": 286,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 288,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "1632713844",
+      "app_name": "Kalshi: Trade the World Cup",
+      "developer": "KalshiEX LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/31/04/9a3104f0-32f7-25c0-b555-40e0c9c9f9de/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 263541,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -33,7 +33,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/59/ed/2259edf9-6bd5-a17a-c035-074aac0954d2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 8278817,
+      "rating_count": 8283280,
       "change": "=",
       "change_val": 0
     },
@@ -45,33 +45,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/03/31/b10331b9-d8c8-eb9c-3530-173124c851b1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3476374,
+      "rating_count": 3476906,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 5,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/85/a7/8c85a75b-032e-2680-19b0-5f93fae1a744/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2051540,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
       "app_id": "6746049430",
       "app_name": "FOX One: Live News, Sports, TV",
       "developer": "Fox Digital Services, LLC",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/cb/bf/07cbbf1c-d224-1301-a05e-cdcfb8450f01/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 67554,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/4b/b4/734bb4e9-6ba5-4087-0e2d-c7d3e64df4c9/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2050971,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 67578,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -81,7 +81,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a2/ae/27a2aeee-5add-54a7-5624-9b17f6416a1a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 88025,
+      "rating_count": 88063,
       "change": "=",
       "change_val": 0
     },
@@ -93,36 +93,60 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/77/7c/3c777c1c-00a8-e928-e4a2-408ceeceeb7d/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2149683,
+      "rating_count": 2149764,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a8/91/99a89102-0509-7ef5-c5ca-fe437b86ac53/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1923327,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/12/4b/e4124b48-17cc-8c04-7819-bd86d3dbca5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 187055,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 187200,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a8/91/99a89102-0509-7ef5-c5ca-fe437b86ac53/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1924114,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/70/47/4370474c-620e-4c2c-1b96-1cd4f306402e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 7254276,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 12,
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/f8/73/53f873c7-701f-a9f4-59a5-7cae014f4591/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 891101,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 13,
       "app_id": "1465944282",
       "app_name": "Love Island USA",
       "developer": "ITV America Inc.",
@@ -130,116 +154,92 @@
       "installs": "",
       "rating": 1.9,
       "rating_count": 6017,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2f/ab/932fab9e-d387-6f31-5a20-348a233ec70e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 88962,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/70/47/4370474c-620e-4c2c-1b96-1cd4f306402e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 7254018,
-      "change": "=",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 14,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/f8/73/53f873c7-701f-a9f4-59a5-7cae014f4591/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 890647,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/dd/c7/e3ddc776-dd9b-a7b2-4b3a-72b503b33948/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 4750087,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 4751005,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2f/ab/932fab9e-d387-6f31-5a20-348a233ec70e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 89025,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 16,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/7a/26/277a26f8-8717-460d-a84e-50e0ef39f7ec/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18168155,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/96/b8/da96b849-147f-2a4c-161d-1c1b5188da4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1113374,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/07/80/9e0780a1-a366-bd3d-0a70-1cf689cb1f8f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18166957,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 1113379,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
+      "app_id": "1558240027",
+      "app_name": "Meta AI",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/c0/6d/82c06d28-e733-1545-6ecf-f2948a9315e5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 145883,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/13/58/a61358f5-1a8a-29cc-7d3a-48f46bcfe7d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 882328,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 882500,
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "app_id": "632064380",
       "app_name": "Vinted: Pre-loved marketplace",
       "developer": "Vinted Limited",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/fc/09/e9fc0918-8775-83aa-8e8d-9c414b9fbda3/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 100054,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "6648798962",
-      "app_name": "Polymarket: Trade Soccer",
-      "developer": "Polymarket",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ac/5e/4aac5e3b-dc07-b3fa-bc04-59f4faf004db/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 41205,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 100224,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
