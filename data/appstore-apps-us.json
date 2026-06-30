@@ -9,9 +9,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/31/04/9a3104f0-32f7-25c0-b555-40e0c9c9f9de/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 262178,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 262825,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 286,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -33,7 +33,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/03/31/b10331b9-d8c8-eb9c-3530-173124c851b1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3475053,
+      "rating_count": 3476374,
       "change": "=",
       "change_val": 0
     },
@@ -45,7 +45,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/59/ed/2259edf9-6bd5-a17a-c035-074aac0954d2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 8273871,
+      "rating_count": 8278817,
       "change": "=",
       "change_val": 0
     },
@@ -57,21 +57,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/72/e1/3972e181-72b9-8cfd-51c0-42e56b594e6b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 67500,
+      "rating_count": 67554,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 6,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2f/ab/932fab9e-d387-6f31-5a20-348a233ec70e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1673567402",
+      "app_name": "Freecash - Get Paid Real Money",
+      "developer": "256 REWARDS LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a2/ae/27a2aeee-5add-54a7-5624-9b17f6416a1a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 88496,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.8,
+      "rating_count": 88025,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 7,
@@ -81,45 +81,45 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ff/0f/f4ff0fa3-24a1-f86e-541d-0cac6a3ea260/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 1.9,
-      "rating_count": 6010,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 8,
-      "app_id": "1673567402",
-      "app_name": "Freecash - Get Paid Real Money",
-      "developer": "256 REWARDS LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a2/ae/27a2aeee-5add-54a7-5624-9b17f6416a1a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 87978,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 9,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/77/7c/3c777c1c-00a8-e928-e4a2-408ceeceeb7d/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2149547,
+      "rating_count": 6017,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2f/ab/932fab9e-d387-6f31-5a20-348a233ec70e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 88962,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 9,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/4b/b4/734bb4e9-6ba5-4087-0e2d-c7d3e64df4c9/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 2050394,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 2050971,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/77/7c/3c777c1c-00a8-e928-e4a2-408ceeceeb7d/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2149683,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -129,9 +129,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/12/4b/e4124b48-17cc-8c04-7819-bd86d3dbca5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 186833,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 187055,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -141,9 +141,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a8/91/99a89102-0509-7ef5-c5ca-fe437b86ac53/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1922338,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1923327,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -153,9 +153,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/70/47/4370474c-620e-4c2c-1b96-1cd4f306402e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 7253795,
-      "change": "-5",
-      "change_val": -5
+      "rating_count": 7254018,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -165,9 +165,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/f8/73/53f873c7-701f-a9f4-59a5-7cae014f4591/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 890262,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 890647,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4749244,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -189,33 +189,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/96/b8/da96b849-147f-2a4c-161d-1c1b5188da4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1113330,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1113374,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/13/58/a61358f5-1a8a-29cc-7d3a-48f46bcfe7d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 882042,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 18,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/07/80/9e0780a1-a366-bd3d-0a70-1cf689cb1f8f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 18165780,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 18166957,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/13/58/a61358f5-1a8a-29cc-7d3a-48f46bcfe7d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 882328,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
@@ -225,20 +225,20 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/fc/09/e9fc0918-8775-83aa-8e8d-9c414b9fbda3/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 99987,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 100054,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
       "app_id": "6648798962",
       "app_name": "Polymarket: Trade Soccer",
       "developer": "Polymarket",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/9b/60/0f9b607e-0997-c73b-be80-7f20b6153aae/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ac/5e/4aac5e3b-dc07-b3fa-bc04-59f4faf004db/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 41116,
-      "change": "new",
+      "rating_count": 41205,
+      "change": "=",
       "change_val": 0
     }
   ]
