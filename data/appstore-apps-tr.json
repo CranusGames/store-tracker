@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/12/4b/e4124b48-17cc-8c04-7819-bd86d3dbca5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 5028,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 5,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
@@ -58,23 +46,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 858816,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/12/4b/e4124b48-17cc-8c04-7819-bd86d3dbca5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 5028,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 6,
-      "app_id": "6445905219",
-      "app_name": "DramaBox - Stream Drama Shorts",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b4/f9/11b4f9fa-7b05-dc6c-b3bb-df82347a51c6/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 7512,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 7,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9256,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6445905219",
+      "app_name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b4/f9/11b4f9fa-7b05-dc6c-b3bb-df82347a51c6/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 7512,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -94,23 +94,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 170636,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548204,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 10,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -118,8 +106,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 444901,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 548204,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2093545,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 393024,
-      "change": "+6",
-      "change_val": 6
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918580,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,11 +166,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3004958,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
+      "app_id": "458627086",
+      "app_name": "Yapı Kredi Mobile",
+      "developer": "Yapı ve Kredi Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/46/f8/d046f884-824d-533c-923b-f9bd48eeb4c3/AppIconNew-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1536567,
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 16,
       "app_id": "6478287397",
       "app_name": "Speak & Learn English: Learna",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
@@ -178,11 +190,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 23887,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -190,23 +202,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 92949,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 17,
-      "app_id": "284815942",
-      "app_name": "Google - More ways to search",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/dd/c7/e3ddc776-dd9b-a7b2-4b3a-72b503b33948/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 331037,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
+      "app_id": "885993234",
+      "app_name": "Ziraat Mobil",
+      "developer": "T.C. Ziraat Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/19/25/39192572-e8fc-06e0-bdab-39a0d651fbbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1671267,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
       "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
@@ -218,28 +230,16 @@
       "change_val": -1
     },
     {
-      "rank": 19,
-      "app_id": "458627086",
-      "app_name": "Yapı Kredi Mobile",
-      "developer": "Yapı ve Kredi Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/46/f8/d046f884-824d-533c-923b-f9bd48eeb4c3/AppIconNew-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1536567,
-      "change": "new",
-      "change_val": 0
-    },
-    {
       "rank": 20,
-      "app_id": "1539508996",
-      "app_name": "CDAS",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/96/e1/d296e1f3-27ec-0dc1-a239-f75abfea25f3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/dd/c7/e3ddc776-dd9b-a7b2-4b3a-72b503b33948/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 42804,
-      "change": "new",
-      "change_val": 0
+      "rating": 4.4,
+      "rating_count": 331037,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }

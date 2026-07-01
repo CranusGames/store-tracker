@@ -70,8 +70,8 @@
       "installs": "500,000,000+",
       "rating": 3.8,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -183,18 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "com.tencent.ig",
-      "app_name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "icon_url": "https://play-lh.googleusercontent.com/Se7jR6A5R0Mk9ClaIguf46yi2K3k32JsqKb3gAtrktIh3JwnFfxrQRmG9GLvdMpbxbMrReUOxzDkStxGxNo-5Q",
-      "installs": "1,000,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -202,8 +190,20 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "com.tencent.ig",
+      "app_name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "icon_url": "https://play-lh.googleusercontent.com/Se7jR6A5R0Mk9ClaIguf46yi2K3k32JsqKb3gAtrktIh3JwnFfxrQRmG9GLvdMpbxbMrReUOxzDkStxGxNo-5Q",
+      "installs": "1,000,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -236,9 +236,9 @@
       "developer": "VOODOO",
       "icon_url": "https://play-lh.googleusercontent.com/eYc7EHSPfZCXbS-oj4mdPH3sSX6ljrhAJntv-bN9zrRHp8qjuroDo_kknhgb0Tu4UGnl5DdkYCW1paSNlspt",
       "installs": "100,000,000+",
-      "rating": 4.4,
+      "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]

@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 8301184,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 69958,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2053171,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 187827,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,11 +142,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 42710,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/8c/32/7c8c3228-7830-f26d-e609-06ce2ea68c54/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1927286,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 14,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -154,11 +166,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4754481,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -170,31 +182,7 @@
       "change_val": -1
     },
     {
-      "rank": 15,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/8c/32/7c8c3228-7830-f26d-e609-06ce2ea68c54/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1927286,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 16,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/13/58/a61358f5-1a8a-29cc-7d3a-48f46bcfe7d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 883510,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -202,8 +190,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18172339,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/13/58/a61358f5-1a8a-29cc-7d3a-48f46bcfe7d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 883510,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 892806,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,19 +226,19 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1113488,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "719972451",
-      "app_name": "DoorDash: Food, Grocery, More",
-      "developer": "DoorDash, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/72/c4/9d72c4dd-c76c-c027-7c02-d7763f4af0d6/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/70/47/4370474c-620e-4c2c-1b96-1cd4f306402e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 22529013,
-      "change": "=",
+      "rating": 4.7,
+      "rating_count": 7255185,
+      "change": "new",
       "change_val": 0
     }
   ]
