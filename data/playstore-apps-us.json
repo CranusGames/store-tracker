@@ -10,11 +10,23 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 2,
+      "app_id": "com.snapchat.android",
+      "app_name": "Snapchat",
+      "developer": "Snap Inc",
+      "icon_url": "https://play-lh.googleusercontent.com/nOJWJoDAzuRSHmlFfpzHXAj8UbTJwk_JGYf0uAPTKPtiiIX_2Y7r5ATO1ZtxHRqaFTqfIDZ40PnBK4hukeJh",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 3,
       "app_id": "com.facebook.katana",
       "app_name": "Facebook",
       "developer": "Meta Platforms, Inc.",
@@ -22,11 +34,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 3,
+      "rank": 4,
       "app_id": "com.facebook.lite",
       "app_name": "Facebook Lite",
       "developer": "Meta Platforms, Inc.",
@@ -34,11 +46,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "app_id": "sg.bigo.live",
       "app_name": "Bigo Live - Live Streaming App",
       "developer": "Bigo Technology Pte. Ltd.",
@@ -46,11 +58,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 5,
+      "rank": 6,
       "app_id": "com.pinterest",
       "app_name": "Pinterest",
       "developer": "Pinterest",
@@ -58,11 +70,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "app_id": "com.instagram.android",
       "app_name": "Instagram",
       "developer": "Instagram",
@@ -70,11 +82,11 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "app_id": "com.newsclapper.video",
       "app_name": "Clapper: Video, Live, Chat",
       "developer": "Clapper Media Group Inc.",
@@ -82,20 +94,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
-      "app_id": "com.discord",
-      "app_name": "Discord - Talk, Play, Hang Out",
-      "developer": "Discord Inc.",
-      "icon_url": "https://play-lh.googleusercontent.com/w2DdjDHGSj3DQElQQM0_J3PsNsALS-WD3CBeH0aXOYceR-F3aT02gFonhoFzz-Tc9ec8Dx9cLqh48-tzIFcP",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -106,7 +106,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -118,7 +118,7 @@
       "installs": "",
       "rating": 3.0,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -130,7 +130,7 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -142,7 +142,7 @@
       "installs": "",
       "rating": 3.7,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -154,7 +154,7 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -166,7 +166,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -178,7 +178,7 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -190,7 +190,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -202,7 +202,7 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -214,27 +214,27 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "com.meetup",
-      "app_name": "Meetup: Social Events & Groups",
-      "developer": "Meetup",
-      "icon_url": "https://play-lh.googleusercontent.com/0MR37odCF8CmwYM3gQEiPzlDMI0svuLQ-wqciKDrYU089-diyI-DIfxzEF7xmtXvP3_fnBfbkKrhp8HvIWo2E_A",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "com.dearu.bubble.jyp",
       "app_name": "bubble for JYPnation",
       "developer": "Dear U Co., Ltd.",
       "icon_url": "https://play-lh.googleusercontent.com/g9VT6kLZXrajhTi_y8PhZy3ukW2JlFSN7Buds5CgVoHATQke10yVeQXNbkv-UDeWbAXOSUzhRtVSJrrtwiSUaJQ",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.hubolabs.hubo",
+      "app_name": "purp - Make new friends",
+      "developer": "hubo Labs",
+      "icon_url": "https://play-lh.googleusercontent.com/eg2NeyzBdi8lsttI3VqJDtkKmr2b1TmH_nUrohtRfZ60iZ1DMTbUSuWweXBY8rpRJNn-9ZiYRSDxQj4LERljhQ",
       "installs": "",
       "rating": 4.1,
       "rating_count": 0,
