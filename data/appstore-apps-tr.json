@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "rankings": [
     {
       "rank": 1,
@@ -51,15 +51,15 @@
     },
     {
       "rank": 5,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/12/4b/e4124b48-17cc-8c04-7819-bd86d3dbca5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/44/60/b34460c8-fd27-3494-ca70-cb4effc83b5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.4,
-      "rating_count": 5053,
-      "change": "=",
-      "change_val": 0
+      "rating": 3.4,
+      "rating_count": 9259,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 6,
@@ -75,15 +75,15 @@
     },
     {
       "rank": 7,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/44/60/b34460c8-fd27-3494-ca70-cb4effc83b5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/12/4b/e4124b48-17cc-8c04-7819-bd86d3dbca5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.4,
-      "rating_count": 9259,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.4,
+      "rating_count": 5053,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 8,
@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "1068841746",
-      "app_name": "Halkbank Mobil",
-      "developer": "Turkiye Halk Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/d0/4a/09d04acf-fa00-78dc-4391-b04cdd65ea82/HBAppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 393020,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -166,8 +154,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3005397,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "1068841746",
+      "app_name": "Halkbank Mobil",
+      "developer": "Turkiye Halk Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/d0/4a/09d04acf-fa00-78dc-4391-b04cdd65ea82/HBAppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 393020,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -183,6 +183,42 @@
     },
     {
       "rank": 16,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/dd/c7/e3ddc776-dd9b-a7b2-4b3a-72b503b33948/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 331194,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Music & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/d2/09/0ed209b5-445a-9328-a64c-afa958e1c889/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 1061528,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 18,
+      "app_id": "6775603987",
+      "app_name": "Boothie: AI Photo Editor",
+      "developer": "KEREMCAN SEKER",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/7b/2a/927b2ad0-bdbf-ed0b-3d37-3be424e780fd/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 24,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
       "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
@@ -190,55 +226,19 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 281307,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a5/b5/b4a5b51a-bec7-7397-1031-abb02939cb9e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 69204,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "458627086",
-      "app_name": "Yapı Kredi Mobile",
-      "developer": "Yapı ve Kredi Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/46/f8/d046f884-824d-533c-923b-f9bd48eeb4c3/AppIconNew-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1536861,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/52/7f/c8527f9d-dde2-7cf4-ae0d-d293d31a76ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 367350,
-      "change": "=",
-      "change_val": 0
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 20,
-      "app_id": "6478287397",
-      "app_name": "Speak & Learn English: Learna",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/c2/59/1ec259c5-78a4-1599-dc06-cbef59da8bc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "885993234",
+      "app_name": "Ziraat Mobil",
+      "developer": "T.C. Ziraat Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/19/25/39192572-e8fc-06e0-bdab-39a0d651fbbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 23942,
-      "change": "=",
+      "rating": 4.8,
+      "rating_count": 1671594,
+      "change": "new",
       "change_val": 0
     }
   ]
