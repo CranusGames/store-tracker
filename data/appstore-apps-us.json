@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6746049430",
-      "app_name": "FOX One: Live News, Sports, TV",
-      "developer": "Fox Digital Services, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/cb/bf/07cbbf1c-d224-1301-a05e-cdcfb8450f01/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 73891,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "1465944282",
       "app_name": "Love Island USA",
       "developer": "ITV America Inc.",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 1.9,
       "rating_count": 6040,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6746049430",
+      "app_name": "FOX One: Live News, Sports, TV",
+      "developer": "Fox Digital Services, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/cb/bf/07cbbf1c-d224-1301-a05e-cdcfb8450f01/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 73891,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -94,23 +94,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2058286,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/13/58/a61358f5-1a8a-29cc-7d3a-48f46bcfe7d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 885772,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 10,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
@@ -118,23 +106,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 189617,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 11,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/77/7c/3c777c1c-00a8-e928-e4a2-408ceeceeb7d/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "rank": 10,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/13/58/a61358f5-1a8a-29cc-7d3a-48f46bcfe7d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2151677,
+      "rating": 4.8,
+      "rating_count": 885772,
       "change": "-1",
       "change_val": -1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "1673567402",
       "app_name": "Freecash - Get Paid Real Money",
       "developer": "256 REWARDS LTD",
@@ -142,11 +130,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 89131,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -158,6 +146,18 @@
       "change_val": 1
     },
     {
+      "rank": 13,
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/77/7c/3c777c1c-00a8-e928-e4a2-408ceeceeb7d/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2151677,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
       "rank": 14,
       "app_id": "284815942",
       "app_name": "Google",
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4763856,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 896049,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,7 +190,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1113741,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -202,18 +202,18 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 148527,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/bd/64/16bd649c-c8fb-1b4e-6ed2-be72a2dba618/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a7/5f/6ba75fe7-ab00-ecd9-3ea8-726ec96423bc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 5675,
+      "rating": 4.7,
+      "rating_count": 18183596,
       "change": "+2",
       "change_val": 2
     },
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 43786,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a7/5f/6ba75fe7-ab00-ecd9-3ea8-726ec96423bc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/bd/64/16bd649c-c8fb-1b4e-6ed2-be72a2dba618/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 18183596,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.9,
+      "rating_count": 5675,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
