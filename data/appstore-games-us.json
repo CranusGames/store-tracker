@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "rankings": [
     {
       "rank": 1,
@@ -39,30 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "431946152",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/d6/57/aed65717-e85f-212b-21e0-f57112aa8c02/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 19247101,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
-      "app_id": "6747028173",
-      "app_name": "Hole Stars: Puzzle Game",
-      "developer": "Moon Active",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/40/76/764076e6-446e-3707-0f16-58806ce1b116/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 12777,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -70,23 +46,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1543986,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 7,
-      "app_id": "6499209744",
-      "app_name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/eb/74/91eb749e-60c7-e7d1-1516-a66f14f988ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 5,
+      "app_id": "431946152",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/d6/57/aed65717-e85f-212b-21e0-f57112aa8c02/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 518754,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.5,
+      "rating_count": 19247101,
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 8,
+      "rank": 6,
       "app_id": "6780195090",
       "app_name": "82-0.com",
       "developer": "Vaulty Studios Inc.",
@@ -94,11 +70,11 @@
       "installs": "",
       "rating": 3.6,
       "rating_count": 48,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 9,
+      "rank": 7,
       "app_id": "1550945606",
       "app_name": "Soccer Superstar",
       "developer": "Real Free Soccer",
@@ -106,8 +82,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 288287,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 8,
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/eb/74/91eb749e-60c7-e7d1-1516-a66f14f988ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 518754,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 9,
+      "app_id": "6747028173",
+      "app_name": "Hole Stars: Puzzle Game",
+      "developer": "Moon Active",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/40/76/764076e6-446e-3707-0f16-58806ce1b116/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 12777,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 10,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 29196,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
@@ -142,23 +130,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2566052,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 29196,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
-      "app_id": "1274132545",
-      "app_name": "Total Battle: War Strategy",
-      "developer": "Scorewarrior",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/90/17/b8901731-ae0f-52d4-f461-da14d23cd7e5/crowd_multipliers_v6-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 59146,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "6758326278",
       "app_name": "Amaze GO!",
       "developer": "Oakever Games",
@@ -166,23 +154,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 125296,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "1274132545",
+      "app_name": "Total Battle: War Strategy",
+      "developer": "Scorewarrior",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/90/17/b8901731-ae0f-52d4-f461-da14d23cd7e5/crowd_multipliers_v6-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 59146,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
-      "app_id": "6754839783",
-      "app_name": "Bubble Word Jam",
-      "developer": "Lion Studios Plus",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/00/67/af00678f-7b07-e763-c9bf-035e7b098e90/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 39997,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "6475757306",
       "app_name": "Disney Solitaire",
       "developer": "SuperPlay",
@@ -190,35 +178,35 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 632104,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6754839783",
+      "app_name": "Bubble Word Jam",
+      "developer": "Lion Studios Plus",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/00/67/af00678f-7b07-e763-c9bf-035e7b098e90/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 39997,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
-      "app_id": "6751056652",
-      "app_name": "Pixel Flow!",
-      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/a0/72/52a072fa-b8a2-ea6a-23e9-fdedc6587157/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/22/eed22297-9313-d8b0-52c8-95f42a2795b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 112665,
-      "change": "=",
+      "rating_count": 200568,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 18,
-      "app_id": "1621328561",
-      "app_name": "MONOPOLY GO!",
-      "developer": "Scopely, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/c4/b2/3ac4b2be-3e3e-eb42-295c-7233645a3e3b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3739538,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "6483539426",
       "app_name": "Fortnite",
       "developer": "Epic Games Inc.",
@@ -226,8 +214,20 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 160008,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "1621328561",
+      "app_name": "MONOPOLY GO!",
+      "developer": "Scopely, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/c4/b2/3ac4b2be-3e3e-eb42-295c-7233645a3e3b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3739538,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,

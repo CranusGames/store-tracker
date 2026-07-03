@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "rankings": [
     {
       "rank": 1,
@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6746049430",
-      "app_name": "FOX One: Live News, Sports, TV",
-      "developer": "Fox Digital Services, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/cb/bf/07cbbf1c-d224-1301-a05e-cdcfb8450f01/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 72671,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6447582581",
       "app_name": "Netflix Game Controller",
       "developer": "Netflix, Inc.",
@@ -58,11 +46,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 91624,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "6767364919",
       "app_name": "Trump Accounts: Official App",
       "developer": "U.S. Department of the Treasury",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 3.6,
       "rating_count": 373,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6746049430",
+      "app_name": "FOX One: Live News, Sports, TV",
+      "developer": "Fox Digital Services, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/cb/bf/07cbbf1c-d224-1301-a05e-cdcfb8450f01/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 72671,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 7,
@@ -183,30 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/96/b8/da96b849-147f-2a4c-161d-1c1b5188da4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1113676,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "6648798962",
-      "app_name": "Polymarket: Trade Soccer",
-      "developer": "Polymarket",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ac/5e/4aac5e3b-dc07-b3fa-bc04-59f4faf004db/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 43464,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -214,11 +190,47 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7257233,
-      "change": "=",
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "1558240027",
+      "app_name": "Meta AI",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/c0/6d/82c06d28-e733-1545-6ecf-f2948a9315e5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 148119,
+      "change": "new",
       "change_val": 0
     },
     {
+      "rank": 18,
+      "app_id": "6648798962",
+      "app_name": "Polymarket: Trade Soccer",
+      "developer": "Polymarket",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ac/5e/4aac5e3b-dc07-b3fa-bc04-59f4faf004db/AppIcon2-0-1x_U007ephone-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 43464,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 19,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/96/b8/da96b849-147f-2a4c-161d-1c1b5188da4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1113676,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 20,
       "app_id": "1488269261",
       "app_name": "Whatnot: Shop, Sell, Connect",
       "developer": "Whatnot Inc.",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 895295,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/34/35/cb343554-912b-362c-fc4b-c94adef17fa0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 117124,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
