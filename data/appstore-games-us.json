@@ -6,7 +6,7 @@
       "app_id": "6761760135",
       "app_name": "Meowdoku!",
       "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/fe/6d/fcfe6dcf-aa1d-ef3f-e01d-e5eac2d16178/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/94/22/0294222d-f02b-3074-9f1c-456a6a0e3269/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
       "rating_count": 52816,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 520990,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1547337,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 29686,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 290405,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 287556,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 3.6,
       "rating_count": 60,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 186232,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2419671,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 113397,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,7 +226,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 202652,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 787083,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
