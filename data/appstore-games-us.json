@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/fe/6d/fcfe6dcf-aa1d-ef3f-e01d-e5eac2d16178/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 52366,
+      "rating_count": 52816,
       "change": "=",
       "change_val": 0
     },
@@ -21,7 +21,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/08/a3/2b08a3fc-17de-ea89-b12c-da20274add92/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 67356,
+      "rating_count": 68459,
       "change": "=",
       "change_val": 0
     },
@@ -33,7 +33,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/22/df/4222df44-fbaa-9fe1-f732-d1aec055395c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 105155,
+      "rating_count": 105536,
       "change": "=",
       "change_val": 0
     },
@@ -45,7 +45,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/40/76/764076e6-446e-3707-0f16-58806ce1b116/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 13750,
+      "rating_count": 14026,
       "change": "=",
       "change_val": 0
     },
@@ -57,9 +57,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/d6/57/aed65717-e85f-212b-21e0-f57112aa8c02/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 19264606,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 19267898,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -69,9 +69,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/e1/a7/98e1a71c-41b2-d28b-7b68-f385772c57e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 1546745,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 1547337,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -81,7 +81,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/eb/74/91eb749e-60c7-e7d1-1516-a66f14f988ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 520606,
+      "rating_count": 520990,
       "change": "=",
       "change_val": 0
     },
@@ -93,33 +93,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/33/f3/6f33f30b-be06-13d9-8ac1-620fdf9094ce/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 290107,
+      "rating_count": 290405,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "6780195090",
-      "app_name": "82-0.com",
-      "developer": "Vaulty Studios Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/86/77/c686776e-de67-db1c-e029-dbc9f0491a43/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.6,
-      "rating_count": 59,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/c3/b3/3ac3b3bb-a768-8bc1-b1b2-fcc291a55b43/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 2569195,
+      "rating_count": 2569677,
       "change": "+1",
       "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "6780195090",
+      "app_name": "82-0.com",
+      "developer": "Vaulty Studios Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/86/77/c686776e-de67-db1c-e029-dbc9f0491a43/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.6,
+      "rating_count": 60,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -129,9 +129,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 29600,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 29686,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -141,9 +141,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/12/50/8d12503f-10ab-e482-7ec1-5088c4af8cd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 286888,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 287556,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -153,9 +153,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/76/5f/86765fea-b7f7-dcd0-6446-0dd01ca74367/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 634051,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 634393,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -165,81 +165,81 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/bf/d0/f7bfd044-79b8-1a38-3434-c048b71ab044/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 126762,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 15,
-      "app_id": "1274132545",
-      "app_name": "Total Battle: War Strategy",
-      "developer": "Scorewarrior",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/ed/2f/c5ed2f60-b5ed-75e6-b265-1e3853639f8c/crowd_multipliers_v6-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 59367,
+      "rating_count": 127026,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "6483539426",
       "app_name": "Fortnite",
       "developer": "Epic Games Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/41/14/5041140b-3d2b-f766-61c0-72c359df6be3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 160203,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 160235,
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/22/eed22297-9313-d8b0-52c8-95f42a2795b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 200935,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "app_id": "1094930513",
       "app_name": "EA SPORTS FC Soccer Mobile 26",
       "developer": "Electronic Arts",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/c5/4e/07c54e36-942e-ccbf-0bf7-c125f1261d42/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2419167,
-      "change": "new",
-      "change_val": 0
+      "rating_count": 2419671,
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 19,
-      "app_id": "6443575749",
-      "app_name": "Whiteout Survival",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/1e/1d/e51e1db7-4655-6bb8-9441-af76dbfd291c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 17,
+      "app_id": "1274132545",
+      "app_name": "Total Battle: War Strategy",
+      "developer": "Scorewarrior",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/ed/2f/c5ed2f60-b5ed-75e6-b265-1e3853639f8c/crowd_multipliers_v6-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 437646,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 59415,
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 20,
+      "rank": 18,
       "app_id": "6754839783",
       "app_name": "Bubble Word Jam",
       "developer": "Lion Studios Plus",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/00/67/af00678f-7b07-e763-c9bf-035e7b098e90/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 41234,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 41424,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "1443446174",
+      "app_name": "Magic Tiles 3™: Piano Game",
+      "developer": "Amanotes Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/4b/af/554baf30-f875-e625-61ad-3687035eead3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 787083,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "1621328561",
+      "app_name": "MONOPOLY GO!",
+      "developer": "Scopely, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/c4/b2/3ac4b2be-3e3e-eb42-295c-7233645a3e3b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3741598,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }

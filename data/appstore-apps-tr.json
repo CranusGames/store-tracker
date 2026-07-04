@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.4,
-      "rating_count": 1170,
+      "rating_count": 1171,
       "change": "=",
       "change_val": 0
     },
@@ -21,7 +21,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/85/a7/8c85a75b-032e-2680-19b0-5f93fae1a744/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 37892,
+      "rating_count": 37935,
       "change": "=",
       "change_val": 0
     },
@@ -33,7 +33,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/9e/a0/709ea03e-1096-f8bc-f83e-748733113732/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 331146,
+      "rating_count": 331202,
       "change": "=",
       "change_val": 0
     },
@@ -45,33 +45,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/59/ed/2259edf9-6bd5-a17a-c035-074aac0954d2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 864508,
+      "rating_count": 864601,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 5,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/68/cc/4f68cc8c-80e7-42ed-032e-1c21e9e61864/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 444957,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/4c/cf/584ccf64-f35c-ad86-5a1a-f1d1e8e30f83/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 170775,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 170778,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/68/cc/4f68cc8c-80e7-42ed-032e-1c21e9e61864/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 444958,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -81,9 +81,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.4,
-      "rating_count": 9269,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 9270,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -93,12 +93,24 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/cb/e9/cbcbe9b0-4d87-cce4-9315-9cd16b964ede/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1918677,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 1918678,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/96/b8/da96b849-147f-2a4c-161d-1c1b5188da4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 93004,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 10,
       "app_id": "980446169",
       "app_name": "e-Nabız",
       "developer": "T.C. Saglik Bakanligi",
@@ -106,32 +118,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548214,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/eb/b7/c3ebb7b4-a5a0-7b7b-23e4-cdbeec524bab/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2097583,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/96/b8/da96b849-147f-2a4c-161d-1c1b5188da4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 93002,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 2097638,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -141,9 +141,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/ce/09/93ce09e4-82bc-da79-b1f6-669c250a8447/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3007004,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 3007047,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -153,8 +153,8 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/dd/c7/e3ddc776-dd9b-a7b2-4b3a-72b503b33948/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 331828,
-      "change": "new",
+      "rating_count": 331853,
+      "change": "=",
       "change_val": 0
     },
     {
@@ -165,12 +165,36 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/7b/20/bd7b209f-b3ee-a33c-8ca8-56759847ada3/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 282898,
+      "rating_count": 282935,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 15,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Music & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/d2/09/0ed209b5-445a-9328-a64c-afa958e1c889/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 1061693,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6445905219",
+      "app_name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/32/52/aa32529a-06fd-19b8-222a-5b7cae614489/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 7632,
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 17,
       "app_id": "1234494259",
       "app_name": "Cepte Şok",
       "developer": "Şok Marketler Tic. A.Ş.",
@@ -178,23 +202,35 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 69206,
-      "change": "-3",
-      "change_val": -3
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 16,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Music & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/d2/09/0ed209b5-445a-9328-a64c-afa958e1c889/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "rank": 18,
+      "app_id": "535886823",
+      "app_name": "Google Chrome",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/fb/23/24fb2330-fa37-0a94-3424-909a93fc9151/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 1061689,
+      "rating_count": 188046,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 17,
+      "rank": 19,
+      "app_id": "995280265",
+      "app_name": "getir: groceries, food&beyond",
+      "developer": "Getir",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/71/91/d1719148-eace-8b93-56ba-9361a0b91bab/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1063354,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 20,
       "app_id": "1068841746",
       "app_name": "Halkbank Mobil",
       "developer": "Turkiye Halk Bankasi A.S.",
@@ -202,42 +238,6 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 393028,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 18,
-      "app_id": "995280265",
-      "app_name": "getir: groceries, food&beyond",
-      "developer": "Getir",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/71/91/d1719148-eace-8b93-56ba-9361a0b91bab/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1063353,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "885993234",
-      "app_name": "Ziraat Mobil",
-      "developer": "T.C. Ziraat Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/19/25/39192572-e8fc-06e0-bdab-39a0d651fbbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1672683,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "6445905219",
-      "app_name": "DramaBox - Stream Drama Shorts",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/32/52/aa32529a-06fd-19b8-222a-5b7cae614489/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 7629,
       "change": "-3",
       "change_val": -3
     }
