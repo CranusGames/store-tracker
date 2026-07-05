@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 3.6,
       "rating_count": 429,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 8395788,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3498000,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,11 +70,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2063909,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 7,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/9e/a0/709ea03e-1096-f8bc-f83e-748733113732/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1945061,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "app_id": "1465944282",
       "app_name": "Love Island USA",
       "developer": "ITV America Inc.",
@@ -86,28 +98,16 @@
       "change_val": -1
     },
     {
-      "rank": 8,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/9e/a0/709ea03e-1096-f8bc-f83e-748733113732/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "rank": 9,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/12/4b/e4124b48-17cc-8c04-7819-bd86d3dbca5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1945061,
+      "rating_count": 191527,
       "change": "+2",
       "change_val": 2
-    },
-    {
-      "rank": 9,
-      "app_id": "368677368",
-      "app_name": "Uber - Request a ride",
-      "developer": "Uber Technologies, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/80/40/3880406f-0440-4790-e1d9-072081690b20/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 16298000,
-      "change": "-1",
-      "change_val": -1
     },
     {
       "rank": 10,
@@ -118,20 +118,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 6530,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/12/4b/e4124b48-17cc-8c04-7819-bd86d3dbca5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "368677368",
+      "app_name": "Uber - Request a ride",
+      "developer": "Uber Technologies, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/80/40/3880406f-0440-4790-e1d9-072081690b20/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 191527,
-      "change": "+2",
-      "change_val": 2
+      "rating": 4.9,
+      "rating_count": 16298000,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 12,
@@ -154,23 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 77136,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 14,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/13/58/a61358f5-1a8a-29cc-7d3a-48f46bcfe7d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 889502,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -182,31 +170,19 @@
       "change_val": 1
     },
     {
+      "rank": 15,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/13/58/a61358f5-1a8a-29cc-7d3a-48f46bcfe7d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 889502,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 16,
-      "app_id": "1558240027",
-      "app_name": "Meta AI",
-      "developer": "Meta Platforms, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/1e/8d/b41e8da1-34d8-40a5-1a89-cfef0c6eeb56/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 150646,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 17,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/4c/cf/584ccf64-f35c-ad86-5a1a-f1d1e8e30f83/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 7260883,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 18,
       "app_id": "6670430706",
       "app_name": "DramaWave - Dramas & Reels",
       "developer": "SKYWORK AI PTE LTD",
@@ -214,11 +190,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 118829,
-      "change": "new",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 19,
+      "rank": 17,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -226,19 +202,43 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4774262,
-      "change": "-2",
-      "change_val": -2
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 18,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/4c/cf/584ccf64-f35c-ad86-5a1a-f1d1e8e30f83/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 7260883,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "1558240027",
+      "app_name": "Meta AI",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/1e/8d/b41e8da1-34d8-40a5-1a89-cfef0c6eeb56/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 150646,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 20,
-      "app_id": "333903271",
-      "app_name": "X",
-      "developer": "X Corp.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/62/95/c16295f7-c351-d861-49fc-37f3e3cbf127/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/f8/73/53f873c7-701f-a9f4-59a5-7cae014f4591/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 10837325,
-      "change": "=",
+      "rating": 4.7,
+      "rating_count": 899322,
+      "change": "new",
       "change_val": 0
     }
   ]
