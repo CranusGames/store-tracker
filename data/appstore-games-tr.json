@@ -87,18 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/64/4b/4e644b17-b652-23f4-e1c4-a1292948e57c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 327507,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "1597760047",
       "app_name": "OneState RP: Role Play Online",
       "developer": "CHILLBASE LTD",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 533,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/64/4b/4e644b17-b652-23f4-e1c4-a1292948e57c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 327507,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -147,15 +147,15 @@
     },
     {
       "rank": 13,
-      "app_id": "1423046460",
-      "app_name": "Paper.io 2",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/e0/b4/c3e0b43a-dd75-6a0d-d7d9-247a241fb1d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6475003879",
+      "app_name": "Tabu Kelime 2026",
+      "developer": "Yavuz Selim Yildirim",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.4,
-      "rating_count": 64753,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.3,
+      "rating_count": 453,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 14,
@@ -171,30 +171,18 @@
     },
     {
       "rank": 15,
-      "app_id": "6475003879",
-      "app_name": "Tabu Kelime 2026",
-      "developer": "Yavuz Selim Yildirim",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1423046460",
+      "app_name": "Paper.io 2",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/e0/b4/c3e0b43a-dd75-6a0d-d7d9-247a241fb1d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 453,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.4,
+      "rating_count": 64753,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
-      "app_id": "6630378924",
-      "app_name": "Stickman GO",
-      "developer": "HAPPY TIME GAMES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/81/60/de8160eb-2961-8b77-d1bb-a14df079812b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1,
-      "rating_count": 2,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -202,8 +190,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 25821,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "6630378924",
+      "app_name": "Stickman GO",
+      "developer": "HAPPY TIME GAMES",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/81/60/de8160eb-2961-8b77-d1bb-a14df079812b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1,
+      "rating_count": 2,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "6746328263",
-      "app_name": "Castle Busters",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/75/a7/6075a711-ffdd-6b6c-2931-6eaf6520e5c6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/d2/22/eed22297-9313-d8b0-52c8-95f42a2795b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 3382,
-      "change": "=",
+      "rating_count": 16191,
+      "change": "new",
       "change_val": 0
     }
   ]
