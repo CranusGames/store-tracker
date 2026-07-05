@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.4,
-      "rating_count": 0,
+      "rating_count": 1207,
       "change": "=",
       "change_val": 0
     },
@@ -75,30 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/68/cc/4f68cc8c-80e7-42ed-032e-1c21e9e61864/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 444970,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
-      "app_id": "6445905219",
-      "app_name": "DramaBox - Stream Drama Shorts",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/32/52/aa32529a-06fd-19b8-222a-5b7cae614489/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 7670,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "1511527605",
       "app_name": "Museums of Türkiye - Official",
       "developer": "T. C. Kültür ve Turizm Bakanlığı",
@@ -106,8 +82,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 85086,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 8,
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/68/cc/4f68cc8c-80e7-42ed-032e-1c21e9e61864/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 444970,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 9,
+      "app_id": "6445905219",
+      "app_name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/32/52/aa32529a-06fd-19b8-222a-5b7cae614489/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 7670,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/ac/94/89ac9413-c3fb-7d5d-86ae-a3a3b49710db/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 18344,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
       "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
@@ -166,23 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 283733,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
-      "app_id": "995280265",
-      "app_name": "getir: groceries, food&beyond",
-      "developer": "Getir",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/71/91/d1719148-eace-8b93-56ba-9361a0b91bab/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1063529,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -190,11 +166,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3007734,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/ac/94/89ac9413-c3fb-7d5d-86ae-a3a3b49710db/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 18344,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
       "app_id": "6476751203",
       "app_name": "Hayat Pay",
       "developer": "HAYAT FINANS KATILIM BANKASI ANONIM SIRKETI",
@@ -202,8 +190,20 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 847,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "995280265",
+      "app_name": "getir: groceries, food&beyond",
+      "developer": "Getir",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/71/91/d1719148-eace-8b93-56ba-9361a0b91bab/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1063529,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
@@ -219,14 +219,14 @@
     },
     {
       "rank": 19,
-      "app_id": "596039443",
-      "app_name": "obilet: Bus Train Flight",
-      "developer": "OBILET BILISIM SISTEMLERI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/a1/9f/faa19fb8-db51-1e72-4b02-5371d2fa5160/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/100x100bb.png",
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/52/7f/c8527f9d-dde2-7cf4-ae0d-d293d31a76ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 191054,
-      "change": "=",
+      "rating_count": 368158,
+      "change": "new",
       "change_val": 0
     },
     {
