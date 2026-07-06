@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6499209744",
-      "app_name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/eb/74/91eb749e-60c7-e7d1-1516-a66f14f988ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 524699,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -58,8 +46,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1552320,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/eb/74/91eb749e-60c7-e7d1-1516-a66f14f988ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 524699,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "6747028173",
-      "app_name": "Hole Stars: Puzzle Game",
-      "developer": "Moon Active",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/6b/13/e26b138e-4dbf-203e-7c27-3ba584041f64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 16331,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "1550945606",
       "app_name": "Soccer Superstar",
       "developer": "Real Free Soccer",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 294116,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6747028173",
+      "app_name": "Hole Stars: Puzzle Game",
+      "developer": "Moon Active",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/6b/13/e26b138e-4dbf-203e-7c27-3ba584041f64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 16331,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -111,30 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "6779167923",
-      "app_name": "Colony Flow!",
-      "developer": "ABI GLOBAL LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/10/9b/62109b9d-e1bf-b789-6c38-f2b2917f7d36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 925,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
-      "app_id": "6748397500",
-      "app_name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore GmbH",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/12/50/8d12503f-10ab-e482-7ec1-5088c4af8cd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 293452,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
@@ -142,8 +118,32 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2575786,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 11,
+      "app_id": "6779167923",
+      "app_name": "Colony Flow!",
+      "developer": "ABI GLOBAL LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/10/9b/62109b9d-e1bf-b789-6c38-f2b2917f7d36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 925,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 12,
+      "app_id": "6748397500",
+      "app_name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore GmbH",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/12/50/8d12503f-10ab-e482-7ec1-5088c4af8cd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 293452,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "6475757306",
-      "app_name": "Disney Solitaire",
-      "developer": "SuperPlay",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/76/5f/86765fea-b7f7-dcd0-6446-0dd01ca74367/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 638677,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "6739554056",
       "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
@@ -190,23 +178,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 201833,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6475757306",
+      "app_name": "Disney Solitaire",
+      "developer": "SuperPlay",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/76/5f/86765fea-b7f7-dcd0-6446-0dd01ca74367/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 638677,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/8e/ce/fc8ece0c-f7d4-90aa-c0fe-956ea08edb9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 186640,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "1094930513",
       "app_name": "EA SPORTS FC Soccer Mobile 26",
       "developer": "Electronic Arts",
@@ -214,8 +202,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2426246,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/8e/ce/fc8ece0c-f7d4-90aa-c0fe-956ea08edb9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 186640,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "6751056652",
-      "app_name": "Pixel Flow!",
-      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/16/10/1a161084-cf70-ecf6-a6de-da3dcbd142fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6483539426",
+      "app_name": "Fortnite",
+      "developer": "Epic Games Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/41/14/5041140b-3d2b-f766-61c0-72c359df6be3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 114803,
-      "change": "=",
+      "rating": 4.4,
+      "rating_count": 160485,
+      "change": "new",
       "change_val": 0
     }
   ]
