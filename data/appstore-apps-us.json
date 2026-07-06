@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/fc/26/8bfc26df-0063-a63d-75b1-2749a0a70145/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 314640,
+      "rating_count": 314923,
       "change": "=",
       "change_val": 0
     },
@@ -21,7 +21,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/56/7b/cc567bdc-7d7d-5464-0fae-37329357f7b6/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 100119,
+      "rating_count": 100169,
       "change": "=",
       "change_val": 0
     },
@@ -33,7 +33,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/03/31/b10331b9-d8c8-eb9c-3530-173124c851b1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3500922,
+      "rating_count": 3501107,
       "change": "=",
       "change_val": 0
     },
@@ -45,7 +45,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/cb/bf/07cbbf1c-d224-1301-a05e-cdcfb8450f01/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 78249,
+      "rating_count": 78268,
       "change": "=",
       "change_val": 0
     },
@@ -57,7 +57,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/59/ed/2259edf9-6bd5-a17a-c035-074aac0954d2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 8410908,
+      "rating_count": 8412744,
       "change": "=",
       "change_val": 0
     },
@@ -69,9 +69,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/9f/ef/a29fefa0-ffd9-adcc-5727-9d4a4b17c8e2/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.6,
-      "rating_count": 476,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 480,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -81,81 +81,81 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/0d/89/6d0d89ad-9310-afb1-2271-927f4d85ed0c/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 339535,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 8,
-      "app_id": "905401434",
-      "app_name": "Fubo: Watch Live TV & Sports",
-      "developer": "fuboTV Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/63/17/e4631736-b7a6-02db-d0f4-b28032e2c93b/Fubo-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 110521,
+      "rating_count": 339542,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "6648798962",
       "app_name": "Polymarket: Trade Soccer",
       "developer": "Polymarket",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/9c/4f/b69c4f2a-a94f-8101-0a7e-22569a45212d/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 45884,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 45914,
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/85/a7/8c85a75b-032e-2680-19b0-5f93fae1a744/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 2065852,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 2066183,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "905401434",
+      "app_name": "Fubo: Watch Live TV & Sports",
+      "developer": "fuboTV Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/63/17/e4631736-b7a6-02db-d0f4-b28032e2c93b/Fubo-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 110524,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 11,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/13/58/a61358f5-1a8a-29cc-7d3a-48f46bcfe7d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 890404,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/9e/a0/709ea03e-1096-f8bc-f83e-748733113732/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1948119,
+      "rating_count": 1948548,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 13,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/bd/64/16bd649c-c8fb-1b4e-6ed2-be72a2dba618/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 12,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/a5/31/afa5311d-116f-5f79-ae2a-a99c7815d188/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 6893,
+      "rating": 4.8,
+      "rating_count": 890458,
       "change": "-1",
       "change_val": -1
+    },
+    {
+      "rank": 13,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/12/4b/e4124b48-17cc-8c04-7819-bd86d3dbca5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 192146,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 14,
@@ -165,21 +165,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/44/5f2244c7-6500-6b2f-f508-3c6f83e75c92/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 4777889,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 4778294,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/12/4b/e4124b48-17cc-8c04-7819-bd86d3dbca5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/bd/64/16bd649c-c8fb-1b4e-6ed2-be72a2dba618/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 192073,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.9,
+      "rating_count": 6906,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
@@ -189,9 +189,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/d1/ac/8dd1acd9-1fa9-6d88-26e1-681edd48007c/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2154159,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 2154202,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -201,9 +201,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/96/b8/da96b849-147f-2a4c-161d-1c1b5188da4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1114067,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1114085,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -213,9 +213,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a2/ae/27a2aeee-5add-54a7-5624-9b17f6416a1a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 90499,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 90546,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -225,9 +225,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/f8/73/53f873c7-701f-a9f4-59a5-7cae014f4591/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 900277,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 900350,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -237,8 +237,8 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/ab/1f/beab1ff7-1f02-9208-57f9-f464c55572fe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 13129,
-      "change": "new",
+      "rating_count": 13159,
+      "change": "=",
       "change_val": 0
     }
   ]
