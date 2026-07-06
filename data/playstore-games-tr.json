@@ -32,7 +32,7 @@
       "developer": "JindoBlu",
       "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
       "installs": "100,000,000+",
-      "rating": 4.3,
+      "rating": 4.4,
       "rating_count": 0,
       "change": "=",
       "change_val": 0
@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "com.kitkagames.fallbuddies",
-      "app_name": "Stumble Guys",
-      "developer": "Scopely",
-      "icon_url": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "com.block.juggle",
       "app_name": "Block Blast!",
       "developer": "HungryStudio",
@@ -94,8 +82,20 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "com.kitkagames.fallbuddies",
+      "app_name": "Stumble Guys",
+      "developer": "Scopely",
+      "icon_url": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -183,30 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "com.kiloo.subwaysurf",
-      "app_name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "icon_url": "https://play-lh.googleusercontent.com/T7az9M7td7A24vOr7Jp3C9NG16kyWA1NnlUySyl_mbDV9BtlrFbxps5TD5DzT7kCBxpNeTbIIju2_aFN4xtFoYM",
-      "installs": "1,000,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "com.topfreegames.bikeracefreeworld",
-      "app_name": "Bike Race：Motorcycle Games",
-      "developer": "Wildlife Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
-      "installs": "100,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "com.playrix.gardenscapes",
       "app_name": "Gardenscapes",
       "developer": "Playrix",
@@ -214,11 +190,11 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 19,
+      "rank": 17,
       "app_id": "com.playrix.township",
       "app_name": "Township",
       "developer": "Playrix",
@@ -226,11 +202,23 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "app_id": "com.kiloo.subwaysurf",
+      "app_name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "icon_url": "https://play-lh.googleusercontent.com/T7az9M7td7A24vOr7Jp3C9NG16kyWA1NnlUySyl_mbDV9BtlrFbxps5TD5DzT7kCBxpNeTbIIju2_aFN4xtFoYM",
+      "installs": "1,000,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 19,
       "app_id": "com.vitastudio.mahjong",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -238,8 +226,20 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.topfreegames.bikeracefreeworld",
+      "app_name": "Bike Race：Motorcycle Games",
+      "developer": "Wildlife Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
+      "installs": "100,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }
