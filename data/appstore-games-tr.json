@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 11929,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 850051,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "6630378924",
-      "app_name": "Stickman GO",
-      "developer": "HAPPY TIME GAMES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/81/60/de8160eb-2961-8b77-d1bb-a14df079812b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.6,
-      "rating_count": 7,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "1423046460",
       "app_name": "Paper.io 2",
       "developer": "Voodoo",
@@ -142,11 +130,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 64855,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -154,11 +142,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1925394,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
+      "rank": 13,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -166,11 +154,11 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 686685,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "6739124364",
       "app_name": "Top Tycoon: Coin Theme Empire",
       "developer": "BeheFun Games Limited",
@@ -182,7 +170,7 @@
       "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 253362,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6630378924",
+      "app_name": "Stickman GO",
+      "developer": "HAPPY TIME GAMES",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/81/60/de8160eb-2961-8b77-d1bb-a14df079812b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.6,
+      "rating_count": 7,
+      "change": "-5",
+      "change_val": -5
     },
     {
       "rank": 17,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 3463,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,7 +226,7 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 3408,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 10015,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
