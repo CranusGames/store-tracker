@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "rankings": [
     {
       "rank": 1,
@@ -118,8 +118,8 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,7 +130,7 @@
       "installs": "50,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -202,8 +202,8 @@
       "installs": "100,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
