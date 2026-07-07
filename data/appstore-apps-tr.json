@@ -30,7 +30,7 @@
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/9e/a0/709ea03e-1096-f8bc-f83e-748733113732/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/43/20/cc432087-bfbd-3ac2-c53e-7246a3e14f6b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
       "rating_count": 334086,
@@ -75,15 +75,15 @@
     },
     {
       "rank": 7,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/68/cc/4f68cc8c-80e7-42ed-032e-1c21e9e61864/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 548218,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 445001,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 8,
@@ -94,11 +94,23 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9285,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 548218,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 10,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -106,35 +118,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1879651,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 10,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/68/cc/4f68cc8c-80e7-42ed-032e-1c21e9e61864/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445001,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
-      "app_id": "1068841746",
-      "app_name": "Halkbank Mobil",
-      "developer": "Turkiye Halk Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/d0/4a/09d04acf-fa00-78dc-4391-b04cdd65ea82/HBAppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 393051,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 12,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918665,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "1068841746",
+      "app_name": "Halkbank Mobil",
+      "developer": "Turkiye Halk Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/d0/4a/09d04acf-fa00-78dc-4391-b04cdd65ea82/HBAppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 393051,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2101623,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,35 +166,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 24489,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/ac/94/89ac9413-c3fb-7d5d-86ae-a3a3b49710db/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1234494259",
+      "app_name": "Cepte Şok",
+      "developer": "Şok Marketler Tic. A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a5/b5/b4a5b51a-bec7-7397-1031-abb02939cb9e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 18542,
-      "change": "+2",
-      "change_val": 2
+      "rating": 4.5,
+      "rating_count": 69207,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/51/0f/de510f9c-50fc-dbbc-6823-c4b54d638093/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 93057,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 17,
       "app_id": "995280265",
       "app_name": "getir: groceries, food&beyond",
       "developer": "Getir",
@@ -206,7 +194,31 @@
       "change_val": 1
     },
     {
+      "rank": 17,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/51/0f/de510f9c-50fc-dbbc-6823-c4b54d638093/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 93057,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 18,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/ac/94/89ac9413-c3fb-7d5d-86ae-a3a3b49710db/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 18542,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 19,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -214,11 +226,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3009354,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "app_id": "1511527605",
       "app_name": "Museums of Türkiye - Official",
       "developer": "T. C. Kültür ve Turizm Bakanlığı",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 85101,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "1539508996",
-      "app_name": "CDAS",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/a1/6d/8ea16db9-cdf8-3c1b-2014-6423eb5974fd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 42914,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
