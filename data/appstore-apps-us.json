@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/0c/13/b80c1361-221a-5f02-f5fd-a77afec12f97/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 104542,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 2,
       "app_id": "1465944282",
       "app_name": "Love Island USA",
       "developer": "ITV America Inc.",
@@ -22,8 +10,20 @@
       "installs": "",
       "rating": 1.9,
       "rating_count": 6136,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/0c/13/b80c1361-221a-5f02-f5fd-a77afec12f97/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 104542,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2604,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3509012,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,23 +58,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 337543,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
-      "app_id": "6746049430",
-      "app_name": "FOX One: Live News, Sports, TV",
-      "developer": "Fox Digital Services, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/f0/b9/cbf0b94b-72c4-abd7-eb8a-299965ba19b3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 82847,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 7,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
@@ -82,23 +70,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 8454380,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6746049430",
+      "app_name": "FOX One: Live News, Sports, TV",
+      "developer": "Fox Digital Services, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/f0/b9/cbf0b94b-72c4-abd7-eb8a-299965ba19b3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 82847,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 8,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/bd/64/16bd649c-c8fb-1b4e-6ed2-be72a2dba618/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 7801,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 9,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
@@ -106,6 +94,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 892976,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/bd/64/16bd649c-c8fb-1b4e-6ed2-be72a2dba618/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 7801,
       "change": "-1",
       "change_val": -1
     },
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2070986,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,20 +130,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 193736,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
       "app_id": "1673567402",
       "app_name": "Freecash - Get Paid Real Money",
       "developer": "256 REWARDS LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/a2/ae/27a2aeee-5add-54a7-5624-9b17f6416a1a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/91/44/b4914464-37c4-bfd9-8d97-6b6eaa702988/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
       "rating_count": 91397,
-      "change": "+6",
-      "change_val": 6
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,23 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1956311,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/44/5f2244c7-6500-6b2f-f508-3c6f83e75c92/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4787071,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 15,
       "app_id": "1488269261",
       "app_name": "Whatnot: Shop, Sell, Connect",
       "developer": "Whatnot Inc.",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 902778,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/44/5f2244c7-6500-6b2f-f508-3c6f83e75c92/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4787071,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -190,23 +190,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18211499,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "460177396",
-      "app_name": "Twitch: Live Streaming",
-      "developer": "Twitch Interactive, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/01/18/49011841-d095-4553-5848-d1e985aeff52/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2738251,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 18,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -218,6 +206,18 @@
       "change_val": 1
     },
     {
+      "rank": 18,
+      "app_id": "632064380",
+      "app_name": "Vinted: Pre-loved marketplace",
+      "developer": "Vinted Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/7c/c4/747cc4de-5382-bc44-f55e-277659bd35a4/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 108711,
+      "change": "new",
+      "change_val": 0
+    },
+    {
       "rank": 19,
       "app_id": "6670430706",
       "app_name": "DramaWave - Dramas & Reels",
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 120804,
-      "change": "-5",
-      "change_val": -5
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/8d/99/888d99d3-e80d-988d-9f43-c3af2ae3be18/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "app_id": "460177396",
+      "app_name": "Twitch: Live Streaming",
+      "developer": "Twitch Interactive, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/01/18/49011841-d095-4553-5848-d1e985aeff52/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2155528,
-      "change": "new",
-      "change_val": 0
+      "rating_count": 2738251,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }
