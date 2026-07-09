@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "1229016807",
-      "app_name": "Brawl Stars",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/dc/a4/a6dca41e-7385-e8fb-cddf-dcb9751c1454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 851233,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6747834136",
       "app_name": "Mafia Life: Underworld Boss",
       "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
@@ -58,11 +46,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 2271,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "1531842415",
       "app_name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 12038,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "1229016807",
+      "app_name": "Brawl Stars",
+      "developer": "Supercell",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/dc/a4/a6dca41e-7385-e8fb-cddf-dcb9751c1454/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 851233,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 7,
@@ -87,30 +87,18 @@
     },
     {
       "rank": 8,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/95/6d/ea956d4b-5e2f-def7-c163-a84edeeb81a7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1597760047",
+      "app_name": "OneState RP: Role Play Online",
+      "developer": "CHILLBASE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/33/3a/ca333ac7-a352-a299-0573-f56482041977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 1925638,
-      "change": "=",
-      "change_val": 0
+      "rating": 3.9,
+      "rating_count": 551,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 9,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1801,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 10,
       "app_id": "6471045672",
       "app_name": "Tasty Travels: Merge Game",
       "developer": "Century Games Pte. Ltd.",
@@ -122,19 +110,19 @@
       "change_val": 1
     },
     {
-      "rank": 11,
-      "app_id": "1597760047",
-      "app_name": "OneState RP: Role Play Online",
-      "developer": "CHILLBASE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/33/3a/ca333ac7-a352-a299-0573-f56482041977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 10,
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/95/6d/ea956d4b-5e2f-def7-c163-a84edeeb81a7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.9,
-      "rating_count": 551,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.8,
+      "rating_count": 1925638,
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -142,11 +130,35 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 686714,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1801,
       "change": "-3",
       "change_val": -3
     },
     {
       "rank": 13,
+      "app_id": "1636821805",
+      "app_name": "Crostic Crossword－Word Puzzles",
+      "developer": "Severex",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/b5/37/deb537b0-dc7d-cbaf-9023-4e0a90bb2cc4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 10061,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 14,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -154,11 +166,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 44902,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "app_id": "1623318294",
       "app_name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -166,11 +178,23 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 9878,
-      "change": "+2",
-      "change_val": 2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 15,
+      "rank": 16,
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 16301,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 17,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -182,55 +206,7 @@
       "change_val": -2
     },
     {
-      "rank": 16,
-      "app_id": "1636821805",
-      "app_name": "Crostic Crossword－Word Puzzles",
-      "developer": "Severex",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/b5/37/deb537b0-dc7d-cbaf-9023-4e0a90bb2cc4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 10061,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
-      "app_id": "6499209744",
-      "app_name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/49/2e/5e492ed3-9cdd-cec4-806f-d96ef3e467d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 26001,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
       "rank": 18,
-      "app_id": "1160056295",
-      "app_name": "Mobile Legends: Bang Bang",
-      "developer": "MOONTON",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/93/a3/9f93a387-0c5b-84a2-cc0b-1ea8145abd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 242761,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 19,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 16301,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "6739124364",
       "app_name": "Top Tycoon: Coin Theme Empire",
       "developer": "BeheFun Games Limited",
@@ -238,7 +214,31 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 10497,
-      "change": "=",
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/49/2e/5e492ed3-9cdd-cec4-806f-d96ef3e467d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 26001,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 20,
+      "app_id": "6758072393",
+      "app_name": "Fallen Beauty: Merge & Story",
+      "developer": "KINETIC ENERGY WIRELESS(HONG KONG)LIMITED",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/6d/50/8f6d5020-d1c5-28c9-b375-2cc9c0c00821/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 311,
+      "change": "new",
       "change_val": 0
     }
   ]
