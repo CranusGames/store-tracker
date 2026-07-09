@@ -87,30 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "6471045672",
-      "app_name": "Tasty Travels: Merge Game",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/3d/8f/f93d8fca-c3ea-2396-4472-29b7fab67059/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 3517,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
-      "app_id": "1597760047",
-      "app_name": "OneState RP: Role Play Online",
-      "developer": "CHILLBASE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/33/3a/ca333ac7-a352-a299-0573-f56482041977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 554,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -118,11 +94,23 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 686729,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 11,
+      "rank": 9,
+      "app_id": "6471045672",
+      "app_name": "Tasty Travels: Merge Game",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/3d/8f/f93d8fca-c3ea-2396-4472-29b7fab67059/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 3517,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 10,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -130,8 +118,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1925668,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "1597760047",
+      "app_name": "OneState RP: Role Play Online",
+      "developer": "CHILLBASE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/33/3a/ca333ac7-a352-a299-0573-f56482041977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 554,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 12,
@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/16/5e/f6165e81-26c2-6024-fd1d-4c3bf0b1ad30/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 44941,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -166,8 +154,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 253813,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/16/5e/f6165e81-26c2-6024-fd1d-4c3bf0b1ad30/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 44941,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "1636821805",
-      "app_name": "Crostic Crossword－Word Puzzles",
-      "developer": "Severex",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/b5/37/deb537b0-dc7d-cbaf-9023-4e0a90bb2cc4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 10066,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "1623318294",
       "app_name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -214,11 +202,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 9884,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -226,8 +214,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 26023,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "1636821805",
+      "app_name": "Crostic Crossword－Word Puzzles",
+      "developer": "Severex",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/b5/37/deb537b0-dc7d-cbaf-9023-4e0a90bb2cc4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 10066,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,

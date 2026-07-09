@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 31547,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "6758326278",
       "app_name": "Amaze GO!",
       "developer": "Oakever Games",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 133496,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 31547,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -219,18 +219,6 @@
     },
     {
       "rank": 19,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/a7/d8/40a7d82f-e64f-e659-2616-19712300466a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 203990,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "6483539426",
       "app_name": "Fortnite",
       "developer": "Epic Games Inc.",
@@ -238,7 +226,19 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 160865,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "6503697761",
+      "app_name": "Playtest Pro by BestPlay",
+      "developer": "Bestplay Systems",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/cc/48/e0cc4868-7aa0-3aa1-db8e-59371eaa4c34/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 137545,
+      "change": "new",
       "change_val": 0
     }
   ]
