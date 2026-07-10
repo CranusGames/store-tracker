@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "6755391391",
-      "app_name": "TransitySim Online",
-      "developer": "Ugur lker Kar",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/4b/9e/b94b9e45-0fc6-10b1-29ab-c00513a8b82a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.2,
-      "rating_count": 9,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "1531842415",
       "app_name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -70,11 +58,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 12124,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "app_id": "1229016807",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 851872,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6755391391",
+      "app_name": "TransitySim Online",
+      "developer": "Ugur lker Kar",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/4b/9e/b94b9e45-0fc6-10b1-29ab-c00513a8b82a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.2,
+      "rating_count": 9,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 8,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "6758208278",
-      "app_name": "TACTICO - Football XOX",
-      "developer": "Muhammet OKUMUS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/02/df/1002dfd3-279b-ec47-3187-5eeaba545917/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 64,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -154,11 +142,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 253965,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
+      "rank": 13,
       "app_id": "6758072393",
       "app_name": "Fallen Beauty: Merge & Story",
       "developer": "KINETIC ENERGY WIRELESS(HONG KONG)LIMITED",
@@ -166,11 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 336,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "6739554056",
       "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
@@ -178,35 +166,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 16402,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6758208278",
+      "app_name": "TACTICO - Football XOX",
+      "developer": "Muhammet OKUMUS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/02/df/1002dfd3-279b-ec47-3187-5eeaba545917/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 64,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 16,
-      "app_id": "1597760047",
-      "app_name": "OneState RP: Role Play Online",
-      "developer": "CHILLBASE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/33/3a/ca333ac7-a352-a299-0573-f56482041977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 561,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "6739124364",
-      "app_name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a3/51/f3a351bc-9dad-2bad-c5b8-11727f44d9e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 10591,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -214,8 +190,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1841,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "1597760047",
+      "app_name": "OneState RP: Role Play Online",
+      "developer": "CHILLBASE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/33/3a/ca333ac7-a352-a299-0573-f56482041977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 561,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 18,
+      "app_id": "6739124364",
+      "app_name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a3/51/f3a351bc-9dad-2bad-c5b8-11727f44d9e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 10591,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,

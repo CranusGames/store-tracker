@@ -27,30 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/bd/64/16bd649c-c8fb-1b4e-6ed2-be72a2dba618/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 8985,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/1c/a4/901ca48d-ec75-d152-f3f0-dbdcd30c145f/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2077497,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade the World Cup",
       "developer": "KalshiEX LLC",
@@ -58,8 +34,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 347977,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 4,
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/bd/64/16bd649c-c8fb-1b4e-6ed2-be72a2dba618/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 8985,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 5,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/1c/a4/901ca48d-ec75-d152-f3f0-dbdcd30c145f/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2077497,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -75,66 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "1673567402",
-      "app_name": "Freecash - Get Paid Real Money",
-      "developer": "256 REWARDS LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/91/44/b4914464-37c4-bfd9-8d97-6b6eaa702988/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 92704,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/c7/93/41c793a9-a689-bdb9-e0c8-d663b0b9a4fb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1967160,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/de/74/e6de7491-1bfa-58bf-d478-b12cdd2ec126/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 896114,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "6767364919",
-      "app_name": "Trump Accounts: Official App",
-      "developer": "U.S. Department of the Treasury",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/8d/28/7c8d2806-de98-893a-f94d-b4f0b1709298/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 4133,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/44/5f2244c7-6500-6b2f-f508-3c6f83e75c92/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4797973,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "1508186374",
       "app_name": "Peacock TV: Stream TV & Movies",
       "developer": "Peacock TV LLC",
@@ -142,8 +82,68 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3519510,
-      "change": "=",
-      "change_val": 0
+      "change": "+5",
+      "change_val": 5
+    },
+    {
+      "rank": 8,
+      "app_id": "1673567402",
+      "app_name": "Freecash - Get Paid Real Money",
+      "developer": "256 REWARDS LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/91/44/b4914464-37c4-bfd9-8d97-6b6eaa702988/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 92704,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 9,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/c7/93/41c793a9-a689-bdb9-e0c8-d663b0b9a4fb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1967160,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 10,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/de/74/e6de7491-1bfa-58bf-d478-b12cdd2ec126/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 896114,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 11,
+      "app_id": "6767364919",
+      "app_name": "Trump Accounts: Official App",
+      "developer": "U.S. Department of the Treasury",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/8d/28/7c8d2806-de98-893a-f94d-b4f0b1709298/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 4133,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 12,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/44/5f2244c7-6500-6b2f-f508-3c6f83e75c92/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4797973,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -219,18 +219,6 @@
     },
     {
       "rank": 19,
-      "app_id": "1558240027",
-      "app_name": "Meta AI",
-      "developer": "Meta Platforms, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/42/fe/2342feba-71d6-1e3e-cc0d-6c0aed6c483c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 156082,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "983156458",
       "app_name": "Microsoft Authenticator",
       "developer": "Microsoft Corporation",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 667642,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1558240027",
+      "app_name": "Meta AI",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/42/fe/2342feba-71d6-1e3e-cc0d-6c0aed6c483c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 156082,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }

@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "1207256037",
-      "app_name": "EBA",
-      "developer": "EBA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/7d/e6/8b7de627-766d-908a-6391-2dc3939f2d63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 2.1,
-      "rating_count": 44254,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -46,11 +34,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 337140,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 5,
+      "rank": 4,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
@@ -58,11 +46,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 879050,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445046,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "1207256037",
+      "app_name": "EBA",
+      "developer": "EBA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/7d/e6/8b7de627-766d-908a-6391-2dc3939f2d63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 2.1,
+      "rating_count": 44254,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 7,
@@ -99,30 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/52/7f/c8527f9d-dde2-7cf4-ae0d-d293d31a76ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 369976,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548221,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -130,20 +106,44 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918674,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 10,
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/52/7f/c8527f9d-dde2-7cf4-ae0d-d293d31a76ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 369976,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 11,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 548221,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a5/b5/b4a5b51a-bec7-7397-1031-abb02939cb9e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/51/0f/de510f9c-50fc-dbbc-6823-c4b54d638093/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 69211,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 93111,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 13,
@@ -159,66 +159,18 @@
     },
     {
       "rank": 14,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/ac/94/89ac9413-c3fb-7d5d-86ae-a3a3b49710db/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1234494259",
+      "app_name": "Cepte Şok",
+      "developer": "Şok Marketler Tic. A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a5/b5/b4a5b51a-bec7-7397-1031-abb02939cb9e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 18851,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.5,
+      "rating_count": 69211,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 15,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/51/0f/de510f9c-50fc-dbbc-6823-c4b54d638093/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 93111,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/eb/b7/c3ebb7b4-a5a0-7b7b-23e4-cdbeec524bab/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2106060,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "6478287397",
-      "app_name": "Speak & Learn English: Learna",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/c2/59/1ec259c5-78a4-1599-dc06-cbef59da8bc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 24880,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/91/d9/0691d93d-91fd-f7e8-cd00-c17008e78d5e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 85113,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -226,11 +178,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1881310,
-      "change": "=",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
     },
     {
-      "rank": 20,
+      "rank": 16,
+      "app_id": "6478287397",
+      "app_name": "Speak & Learn English: Learna",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/c2/59/1ec259c5-78a4-1599-dc06-cbef59da8bc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 24880,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/ac/94/89ac9413-c3fb-7d5d-86ae-a3a3b49710db/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 18851,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 18,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -238,8 +214,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3011849,
-      "change": "=",
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/e9/2f/b1e92f85-27fc-8a2f-aa89-4a0bdb9132eb/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 287738,
+      "change": "new",
       "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/eb/b7/c3ebb7b4-a5a0-7b7b-23e4-cdbeec524bab/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2106060,
+      "change": "-4",
+      "change_val": -4
     }
   ]
 }
