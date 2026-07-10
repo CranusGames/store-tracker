@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2076550,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 346070,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 195538,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,11 +82,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 92552,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/c7/93/41c793a9-a689-bdb9-e0c8-d663b0b9a4fb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1965692,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 9,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
@@ -94,18 +106,6 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 895746,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 9,
-      "app_id": "1508186374",
-      "app_name": "Peacock TV: Stream TV & Movies",
-      "developer": "Peacock TV LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/03/31/b10331b9-d8c8-eb9c-3530-173124c851b1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 3518308,
       "change": "-1",
       "change_val": -1
     },
@@ -123,15 +123,15 @@
     },
     {
       "rank": 11,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/c7/93/41c793a9-a689-bdb9-e0c8-d663b0b9a4fb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "1508186374",
+      "app_name": "Peacock TV: Stream TV & Movies",
+      "developer": "Peacock TV LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/03/31/b10331b9-d8c8-eb9c-3530-173124c851b1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1965692,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 3518308,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 12,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18222760,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1114603,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -183,15 +183,15 @@
     },
     {
       "rank": 16,
-      "app_id": "1465944282",
-      "app_name": "Love Island USA",
-      "developer": "ITV America Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ff/0f/f4ff0fa3-24a1-f86e-541d-0cac6a3ea260/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/4c/cf/584ccf64-f35c-ad86-5a1a-f1d1e8e30f83/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 2.0,
-      "rating_count": 6223,
-      "change": "-3",
-      "change_val": -3
+      "rating": 4.7,
+      "rating_count": 7266933,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 17,
@@ -207,27 +207,27 @@
     },
     {
       "rank": 18,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/4c/cf/584ccf64-f35c-ad86-5a1a-f1d1e8e30f83/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "1465944282",
+      "app_name": "Love Island USA",
+      "developer": "ITV America Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/ff/0f/f4ff0fa3-24a1-f86e-541d-0cac6a3ea260/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 7266933,
-      "change": "+2",
-      "change_val": 2
+      "rating": 2.0,
+      "rating_count": 6223,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 19,
-      "app_id": "632064380",
-      "app_name": "Vinted: Pre-loved marketplace",
-      "developer": "Vinted Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/7c/c4/747cc4de-5382-bc44-f55e-277659bd35a4/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6745274862",
+      "app_name": "DealSeek: Coupons & Discounts",
+      "developer": "DealSeek LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/fb/9a/a2fb9aea-362f-b0df-6243-bbf3427fb484/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 110907,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.9,
+      "rating_count": 48380,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 155743,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
