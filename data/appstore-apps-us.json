@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "1508186374",
-      "app_name": "Peacock TV: Stream TV & Movies",
-      "developer": "Peacock TV LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/03/31/b10331b9-d8c8-eb9c-3530-173124c851b1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 3522972,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -130,8 +118,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1969790,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "1508186374",
+      "app_name": "Peacock TV: Stream TV & Movies",
+      "developer": "Peacock TV LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/03/31/b10331b9-d8c8-eb9c-3530-173124c851b1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 3522972,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -159,30 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/e7/44/2ee744a6-453a-e140-c078-f6be4a071b27/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18228249,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/51/0f/de510f9c-50fc-dbbc-6823-c4b54d638093/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1114694,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -190,20 +166,44 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7268207,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 15,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/e7/44/2ee744a6-453a-e140-c078-f6be4a071b27/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18228249,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 16,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/51/0f/de510f9c-50fc-dbbc-6823-c4b54d638093/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1114694,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
-      "app_id": "719972451",
-      "app_name": "DoorDash: Food, Grocery, More",
-      "developer": "DoorDash, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/7e/2e/b97e2e58-8c23-1c77-53c9-92f56c047f01/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "6648798962",
+      "app_name": "Polymarket: Trade Soccer",
+      "developer": "Polymarket",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/c3/bd/58c3bd7b-f862-bbe2-96ef-431cc39da55a/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 22612276,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 49188,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 18,
@@ -219,27 +219,27 @@
     },
     {
       "rank": 19,
-      "app_id": "333903271",
-      "app_name": "X",
-      "developer": "X Corp.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/96/4a/71964a43-5971-2f84-0a4e-7346838c35e1/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "6745274862",
+      "app_name": "DealSeek: Coupons & Discounts",
+      "developer": "DealSeek LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/fb/9a/a2fb9aea-362f-b0df-6243-bbf3427fb484/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 10853442,
-      "change": "=",
+      "rating": 4.9,
+      "rating_count": 49096,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6648798962",
-      "app_name": "Polymarket: Trade Soccer",
-      "developer": "Polymarket",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/c3/bd/58c3bd7b-f862-bbe2-96ef-431cc39da55a/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "719972451",
+      "app_name": "DoorDash: Food, Grocery, More",
+      "developer": "DoorDash, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/7e/2e/b97e2e58-8c23-1c77-53c9-92f56c047f01/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 49188,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 22612276,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }

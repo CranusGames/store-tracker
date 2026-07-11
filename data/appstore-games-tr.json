@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "6755391391",
-      "app_name": "TransitySim Online",
-      "developer": "Ugur lker Kar",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/4b/9e/b94b9e45-0fc6-10b1-29ab-c00513a8b82a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4,
-      "rating_count": 40,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1925843,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6758072393",
+      "app_name": "Fallen Beauty: Merge & Story",
+      "developer": "KINETIC ENERGY WIRELESS(HONG KONG)LIMITED",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/6d/50/8f6d5020-d1c5-28c9-b375-2cc9c0c00821/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 338,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 13,
@@ -159,6 +159,18 @@
     },
     {
       "rank": 14,
+      "app_id": "6755391391",
+      "app_name": "TransitySim Online",
+      "developer": "Ugur lker Kar",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/4b/9e/b94b9e45-0fc6-10b1-29ab-c00513a8b82a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4,
+      "rating_count": 40,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 15,
       "app_id": "1597760047",
       "app_name": "OneState RP: Role Play Online",
       "developer": "CHILLBASE LTD",
@@ -166,59 +178,11 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 564,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "6739124364",
-      "app_name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a3/51/f3a351bc-9dad-2bad-c5b8-11727f44d9e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 10628,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
-      "app_id": "6758072393",
-      "app_name": "Fallen Beauty: Merge & Story",
-      "developer": "KINETIC ENERGY WIRELESS(HONG KONG)LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/6d/50/8f6d5020-d1c5-28c9-b375-2cc9c0c00821/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 338,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/16/5e/f6165e81-26c2-6024-fd1d-4c3bf0b1ad30/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 45041,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/8e/ce/fc8ece0c-f7d4-90aa-c0fe-956ea08edb9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 9903,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "1423046460",
       "app_name": "Paper.io 2",
       "developer": "Voodoo",
@@ -226,8 +190,44 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 65433,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 17,
+      "app_id": "6739124364",
+      "app_name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a3/51/f3a351bc-9dad-2bad-c5b8-11727f44d9e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 10628,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 18,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/16/5e/f6165e81-26c2-6024-fd1d-4c3bf0b1ad30/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 45041,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/8e/ce/fc8ece0c-f7d4-90aa-c0fe-956ea08edb9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 9903,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
