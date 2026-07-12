@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "com.whatsapp",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/Gqxk4T0uZsDwFp07DE-508hkyvcNmgFuRwPiwTEfF7D7OzGv1FdHDzEyMxNsSBZLOJlGpe3ULvVM2RgrRAlBqA",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "com.zhiliaoapp.musically",
       "app_name": "TikTok - Videos, Shop & LIVE",
       "developer": "TikTok Pte. Ltd.",
@@ -22,11 +10,11 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 3,
+      "rank": 2,
       "app_id": "com.lemon.lvoverseas",
       "app_name": "CapCut - Video Editor",
       "developer": "Bytedance Pte. Ltd.",
@@ -34,11 +22,11 @@
       "installs": "",
       "rating": 3.5,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 4,
+      "rank": 3,
       "app_id": "com.wbd.stream",
       "app_name": "HBO Max: Stream TV & Movies",
       "developer": "WarnerMedia Global Digital Services, LLC",
@@ -46,11 +34,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 5,
+      "rank": 4,
       "app_id": "com.peacocktv.peacockandroid",
       "app_name": "Peacock TV: Stream TV & Movies",
       "developer": "Peacock TV LLC",
@@ -58,11 +46,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "com.walmart.android",
       "app_name": "Walmart: Shopping & Savings",
       "developer": "Walmart",
@@ -70,11 +58,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "app_id": "com.youku.international.phone",
       "app_name": "YOUKU-Drama, Film, Show, Anime",
       "developer": "YOUKU",
@@ -82,11 +70,11 @@
       "installs": "",
       "rating": 3.2,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "com.intsig.camscanner",
       "app_name": "CamScanner- scanner, PDF maker",
       "developer": "INTSIG PTE",
@@ -94,11 +82,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "com.ubercab",
       "app_name": "Uber - Request a ride",
       "developer": "Uber Technologies, Inc.",
@@ -106,11 +94,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "app_id": "pilatesworkout.yogaworkout.loseweight.workoutapps",
       "app_name": "Pilates Workout at Home",
       "developer": "EZ Health",
@@ -118,11 +106,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 11,
+      "rank": 10,
       "app_id": "com.android.chrome",
       "app_name": "Google Chrome",
       "developer": "Google LLC",
@@ -130,11 +118,11 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "com.google.android.googlequicksearchbox",
       "app_name": "Google",
       "developer": "Google LLC",
@@ -142,11 +130,11 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "com.snapchat.android",
       "app_name": "Snapchat",
       "developer": "Snap Inc",
@@ -154,11 +142,11 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
+      "rank": 13,
       "app_id": "me.number.app.im",
       "app_name": "2nd Line - Second Phone Number",
       "developer": "Dingtone Communications Ltd",
@@ -166,11 +154,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "com.facebook.orca",
       "app_name": "Messenger",
       "developer": "Meta Platforms, Inc.",
@@ -178,11 +166,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "com.facebook.lite",
       "app_name": "Facebook Lite",
       "developer": "Meta Platforms, Inc.",
@@ -190,11 +178,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "org.telegram.messenger",
       "app_name": "Telegram",
       "developer": "Telegram FZ-LLC",
@@ -202,11 +190,11 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "com.whatsapp.w4b",
       "app_name": "WhatsApp Business",
       "developer": "WhatsApp LLC",
@@ -214,11 +202,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "com.lenovo.anyshare.gps",
       "app_name": "SHAREit: Transfer, Share Files",
       "developer": "Smart Media4U Technology Pte.Ltd.",
@@ -226,11 +214,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "com.spotify.music",
       "app_name": "Spotify: Music and Podcasts",
       "developer": "Spotify AB",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.google.android.gm",
+      "app_name": "Gmail",
+      "developer": "Google LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/c6KD_8-GvnGRJA4lRQ4y5YnUa3-LOeYAS7ubw1jWyB9bmr6Kj6zzRvh2A5WBB-Vd3e6zhElmhDv07fCJx2Fc",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }

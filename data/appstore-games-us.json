@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/8e/ce/fc8ece0c-f7d4-90aa-c0fe-956ea08edb9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 188429,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6779167923",
       "app_name": "Colony Flow!",
       "developer": "ABI GLOBAL LTD.",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2829,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/8e/ce/fc8ece0c-f7d4-90aa-c0fe-956ea08edb9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 188429,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 32397,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "1550945606",
       "app_name": "Soccer Superstar",
       "developer": "Real Free Soccer",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 303010,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 32397,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -171,30 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "6475757306",
-      "app_name": "Disney Solitaire",
-      "developer": "SuperPlay",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/12/a7/f212a75d-f23d-fc0f-7572-ebdb8a196924/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 648296,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "638689075",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/ee/38/dfee3854-a880-7731-fce9-ac78ed6dfc8e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 2154928,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "6780195090",
       "app_name": "82-0.com",
       "developer": "Vaulty Studios Inc.",
@@ -202,11 +178,23 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 187,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "app_id": "6475757306",
+      "app_name": "Disney Solitaire",
+      "developer": "SuperPlay",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/12/a7/f212a75d-f23d-fc0f-7572-ebdb8a196924/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 648296,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 17,
       "app_id": "1606549505",
       "app_name": "Royal Kingdom",
       "developer": "Dream Games",
@@ -214,8 +202,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1057689,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "638689075",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/ee/38/dfee3854-a880-7731-fce9-ac78ed6dfc8e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 2154928,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 19,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "6471045672",
-      "app_name": "Tasty Travels: Merge Game",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/3d/8f/f93d8fca-c3ea-2396-4472-29b7fab67059/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1094591345",
+      "app_name": "Pokémon GO",
+      "developer": "Niantic, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/06/b8/e206b824-8fb0-a40a-3f37-99198dcc9e5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 35154,
-      "change": "=",
+      "rating": 4.0,
+      "rating_count": 644618,
+      "change": "new",
       "change_val": 0
     }
   ]
