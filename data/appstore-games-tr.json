@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "6739124364",
-      "app_name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a3/51/f3a351bc-9dad-2bad-c5b8-11727f44d9e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 10712,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -166,8 +154,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 254200,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "6739124364",
+      "app_name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a3/51/f3a351bc-9dad-2bad-c5b8-11727f44d9e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 10712,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -183,6 +183,18 @@
     },
     {
       "rank": 16,
+      "app_id": "6475003879",
+      "app_name": "Tabu Kelime 2026",
+      "developer": "Yavuz Selim Yildirim",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 461,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 17,
       "app_id": "1623318294",
       "app_name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -190,20 +202,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 9909,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/16/5e/f6165e81-26c2-6024-fd1d-4c3bf0b1ad30/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 45097,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -219,26 +219,26 @@
     },
     {
       "rank": 19,
-      "app_id": "6475003879",
-      "app_name": "Tabu Kelime 2026",
-      "developer": "Yavuz Selim Yildirim",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/16/5e/f6165e81-26c2-6024-fd1d-4c3bf0b1ad30/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 461,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 45097,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,
-      "app_id": "1597760047",
-      "app_name": "OneState RP: Role Play Online",
-      "developer": "CHILLBASE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/33/3a/ca333ac7-a352-a299-0573-f56482041977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1160056295",
+      "app_name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/93/a3/9f93a387-0c5b-84a2-cc0b-1ea8145abd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.9,
-      "rating_count": 565,
-      "change": "=",
+      "rating": 4.4,
+      "rating_count": 242955,
+      "change": "new",
       "change_val": 0
     }
   ]
