@@ -82,11 +82,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918685,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 8,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/51/0f/de510f9c-50fc-dbbc-6823-c4b54d638093/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 93114,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "app_id": "397585390",
       "app_name": "Migros: Food & Groceries",
       "developer": "MigrosOne",
@@ -98,31 +110,7 @@
       "change_val": -1
     },
     {
-      "rank": 9,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/51/0f/de510f9c-50fc-dbbc-6823-c4b54d638093/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 93114,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
       "rank": 10,
-      "app_id": "6478287397",
-      "app_name": "Speak & Learn English: Learna",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/c2/59/1ec259c5-78a4-1599-dc06-cbef59da8bc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 25029,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "6670430706",
       "app_name": "DramaWave - Dramas & Reels",
       "developer": "SKYWORK AI PTE LTD",
@@ -130,20 +118,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 18958,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "6478287397",
+      "app_name": "Speak & Learn English: Learna",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/c2/59/1ec259c5-78a4-1599-dc06-cbef59da8bc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 25029,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/91/d9/0691d93d-91fd-f7e8-cd00-c17008e78d5e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "app_id": "6445905219",
+      "app_name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/32/52/aa32529a-06fd-19b8-222a-5b7cae614489/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 85117,
-      "change": "-3",
-      "change_val": -3
+      "rating": 4.5,
+      "rating_count": 7883,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 13,
@@ -159,18 +159,30 @@
     },
     {
       "rank": 14,
-      "app_id": "6445905219",
-      "app_name": "DramaBox - Stream Drama Shorts",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/32/52/aa32529a-06fd-19b8-222a-5b7cae614489/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "1511527605",
+      "app_name": "Museums of Türkiye - Official",
+      "developer": "T. C. Kültür ve Turizm Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/91/d9/0691d93d-91fd-f7e8-cd00-c17008e78d5e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 7883,
-      "change": "+4",
-      "change_val": 4
+      "rating": 4.8,
+      "rating_count": 85117,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 15,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/44/5f2244c7-6500-6b2f-f508-3c6f83e75c92/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 334208,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 16,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -182,7 +194,31 @@
       "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 17,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Music & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/d2/fe/38d2fe12-2dcb-7639-e032-2c395e8017b2/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 1062160,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 18,
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 9301,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -190,11 +226,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1881870,
-      "change": "-1",
-      "change_val": -1
+      "change": "-3",
+      "change_val": -3
     },
     {
-      "rank": 17,
+      "rank": 20,
       "app_id": "995280265",
       "app_name": "getir: groceries, food&beyond",
       "developer": "Getir",
@@ -202,44 +238,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1064693,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 18,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a5/b5/b4a5b51a-bec7-7397-1031-abb02939cb9e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 69212,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 19,
-      "app_id": "1507132907",
-      "app_name": "Watsons: Kozmetik ve Alışveriş",
-      "developer": "A.S. Watson Guzellik ve Bakim Urunleri Ticaret Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/9b/ee/9d9beed9-4e52-194f-2703-e14492fcabba/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 82095,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 20,
-      "app_id": "6738610571",
-      "app_name": "Myt : Videos, Songs Streaming",
-      "developer": "Lorenz Popper",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/df/6b/94df6b7a-a92d-d767-1d6b-b2229196001e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 2.6,
-      "rating_count": 135,
-      "change": "=",
-      "change_val": 0
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }
