@@ -10,8 +10,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 888425,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 356966,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 49672,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3526114,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 86240,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 8544528,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 2.0,
       "rating_count": 6254,
-      "change": "-6",
-      "change_val": -6
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,7 +106,7 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1099121,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 9825,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/44/5f2244c7-6500-6b2f-f508-3c6f83e75c92/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4804329,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 13,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -154,47 +142,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2080961,
-      "change": "-3",
-      "change_val": -3
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
-      "app_id": "589653414",
-      "app_name": "7-Eleven: Rewards & Shopping",
-      "developer": "7-Eleven, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/ef/63/e2ef635e-7d09-40ac-66f4-5ba686e1a73b/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 431856,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 15,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/96/d0/4096d04d-fa73-fa29-a804-af3347b1f203/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 197150,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 16,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/c7/93/41c793a9-a689-bdb9-e0c8-d663b0b9a4fb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1973007,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 17,
+      "rank": 13,
       "app_id": "1673567402",
       "app_name": "Freecash - Get Paid Real Money",
       "developer": "256 REWARDS LTD",
@@ -202,8 +154,56 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 93370,
-      "change": "-3",
-      "change_val": -3
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 14,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/22/44/5f2244c7-6500-6b2f-f508-3c6f83e75c92/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4804329,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 15,
+      "app_id": "589653414",
+      "app_name": "7-Eleven: Rewards & Shopping",
+      "developer": "7-Eleven, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/ef/63/e2ef635e-7d09-40ac-66f4-5ba686e1a73b/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 431856,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 16,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/96/d0/4096d04d-fa73-fa29-a804-af3347b1f203/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 197150,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 17,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/c7/93/41c793a9-a689-bdb9-e0c8-d663b0b9a4fb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1973007,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -214,20 +214,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 22620631,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/e7/44/2ee744a6-453a-e140-c078-f6be4a071b27/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/90/d5/b690d57a-3204-7525-eb72-bebbe19eb60f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 18232683,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 909367,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2158386,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
