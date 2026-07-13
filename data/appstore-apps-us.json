@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/de/74/e6de7491-1bfa-58bf-d478-b12cdd2ec126/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 899291,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "1673567402",
       "app_name": "Freecash - Get Paid Real Money",
       "developer": "256 REWARDS LTD",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 93873,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/de/74/e6de7491-1bfa-58bf-d478-b12cdd2ec126/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 899291,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -118,23 +118,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 15323,
-      "change": "+8",
-      "change_val": 8
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
-      "app_id": "6648798962",
-      "app_name": "Polymarket: Trade Soccer",
-      "developer": "Polymarket",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/c3/bd/58c3bd7b-f862-bbe2-96ef-431cc39da55a/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 51494,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 12,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -142,18 +130,30 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1978025,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6504849169",
+      "app_name": "NetShort - Popular Dramas & TV",
+      "developer": "NETSTORY PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 115417,
+      "change": "+5",
+      "change_val": 5
     },
     {
       "rank": 13,
-      "app_id": "6745274862",
-      "app_name": "DealSeek: Coupons & Discounts",
-      "developer": "DealSeek LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/fb/9a/a2fb9aea-362f-b0df-6243-bbf3427fb484/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6648798962",
+      "app_name": "Polymarket: Trade Soccer",
+      "developer": "Polymarket",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/c3/bd/58c3bd7b-f862-bbe2-96ef-431cc39da55a/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 50605,
+      "rating": 4.7,
+      "rating_count": 51494,
       "change": "-2",
       "change_val": -2
     },
@@ -171,6 +171,18 @@
     },
     {
       "rank": 15,
+      "app_id": "6745274862",
+      "app_name": "DealSeek: Coupons & Discounts",
+      "developer": "DealSeek LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/fb/9a/a2fb9aea-362f-b0df-6243-bbf3427fb484/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 50605,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -178,35 +190,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2159306,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/90/d5/b690d57a-3204-7525-eb72-bebbe19eb60f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 913455,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
-      "app_id": "6504849169",
-      "app_name": "NetShort - Popular Dramas & TV",
-      "developer": "NETSTORY PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 115417,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 18,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -214,8 +202,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4809697,
-      "change": "-5",
-      "change_val": -5
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/90/d5/b690d57a-3204-7525-eb72-bebbe19eb60f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 913455,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1114739,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18239394,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
