@@ -78,7 +78,7 @@
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/56/b4/7956b463-01a9-6cf2-7917-bfc5dac1f0ab/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/84/da/9684da49-4027-e780-09e8-25d1dcc3950a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
       "rating_count": 19393518,
@@ -90,7 +90,7 @@
       "app_id": "6779167923",
       "app_name": "Colony Flow!",
       "developer": "ABI GLOBAL LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/66/8d/41668d02-589d-9e3a-bcb3-c093be59903f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/ef/4f/d9ef4f43-7e12-2f54-82dc-6c5bb907bae2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 3802,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1015,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 305905,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,7 +166,7 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 136,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1060761,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 139302,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2156207,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2451790,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 205384,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
