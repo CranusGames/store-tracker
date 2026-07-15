@@ -54,7 +54,7 @@
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/5b/67/c45b679f-9e20-904a-d3cb-7de27482917b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/6f/35/506f3593-bf13-43ed-d801-26712f6e67a3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
       "rating_count": 1572074,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19401300,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 33228,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,23 +94,11 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 146,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "6748397500",
-      "app_name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore GmbH",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/23/ab/4823ab04-d853-06c5-2bdb-24aaa7f6c089/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 314548,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 10,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
@@ -118,6 +106,18 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2597425,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "6748397500",
+      "app_name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore GmbH",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/23/ab/4823ab04-d853-06c5-2bdb-24aaa7f6c089/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 314548,
       "change": "-1",
       "change_val": -1
     },
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3999,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -159,15 +159,15 @@
     },
     {
       "rank": 14,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/8e/ce/fc8ece0c-f7d4-90aa-c0fe-956ea08edb9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6475757306",
+      "app_name": "Disney Solitaire",
+      "developer": "SuperPlay",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/12/a7/f212a75d-f23d-fc0f-7572-ebdb8a196924/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 189289,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.9,
+      "rating_count": 652460,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 15,
@@ -183,6 +183,18 @@
     },
     {
       "rank": 16,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/8e/ce/fc8ece0c-f7d4-90aa-c0fe-956ea08edb9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 189289,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
       "app_id": "6758326278",
       "app_name": "Amaze GO!",
       "developer": "Oakever Games",
@@ -190,20 +202,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 139826,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "6475757306",
-      "app_name": "Disney Solitaire",
-      "developer": "SuperPlay",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/12/a7/f212a75d-f23d-fc0f-7572-ebdb8a196924/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 652460,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -219,6 +219,18 @@
     },
     {
       "rank": 19,
+      "app_id": "6471045672",
+      "app_name": "Tasty Travels: Merge Game",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/3d/8f/f93d8fca-c3ea-2396-4472-29b7fab67059/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 35786,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "6739554056",
       "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 205560,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "638689075",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/29/69/a82969cf-173e-2e19-0a65-7f11f4a12240/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 2156491,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
