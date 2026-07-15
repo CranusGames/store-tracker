@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6756247787",
-      "app_name": "DIGIMON UP",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/79/24/4c792435-8fd4-87fc-63d5-27da1ee8e59b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 0,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "6752672568",
       "app_name": "Block Out! - Color Sort Puzzle",
       "developer": "Grand Games A.Ş.",
@@ -46,8 +34,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 120962,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "6756247787",
+      "app_name": "DIGIMON UP",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/79/24/4c792435-8fd4-87fc-63d5-27da1ee8e59b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 0,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 33228,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19401300,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/85/8c/b0858cef-e647-671a-19e6-c0d17dd02d45/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 33228,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -123,15 +123,15 @@
     },
     {
       "rank": 11,
-      "app_id": "6779167923",
-      "app_name": "Colony Flow!",
-      "developer": "ABI GLOBAL LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/ef/4f/d9ef4f43-7e12-2f54-82dc-6c5bb907bae2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6780195090",
+      "app_name": "82-0.com",
+      "developer": "Vaulty Studios Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/a5/9f/00a59fe8-593a-1278-774c-e6803a407d99/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 3999,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 1270,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 12,
@@ -147,30 +147,18 @@
     },
     {
       "rank": 13,
-      "app_id": "6780195090",
-      "app_name": "82-0.com",
-      "developer": "Vaulty Studios Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/a5/9f/00a59fe8-593a-1278-774c-e6803a407d99/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6779167923",
+      "app_name": "Colony Flow!",
+      "developer": "ABI GLOBAL LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/ef/4f/d9ef4f43-7e12-2f54-82dc-6c5bb907bae2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 1270,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 3999,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 14,
-      "app_id": "1550945606",
-      "app_name": "Soccer Superstar",
-      "developer": "Real Free Soccer",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/1d/da/2b1ddaf3-3bd5-26d3-fe90-8cf11d5265b3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 306630,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "1606549505",
       "app_name": "Royal Kingdom",
       "developer": "Dream Games",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1061615,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "1550945606",
+      "app_name": "Soccer Superstar",
+      "developer": "Real Free Soccer",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/1d/da/2b1ddaf3-3bd5-26d3-fe90-8cf11d5265b3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 306630,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
