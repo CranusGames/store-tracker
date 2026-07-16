@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "com.google.android.play.games",
-      "app_name": "Google Play Games",
-      "developer": "Google LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/3YayGH2tGgjk5NcwpJh0vB16C_bEX9GJ5EmUWI4kuEMd8b3Nh3zAgUtxL7rRHmyeEFSvnd6Af0lCyqICjZah7w",
-      "installs": "5,000,000,000+",
-      "rating": 4.0,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "com.imangi.templerun2",
       "app_name": "Temple Run 2: Endless Escape",
       "developer": "Imangi Studios",
@@ -70,8 +58,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "com.kitkagames.fallbuddies",
+      "app_name": "Stumble Guys",
+      "developer": "Scopely",
+      "icon_url": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 7,
@@ -87,15 +87,15 @@
     },
     {
       "rank": 8,
-      "app_id": "com.kitkagames.fallbuddies",
-      "app_name": "Stumble Guys",
-      "developer": "Scopely",
-      "icon_url": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
-      "installs": "100,000,000+",
-      "rating": 4.6,
+      "app_id": "com.google.android.play.games",
+      "app_name": "Google Play Games",
+      "developer": "Google LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/3YayGH2tGgjk5NcwpJh0vB16C_bEX9GJ5EmUWI4kuEMd8b3Nh3zAgUtxL7rRHmyeEFSvnd6Af0lCyqICjZah7w",
+      "installs": "5,000,000,000+",
+      "rating": 4.0,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 9,
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "com.readygo.barrel.gp",
-      "app_name": "Last Z: Survival Shooter",
-      "developer": "Omnilojo Pte Ltd",
-      "icon_url": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
-      "installs": "10,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "com.tocaboca.tocalifeworld",
       "app_name": "Toca Boca World",
       "developer": "Toca Boca",
@@ -130,11 +118,11 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "com.tencent.ig",
       "app_name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -142,8 +130,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "com.miniclip.eightballpool",
+      "app_name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 13,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "com.miniclip.eightballpool",
-      "app_name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -178,47 +166,11 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "com.kiloo.subwaysurf",
-      "app_name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "icon_url": "https://play-lh.googleusercontent.com/T7az9M7td7A24vOr7Jp3C9NG16kyWA1NnlUySyl_mbDV9BtlrFbxps5TD5DzT7kCBxpNeTbIIju2_aFN4xtFoYM",
-      "installs": "1,000,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "com.playrix.township",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-      "installs": "500,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 18,
-      "app_id": "com.vitastudio.mahjong",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio.",
-      "icon_url": "https://play-lh.googleusercontent.com/ioTu_sdNBDPnNsW2I-fHJgxsfOVmQr7wbtJOELatIcpPdToqSnmxsYTa3U7RdXrE1QSp1RBBscN6aNYSnkc",
-      "installs": "100,000,000+",
-      "rating": 4.8,
-      "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 19,
+      "rank": 15,
       "app_id": "com.firsttouchgames.dls7",
       "app_name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -226,20 +178,68 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "+4",
+      "change_val": 4
     },
     {
-      "rank": 20,
-      "app_id": "jigsaw.puzzle.free.games",
-      "app_name": "Jigsaw Puzzles HD Puzzle Games",
-      "developer": "Guru Puzzle Game",
-      "icon_url": "https://play-lh.googleusercontent.com/qgsTOxf1f1rwms5JBOJZUqWEDeDmv4JHM_edatMtCDUCvX1s955zkhvMRLx3F4QT2uxcjaimAaNm_myqIBWj0jM",
-      "installs": "10,000,000+",
+      "rank": 16,
+      "app_id": "com.vitastudio.mahjong",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio.",
+      "icon_url": "https://play-lh.googleusercontent.com/ioTu_sdNBDPnNsW2I-fHJgxsfOVmQr7wbtJOELatIcpPdToqSnmxsYTa3U7RdXrE1QSp1RBBscN6aNYSnkc",
+      "installs": "100,000,000+",
       "rating": 4.8,
+      "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "com.kiloo.subwaysurf",
+      "app_name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "icon_url": "https://play-lh.googleusercontent.com/T7az9M7td7A24vOr7Jp3C9NG16kyWA1NnlUySyl_mbDV9BtlrFbxps5TD5DzT7kCBxpNeTbIIju2_aFN4xtFoYM",
+      "installs": "1,000,000,000+",
+      "rating": 4.5,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
+    },
+    {
+      "rank": 18,
+      "app_id": "com.playrix.township",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+      "installs": "500,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "com.king.candycrushsodasaga",
+      "app_name": "Candy Crush Soda Saga",
+      "developer": "King",
+      "icon_url": "https://play-lh.googleusercontent.com/MVuszfqolfHgAa9rrC812oOPmdbdh8oULxR5Pbg2atQRja_OSGUOUVbgzmEUb1GzqkUnh1UO0LGhGp6Y8M5T",
+      "installs": "500,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "com.game.space.shooter2",
+      "app_name": "Space shooter - Galaxy attack",
+      "developer": "Unicorn Studio Official",
+      "icon_url": "https://play-lh.googleusercontent.com/jhi3GmRRUJEfwl0O0_jrvJwgoiQLBmYJ1T0BRYawJ9MM4iqV1LbVasSbQ0TzSdN_ksrdT25-Ro1RvABtbMpMY28",
+      "installs": "100,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
