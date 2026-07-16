@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6752672568",
-      "app_name": "Block Out! - Color Sort Puzzle",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/a3/fc/d1a3fc98-3240-ec8e-b996-3712f35c6afa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 5165,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6780891673",
       "app_name": "Royal Smash! : Physics Puzzle",
       "developer": "Cypher Games",
@@ -22,8 +10,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 227,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6752672568",
+      "app_name": "Block Out! - Color Sort Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/a3/fc/d1a3fc98-3240-ec8e-b996-3712f35c6afa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 5165,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6448928429",
-      "app_name": "Parking Mafia: ONLİNE",
-      "developer": "Ali Kar",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/59/c9/ff59c995-8f9d-a3dd-bc1b-d9338108ca7d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.3,
-      "rating_count": 72,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "6471045672",
       "app_name": "Tasty Travels: Merge Game",
       "developer": "Century Games Pte. Ltd.",
@@ -82,11 +70,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 3614,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "1229016807",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
@@ -94,11 +82,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 853803,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "512939461",
       "app_name": "Subway Surfers",
       "developer": "Sybo Games ApS",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 329458,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6448928429",
+      "app_name": "Parking Mafia: ONLİNE",
+      "developer": "Ali Kar",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/59/c9/ff59c995-8f9d-a3dd-bc1b-d9338108ca7d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.3,
+      "rating_count": 72,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 10,
@@ -135,15 +135,15 @@
     },
     {
       "rank": 12,
-      "app_id": "6499209744",
-      "app_name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/13/ad/3413ad4a-cfb6-94c6-e192-0ee739f3d958/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6746328263",
+      "app_name": "Castle Busters",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/f7/11/aef711f0-5483-b6d8-63aa-c26549c7eae7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 26365,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 3650,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 13,
@@ -159,30 +159,18 @@
     },
     {
       "rank": 14,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/13/ad/3413ad4a-cfb6-94c6-e192-0ee739f3d958/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 16591,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 26365,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 15,
-      "app_id": "6746328263",
-      "app_name": "Castle Busters",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/f7/11/aef711f0-5483-b6d8-63aa-c26549c7eae7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 3650,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 254741,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 16591,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 17,
@@ -207,14 +207,14 @@
     },
     {
       "rank": 18,
-      "app_id": "951744068",
-      "app_name": "Traffic Rider",
-      "developer": "Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/0a/ed/430aed0d-316c-7722-6baf-008eb7a20f3a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "app_id": "6755455500",
+      "app_name": "Hollywood Merge",
+      "developer": "VoyagerOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/7a/14/207a14ef-c4ee-efdb-94e7-0cbee0e47d12/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.4,
-      "rating_count": 50689,
-      "change": "=",
+      "rating": 4.6,
+      "rating_count": 1410,
+      "change": "new",
       "change_val": 0
     },
     {
@@ -231,15 +231,15 @@
     },
     {
       "rank": 20,
-      "app_id": "6747834136",
-      "app_name": "Mafia Life: Underworld Boss",
-      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/6c/7a/756c7a4c-c95a-7808-e10f-62dfc54a4129/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "951744068",
+      "app_name": "Traffic Rider",
+      "developer": "Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/0a/ed/430aed0d-316c-7722-6baf-008eb7a20f3a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 2612,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.4,
+      "rating_count": 50689,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
