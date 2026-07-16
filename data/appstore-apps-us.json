@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/bd/64/16bd649c-c8fb-1b4e-6ed2-be72a2dba618/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 12439,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 3,
       "app_id": "6447582581",
       "app_name": "Netflix Game Controller",
       "developer": "Netflix, Inc.",
@@ -34,8 +22,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 118973,
-      "change": "+3",
-      "change_val": 3
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/bd/64/16bd649c-c8fb-1b4e-6ed2-be72a2dba618/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 12439,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
@@ -46,23 +46,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 384842,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
-      "app_id": "6746049430",
-      "app_name": "FOX One: Live News, Sports, TV",
-      "developer": "Fox Digital Services, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/64/83/69648313-7656-6e6e-5143-e55b393a94fd/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 89590,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 6,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
@@ -74,19 +62,19 @@
       "change_val": 1
     },
     {
-      "rank": 7,
-      "app_id": "1508186374",
-      "app_name": "Peacock TV: Stream TV & Movies",
-      "developer": "Peacock TV LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/03/31/b10331b9-d8c8-eb9c-3530-173124c851b1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "rank": 6,
+      "app_id": "460177396",
+      "app_name": "Twitch: Live Streaming",
+      "developer": "Twitch Interactive, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fe/fb/86fefbfe-29cb-5db8-372c-3b442a20eb50/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3543443,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 2746436,
+      "change": "+9",
+      "change_val": 9
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "1673567402",
       "app_name": "Freecash - Get Paid Real Money",
       "developer": "256 REWARDS LTD",
@@ -94,23 +82,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 94811,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "1508186374",
+      "app_name": "Peacock TV: Stream TV & Movies",
+      "developer": "Peacock TV LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/03/31/b10331b9-d8c8-eb9c-3530-173124c851b1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 3543443,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/03/7c/e7037c06-1470-8849-44a2-252eb3be612e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 201437,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -118,32 +106,44 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2091638,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "6746049430",
+      "app_name": "FOX One: Live News, Sports, TV",
+      "developer": "Fox Digital Services, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/64/83/69648313-7656-6e6e-5143-e55b393a94fd/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 89590,
+      "change": "-5",
+      "change_val": -5
+    },
+    {
+      "rank": 11,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/03/7c/e7037c06-1470-8849-44a2-252eb3be612e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 201437,
       "change": "-2",
       "change_val": -2
     },
     {
-      "rank": 11,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8b/2f/e38b2fe8-5991-2e46-8b1c-64315e08a3e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18256242,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
       "rank": 12,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/c3/f2/08c3f254-e6d3-b4f8-809a-fe44a5e5d1ac/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "6758667154",
+      "app_name": "VibeShort: AI Comic Dramas",
+      "developer": "AGILE QUADRANT MEDIA LIMITED",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/28/8e/2a288ed5-4763-646a-5029-c7ea58fff0f1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 4822031,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.5,
+      "rating_count": 16708,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 13,
@@ -154,35 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1991310,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 14,
-      "app_id": "6758667154",
-      "app_name": "VibeShort: AI Comic Dramas",
-      "developer": "AGILE QUADRANT MEDIA LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/28/8e/2a288ed5-4763-646a-5029-c7ea58fff0f1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 16708,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 15,
-      "app_id": "460177396",
-      "app_name": "Twitch: Live Streaming",
-      "developer": "Twitch Interactive, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fe/fb/86fefbfe-29cb-5db8-372c-3b442a20eb50/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2746436,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 16,
+      "rank": 14,
       "app_id": "1488269261",
       "app_name": "Whatnot: Shop, Sell, Connect",
       "developer": "Whatnot Inc.",
@@ -190,11 +166,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 920825,
-      "change": "-1",
-      "change_val": -1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 17,
+      "rank": 15,
       "app_id": "632064380",
       "app_name": "Vinted: Pre-loved marketplace",
       "developer": "Vinted Limited",
@@ -202,8 +178,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 118237,
-      "change": "-1",
-      "change_val": -1
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 16,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/c3/f2/08c3f254-e6d3-b4f8-809a-fe44a5e5d1ac/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4822031,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 17,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8b/2f/e38b2fe8-5991-2e46-8b1c-64315e08a3e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18256242,
+      "change": "-6",
+      "change_val": -6
     },
     {
       "rank": 18,
@@ -214,31 +214,31 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1115063,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "422689480",
-      "app_name": "Gmail - Email by Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/f2/62/bbf2623e-c118-233b-0e5f-eec91af48194/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/27/0b/93270bd6-2a0d-2704-9e9e-732b75879f1f/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2422901,
+      "rating_count": 2161226,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/92/76/5c9276ad-36f4-4df7-bbf5-b80b818b75ef/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "338137227",
+      "app_name": "Walmart: Shopping & Savings",
+      "developer": "Walmart",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/a7/4a/7da74a8f-32bf-d2cc-1840-cf434a23ee52/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 7275123,
-      "change": "=",
+      "rating": 4.8,
+      "rating_count": 17824728,
+      "change": "new",
       "change_val": 0
     }
   ]
