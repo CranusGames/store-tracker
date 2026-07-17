@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "rankings": [
     {
       "rank": 1,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "com.scaleup.plantid",
-      "app_name": "Plant App - Plant Identifier",
-      "developer": "ScaleUp",
-      "icon_url": "https://play-lh.googleusercontent.com/PSE5PUX1jFCZcp5L6ii-0Iro8wJ-WCawv2rLSsbfj8tDVVTlNQnWBYHj4MFNBjwT3BVbXDCJP3Elcb8xM962",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "tr.com.abat.sosyopix",
       "app_name": "Sosyopix - Personalized Gift",
       "developer": "Abat Ltd.",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "com.scaleup.plantid",
+      "app_name": "Plant App - Plant Identifier",
+      "developer": "ScaleUp",
+      "icon_url": "https://play-lh.googleusercontent.com/PSE5PUX1jFCZcp5L6ii-0Iro8wJ-WCawv2rLSsbfj8tDVVTlNQnWBYHj4MFNBjwT3BVbXDCJP3Elcb8xM962",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
