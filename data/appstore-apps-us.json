@@ -87,15 +87,15 @@
     },
     {
       "rank": 8,
-      "app_id": "284882215",
-      "app_name": "Facebook",
-      "developer": "Meta Platforms, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/7d/9b/f77d9b8f-1ea8-b201-791d-e06014b8b5d1/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/56/f5/0956f5d8-19e7-5aab-24e5-6dc7cef01611/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 27255749,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 203476,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 9,
@@ -111,66 +111,18 @@
     },
     {
       "rank": 10,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/56/f5/0956f5d8-19e7-5aab-24e5-6dc7cef01611/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "284882215",
+      "app_name": "Facebook",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/7d/9b/f77d9b8f-1ea8-b201-791d-e06014b8b5d1/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 203476,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.5,
+      "rating_count": 27255749,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 11,
-      "app_id": "1632713844",
-      "app_name": "Kalshi: Trade the World Cup",
-      "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/27/98/0d2798e1-37f9-1653-0af4-733e6a0662c7/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 393837,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/c3/f2/08c3f254-e6d3-b4f8-809a-fe44a5e5d1ac/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4830558,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
-      "app_id": "632064380",
-      "app_name": "Vinted: Pre-loved marketplace",
-      "developer": "Vinted Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/db/e1/9cdbe1fb-1bbc-53af-2293-c2897598b6bd/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 120971,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/fc/ce/2dfcceb3-fc97-e6a5-078f-1b7fb37ca365/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 927273,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "6758667154",
       "app_name": "VibeShort: AI Comic Dramas",
       "developer": "AGILE QUADRANT MEDIA LIMITED",
@@ -178,8 +130,56 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 17621,
-      "change": "=",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 12,
+      "app_id": "1632713844",
+      "app_name": "Kalshi: Trade the World Cup",
+      "developer": "KalshiEX LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/27/98/0d2798e1-37f9-1653-0af4-733e6a0662c7/flavor_productionAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 393837,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 13,
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/fc/ce/2dfcceb3-fc97-e6a5-078f-1b7fb37ca365/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 927273,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/c3/f2/08c3f254-e6d3-b4f8-809a-fe44a5e5d1ac/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4830558,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 15,
+      "app_id": "632064380",
+      "app_name": "Vinted: Pre-loved marketplace",
+      "developer": "Vinted Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/db/e1/9cdbe1fb-1bbc-53af-2293-c2897598b6bd/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 120971,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
@@ -219,18 +219,6 @@
     },
     {
       "rank": 19,
-      "app_id": "719972451",
-      "app_name": "DoorDash: Food, Grocery, More",
-      "developer": "DoorDash, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/76/8d/8c768d83-d4a1-8055-ce58-38e2685f5715/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 22676073,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "333903271",
       "app_name": "X",
       "developer": "X Corp.",
@@ -238,7 +226,19 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 10872424,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/27/0b/93270bd6-2a0d-2704-9e9e-732b75879f1f/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2162466,
+      "change": "new",
       "change_val": 0
     }
   ]
