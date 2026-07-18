@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/a7/53/46a75369-61ed-b52a-0913-8b9b9a486a26/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 343460,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -58,8 +46,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445116,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/a7/53/46a75369-61ed-b52a-0913-8b9b9a486a26/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 343460,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b9/65/f7b965a9-44c6-4b9e-98b8-64112f6a9e7e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 171578,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "1636235979",
       "app_name": "ReelShort - Stream Drama & TV",
       "developer": "NewLeaf Publishing",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 16842,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b9/65/f7b965a9-44c6-4b9e-98b8-64112f6a9e7e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 171578,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/4d/7e/534d7ea2-2aa7-b897-683a-7fc2ea1e3753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 93114,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "6740533412",
       "app_name": "HAYAT 112 Acil",
       "developer": "T.C. İçişleri Bakanlığı",
@@ -130,11 +118,11 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 240,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "397585390",
       "app_name": "Migros: Food & Groceries",
       "developer": "MigrosOne",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 371676,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/4d/7e/534d7ea2-2aa7-b897-683a-7fc2ea1e3753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 93114,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 13,
@@ -183,30 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.4,
-      "rating_count": 9325,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548243,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "1234494259",
       "app_name": "Cepte Şok",
       "developer": "Şok Marketler Tic. A.Ş.",
@@ -214,11 +190,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 69225,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 9325,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 18,
       "app_id": "995280265",
       "app_name": "getir: groceries, food&beyond",
       "developer": "Getir",
@@ -226,19 +214,31 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1065835,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 548243,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/a1/3b/26a13bb2-202a-d262-c033-675d31ddcd4c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/d1/5d/65d15d1f-e0b3-09b9-97b4-2bd98ea83046/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 19401,
-      "change": "=",
+      "rating": 4.7,
+      "rating_count": 1884587,
+      "change": "new",
       "change_val": 0
     }
   ]

@@ -87,18 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "6769314786",
-      "app_name": "Food Hunt: Pixel Puzzle",
-      "developer": "FUNFINITY PTE. LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/7e/23/567e23a2-d9b2-0615-af9c-b85b9d6883c6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 11242,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "6748397500",
       "app_name": "Arrows – Puzzle Escape",
       "developer": "Lessmore GmbH",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 322517,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6769314786",
+      "app_name": "Food Hunt: Pixel Puzzle",
+      "developer": "FUNFINITY PTE. LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/7e/23/567e23a2-d9b2-0615-af9c-b85b9d6883c6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 11242,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -219,18 +219,6 @@
     },
     {
       "rank": 19,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/08/bd/3008bdb9-78e3-6f59-3158-11fc69691460/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 190209,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "6758326278",
       "app_name": "Amaze GO!",
       "developer": "Oakever Games",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 143383,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/08/bd/3008bdb9-78e3-6f59-3158-11fc69691460/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 190209,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
