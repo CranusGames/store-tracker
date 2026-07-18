@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 2662,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 26464,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 372,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1969,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,7 +214,7 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 3743,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -226,7 +226,7 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 66241,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 45373,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
