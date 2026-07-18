@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "com.dreamgames.royalmatch",
-      "app_name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-      "installs": "100,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 14,
       "app_id": "com.kiloo.subwaysurf",
       "app_name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -166,11 +154,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "com.miniclip.eightballpool",
       "app_name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -178,11 +166,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "com.firsttouchgames.dls7",
       "app_name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -190,23 +178,23 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "com.dreamgames.royalmatch",
+      "app_name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+      "installs": "100,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 17,
-      "app_id": "com.playrix.township",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-      "installs": "500,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "com.topfreegames.bikeracefreeworld",
       "app_name": "Bike Race：Motorcycle Games",
       "developer": "Wildlife Studios",
@@ -214,8 +202,20 @@
       "installs": "100,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "com.playrix.township",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+      "installs": "500,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
@@ -238,7 +238,7 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
