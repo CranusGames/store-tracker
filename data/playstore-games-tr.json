@@ -87,6 +87,18 @@
     },
     {
       "rank": 8,
+      "app_id": "com.google.android.play.games",
+      "app_name": "Google Play Games",
+      "developer": "Google LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/3YayGH2tGgjk5NcwpJh0vB16C_bEX9GJ5EmUWI4kuEMd8b3Nh3zAgUtxL7rRHmyeEFSvnd6Af0lCyqICjZah7w",
+      "installs": "5,000,000,000+",
+      "rating": 4.0,
+      "rating_count": 0,
+      "change": "+12",
+      "change_val": 12
+    },
+    {
+      "rank": 9,
       "app_id": "com.dts.freefireth",
       "app_name": "Free Fire: 9th Anniversary",
       "developer": "GARENA INTERNATIONAL I",
@@ -94,11 +106,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "app_id": "bubbleshooter.orig",
       "app_name": "Bubble Shooter - Classic Pop",
       "developer": "Bubble Shooter",
@@ -106,11 +118,11 @@
       "installs": "500,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "app_id": "com.tocaboca.tocalifeworld",
       "app_name": "Toca Boca World",
       "developer": "Toca Boca",
@@ -118,11 +130,11 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "app_id": "com.tencent.ig",
       "app_name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -130,20 +142,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "com.miniclip.eightballpool",
-      "app_name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -159,6 +159,18 @@
     },
     {
       "rank": 14,
+      "app_id": "com.miniclip.eightballpool",
+      "app_name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 15,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -166,11 +178,11 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "app_id": "com.firsttouchgames.dls7",
       "app_name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -178,11 +190,11 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "app_id": "com.playrix.township",
       "app_name": "Township",
       "developer": "Playrix",
@@ -190,23 +202,23 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "app_id": "com.topfreegames.bikeracefreeworld",
       "app_name": "Bike Race：Motorcycle Games",
       "developer": "Wildlife Studios",
       "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
       "installs": "100,000,000+",
-      "rating": 4.1,
+      "rating": 4.2,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "app_id": "com.vitastudio.mahjong",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio.",
@@ -214,31 +226,19 @@
       "installs": "100,000,000+",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
-      "app_name": "Kids Games: For Toddlers 3-5",
-      "developer": "RV AppStudios",
-      "icon_url": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
-      "installs": "50,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
-      "app_id": "com.google.android.play.games",
-      "app_name": "Google Play Games",
-      "developer": "Google LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/3YayGH2tGgjk5NcwpJh0vB16C_bEX9GJ5EmUWI4kuEMd8b3Nh3zAgUtxL7rRHmyeEFSvnd6Af0lCyqICjZah7w",
-      "installs": "5,000,000,000+",
-      "rating": 4.0,
+      "app_id": "com.game.space.shooter2",
+      "app_name": "Space shooter - Galaxy attack",
+      "developer": "Unicorn Studio Official",
+      "icon_url": "https://play-lh.googleusercontent.com/jhi3GmRRUJEfwl0O0_jrvJwgoiQLBmYJ1T0BRYawJ9MM4iqV1LbVasSbQ0TzSdN_ksrdT25-Ro1RvABtbMpMY28",
+      "installs": "100,000,000+",
+      "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
+      "change": "new",
       "change_val": 0
     }
   ]
