@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6752672568",
-      "app_name": "Block Out! - Color Sort Puzzle",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/a3/fc/d1a3fc98-3240-ec8e-b996-3712f35c6afa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 125828,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 2,
       "app_id": "6761760135",
       "app_name": "Meowdoku!",
       "developer": "Oakever Games",
@@ -22,6 +10,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 84868,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6752672568",
+      "app_name": "Block Out! - Color Sort Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/a3/fc/d1a3fc98-3240-ec8e-b996-3712f35c6afa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 125828,
       "change": "-1",
       "change_val": -1
     },
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "6748397500",
-      "app_name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore GmbH",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/23/ab/4823ab04-d853-06c5-2bdb-24aaa7f6c089/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 322722,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
@@ -118,8 +106,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2605093,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "6748397500",
+      "app_name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore GmbH",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/23/ab/4823ab04-d853-06c5-2bdb-24aaa7f6c089/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 322722,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -183,54 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "1606549505",
-      "app_name": "Royal Kingdom",
-      "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f8/5a/2bf85a05-8615-e562-1cb7-f17798313b1b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1066500,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "1550945606",
-      "app_name": "Soccer Superstar",
-      "developer": "Real Free Soccer",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/1d/da/2b1ddaf3-3bd5-26d3-fe90-8cf11d5265b3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 310456,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 206653,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 19,
-      "app_id": "6758326278",
-      "app_name": "Amaze GO!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/2e/90/592e90c1-72b8-282f-97a8-57e0d9414c6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 143434,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "6475757306",
       "app_name": "Disney Solitaire",
       "developer": "SuperPlay",
@@ -238,7 +190,55 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 657762,
-      "change": "=",
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 17,
+      "app_id": "6758326278",
+      "app_name": "Amaze GO!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/2e/90/592e90c1-72b8-282f-97a8-57e0d9414c6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 143434,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 18,
+      "app_id": "1550945606",
+      "app_name": "Soccer Superstar",
+      "developer": "Real Free Soccer",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/1d/da/2b1ddaf3-3bd5-26d3-fe90-8cf11d5265b3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 310456,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "638689075",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/29/69/a82969cf-173e-2e19-0a65-7f11f4a12240/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 2158382,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/08/bd/3008bdb9-78e3-6f59-3158-11fc69691460/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 190229,
+      "change": "new",
       "change_val": 0
     }
   ]
