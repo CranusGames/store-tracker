@@ -10,8 +10,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 122293,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 8691130,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 394010,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 13803,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2753564,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,18 +94,18 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2097246,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/c3/f2/08c3f254-e6d3-b4f8-809a-fe44a5e5d1ac/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "632064380",
+      "app_name": "Vinted: Pre-loved marketplace",
+      "developer": "Vinted Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/db/e1/9cdbe1fb-1bbc-53af-2293-c2897598b6bd/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 4831032,
+      "rating": 4.8,
+      "rating_count": 121085,
       "change": "+3",
       "change_val": 3
     },
@@ -118,35 +118,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 203603,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
-      "app_id": "284882215",
-      "app_name": "Facebook",
-      "developer": "Meta Platforms, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/7d/9b/f77d9b8f-1ea8-b201-791d-e06014b8b5d1/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 27257898,
-      "change": "+5",
-      "change_val": 5
-    },
-    {
-      "rank": 12,
-      "app_id": "632064380",
-      "app_name": "Vinted: Pre-loved marketplace",
-      "developer": "Vinted Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/db/e1/9cdbe1fb-1bbc-53af-2293-c2897598b6bd/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 121085,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 13,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -154,11 +130,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2000721,
-      "change": "-3",
-      "change_val": -3
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 14,
+      "rank": 12,
       "app_id": "1488269261",
       "app_name": "Whatnot: Shop, Sell, Connect",
       "developer": "Whatnot Inc.",
@@ -166,11 +142,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 927619,
-      "change": "-1",
-      "change_val": -1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/c3/f2/08c3f254-e6d3-b4f8-809a-fe44a5e5d1ac/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4831032,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 14,
       "app_id": "719972451",
       "app_name": "DoorDash: Food, Grocery, More",
       "developer": "DoorDash, Inc.",
@@ -178,35 +166,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 22676447,
-      "change": "+4",
-      "change_val": 4
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8b/2f/e38b2fe8-5991-2e46-8b1c-64315e08a3e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "rank": 15,
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/1c/2d/be1c2d09-8ac9-e2f8-6198-8dc95882729c/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 18268872,
+      "rating_count": 2162527,
       "change": "+2",
       "change_val": 2
     },
     {
-      "rank": 17,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/27/0b/93270bd6-2a0d-2704-9e9e-732b75879f1f/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2162527,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "app_id": "1508186374",
       "app_name": "Peacock TV: Stream TV & Movies",
       "developer": "Peacock TV LLC",
@@ -214,11 +190,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3550561,
-      "change": "new",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 19,
+      "rank": 17,
       "app_id": "6758667154",
       "app_name": "VibeShort: AI Comic Dramas",
       "developer": "AGILE QUADRANT MEDIA LIMITED",
@@ -226,11 +202,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 17675,
-      "change": "-8",
-      "change_val": -8
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 20,
+      "rank": 18,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -238,8 +214,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1115327,
-      "change": "=",
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/a1/3b/26a13bb2-202a-d262-c033-675d31ddcd4c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 127475,
+      "change": "new",
       "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "284882215",
+      "app_name": "Facebook",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/7d/9b/f77d9b8f-1ea8-b201-791d-e06014b8b5d1/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 27257898,
+      "change": "-9",
+      "change_val": -9
     }
   ]
 }
