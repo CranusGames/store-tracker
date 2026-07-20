@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/b8/66/1bb86608-721f-bc92-5c02-1f2ddf30b055/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 899279,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -46,23 +34,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445144,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/b8/66/1bb86608-721f-bc92-5c02-1f2ddf30b055/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 899279,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
-      "app_id": "6504849169",
-      "app_name": "NetShort - Popular Dramas & TV",
-      "developer": "NETSTORY PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 33577,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 345166,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6504849169",
+      "app_name": "NetShort - Popular Dramas & TV",
+      "developer": "NETSTORY PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 33577,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "1636235979",
-      "app_name": "ReelShort - Stream Drama & TV",
-      "developer": "NewLeaf Publishing",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/21/ea/4021ea22-af66-6c5b-652e-3aedb7437977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 17092,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -118,11 +106,11 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9333,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 11,
+      "rank": 10,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -130,20 +118,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918709,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "1636235979",
+      "app_name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/21/ea/4021ea22-af66-6c5b-652e-3aedb7437977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 17092,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 12,
-      "app_id": "1668441657",
-      "app_name": "tabii",
-      "developer": "Turkiye Radyo ve Televizyon Kurumu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 68124,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 548243,
+      "change": "+5",
+      "change_val": 5
     },
     {
       "rank": 13,
@@ -159,15 +159,15 @@
     },
     {
       "rank": 14,
-      "app_id": "6740533412",
-      "app_name": "HAYAT 112 Acil",
-      "developer": "T.C. İçişleri Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/86/13/9a8613c1-e2c2-2f46-a8f3-3abb469ba285/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "418535251",
+      "app_name": "sahibinden #AlSatKiralaKesfet",
+      "developer": "sahibinden.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c0/08/a4c008a5-16f2-5fe1-a71f-833e2d74a263/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.0,
-      "rating_count": 241,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 3019425,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 15,
@@ -195,30 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548243,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "418535251",
-      "app_name": "sahibinden #AlSatKiralaKesfet",
-      "developer": "sahibinden.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c0/08/a4c008a5-16f2-5fe1-a71f-833e2d74a263/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 3019425,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "995280265",
       "app_name": "getir: groceries, food&beyond",
       "developer": "Getir",
@@ -226,11 +202,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1066228,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "app_id": "6740533412",
+      "app_name": "HAYAT 112 Acil",
+      "developer": "T.C. İçişleri Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/86/13/9a8613c1-e2c2-2f46-a8f3-3abb469ba285/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.0,
+      "rating_count": 241,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 19,
       "app_id": "397585390",
       "app_name": "Migros: Food & Groceries",
       "developer": "MigrosOne",
@@ -238,7 +226,19 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 372362,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1234494259",
+      "app_name": "Cepte Şok",
+      "developer": "Şok Marketler Tic. A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a5/b5/b4a5b51a-bec7-7397-1031-abb02939cb9e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 69230,
+      "change": "new",
       "change_val": 0
     }
   ]
