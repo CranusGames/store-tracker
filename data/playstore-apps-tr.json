@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "interior.home.design.ai",
-      "app_name": "Home AI - AI Interior Design",
-      "developer": "HubX",
-      "icon_url": "https://play-lh.googleusercontent.com/zB2tNHzohgQhXO6p6sWISt2bDG9WdzRvrUfAxVpdR_cRoM5npG_3vTey3IjSKdadgZsIrTSY8n6Y_4OXv-H82Q",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "pilatesworkouts.loseweight.dailyyoga",
       "app_name": "PILATES Workouts at Home",
       "developer": "Nexoft - Fitness Apps",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "interior.home.design.ai",
+      "app_name": "Home AI - AI Interior Design",
+      "developer": "HubX",
+      "icon_url": "https://play-lh.googleusercontent.com/zB2tNHzohgQhXO6p6sWISt2bDG9WdzRvrUfAxVpdR_cRoM5npG_3vTey3IjSKdadgZsIrTSY8n6Y_4OXv-H82Q",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
