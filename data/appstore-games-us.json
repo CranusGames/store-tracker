@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2545,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19483074,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "6483539426",
-      "app_name": "Fortnite",
-      "developer": "Epic Games Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a0/3a/42a03add-a2dd-0658-351e-dcd51cdf392d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 194935,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "6760325543",
       "app_name": "CubeAway - 3DPuzzle",
       "developer": "GOODROID,Inc.",
@@ -158,6 +146,18 @@
       "change_val": 1
     },
     {
+      "rank": 13,
+      "app_id": "6483539426",
+      "app_name": "Fortnite",
+      "developer": "Epic Games Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a0/3a/42a03add-a2dd-0658-351e-dcd51cdf392d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 194935,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 14,
       "app_id": "6779167923",
       "app_name": "Colony Flow!",
@@ -166,35 +166,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 6059,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 15,
-      "app_id": "1094930513",
-      "app_name": "EA SPORTS FC Soccer Mobile 26",
-      "developer": "Electronic Arts",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/c5/4e/07c54e36-942e-ccbf-0bf7-c125f1261d42/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2473288,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 16,
-      "app_id": "1550945606",
-      "app_name": "Soccer Superstar",
-      "developer": "Real Free Soccer",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/1d/da/2b1ddaf3-3bd5-26d3-fe90-8cf11d5265b3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 313610,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
+      "rank": 15,
       "app_id": "6475757306",
       "app_name": "Disney Solitaire",
       "developer": "SuperPlay",
@@ -202,6 +178,30 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 661410,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 16,
+      "app_id": "1094930513",
+      "app_name": "EA SPORTS FC Soccer Mobile 26",
+      "developer": "Electronic Arts",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/c5/4e/07c54e36-942e-ccbf-0bf7-c125f1261d42/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2473288,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 17,
+      "app_id": "1550945606",
+      "app_name": "Soccer Superstar",
+      "developer": "Real Free Soccer",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/1d/da/2b1ddaf3-3bd5-26d3-fe90-8cf11d5265b3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 313610,
       "change": "-1",
       "change_val": -1
     },
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "6758326278",
-      "app_name": "Amaze GO!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/04/ce/8504cef6-d977-7eb8-587b-d6bce3bdf08b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6471045672",
+      "app_name": "Tasty Travels: Merge Game",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/3d/8f/f93d8fca-c3ea-2396-4472-29b7fab67059/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 146168,
-      "change": "=",
+      "rating_count": 37180,
+      "change": "new",
       "change_val": 0
     }
   ]
