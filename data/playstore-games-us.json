@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "com.imangi.templerun2",
-      "app_name": "Temple Run 2: Endless Escape",
-      "developer": "Imangi Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
-      "installs": "1,000,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "com.roblox.client",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -118,8 +106,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "com.imangi.templerun2",
+      "app_name": "Temple Run 2: Endless Escape",
+      "developer": "Imangi Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
+      "installs": "1,000,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "com.bigduckgames.flow",
-      "app_name": "Flow Free",
-      "developer": "Big Duck Games LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/EfhYQZbslbUgQzI4rz0kNtqTPXhom-yYdkaO1Pv7OuUqJaNq4lvIIdAL7dubS_rJ03aG6ZCJqkSeLDf6bbah37A",
-      "installs": "100,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "com.tencent.ig",
       "app_name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -190,11 +178,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -202,8 +190,20 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "com.bigduckgames.flow",
+      "app_name": "Flow Free",
+      "developer": "Big Duck Games LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/EfhYQZbslbUgQzI4rz0kNtqTPXhom-yYdkaO1Pv7OuUqJaNq4lvIIdAL7dubS_rJ03aG6ZCJqkSeLDf6bbah37A",
+      "installs": "100,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
