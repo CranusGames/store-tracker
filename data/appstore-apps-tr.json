@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/a6/d9/46a6d918-efa7-a895-181c-021fbc671eb2/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 47559,
+      "rating_count": 47569,
       "change": "=",
       "change_val": 0
     },
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 1699,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -33,9 +33,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 1.4,
-      "rating_count": 6438,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 6443,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -45,57 +45,57 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f0/42/02f0428f-7ab7-59fa-6c9d-b386aa26db60/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 902940,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 903012,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/1e/f5/361ef5db-e629-9915-33be-ba95612e26a0/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445152,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 6,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/a7/53/46a75369-61ed-b52a-0913-8b9b9a486a26/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 346627,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 346650,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/1e/f5/361ef5db-e629-9915-33be-ba95612e26a0/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 445151,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
-      "app_id": "6766171694",
-      "app_name": "YÖK Atlas",
-      "developer": "Yükseköğretim Kurulu Başkanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/c9/c2/fdc9c2ca-12f8-1e39-4df3-e431dbdac6d0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 2.2,
-      "rating_count": 27,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6670430706",
       "app_name": "DramaWave - Dramas & Reels",
       "developer": "SKYWORK AI PTE LTD",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/50/9b/08509b98-db0f-e221-8ac5-759810806101/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 19714,
+      "rating_count": 19715,
       "change": "+1",
       "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6766171694",
+      "app_name": "YÖK Atlas",
+      "developer": "Yükseköğretim Kurulu Başkanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/c9/c2/fdc9c2ca-12f8-1e39-4df3-e431dbdac6d0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 2.2,
+      "rating_count": 28,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9335,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -129,7 +129,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b9/65/f7b965a9-44c6-4b9e-98b8-64112f6a9e7e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 171769,
+      "rating_count": 171772,
       "change": "=",
       "change_val": 0
     },
@@ -141,7 +141,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 548248,
+      "rating_count": 548249,
       "change": "=",
       "change_val": 0
     },
@@ -153,7 +153,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c0/08/a4c008a5-16f2-5fe1-a71f-833e2d74a263/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3020734,
+      "rating_count": 3020750,
       "change": "=",
       "change_val": 0
     },
@@ -165,7 +165,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/1e/cd/d31ecd04-5ad6-cd62-b095-271798f99365/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 93150,
+      "rating_count": 93152,
       "change": "=",
       "change_val": 0
     },
@@ -177,7 +177,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 33709,
+      "rating_count": 33710,
       "change": "=",
       "change_val": 0
     },
@@ -189,9 +189,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/78/49/b27849b0-335d-e9cd-bf92-117eb342b893/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 298284,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 298310,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -201,9 +201,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/1f/e6/221fe647-d4b6-e5f5-3b1e-5f9a7f886045/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 372689,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 372685,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -213,33 +213,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/5f/40/3a5f40dd-b3a1-4fe5-d291-56ab4e107985/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1886253,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 1886268,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "995280265",
-      "app_name": "getir: groceries, food&beyond",
-      "developer": "Getir",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/64/2c/b1642cb0-8323-786b-f7c1-fb3d2e4e6efd/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1066565,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 20,
       "app_id": "986339882",
       "app_name": "letgo: Buy & Sell Used Stuff",
       "developer": "Letgo Global B.V.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/36/f2/cd36f26b-7ab1-993d-389f-99baad93ff45/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.3,
-      "rating_count": 844866,
-      "change": "new",
-      "change_val": 0
+      "rating_count": 844863,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "995280265",
+      "app_name": "getir: groceries, food&beyond",
+      "developer": "Getir",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/64/2c/b1642cb0-8323-786b-f7c1-fb3d2e4e6efd/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1066567,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
