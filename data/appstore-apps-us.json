@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "683270527",
-      "app_name": "Rar Sharp",
-      "developer": "锦文 游",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/5e/09/955e091f-afbc-220a-6e7b-25f2a904db1b/AppIconFree-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.3,
-      "rating_count": 63,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
@@ -46,11 +34,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 914499,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 5,
+      "rank": 4,
       "app_id": "1673567402",
       "app_name": "Freecash - Get Paid Real Money",
       "developer": "256 REWARDS LTD",
@@ -58,23 +46,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 96535,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "683270527",
+      "app_name": "Rar Sharp",
+      "developer": "锦文 游",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/5e/09/955e091f-afbc-220a-6e7b-25f2a904db1b/AppIconFree-0-0-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.3,
+      "rating_count": 63,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 6,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/d7/3d/d3d73d0a-ad1e-9ded-f87e-12f928072a48/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 129995,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2107991,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/d7/3d/d3d73d0a-ad1e-9ded-f87e-12f928072a48/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 129995,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -159,6 +159,18 @@
     },
     {
       "rank": 14,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/a4/04/5fa4049e-a823-3dd6-267c-89cb83202a59/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 672393,
+      "change": "+5",
+      "change_val": 5
+    },
+    {
+      "rank": 15,
       "app_id": "1488269261",
       "app_name": "Whatnot: Shop, Sell, Connect",
       "developer": "Whatnot Inc.",
@@ -166,11 +178,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 937589,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "app_id": "6761538521",
       "app_name": "StoryReel: Exclusive Drama",
       "developer": "Equinox Enterprises‌ Technology Limited",
@@ -178,20 +190,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 14705,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/19/40/211940bd-e75d-d1f1-746f-e4137cc91b68/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2165929,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
@@ -207,6 +207,30 @@
     },
     {
       "rank": 18,
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/19/40/211940bd-e75d-d1f1-746f-e4137cc91b68/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2165929,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 19,
+      "app_id": "1113153706",
+      "app_name": "Microsoft Teams",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/2c/5b/452c5be8-226d-acc7-3e27-dac45371d03f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3366609,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "6762513021",
       "app_name": "ColdTrace: Cold Case Mystery",
       "developer": "Saclic Studio",
@@ -214,32 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1643,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/a4/04/5fa4049e-a823-3dd6-267c-89cb83202a59/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 672393,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "1223471316",
-      "app_name": "Shop: All your favorite brands",
-      "developer": "Shopify Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/af/4d/b3af4dec-b8b8-6b39-6987-723d2f52a341/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 7034079,
-      "change": "=",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
