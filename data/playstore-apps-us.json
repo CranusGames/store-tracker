@@ -123,6 +123,18 @@
     },
     {
       "rank": 11,
+      "app_id": "com.circular.frames",
+      "app_name": "Frames: Carousel Collage Maker",
+      "developer": "Pixelcut Inc",
+      "icon_url": "https://play-lh.googleusercontent.com/Jl1KcDWroAtQKYFSCmxvwWvDnsDe6pUtvPE4tSGB_WG1Jtq_LVl1dWVEV5jahhUy9gj78OcftQpLh3DUkplL",
+      "installs": "",
+      "rating": 3.7,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 12,
       "app_id": "com.airfordable.cabin",
       "app_name": "Airfordable",
       "developer": "Airfordable Inc",
@@ -130,11 +142,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "app_id": "co.truecoach.client",
       "app_name": "TrueCoach",
       "developer": "TrueCoach by Xplor",
@@ -142,11 +154,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "app_id": "com.bookinglane.client",
       "app_name": "Bookinglane Chauffeur Service",
       "developer": "Bookinglane, Inc",
@@ -154,11 +166,11 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "app_id": "com.redappleapp.app",
       "app_name": "Redapple Digital Health, Inc.",
       "developer": "Redapple Digital Health, Inc.",
@@ -166,8 +178,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
