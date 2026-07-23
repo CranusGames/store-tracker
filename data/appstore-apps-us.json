@@ -39,15 +39,15 @@
     },
     {
       "rank": 4,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/d7/3d/d3d73d0a-ad1e-9ded-f87e-12f928072a48/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/a6/d9/46a6d918-efa7-a895-181c-021fbc671eb2/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 131325,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 2109759,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 5,
@@ -63,30 +63,18 @@
     },
     {
       "rank": 6,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/a6/d9/46a6d918-efa7-a895-181c-021fbc671eb2/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/d7/3d/d3d73d0a-ad1e-9ded-f87e-12f928072a48/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 2109759,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 131325,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 7,
-      "app_id": "632064380",
-      "app_name": "Vinted: Pre-loved marketplace",
-      "developer": "Vinted Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/0c/57/030c57c7-44c0-c662-ac1d-4f392e38e8dd/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 127931,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
@@ -94,11 +82,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 208228,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2021441,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "632064380",
+      "app_name": "Vinted: Pre-loved marketplace",
+      "developer": "Vinted Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/0c/57/030c57c7-44c0-c662-ac1d-4f392e38e8dd/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 127931,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 10,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/1e/cd/d31ecd04-5ad6-cd62-b095-271798f99365/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1115739,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "1488269261",
       "app_name": "Whatnot: Shop, Sell, Connect",
       "developer": "Whatnot Inc.",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 939481,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/1e/cd/d31ecd04-5ad6-cd62-b095-271798f99365/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1115739,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -162,7 +162,7 @@
       "app_id": "333903271",
       "app_name": "X",
       "developer": "X Corp.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/b8/fe/c2b8feb9-d65e-a967-f08a-d1722d1be146/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/e6/27/77e6273e-62f9-c0d5-d372-4f727676d16a/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
       "rating_count": 10886826,
@@ -195,42 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "6762513021",
-      "app_name": "ColdTrace: Cold Case Mystery",
-      "developer": "Saclic Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/a4/30/e7a430ce-b933-d514-6859-16eb54f29063/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2077,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "6761538521",
-      "app_name": "StoryReel: Exclusive Drama",
-      "developer": "Equinox Enterprises‌ Technology Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/71/8f/59718f1f-70e6-c06d-7816-8de4d612d9f3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 15013,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "719972451",
-      "app_name": "DoorDash: Food, Grocery, More",
-      "developer": "DoorDash, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/4e/be/c24ebe11-62f4-2b94-5ad6-18c269eadc4d/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 22724039,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -238,7 +202,43 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2424889,
-      "change": "=",
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 18,
+      "app_id": "1223471316",
+      "app_name": "Shop: All your favorite brands",
+      "developer": "Shopify Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/af/4d/b3af4dec-b8b8-6b39-6987-723d2f52a341/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 7035516,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
+      "app_id": "6761538521",
+      "app_name": "StoryReel: Exclusive Drama",
+      "developer": "Equinox Enterprises‌ Technology Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/71/8f/59718f1f-70e6-c06d-7816-8de4d612d9f3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 15013,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 20,
+      "app_id": "338137227",
+      "app_name": "Walmart: Shopping & Savings",
+      "developer": "Walmart",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/eb/d0/08ebd0d8-9301-3691-4e8a-67940467bfcb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 17890752,
+      "change": "new",
       "change_val": 0
     }
   ]
