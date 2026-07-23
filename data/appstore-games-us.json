@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19517592,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 3028,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -154,23 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1073107,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 14,
-      "app_id": "6483539426",
-      "app_name": "Fortnite",
-      "developer": "Epic Games Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a0/3a/42a03add-a2dd-0658-351e-dcd51cdf392d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 205883,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "6475757306",
       "app_name": "Disney Solitaire",
       "developer": "SuperPlay",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 664732,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6483539426",
+      "app_name": "Fortnite",
+      "developer": "Epic Games Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a0/3a/42a03add-a2dd-0658-351e-dcd51cdf392d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 205883,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -219,18 +219,6 @@
     },
     {
       "rank": 19,
-      "app_id": "1094930513",
-      "app_name": "EA SPORTS FC Soccer Mobile 26",
-      "developer": "Electronic Arts",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/c5/4e/07c54e36-942e-ccbf-0bf7-c125f1261d42/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2480662,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 207288,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1094930513",
+      "app_name": "EA SPORTS FC Soccer Mobile 26",
+      "developer": "Electronic Arts",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/c5/4e/07c54e36-942e-ccbf-0bf7-c125f1261d42/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2480662,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }

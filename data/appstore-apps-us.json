@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/0d/48/730d4863-5d50-2acf-46d9-455fe05618b9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 939327,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1115728,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/0d/48/730d4863-5d50-2acf-46d9-455fe05618b9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 939327,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -166,35 +166,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 10886492,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 15,
-      "app_id": "6762513021",
-      "app_name": "ColdTrace: Cold Case Mystery",
-      "developer": "Saclic Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/a4/30/e7a430ce-b933-d514-6859-16eb54f29063/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2056,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 16,
-      "app_id": "719972451",
-      "app_name": "DoorDash: Food, Grocery, More",
-      "developer": "DoorDash, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/4e/be/c24ebe11-62f4-2b94-5ad6-18c269eadc4d/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 22723808,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b9/65/f7b965a9-44c6-4b9e-98b8-64112f6a9e7e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 7284662,
+      "change": "+5",
+      "change_val": 5
+    },
+    {
+      "rank": 16,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -206,19 +194,19 @@
       "change_val": 1
     },
     {
-      "rank": 18,
-      "app_id": "338137227",
-      "app_name": "Walmart: Shopping & Savings",
-      "developer": "Walmart",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/eb/d0/08ebd0d8-9301-3691-4e8a-67940467bfcb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "rank": 17,
+      "app_id": "6762513021",
+      "app_name": "ColdTrace: Cold Case Mystery",
+      "developer": "Saclic Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/a4/30/e7a430ce-b933-d514-6859-16eb54f29063/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 17890371,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.7,
+      "rating_count": 2056,
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "6761538521",
       "app_name": "StoryReel: Exclusive Drama",
       "developer": "Equinox Enterprises‌ Technology Limited",
@@ -226,19 +214,31 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 14986,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "719972451",
+      "app_name": "DoorDash: Food, Grocery, More",
+      "developer": "DoorDash, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/4e/be/c24ebe11-62f4-2b94-5ad6-18c269eadc4d/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 22723808,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 20,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
+      "app_id": "422689480",
+      "app_name": "Gmail - Email by Google",
       "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b9/65/f7b965a9-44c6-4b9e-98b8-64112f6a9e7e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/a9/46/75a946e5-daa5-0550-6c50-c600766f2ff0/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 7284662,
-      "change": "=",
+      "rating_count": 2424872,
+      "change": "new",
       "change_val": 0
     }
   ]
