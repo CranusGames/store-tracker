@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6780195090",
-      "app_name": "82-0.com",
-      "developer": "Vaulty Studios Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/a5/9f/00a59fe8-593a-1278-774c-e6803a407d99/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 3028,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 7,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -82,6 +70,18 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19517592,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6780195090",
+      "app_name": "82-0.com",
+      "developer": "Vaulty Studios Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/a5/9f/00a59fe8-593a-1278-774c-e6803a407d99/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 3028,
       "change": "-1",
       "change_val": -1
     },
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 36124,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 334528,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 15325,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2617431,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -147,13 +147,13 @@
     },
     {
       "rank": 13,
-      "app_id": "6475757306",
-      "app_name": "Disney Solitaire",
-      "developer": "SuperPlay",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/12/a7/f212a75d-f23d-fc0f-7572-ebdb8a196924/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1606549505",
+      "app_name": "Royal Kingdom",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f8/5a/2bf85a05-8615-e562-1cb7-f17798313b1b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 664732,
+      "rating": 4.7,
+      "rating_count": 1073107,
       "change": "+2",
       "change_val": 2
     },
@@ -166,20 +166,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 205883,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "1606549505",
-      "app_name": "Royal Kingdom",
-      "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f8/5a/2bf85a05-8615-e562-1cb7-f17798313b1b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6475757306",
+      "app_name": "Disney Solitaire",
+      "developer": "SuperPlay",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/12/a7/f212a75d-f23d-fc0f-7572-ebdb8a196924/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 1073107,
-      "change": "+3",
-      "change_val": 3
+      "rating": 4.9,
+      "rating_count": 664732,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 316151,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 83,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 170,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 207288,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]

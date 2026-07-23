@@ -9,33 +9,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/a6/d9/46a6d918-efa7-a895-181c-021fbc671eb2/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 47959,
+      "rating_count": 48002,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 2,
-      "app_id": "6499423131",
-      "app_name": "DOA Depozitosu Olan Ambalajlar",
-      "developer": "TURKIYE CEVRE AJANSI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.4,
-      "rating_count": 1733,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "6670430706",
       "app_name": "DramaWave - Dramas & Reels",
       "developer": "SKYWORK AI PTE LTD",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/50/9b/08509b98-db0f-e221-8ac5-759810806101/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 19831,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 19841,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "6499423131",
+      "app_name": "DOA Depozitosu Olan Ambalajlar",
+      "developer": "TURKIYE CEVRE AJANSI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 1735,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
@@ -45,7 +45,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f0/42/02f0428f-7ab7-59fa-6c9d-b386aa26db60/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 905397,
+      "rating_count": 905580,
       "change": "=",
       "change_val": 0
     },
@@ -57,7 +57,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/fd/c3/f3fdc3b4-f68d-2b69-0ab8-a01e85e8c027/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 347540,
+      "rating_count": 347634,
       "change": "=",
       "change_val": 0
     },
@@ -69,7 +69,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/3c/61/f83c61c0-64cc-d6eb-f016-ddab02899b34/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 445164,
+      "rating_count": 445165,
       "change": "=",
       "change_val": 0
     },
@@ -87,18 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b9/65/f7b965a9-44c6-4b9e-98b8-64112f6a9e7e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 171809,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9341,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b9/65/f7b965a9-44c6-4b9e-98b8-64112f6a9e7e/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 171823,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -117,120 +117,84 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 548254,
+      "rating_count": 548253,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 11,
-      "app_id": "373034841",
-      "app_name": "Yemeksepeti: Food & Grocery",
-      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/20/90/4f2090eb-03b3-b372-0e06-c221f23458c1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1918726,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c0/08/a4c008a5-16f2-5fe1-a71f-833e2d74a263/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3021534,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 3021612,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/20/90/4f2090eb-03b3-b372-0e06-c221f23458c1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1918728,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
+      "app_id": "6444447699",
+      "app_name": "GöçBil",
+      "developer": "Göç İdaresi Başkanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/fc/3f/04fc3f28-53c6-9936-8d2e-55606d67d733/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 2.3,
+      "rating_count": 202,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 14,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/1e/cd/d31ecd04-5ad6-cd62-b095-271798f99365/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 93141,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 93142,
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "app_id": "6504849169",
       "app_name": "NetShort - Popular Dramas & TV",
       "developer": "NETSTORY PTE. LTD.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 33819,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/78/49/b27849b0-335d-e9cd-bf92-117eb342b893/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 299114,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 33833,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
-      "app_id": "986339882",
-      "app_name": "letgo: Buy & Sell Used Stuff",
-      "developer": "Letgo Global B.V.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/36/f2/cd36f26b-7ab1-993d-389f-99baad93ff45/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 844868,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "1451805015",
-      "app_name": "ÖSYM Aday İşlemleri Sistemi",
-      "developer": "Olcme Secme ve Yerlestirme Merkezi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.4,
-      "rating_count": 6453,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "1636235979",
       "app_name": "ReelShort - Stream Drama & TV",
       "developer": "NewLeaf Publishing",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/21/ea/4021ea22-af66-6c5b-652e-3aedb7437977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 17427,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 17443,
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 19,
-      "app_id": "686449807",
-      "app_name": "Telegram Messenger",
-      "developer": "Telegram FZ-LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/83/96/c183964f-32d7-16fe-57ab-8c66518f6625/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.7,
-      "rating_count": 26943,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
+      "rank": 17,
       "app_id": "6738610571",
       "app_name": "Myt : Videos, Songs Streaming",
       "developer": "Lorenz Popper",
@@ -238,7 +202,43 @@
       "installs": "",
       "rating": 2.6,
       "rating_count": 202,
-      "change": "=",
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 18,
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/78/49/b27849b0-335d-e9cd-bf92-117eb342b893/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 299217,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 19,
+      "app_id": "986339882",
+      "app_name": "letgo: Buy & Sell Used Stuff",
+      "developer": "Letgo Global B.V.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/36/f2/cd36f26b-7ab1-993d-389f-99baad93ff45/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 844870,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 20,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/c8/26/f8c8264f-8ef1-fe85-5314-57030eae9a9e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2120833,
+      "change": "new",
       "change_val": 0
     }
   ]
