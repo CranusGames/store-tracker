@@ -27,30 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f0/42/02f0428f-7ab7-59fa-6c9d-b386aa26db60/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 908076,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
-      "app_id": "6499423131",
-      "app_name": "DOA Depozitosu Olan Ambalajlar",
-      "developer": "TURKIYE CEVRE AJANSI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.4,
-      "rating_count": 1776,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6444447699",
       "app_name": "GöçBil",
       "developer": "Göç İdaresi Başkanlığı",
@@ -58,8 +34,32 @@
       "installs": "",
       "rating": 2.2,
       "rating_count": 216,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 4,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/f0/42/02f0428f-7ab7-59fa-6c9d-b386aa26db60/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 908076,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 5,
+      "app_id": "6499423131",
+      "app_name": "DOA Depozitosu Olan Ambalajlar",
+      "developer": "TURKIYE CEVRE AJANSI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 1776,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -87,30 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "1363881973",
-      "app_name": "S Sport Plus",
-      "developer": "Bravo Televizyon A.S",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/4b/af/514baf3a-1fd4-8445-b186-d0bb4f2d6501/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.7,
-      "rating_count": 3227,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
-      "app_id": "6738610571",
-      "app_name": "Myt : Videos, Songs Streaming",
-      "developer": "Lorenz Popper",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/df/6b/94df6b7a-a92d-d767-1d6b-b2229196001e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 2.6,
-      "rating_count": 207,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -118,23 +94,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 171882,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 11,
-      "app_id": "6777955939",
-      "app_name": "Tercih Sihirbazı",
-      "developer": "Kant LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/0d/13/db0d1343-138e-ab0f-566c-47926da3706b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.7,
-      "rating_count": 15,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
+      "rank": 9,
       "app_id": "980446169",
       "app_name": "e-Nabız",
       "developer": "T.C. Saglik Bakanligi",
@@ -142,11 +106,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548256,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 13,
+      "rank": 10,
+      "app_id": "6738610571",
+      "app_name": "Myt : Videos, Songs Streaming",
+      "developer": "Lorenz Popper",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/df/6b/94df6b7a-a92d-d767-1d6b-b2229196001e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 2.6,
+      "rating_count": 207,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 11,
+      "app_id": "1363881973",
+      "app_name": "S Sport Plus",
+      "developer": "Bravo Televizyon A.S",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/4b/af/514baf3a-1fd4-8445-b186-d0bb4f2d6501/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.7,
+      "rating_count": 3227,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 12,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -154,23 +142,23 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9347,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6777955939",
+      "app_name": "Tercih Sihirbazı",
+      "developer": "Kant LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/0d/13/db0d1343-138e-ab0f-566c-47926da3706b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.7,
+      "rating_count": 15,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 14,
-      "app_id": "373034841",
-      "app_name": "Yemeksepeti: Food & Grocery",
-      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/20/90/4f2090eb-03b3-b372-0e06-c221f23458c1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1918714,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -178,11 +166,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3022463,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93144,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/20/90/4f2090eb-03b3-b372-0e06-c221f23458c1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1918714,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 17,
@@ -210,7 +210,7 @@
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
       "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/78/49/b27849b0-335d-e9cd-bf92-117eb342b893/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/c0/23/64c023cd-58ea-817b-5ef5-459da064d7ec/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 300118,
@@ -219,26 +219,26 @@
     },
     {
       "rank": 19,
-      "app_id": "481035064",
-      "app_name": "Hepsiburada: Online Shopping",
-      "developer": "Hepsiburada",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/5f/40/3a5f40dd-b3a1-4fe5-d291-56ab4e107985/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1068841746",
+      "app_name": "Halkbank Mobil",
+      "developer": "Turkiye Halk Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/ad/34/fbad3455-eb53-ebc2-e23b-e1455aeeba26/HBAppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 1887167,
-      "change": "=",
+      "rating": 4.5,
+      "rating_count": 393148,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "686449807",
-      "app_name": "Telegram Messenger",
-      "developer": "Telegram FZ-LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/83/96/c183964f-32d7-16fe-57ab-8c66518f6625/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1511527605",
+      "app_name": "Museums of Türkiye - Official",
+      "developer": "T. C. Kültür ve Turizm Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4b/6f/954b6fe8-41e0-883e-1b68-5bf7e2ad2f4d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.7,
-      "rating_count": 26959,
-      "change": "=",
+      "rating": 4.8,
+      "rating_count": 85173,
+      "change": "new",
       "change_val": 0
     }
   ]
