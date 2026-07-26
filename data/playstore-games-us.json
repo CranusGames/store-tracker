@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "com.JindoBlu.OfflineGames",
-      "app_name": "Offline Games - No Wifi Games",
-      "developer": "JindoBlu",
-      "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "com.block.juggle",
       "app_name": "Block Blast!",
       "developer": "HungryStudio",
@@ -154,11 +142,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
+      "rank": 13,
       "app_id": "com.king.candycrushsaga",
       "app_name": "Candy Crush Saga",
       "developer": "King",
@@ -166,11 +154,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "com.bigduckgames.flow",
       "app_name": "Flow Free",
       "developer": "Big Duck Games LLC",
@@ -178,11 +166,11 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
       "app_name": "Kids Games: For Toddlers 3-5",
       "developer": "RV AppStudios",
@@ -190,11 +178,11 @@
       "installs": "50,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "com.tencent.ig",
       "app_name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -202,11 +190,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -214,11 +202,11 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "com.topfreegames.bikeracefreeworld",
       "app_name": "Bike Race：Motorcycle Games",
       "developer": "Wildlife Studios",
@@ -226,11 +214,11 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "com.playrix.township",
       "app_name": "Township",
       "developer": "Playrix",
@@ -238,8 +226,20 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.firsttouchgames.dls7",
+      "app_name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/xb1Vz614Oef63tpwV3AmcC4QWOeEQ5rw_bYOimuNF6M3NoINRmZV6WNmPgl4cBYc1rMJhAu0ohPhn4coq_AQlw",
+      "installs": "100,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
