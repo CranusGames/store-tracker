@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "com.JindoBlu.OfflineGames",
-      "app_name": "Offline Games - No Wifi Games",
-      "developer": "JindoBlu",
-      "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
-      "installs": "100,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "com.dts.freefiremax",
       "app_name": "Free Fire MAX",
       "developer": "GARENA INTERNATIONAL I",
@@ -22,8 +10,20 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "com.JindoBlu.OfflineGames",
+      "app_name": "Offline Games - No Wifi Games",
+      "developer": "JindoBlu",
+      "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
+      "installs": "100,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "com.tencent.ig",
-      "app_name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "icon_url": "https://play-lh.googleusercontent.com/O8jPCZ2EXAt7wGlbZhkhA-3vPIWVBpz8tZrRnsr7uVeqp0UD1AQwIEl_N9So80kdp8gDvIksC64GypylkQV_",
-      "installs": "1,000,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
       "app_name": "Kids Games: For Toddlers 3-5",
       "developer": "RV AppStudios",
@@ -142,8 +130,20 @@
       "installs": "50,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "com.tencent.ig",
+      "app_name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "icon_url": "https://play-lh.googleusercontent.com/O8jPCZ2EXAt7wGlbZhkhA-3vPIWVBpz8tZrRnsr7uVeqp0UD1AQwIEl_N9So80kdp8gDvIksC64GypylkQV_",
+      "installs": "1,000,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "com.miniclip.eightballpool",
-      "app_name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "com.kiloo.subwaysurf",
       "app_name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -190,8 +178,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "com.miniclip.eightballpool",
+      "app_name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
