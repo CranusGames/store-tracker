@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "431946152",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/84/da/9684da49-4027-e780-09e8-25d1dcc3950a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 19556358,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -58,11 +46,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 559610,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -70,20 +58,32 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1600936,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "431946152",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/84/da/9684da49-4027-e780-09e8-25d1dcc3950a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 19556358,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 7,
-      "app_id": "1617391485",
-      "app_name": "Block Blast！",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/74/f5/6e74f555-a090-b9f6-71e2-c30907a12793/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 2626325,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 36773,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 8,
@@ -99,6 +99,18 @@
     },
     {
       "rank": 9,
+      "app_id": "1617391485",
+      "app_name": "Block Blast！",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/8e/e1/f18ee112-45e1-6b4b-85db-b2bc249c30f8/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 2626325,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 10,
       "app_id": "6748397500",
       "app_name": "Arrows – Puzzle Escape",
       "developer": "Lessmore GmbH",
@@ -106,35 +118,35 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 343215,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 36773,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
-      "app_id": "6483539426",
-      "app_name": "Fortnite",
-      "developer": "Epic Games Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a0/3a/42a03add-a2dd-0658-351e-dcd51cdf392d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6759081967",
+      "app_name": "Jewel Coloring",
+      "developer": "Ta Ta Game Technology Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/d4/18/0ad4181e-7533-0017-20e7-d4c6aee67f78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 219730,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.9,
+      "rating_count": 29489,
+      "change": "+6",
+      "change_val": 6
     },
     {
       "rank": 12,
+      "app_id": "6769314786",
+      "app_name": "Food Hunt: Pixel Puzzle",
+      "developer": "FUNFINITY PTE. LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/48/02/414802ae-bc3d-0bfa-95c5-588298db7bfb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 17631,
+      "change": "+6",
+      "change_val": 6
+    },
+    {
+      "rank": 13,
       "app_id": "1606549505",
       "app_name": "Royal Kingdom",
       "developer": "Dream Games",
@@ -142,44 +154,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1077872,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 209450,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
-      "app_id": "1482155847",
-      "app_name": "Royal Match",
-      "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/d0/9d/7ad09de8-4df4-2304-064d-2ec819678229/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6483539426",
+      "app_name": "Fortnite",
+      "developer": "Epic Games Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a0/3a/42a03add-a2dd-0658-351e-dcd51cdf392d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 3746627,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.5,
+      "rating_count": 219730,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 15,
-      "app_id": "6742809194",
-      "app_name": "Warline: Sniper Strike",
-      "developer": "Powerfantasy",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/90/f5/e690f56e-c93e-ed51-5dd1-4edfa91c7c12/AppIcon-Global-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "6779167923",
+      "app_name": "Colony Flow!",
+      "developer": "ABI GLOBAL LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/ed/29/fded29c6-f7f8-486c-e376-eac0385c39b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 1770,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.7,
+      "rating_count": 7616,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,35 +190,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2164484,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "6759081967",
-      "app_name": "Jewel Coloring",
-      "developer": "Ta Ta Game Technology Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/d4/18/0ad4181e-7533-0017-20e7-d4c6aee67f78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6742809194",
+      "app_name": "Warline: Sniper Strike",
+      "developer": "Powerfantasy",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/90/f5/e690f56e-c93e-ed51-5dd1-4edfa91c7c12/AppIcon-Global-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 29489,
+      "rating_count": 1770,
       "change": "-2",
       "change_val": -2
     },
     {
       "rank": 18,
-      "app_id": "6769314786",
-      "app_name": "Food Hunt: Pixel Puzzle",
-      "developer": "FUNFINITY PTE. LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/48/02/414802ae-bc3d-0bfa-95c5-588298db7bfb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 17631,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "6471045672",
       "app_name": "Tasty Travels: Merge Game",
       "developer": "Century Games Pte. Ltd.",
@@ -226,20 +214,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 38522,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "1482155847",
+      "app_name": "Royal Match",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/d0/9d/7ad09de8-4df4-2304-064d-2ec819678229/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 3746627,
+      "change": "-5",
+      "change_val": -5
     },
     {
       "rank": 20,
-      "app_id": "6443575749",
-      "app_name": "Whiteout Survival",
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/4e/1c/004e1c54-f26a-10ac-800b-4bd3c04a4d53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 443620,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 209450,
+      "change": "-7",
+      "change_val": -7
     }
   ]
 }
