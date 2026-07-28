@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/8a/30/858a3027-59be-a72b-db7d-dc2c097b6055/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 924558,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "6445905219",
       "app_name": "DramaBox - Stream Drama Shorts",
       "developer": "STORYMATRIX PTE. LTD.",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 797311,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/8a/30/858a3027-59be-a72b-db7d-dc2c097b6055/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 924558,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1116265,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4871347,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18327940,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 951414,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 101029,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3153583,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,7 +214,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7291333,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2426025,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "338137227",
-      "app_name": "Walmart: Shopping & Savings",
-      "developer": "Walmart",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/c3/48/1ec348c8-dc23-a9cf-ec96-3db530dfbf4b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "333903271",
+      "app_name": "X",
+      "developer": "X Corp.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/f3/63/6ef36335-2b31-75ae-bc96-e4b7d193ffc0/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 17935124,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.6,
+      "rating_count": 10901018,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
