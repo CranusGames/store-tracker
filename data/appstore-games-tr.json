@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2801,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "6742809194",
       "app_name": "Warline: Sniper Strike",
       "developer": "Powerfantasy",
@@ -46,23 +34,23 @@
       "installs": "",
       "rating": 5.0,
       "rating_count": 133,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2801,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
-      "app_id": "1351168404",
-      "app_name": "Among Us!",
-      "developer": "InnerSloth LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.8,
-      "rating_count": 39035,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "1617391485",
       "app_name": "Block Blast!",
       "developer": "Hungry Studio",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 89017,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "1351168404",
+      "app_name": "Among Us!",
+      "developer": "InnerSloth LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.8,
+      "rating_count": 39035,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -90,7 +90,7 @@
       "app_id": "1531842415",
       "app_name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/80/92/ff80921e-5162-85d2-b8b4-dfa8626fcd01/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/6c/6c/0c6c6cff-3634-af46-1b12-fc3681f5a7c4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.3,
       "rating_count": 14408,
@@ -111,6 +111,18 @@
     },
     {
       "rank": 10,
+      "app_id": "6747834136",
+      "app_name": "Mafia Life: Underworld Boss",
+      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/16/30/921630fb-7769-6cf1-d3f8-9a7442f3cc52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 3122,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 11,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -118,11 +130,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 256702,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -130,11 +142,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1927393,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "app_id": "1229016807",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
@@ -144,18 +156,6 @@
       "rating_count": 857515,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 13,
-      "app_id": "6747834136",
-      "app_name": "Mafia Life: Underworld Boss",
-      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/16/30/921630fb-7769-6cf1-d3f8-9a7442f3cc52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 3122,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 14,
@@ -178,23 +178,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1840,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "1160056295",
-      "app_name": "Mobile Legends: Bang Bang",
-      "developer": "MOONTON",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/93/a3/9f93a387-0c5b-84a2-cc0b-1ea8145abd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 243759,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -202,8 +190,20 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 689537,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "1160056295",
+      "app_name": "Mobile Legends: Bang Bang",
+      "developer": "MOONTON",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/93/a3/9f93a387-0c5b-84a2-cc0b-1ea8145abd1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 243759,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
