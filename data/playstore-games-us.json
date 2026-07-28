@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "com.dts.freefiremax",
-      "app_name": "Free Fire MAX",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/SDYv1Th3VdjfM0MwObMIvH3L2I2owroB3leEtbMrFJZYRklHroxw_AspZZmno_8DBdiar3d03kHsyjBsnvcdlg",
-      "installs": "500,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "com.dts.freefireth",
       "app_name": "Free Fire: 9th Anniversary",
       "developer": "GARENA INTERNATIONAL I",
@@ -22,8 +10,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "com.dts.freefiremax",
+      "app_name": "Free Fire MAX",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/SDYv1Th3VdjfM0MwObMIvH3L2I2owroB3leEtbMrFJZYRklHroxw_AspZZmno_8DBdiar3d03kHsyjBsnvcdlg",
+      "installs": "500,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -166,8 +166,8 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "50,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]

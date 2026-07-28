@@ -114,7 +114,7 @@
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c0/08/a4c008a5-16f2-5fe1-a71f-833e2d74a263/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ee/42/39ee42ac-9932-9fcf-39cc-7b502c9c1808/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 3026034,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/c8/26/f8c8264f-8ef1-fe85-5314-57030eae9a9e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2126875,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -154,23 +142,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93185,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
-      "app_id": "885993234",
-      "app_name": "Ziraat Mobil",
-      "developer": "T.C. Ziraat Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/db/2b/cfdb2bc8-58d1-8f98-b30c-ba6e672c287a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1683324,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "app_id": "1641107226",
       "app_name": "Widgetable: Besties & Couples",
       "developer": "Widgetable,Inc.",
@@ -178,11 +154,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 18420,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 16,
+      "rank": 14,
       "app_id": "6738610571",
       "app_name": "Myt : Videos, Songs Streaming",
       "developer": "Lorenz Popper",
@@ -190,8 +166,32 @@
       "installs": "",
       "rating": 2.7,
       "rating_count": 259,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 15,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/c8/26/f8c8264f-8ef1-fe85-5314-57030eae9a9e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2126875,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 16,
+      "app_id": "885993234",
+      "app_name": "Ziraat Mobil",
+      "developer": "T.C. Ziraat Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/db/2b/cfdb2bc8-58d1-8f98-b30c-ba6e672c287a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1683324,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 17,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "986339882",
-      "app_name": "letgo: Buy & Sell Used Stuff",
-      "developer": "Letgo Global B.V.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/36/f2/cd36f26b-7ab1-993d-389f-99baad93ff45/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "524362642",
+      "app_name": "Trendyol: Online Shopping",
+      "developer": "trendyol.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/67/fc/b567fc88-43f3-4433-25a0-a8099c57bda7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 844914,
-      "change": "=",
+      "rating": 4.6,
+      "rating_count": 4555443,
+      "change": "new",
       "change_val": 0
     }
   ]
