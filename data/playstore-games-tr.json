@@ -10,8 +10,8 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,23 +22,11 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
-      "app_id": "bubbleshooter.orig",
-      "app_name": "Bubble Shooter - Classic Pop",
-      "developer": "Bubble Shooter",
-      "icon_url": "https://play-lh.googleusercontent.com/AyPKDJx_IvwDoatX91zVX1Hl9e1xtUHOYeQh4cXKBhB-Npascc9Y7Bw5gv3wNoqRL8KBfnloU9o1Y9dDGXYVpFs",
-      "installs": "500,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "+6",
-      "change_val": 6
-    },
-    {
-      "rank": 4,
       "app_id": "com.kitkagames.fallbuddies",
       "app_name": "Stumble Guys",
       "developer": "Scopely",
@@ -46,11 +34,11 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 5,
+      "rank": 4,
       "app_id": "com.king.candycrushsodasaga",
       "app_name": "Candy Crush Soda Saga",
       "developer": "King",
@@ -58,11 +46,11 @@
       "installs": "500,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "com.block.juggle",
       "app_name": "Block Blast!",
       "developer": "HungryStudio",
@@ -70,11 +58,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "app_id": "com.imangi.templerun2",
       "app_name": "Temple Run 2: Endless Escape",
       "developer": "Imangi Studios",
@@ -82,11 +70,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "com.king.candycrushsaga",
       "app_name": "Candy Crush Saga",
       "developer": "King",
@@ -94,11 +82,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "com.dts.freefireth",
       "app_name": "Free Fire: 9th Anniversary",
       "developer": "GARENA INTERNATIONAL I",
@@ -106,23 +94,23 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 10,
-      "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
-      "app_name": "Kids Games: For Toddlers 3-5",
-      "developer": "RV AppStudios",
-      "icon_url": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
-      "installs": "50,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 11,
+      "rank": 9,
+      "app_id": "bubbleshooter.orig",
+      "app_name": "Bubble Shooter - Classic Pop",
+      "developer": "Bubble Shooter",
+      "icon_url": "https://play-lh.googleusercontent.com/AyPKDJx_IvwDoatX91zVX1Hl9e1xtUHOYeQh4cXKBhB-Npascc9Y7Bw5gv3wNoqRL8KBfnloU9o1Y9dDGXYVpFs",
+      "installs": "500,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "-6",
+      "change_val": -6
+    },
+    {
+      "rank": 10,
       "app_id": "com.tocaboca.tocalifeworld",
       "app_name": "Toca Boca World",
       "developer": "Toca Boca",
@@ -134,6 +122,18 @@
       "change_val": 1
     },
     {
+      "rank": 11,
+      "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+      "app_name": "Kids Games: For Toddlers 3-5",
+      "developer": "RV AppStudios",
+      "icon_url": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
+      "installs": "50,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 12,
       "app_id": "com.tencent.ig",
       "app_name": "PUBG MOBILE",
@@ -142,8 +142,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,23 +154,11 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "com.miniclip.eightballpool",
-      "app_name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 15,
       "app_id": "com.topfreegames.bikeracefreeworld",
       "app_name": "Bike Race：Motorcycle Games",
       "developer": "Wildlife Studios",
@@ -178,8 +166,20 @@
       "installs": "100,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "com.miniclip.eightballpool",
+      "app_name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "5,000,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "100,000,000+",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]

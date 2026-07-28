@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19576061,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1604505,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2453,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,35 +190,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18535,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 208483,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 18,
-      "app_id": "6471045672",
-      "app_name": "Tasty Travels: Merge Game",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/3f/6b/523f6bf7-1cc0-b017-f4be-27d1c19823ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 38921,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 19,
       "app_id": "1606549505",
       "app_name": "Royal Kingdom",
       "developer": "Dream Games",
@@ -226,20 +202,44 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1079860,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 18,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 208483,
       "change": "-1",
       "change_val": -1
     },
     {
-      "rank": 20,
-      "app_id": "6443575749",
-      "app_name": "Whiteout Survival",
+      "rank": 19,
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/4e/1c/004e1c54-f26a-10ac-800b-4bd3c04a4d53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 444077,
-      "change": "=",
+      "rating_count": 209988,
+      "change": "new",
       "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "6471045672",
+      "app_name": "Tasty Travels: Merge Game",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/3f/6b/523f6bf7-1cc0-b017-f4be-27d1c19823ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 38921,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }

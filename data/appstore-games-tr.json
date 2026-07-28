@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "6758208278",
-      "app_name": "TACTICO - Football XOX",
-      "developer": "Muhammet OKUMUS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/ff/20/69ff208c-f5a3-334b-6e96-908751271ac1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.2,
-      "rating_count": 149,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "6742809194",
       "app_name": "Warline: Sniper Strike",
       "developer": "Powerfantasy",
@@ -34,8 +22,20 @@
       "installs": "",
       "rating": 5.0,
       "rating_count": 133,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "1351168404",
+      "app_name": "Among Us!",
+      "developer": "InnerSloth LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.8,
+      "rating_count": 39035,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 4,
@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "1351168404",
-      "app_name": "Among Us!",
-      "developer": "InnerSloth LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/dc/f8/57dcf861-9c14-e964-6f5b-09f8c4fff8d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.8,
-      "rating_count": 39035,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 6,
       "app_id": "1617391485",
       "app_name": "Block Blast!",
       "developer": "Hungry Studio",
@@ -70,11 +58,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 89017,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "app_id": "6752672568",
       "app_name": "Block Out! - Color Sort Puzzle",
       "developer": "Grand Games A.Ş.",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 6305,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6758208278",
+      "app_name": "TACTICO - Football XOX",
+      "developer": "Muhammet OKUMUS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/ff/20/69ff208c-f5a3-334b-6e96-908751271ac1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.2,
+      "rating_count": 149,
+      "change": "-5",
+      "change_val": -5
     },
     {
       "rank": 8,
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "6747834136",
-      "app_name": "Mafia Life: Underworld Boss",
-      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/16/30/921630fb-7769-6cf1-d3f8-9a7442f3cc52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 3122,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -130,8 +118,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 256702,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "6747834136",
+      "app_name": "Mafia Life: Underworld Boss",
+      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/16/30/921630fb-7769-6cf1-d3f8-9a7442f3cc52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 3122,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 857515,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1927393,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 11558,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,11 +214,23 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 243759,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
+      "app_id": "6746328263",
+      "app_name": "Castle Busters",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/e3/74/9fe374cd-facb-9f3b-4909-7bd94650693a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 3977,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -226,18 +238,6 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 27049,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 20,
-      "app_id": "6748397500",
-      "app_name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore GmbH",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/23/ab/4823ab04-d853-06c5-2bdb-24aaa7f6c089/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 17454,
       "change": "-1",
       "change_val": -1
     }
