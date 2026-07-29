@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 140953,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 8948937,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2124400,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1135728,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -154,23 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 101475,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 14,
-      "app_id": "1111876388",
-      "app_name": "T-Life",
-      "developer": "T-Mobile",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/84/06/908406aa-008c-fc74-26b7-cca6d2ccc87a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1264517,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4875388,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "1111876388",
+      "app_name": "T-Life",
+      "developer": "T-Mobile",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/84/06/908406aa-008c-fc74-26b7-cca6d2ccc87a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1264517,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1116329,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18333886,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,23 +214,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 953336,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 19,
-      "app_id": "878577184",
-      "app_name": "SHEIN - Shopping Online",
-      "developer": "ROADGET BUSINESS PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/2d/cb/212dcb01-65bd-7903-f3d8-c333dbfae129/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 3164127,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2171204,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "878577184",
+      "app_name": "SHEIN - Shopping Online",
+      "developer": "ROADGET BUSINESS PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/2d/cb/212dcb01-65bd-7903-f3d8-c333dbfae129/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 3164127,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
