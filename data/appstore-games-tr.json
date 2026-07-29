@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 39051,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2854,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 171,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 6375,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -94,47 +94,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 331800,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 9,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2086,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 10,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/e7/36/75e73630-1f7c-d9df-4c5d-91b7eaf5ac78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1927472,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 11,
-      "app_id": "6758208278",
-      "app_name": "TACTICO - Football XOX",
-      "developer": "Muhammet OKUMUS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/ff/20/69ff208c-f5a3-334b-6e96-908751271ac1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.1,
-      "rating_count": 166,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 12,
+      "rank": 9,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -142,23 +106,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 256915,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 13,
-      "app_id": "1229016807",
-      "app_name": "Brawl Stars",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/15/b1/d215b17b-b984-732c-0d74-41a45bbcb77d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 857806,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
+      "rank": 10,
       "app_id": "6747834136",
       "app_name": "Mafia Life: Underworld Boss",
       "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
@@ -166,11 +118,47 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 3163,
-      "change": "=",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
     },
     {
-      "rank": 15,
+      "rank": 11,
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/e7/36/75e73630-1f7c-d9df-4c5d-91b7eaf5ac78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1927472,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 12,
+      "app_id": "1229016807",
+      "app_name": "Brawl Stars",
+      "developer": "Supercell",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/15/b1/d215b17b-b984-732c-0d74-41a45bbcb77d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 857806,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2086,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 14,
       "app_id": "6755455500",
       "app_name": "Hollywood Merge",
       "developer": "VoyagerOne",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1892,
-      "change": "+3",
-      "change_val": 3
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6758208278",
+      "app_name": "TACTICO - Football XOX",
+      "developer": "Muhammet OKUMUS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/ff/20/69ff208c-f5a3-334b-6e96-908751271ac1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.1,
+      "rating_count": 166,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 16,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 689562,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,31 +214,31 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 27091,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "6757154335",
-      "app_name": "Cube Land Puzzle Game",
-      "developer": "Rotatelab",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/8c/8f/818c8f4e-b718-5a26-1dac-930ab4031aa0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/4e/1c/004e1c54-f26a-10ac-800b-4bd3c04a4d53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 191,
+      "rating_count": 45434,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6748397500",
-      "app_name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore GmbH",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/23/ab/4823ab04-d853-06c5-2bdb-24aaa7f6c089/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 17534,
-      "change": "=",
+      "rating": 4.5,
+      "rating_count": 16967,
+      "change": "new",
       "change_val": 0
     }
   ]

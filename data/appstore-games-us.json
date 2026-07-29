@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "6761760135",
-      "app_name": "Meowdoku!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/49/77/f549773c-07c2-921a-eb45-d7f575ca128f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 110106,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "6748084174",
       "app_name": "Smash Fest!",
       "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
@@ -34,8 +22,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 210096,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "6761760135",
+      "app_name": "Meowdoku!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/49/77/f549773c-07c2-921a-eb45-d7f575ca128f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 110106,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/9b/a8/f29ba874-bc89-f9dc-bb29-67a569cb4dda/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 1606717,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19586726,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/9b/a8/f29ba874-bc89-f9dc-bb29-67a569cb4dda/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 1606717,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "6759081967",
-      "app_name": "Jewel Coloring",
-      "developer": "Ta Ta Game Technology Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/d4/18/0ad4181e-7533-0017-20e7-d4c6aee67f78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 30085,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 11,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
@@ -130,11 +118,35 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2631725,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "6759081967",
+      "app_name": "Jewel Coloring",
+      "developer": "Ta Ta Game Technology Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/d4/18/0ad4181e-7533-0017-20e7-d4c6aee67f78/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 30085,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 12,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 208705,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 13,
       "app_id": "6779167923",
       "app_name": "Colony Flow!",
       "developer": "ABI GLOBAL LTD.",
@@ -142,11 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 8293,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "app_id": "6483539426",
       "app_name": "Fortnite",
       "developer": "Epic Games Inc.",
@@ -156,18 +168,6 @@
       "rating_count": 227429,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 14,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 208705,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 15,
@@ -183,18 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "6471045672",
-      "app_name": "Tasty Travels: Merge Game",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/3f/6b/523f6bf7-1cc0-b017-f4be-27d1c19823ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 39206,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "6739554056",
       "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
@@ -206,6 +194,18 @@
       "change_val": 1
     },
     {
+      "rank": 17,
+      "app_id": "6471045672",
+      "app_name": "Tasty Travels: Merge Game",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/3f/6b/523f6bf7-1cc0-b017-f4be-27d1c19823ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 39206,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 18,
       "app_id": "1608987929",
       "app_name": "Triumph: Play for Cash",
@@ -214,23 +214,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 936551,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "6769314786",
-      "app_name": "Food Hunt: Pixel Puzzle",
-      "developer": "FUNFINITY PTE. LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/48/02/414802ae-bc3d-0bfa-95c5-588298db7bfb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 19050,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 20,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 444385,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "6769314786",
+      "app_name": "Food Hunt: Pixel Puzzle",
+      "developer": "FUNFINITY PTE. LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/48/02/414802ae-bc3d-0bfa-95c5-588298db7bfb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 19050,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
