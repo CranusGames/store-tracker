@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "1363881973",
-      "app_name": "S Sport Plus",
-      "developer": "Bravo Televizyon A.S",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/4b/af/514baf3a-1fd4-8445-b186-d0bb4f2d6501/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.7,
-      "rating_count": 3229,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -46,8 +34,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 353459,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "1363881973",
+      "app_name": "S Sport Plus",
+      "developer": "Bravo Televizyon A.S",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/4b/af/514baf3a-1fd4-8445-b186-d0bb4f2d6501/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.7,
+      "rating_count": 3229,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "835880015",
-      "app_name": "TV+ Movies, Series & Live TV",
-      "developer": "LIFECELL TV YAYIN VE ICERIK HIZMETLERI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/77/2e/32772e87-d037-311e-c522-063addd66f0f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 436001,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "6499423131",
       "app_name": "DOA Depozitosu Olan Ambalajlar",
       "developer": "TURKIYE CEVRE AJANSI",
@@ -82,11 +70,11 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 1921,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "6504849169",
       "app_name": "NetShort - Popular Dramas & TV",
       "developer": "NETSTORY PTE. LTD.",
@@ -94,6 +82,18 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 34624,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 548249,
       "change": "+2",
       "change_val": 2
     },
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548249,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 11,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -130,8 +118,20 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9368,
-      "change": "-3",
-      "change_val": -3
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "835880015",
+      "app_name": "TV+ Movies, Series & Live TV",
+      "developer": "LIFECELL TV YAYIN VE ICERIK HIZMETLERI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/77/2e/32772e87-d037-311e-c522-063addd66f0f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 436001,
+      "change": "-5",
+      "change_val": -5
     },
     {
       "rank": 12,
@@ -142,11 +142,23 @@
       "installs": "",
       "rating": 1.4,
       "rating_count": 6460,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 13,
+      "app_id": "418535251",
+      "app_name": "sahibinden #AlSatKiralaKesfet",
+      "developer": "sahibinden.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ee/42/39ee42ac-9932-9fcf-39cc-7b502c9c1808/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 3026966,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -158,31 +170,7 @@
       "change_val": -1
     },
     {
-      "rank": 14,
-      "app_id": "418535251",
-      "app_name": "sahibinden #AlSatKiralaKesfet",
-      "developer": "sahibinden.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ee/42/39ee42ac-9932-9fcf-39cc-7b502c9c1808/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 3026966,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 15,
-      "app_id": "1641107226",
-      "app_name": "Widgetable: Besties & Couples",
-      "developer": "Widgetable,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/a3/7e/39a37e30-4f7b-76d4-c477-240e3157ead9/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 18527,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93202,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/c8/26/f8c8264f-8ef1-fe85-5314-57030eae9a9e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2128094,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 17,
@@ -214,32 +214,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 305186,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "686449807",
-      "app_name": "Telegram Messenger",
-      "developer": "Telegram FZ-LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/83/96/c183964f-32d7-16fe-57ab-8c66518f6625/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1511527605",
+      "app_name": "Museums of Türkiye - Official",
+      "developer": "T. C. Kültür ve Turizm Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4b/6f/954b6fe8-41e0-883e-1b68-5bf7e2ad2f4d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.6,
-      "rating_count": 27014,
+      "rating": 4.8,
+      "rating_count": 85190,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/c8/26/f8c8264f-8ef1-fe85-5314-57030eae9a9e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1641107226",
+      "app_name": "Widgetable: Besties & Couples",
+      "developer": "Widgetable,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/a3/7e/39a37e30-4f7b-76d4-c477-240e3157ead9/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2128094,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.9,
+      "rating_count": 18527,
+      "change": "-5",
+      "change_val": -5
     }
   ]
 }
