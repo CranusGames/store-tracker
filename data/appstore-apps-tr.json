@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/ca/a1/0bcaa148-9669-0a11-ff26-9a1945c785fe/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 353693,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -50,6 +38,18 @@
       "change_val": 1
     },
     {
+      "rank": 4,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/ca/a1/0bcaa148-9669-0a11-ff26-9a1945c785fe/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 353693,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 5,
       "app_id": "6499423131",
       "app_name": "DOA Depozitosu Olan Ambalajlar",
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 1931,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548251,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 172215,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,20 +94,20 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9369,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "1363881973",
-      "app_name": "S Sport Plus",
-      "developer": "Bravo Televizyon A.S",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/4b/af/514baf3a-1fd4-8445-b186-d0bb4f2d6501/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/79/3a/35793a1d-a2ff-db3a-3387-04d7ec22843c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.7,
-      "rating_count": 3229,
-      "change": "-5",
-      "change_val": -5
+      "rating": 4.6,
+      "rating_count": 1918719,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 10,
@@ -118,20 +118,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 34660,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
-      "app_id": "373034841",
-      "app_name": "Yemeksepeti: Food & Grocery",
-      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/79/3a/35793a1d-a2ff-db3a-3387-04d7ec22843c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1363881973",
+      "app_name": "S Sport Plus",
+      "developer": "Bravo Televizyon A.S",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/4b/af/514baf3a-1fd4-8445-b186-d0bb4f2d6501/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 1918719,
-      "change": "+3",
-      "change_val": 3
+      "rating": 3.7,
+      "rating_count": 3229,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 12,
@@ -142,35 +142,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2128425,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 13,
-      "app_id": "418535251",
-      "app_name": "sahibinden #AlSatKiralaKesfet",
-      "developer": "sahibinden.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ee/42/39ee42ac-9932-9fcf-39cc-7b502c9c1808/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 3027136,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 14,
-      "app_id": "835880015",
-      "app_name": "TV+ Movies, Series & Live TV",
-      "developer": "LIFECELL TV YAYIN VE ICERIK HIZMETLERI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/77/2e/32772e87-d037-311e-c522-063addd66f0f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 436004,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "app_id": "1511527605",
       "app_name": "Museums of Türkiye - Official",
       "developer": "T. C. Kültür ve Turizm Bakanlığı",
@@ -178,23 +154,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 85192,
-      "change": "+4",
-      "change_val": 4
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 16,
-      "app_id": "1451805015",
-      "app_name": "ÖSYM Aday İşlemleri Sistemi",
-      "developer": "Olcme Secme ve Yerlestirme Merkezi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "rank": 14,
+      "app_id": "418535251",
+      "app_name": "sahibinden #AlSatKiralaKesfet",
+      "developer": "sahibinden.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ee/42/39ee42ac-9932-9fcf-39cc-7b502c9c1808/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 1.4,
-      "rating_count": 6460,
-      "change": "-4",
-      "change_val": -4
+      "rating": 4.7,
+      "rating_count": 3027136,
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 17,
+      "rank": 15,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -202,11 +178,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93203,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 16,
+      "app_id": "835880015",
+      "app_name": "TV+ Movies, Series & Live TV",
+      "developer": "LIFECELL TV YAYIN VE ICERIK HIZMETLERI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/77/2e/32772e87-d037-311e-c522-063addd66f0f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 436004,
       "change": "-2",
       "change_val": -2
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
       "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
@@ -214,23 +202,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 305371,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
-      "app_id": "6738610571",
-      "app_name": "Myt : Videos, Songs Streaming",
-      "developer": "Lorenz Popper",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/df/6b/94df6b7a-a92d-d767-1d6b-b2229196001e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 2.7,
-      "rating_count": 276,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 20,
+      "rank": 18,
       "app_id": "885993234",
       "app_name": "Ziraat Mobil",
       "developer": "T.C. Ziraat Bankası A.Ş.",
@@ -238,6 +214,30 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1683967,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "1451805015",
+      "app_name": "ÖSYM Aday İşlemleri Sistemi",
+      "developer": "Olcme Secme ve Yerlestirme Merkezi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.4,
+      "rating_count": 6460,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 20,
+      "app_id": "1234494259",
+      "app_name": "Cepte Şok",
+      "developer": "Şok Marketler Tic. A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/b6/f7/a4b6f7c9-122b-cb59-4d70-465207491402/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 69245,
       "change": "new",
       "change_val": 0
     }
