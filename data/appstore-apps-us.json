@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "1089294040",
-      "app_name": "Capital One Shopping: Save Now",
-      "developer": "Wikibuy, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/dc/a6/10dca60d-b5b1-aeee-306d-90cf92220dfb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 1634424,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -154,23 +142,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1116598,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "1089294040",
+      "app_name": "Capital One Shopping: Save Now",
+      "developer": "Wikibuy, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/dc/a6/10dca60d-b5b1-aeee-306d-90cf92220dfb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 1634424,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/61/2f/e1612fa9-c0ea-4f7a-ded6-a0bca203b6ba/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 957866,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -178,20 +166,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4883489,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/61/2f/e1612fa9-c0ea-4f7a-ded6-a0bca203b6ba/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 957866,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
-      "app_id": "1111876388",
-      "app_name": "T-Life",
-      "developer": "T-Mobile",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/84/06/908406aa-008c-fc74-26b7-cca6d2ccc87a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/a3/00/fda30005-2a7b-bdba-ba7e-2c57955a8e9d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 1264517,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 18345254,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 17,
@@ -207,30 +207,18 @@
     },
     {
       "rank": 18,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/a3/00/fda30005-2a7b-bdba-ba7e-2c57955a8e9d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "app_id": "1111876388",
+      "app_name": "T-Life",
+      "developer": "T-Mobile",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/84/06/908406aa-008c-fc74-26b7-cca6d2ccc87a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 18345254,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 1264517,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 19,
-      "app_id": "908126679",
-      "app_name": "ParentSquare",
-      "developer": "ParentSquare",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/35/41/f1354108-36e5-0a01-8a9f-dad0fe177e15/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 74916,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -238,7 +226,19 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2172548,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1636235979",
+      "app_name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/21/ea/4021ea22-af66-6c5b-652e-3aedb7437977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 460631,
+      "change": "new",
       "change_val": 0
     }
   ]

@@ -99,30 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "6504849169",
-      "app_name": "NetShort - Popular Dramas & TV",
-      "developer": "NETSTORY PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 34719,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "418535251",
-      "app_name": "sahibinden #AlSatKiralaKesfet",
-      "developer": "sahibinden.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ee/42/39ee42ac-9932-9fcf-39cc-7b502c9c1808/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 3027793,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
@@ -130,8 +106,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2129259,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 10,
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/79/3a/35793a1d-a2ff-db3a-3387-04d7ec22843c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1918726,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 11,
+      "app_id": "1511527605",
+      "app_name": "Museums of Türkiye - Official",
+      "developer": "T. C. Kültür ve Turizm Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4b/6f/954b6fe8-41e0-883e-1b68-5bf7e2ad2f4d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 85192,
+      "change": "+5",
+      "change_val": 5
     },
     {
       "rank": 12,
@@ -147,18 +147,30 @@
     },
     {
       "rank": 13,
-      "app_id": "373034841",
-      "app_name": "Yemeksepeti: Food & Grocery",
-      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/79/3a/35793a1d-a2ff-db3a-3387-04d7ec22843c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "418535251",
+      "app_name": "sahibinden #AlSatKiralaKesfet",
+      "developer": "sahibinden.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ee/42/39ee42ac-9932-9fcf-39cc-7b502c9c1808/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 1918726,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 3027793,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 14,
+      "app_id": "6504849169",
+      "app_name": "NetShort - Popular Dramas & TV",
+      "developer": "NETSTORY PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/99/c7/0099c7b0-b697-f955-078d-c455311d88eb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 34719,
+      "change": "-5",
+      "change_val": -5
+    },
+    {
+      "rank": 15,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -166,11 +178,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93204,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
       "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
@@ -178,47 +190,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 306063,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4b/6f/954b6fe8-41e0-883e-1b68-5bf7e2ad2f4d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 85192,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
-      "app_id": "6738610571",
-      "app_name": "Myt : Videos, Songs Streaming",
-      "developer": "Lorenz Popper",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/df/6b/94df6b7a-a92d-d767-1d6b-b2229196001e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 2.7,
-      "rating_count": 284,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "986339882",
-      "app_name": "letgo: Buy & Sell Used Stuff",
-      "developer": "Letgo Global B.V.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/07/00/b80700e0-526a-1b1e-348f-2bceb71572bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 844936,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "885993234",
       "app_name": "Ziraat Mobil",
       "developer": "T.C. Ziraat Bankası A.Ş.",
@@ -226,19 +202,43 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1684299,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 18,
+      "app_id": "6738610571",
+      "app_name": "Myt : Videos, Songs Streaming",
+      "developer": "Lorenz Popper",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/df/6b/94df6b7a-a92d-d767-1d6b-b2229196001e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 2.7,
+      "rating_count": 284,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "986339882",
+      "app_name": "letgo: Buy & Sell Used Stuff",
+      "developer": "Letgo Global B.V.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/07/00/b80700e0-526a-1b1e-348f-2bceb71572bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 844936,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
-      "app_id": "1198609962",
-      "app_name": "Paycell - Digital Wallet",
-      "developer": "TURKTELL BILISIM SERVISLERI A S",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/7f/a2/cb7fa2d2-d4c5-f5b4-a813-9b8a9d855b6e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1234494259",
+      "app_name": "Cepte Şok",
+      "developer": "Şok Marketler Tic. A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/b6/f7/a4b6f7c9-122b-cb59-4d70-465207491402/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 113053,
-      "change": "=",
+      "rating": 4.5,
+      "rating_count": 69246,
+      "change": "new",
       "change_val": 0
     }
   ]
