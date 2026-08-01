@@ -123,30 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/ca/a1/0bcaa148-9669-0a11-ff26-9a1945c785fe/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2063479,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/f2/6e/b7f26ebb-51ae-1fc6-1e06-71b93f0f37c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1116762,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "6445905219",
       "app_name": "DramaBox - Stream Drama Shorts",
       "developer": "STORYMATRIX PTE. LTD.",
@@ -154,23 +130,35 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 804491,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 12,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/ca/a1/0bcaa148-9669-0a11-ff26-9a1945c785fe/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2063479,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 13,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/f2/6e/b7f26ebb-51ae-1fc6-1e06-71b93f0f37c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1116762,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a6/d8/e6a6d8a2-8969-594e-ffd0-8f550581486c/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18332667,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7297191,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/a6/d8/e6a6d8a2-8969-594e-ffd0-8f550581486c/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18332667,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -207,14 +207,14 @@
     },
     {
       "rank": 18,
-      "app_id": "389801252",
-      "app_name": "Instagram",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/54/7a/a1547ad4-8df4-46e5-c8cf-a89b3945fce7/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1111876388",
+      "app_name": "T-Life",
+      "developer": "T-Mobile",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/48/e7/f548e70e-58ba-5da6-5433-8f6aa00f4622/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 29330822,
-      "change": "=",
+      "rating": 4.8,
+      "rating_count": 1264543,
+      "change": "new",
       "change_val": 0
     },
     {
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/61/2f/e1612fa9-c0ea-4f7a-ded6-a0bca203b6ba/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/6f/f2/a86ff264-fb37-ef05-8e6a-8d559cebe82b/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 960891,
-      "change": "=",
+      "rating_count": 2173698,
+      "change": "new",
       "change_val": 0
     }
   ]
