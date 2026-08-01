@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 804491,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2063479,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,20 +154,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1116762,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/29/f1/9c29f117-97a4-f001-dff5-3a5b632a0fa5/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/77/6f/89776fa8-1190-1bbc-c89d-56fdf81b2955/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 7297191,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18332667,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -214,7 +214,7 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1264543,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2173698,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]

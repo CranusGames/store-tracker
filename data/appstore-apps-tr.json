@@ -54,7 +54,7 @@
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/29/f1/9c29f117-97a4-f001-dff5-3a5b632a0fa5/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/77/6f/89776fa8-1190-1bbc-c89d-56fdf81b2955/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
       "rating_count": 172326,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 8691,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 85197,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3028944,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 23764,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9376,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 2.7,
       "rating_count": 299,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1063543,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1685048,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 69248,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4559511,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
