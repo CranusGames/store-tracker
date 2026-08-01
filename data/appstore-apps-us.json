@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/8a/15/e88a15a7-2efd-61f8-a1f8-0d1e9061493c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 146941,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6741796873",
       "app_name": "TikTok Pro - Events",
       "developer": "TikTok Ltd.",
@@ -22,8 +10,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 22382,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/8a/15/e88a15a7-2efd-61f8-a1f8-0d1e9061493c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 146941,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "926058555",
-      "app_name": "Atom - Movie Tickets & Times",
-      "developer": "Atom Tickets, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/d1/4b/82d14bf9-2064-833c-82ca-31f796e26959/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 180570,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2132285,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "926058555",
+      "app_name": "Atom - Movie Tickets & Times",
+      "developer": "Atom Tickets, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/d1/4b/82d14bf9-2064-833c-82ca-31f796e26959/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 180570,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -111,6 +111,18 @@
     },
     {
       "rank": 10,
+      "app_id": "6445905219",
+      "app_name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ef/46/15ef46e0-5fe2-f6a1-57a0-610a1883389e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 804053,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 11,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -118,20 +130,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1116712,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/5a/86/625a86c3-cf1f-2e75-227f-be6f366802d6/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4887880,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -147,15 +147,15 @@
     },
     {
       "rank": 13,
-      "app_id": "6445905219",
-      "app_name": "DramaBox - Stream Drama Shorts",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ef/46/15ef46e0-5fe2-f6a1-57a0-610a1883389e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/5a/86/625a86c3-cf1f-2e75-227f-be6f366802d6/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 804053,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 4887880,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 14,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/65/5f/d8655feb-d931-016a-389e-45574adafb8c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18351737,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "6745274862",
       "app_name": "DealSeek: Coupons & Discounts",
       "developer": "DealSeek LLC",
@@ -190,20 +178,32 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 62552,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "1636235979",
+      "app_name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/21/ea/4021ea22-af66-6c5b-652e-3aedb7437977/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 460688,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "719972451",
-      "app_name": "DoorDash: Food, Grocery, More",
-      "developer": "DoorDash, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/87/52/54875236-8bac-2f04-552f-957f90f2d1a2/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/65/5f/d8655feb-d931-016a-389e-45574adafb8c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 22802182,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 18351737,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "1111876388",
-      "app_name": "T-Life",
-      "developer": "T-Mobile",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/84/06/908406aa-008c-fc74-26b7-cca6d2ccc87a/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/6f/f2/a86ff264-fb37-ef05-8e6a-8d559cebe82b/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 1264531,
-      "change": "=",
+      "rating": 4.7,
+      "rating_count": 2173351,
+      "change": "new",
       "change_val": 0
     }
   ]
