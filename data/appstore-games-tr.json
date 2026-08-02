@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "1617391485",
-      "app_name": "Block Blast!",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/4b/39/124b39fb-99cc-935e-b8ad-4d6417f5040a/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 89645,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -58,8 +46,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3022,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "1617391485",
+      "app_name": "Block Blast!",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/4b/39/124b39fb-99cc-935e-b8ad-4d6417f5040a/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 89645,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -94,23 +94,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 3283,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "1229016807",
-      "app_name": "Brawl Stars",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/15/b1/d215b17b-b984-732c-0d74-41a45bbcb77d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 858822,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 10,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -118,23 +106,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1927810,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c1/54/e3c15430-c128-802a-ec17-95d0a02bc752/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 689721,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 10,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -142,8 +118,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2113,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 11,
+      "app_id": "1229016807",
+      "app_name": "Brawl Stars",
+      "developer": "Supercell",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/15/b1/d215b17b-b984-732c-0d74-41a45bbcb77d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 858822,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 12,
+      "app_id": "6752672568",
+      "app_name": "Block Out! - Color Sort Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/98/76/e798762a-c326-6592-06ff-d63cab5ea87c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 6612,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 13,
@@ -154,20 +154,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 257544,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "6752672568",
-      "app_name": "Block Out! - Color Sort Puzzle",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/98/76/e798762a-c326-6592-06ff-d63cab5ea87c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c1/54/e3c15430-c128-802a-ec17-95d0a02bc752/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 6612,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.2,
+      "rating_count": 689721,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 15,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "6475003879",
-      "app_name": "Tabu Kelime 2026",
-      "developer": "Yavuz Selim Yildirim",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 482,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -214,23 +202,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 45512,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "6475003879",
+      "app_name": "Tabu Kelime 2026",
+      "developer": "Yavuz Selim Yildirim",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 482,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
-      "app_id": "6499209744",
-      "app_name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/16/c5/2916c5ef-a0ee-1a50-bd30-51bd5ce22de7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 27296,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "6739554056",
       "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 17058,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/16/c5/2916c5ef-a0ee-1a50-bd30-51bd5ce22de7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 27296,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
