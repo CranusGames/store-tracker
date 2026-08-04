@@ -22,11 +22,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 122627,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 3,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 38043,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 3,
+      "rank": 4,
       "app_id": "6748084174",
       "app_name": "Smash Fest!",
       "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
@@ -36,18 +48,6 @@
       "rating_count": 244271,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 4,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 38043,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 5,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 31808,
-      "change": "+5",
-      "change_val": 5
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -130,23 +130,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2643679,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 12,
-      "app_id": "6744115235",
-      "app_name": "Caravan SandWitch",
-      "developer": "Plug In Digital",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/54/1b/f4541bc6-7da4-d7cd-7716-a4c56c5c2c21/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.8,
-      "rating_count": 13,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -154,11 +142,35 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 446495,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6744115235",
+      "app_name": "Caravan SandWitch",
+      "developer": "Plug In Digital",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/54/1b/f4541bc6-7da4-d7cd-7716-a4c56c5c2c21/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.8,
+      "rating_count": 13,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
+      "app_id": "6780195090",
+      "app_name": "82-0.com",
+      "developer": "Vaulty Studios Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/17/ad/a517ad48-52ae-266c-973f-4ac249d55c27/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 4640,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
       "app_id": "6483539426",
       "app_name": "Fortnite",
       "developer": "Epic Games Inc.",
@@ -170,31 +182,7 @@
       "change_val": -1
     },
     {
-      "rank": 15,
-      "app_id": "6780195090",
-      "app_name": "82-0.com",
-      "developer": "Vaulty Studios Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/17/ad/a517ad48-52ae-266c-973f-4ac249d55c27/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 4640,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 16,
-      "app_id": "6471045672",
-      "app_name": "Tasty Travels: Merge Game",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/3f/6b/523f6bf7-1cc0-b017-f4be-27d1c19823ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 40634,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "638689075",
       "app_name": "Township",
       "developer": "Playrix",
@@ -202,6 +190,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2169652,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 210301,
       "change": "+2",
       "change_val": 2
     },
@@ -214,31 +214,31 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 131116,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 19,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 210301,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 20,
-      "app_id": "1482155847",
-      "app_name": "Royal Match",
-      "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/00/76/bf0076c8-d6d1-d404-e895-0848a066e0a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 19,
+      "app_id": "6471045672",
+      "app_name": "Tasty Travels: Merge Game",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/3f/6b/523f6bf7-1cc0-b017-f4be-27d1c19823ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 3760068,
-      "change": "=",
+      "rating": 4.6,
+      "rating_count": 40634,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 20,
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 212563,
+      "change": "new",
       "change_val": 0
     }
   ]

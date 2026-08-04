@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2131,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 7,
       "app_id": "1531842415",
       "app_name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -82,11 +70,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 15299,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "512939461",
       "app_name": "Subway Surfers",
       "developer": "Sybo Games ApS",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 332891,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2131,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 9,
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/37/6d/57376d4e-08de-4d6d-d93c-ecbbbd88670b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1928039,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "6752672568",
       "app_name": "Block Out! - Color Sort Puzzle",
       "developer": "Grand Games A.Ş.",
@@ -134,6 +122,18 @@
       "change_val": 1
     },
     {
+      "rank": 11,
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/37/6d/57376d4e-08de-4d6d-d93c-ecbbbd88670b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1928039,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 12,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 45565,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 859431,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 689802,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "6471045672",
-      "app_name": "Tasty Travels: Merge Game",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/3f/6b/523f6bf7-1cc0-b017-f4be-27d1c19823ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 3945,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
       "app_id": "6752886832",
       "app_name": "Hotel Legacy: Merge Game",
       "developer": "Century Games Innovation Pte. Ltd.",
@@ -214,6 +202,18 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 1022,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "6471045672",
+      "app_name": "Tasty Travels: Merge Game",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/3f/6b/523f6bf7-1cc0-b017-f4be-27d1c19823ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 3945,
       "change": "-1",
       "change_val": -1
     },
