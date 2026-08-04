@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/77/6f/89776fa8-1190-1bbc-c89d-56fdf81b2955/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 172423,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "1149994032",
       "app_name": "Facetune: Video & Photo Editor",
       "developer": "Lightricks Ltd.",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 23779,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/77/6f/89776fa8-1190-1bbc-c89d-56fdf81b2955/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 172423,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -106,23 +106,11 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9384,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 10,
-      "app_id": "6499423131",
-      "app_name": "DOA Depozitosu Olan Ambalajlar",
-      "developer": "TURKIYE CEVRE AJANSI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.5,
-      "rating_count": 2028,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 11,
+      "rank": 10,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -130,8 +118,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3030615,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "6499423131",
+      "app_name": "DOA Depozitosu Olan Ambalajlar",
+      "developer": "TURKIYE CEVRE AJANSI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.5,
+      "rating_count": 2028,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93256,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548249,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -202,7 +202,7 @@
       "installs": "",
       "rating": 2.7,
       "rating_count": 322,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -214,11 +214,23 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 340499,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
+      "app_id": "986339882",
+      "app_name": "letgo: Buy & Sell Used Stuff",
+      "developer": "Letgo Global B.V.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/07/00/b80700e0-526a-1b1e-348f-2bceb71572bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 844967,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
@@ -226,18 +238,6 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2133025,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 20,
-      "app_id": "885993234",
-      "app_name": "Ziraat Mobil",
-      "developer": "T.C. Ziraat Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/db/2b/cfdb2bc8-58d1-8f98-b30c-ba6e672c287a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1685795,
       "change": "-1",
       "change_val": -1
     }

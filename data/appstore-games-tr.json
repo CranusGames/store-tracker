@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3116,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 400,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -75,30 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/a4/a1/c3a4a166-6089-b52c-bd31-50e10eeff721/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 332868,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
-      "app_id": "6747834136",
-      "app_name": "Mafia Life: Underworld Boss",
-      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/16/30/921630fb-7769-6cf1-d3f8-9a7442f3cc52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 3391,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -106,8 +82,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2131,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 8,
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/a4/a1/c3a4a166-6089-b52c-bd31-50e10eeff721/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 332868,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 9,
+      "app_id": "6747834136",
+      "app_name": "Mafia Life: Underworld Boss",
+      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/16/30/921630fb-7769-6cf1-d3f8-9a7442f3cc52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 3391,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c1/54/e3c15430-c128-802a-ec17-95d0a02bc752/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 689800,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "6752672568",
       "app_name": "Block Out! - Color Sort Puzzle",
       "developer": "Grand Games A.Ş.",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 6738,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c1/54/e3c15430-c128-802a-ec17-95d0a02bc752/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 689800,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 257891,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 27427,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6475003879",
-      "app_name": "Tabu Kelime 2026",
-      "developer": "Yavuz Selim Yildirim",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/bb/b5/59bbb5dd-509d-18f6-f71e-94018114296a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1475867504",
+      "app_name": "TopTop: Games&Chat",
+      "developer": "MX INNOVATION PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/4a/cf/804acf17-86f7-aa56-0e59-ba66e41d64c0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 484,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.5,
+      "rating_count": 7926,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
