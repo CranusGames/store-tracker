@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 244599,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 38053,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "6759081967",
-      "app_name": "Jewel Coloring",
-      "developer": "Ta Ta Game Technology Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/17/ab/9c17abf1-ae41-e047-d36b-780ee1d869cd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 31825,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "6748397500",
       "app_name": "Arrows – Puzzle Escape",
       "developer": "Lessmore GmbH",
@@ -118,8 +106,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 361885,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "6759081967",
+      "app_name": "Jewel Coloring",
+      "developer": "Ta Ta Game Technology Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/17/ab/9c17abf1-ae41-e047-d36b-780ee1d869cd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 31825,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "6744115235",
-      "app_name": "Caravan SandWitch",
-      "developer": "Plug In Digital",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/54/1b/f4541bc6-7da4-d7cd-7716-a4c56c5c2c21/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.5,
-      "rating_count": 19,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "6780195090",
       "app_name": "82-0.com",
       "developer": "Vaulty Studios Inc.",
@@ -166,8 +154,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 4648,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "6744115235",
+      "app_name": "Caravan SandWitch",
+      "developer": "Plug In Digital",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/54/1b/f4541bc6-7da4-d7cd-7716-a4c56c5c2c21/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.5,
+      "rating_count": 19,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -183,18 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 210321,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
       "app_id": "638689075",
       "app_name": "Township",
       "developer": "Playrix",
@@ -202,6 +190,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2169662,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 210321,
       "change": "-1",
       "change_val": -1
     },

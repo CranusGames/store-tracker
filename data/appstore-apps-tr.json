@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 933265,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 8855,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -130,23 +130,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918730,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "6466298983",
-      "app_name": "Retake AI: Face & Photo Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/a9/88/ada9889a-27e0-d331-4b58-a9ba444e8e7d/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 1555,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 13,
       "app_id": "723672499",
       "app_name": "Pegasus: Cheap Flight Tickets",
       "developer": "Pegasus Hava Tasimaciligi A.S.",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 508433,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/c8/26/f8c8264f-8ef1-fe85-5314-57030eae9a9e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2133674,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 85208,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,20 +178,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3030847,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/c8/26/f8c8264f-8ef1-fe85-5314-57030eae9a9e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "6466298983",
+      "app_name": "Retake AI: Face & Photo Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/a9/88/ada9889a-27e0-d331-4b58-a9ba444e8e7d/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2133674,
-      "change": "+2",
-      "change_val": 2
+      "rating": 4.4,
+      "rating_count": 1555,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93259,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,23 +214,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 309536,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "1539508996",
-      "app_name": "CDAS",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/49/76/7f4976f7-4612-4f8d-d1e6-68e40508600f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 43439,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 20,
       "app_id": "995280265",
       "app_name": "getir: groceries, food&beyond",
       "developer": "Getir",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1068923,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "885993234",
+      "app_name": "Ziraat Mobil",
+      "developer": "T.C. Ziraat Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/db/2b/cfdb2bc8-58d1-8f98-b30c-ba6e672c287a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1686074,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
