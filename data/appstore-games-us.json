@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "6742809194",
-      "app_name": "Warline: Sniper Strike",
-      "developer": "Powerfantasy",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/0b/a8/080ba88d-38a2-3171-247d-81f27af3490e/AppIcon-Global-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 6033,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "6483539426",
       "app_name": "Fortnite",
       "developer": "Epic Games Inc.",
@@ -166,11 +154,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 251646,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 447094,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6742809194",
+      "app_name": "Warline: Sniper Strike",
+      "developer": "Powerfantasy",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/0b/a8/080ba88d-38a2-3171-247d-81f27af3490e/AppIcon-Global-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 6033,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1482155847",
+      "app_name": "Royal Match",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/00/76/bf0076c8-d6d1-d404-e895-0848a066e0a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 213002,
-      "change": "=",
+      "rating": 4.7,
+      "rating_count": 3762423,
+      "change": "new",
       "change_val": 0
     }
   ]

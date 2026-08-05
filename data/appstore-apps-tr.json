@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "6651841329",
-      "app_name": "Payfour",
-      "developer": "CarrefourSA Carrefour Sabanci Ticaret Merkezi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/17/30/981730db-d65a-97b0-cfe0-45f9fa9ffe15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.0,
-      "rating_count": 146,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
@@ -34,15 +22,27 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 936549,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "6651841329",
+      "app_name": "Payfour",
+      "developer": "CarrefourSA Carrefour Sabanci Ticaret Merkezi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/17/30/981730db-d65a-97b0-cfe0-45f9fa9ffe15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.0,
+      "rating_count": 146,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/ca/a1/0bcaa148-9669-0a11-ff26-9a1945c785fe/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/8b/0f/478b0fdc-c6b5-6103-ee35-13385fcce290/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
       "rating_count": 358698,
@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.4,
-      "rating_count": 9389,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445312,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 9389,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -123,30 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/e0/fc/1fe0fc09-024f-6590-0649-c7dba2c3799e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 375401,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "6499423131",
-      "app_name": "DOA Depozitosu Olan Ambalajlar",
-      "developer": "TURKIYE CEVRE AJANSI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.5,
-      "rating_count": 2082,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "6445905219",
       "app_name": "DramaBox - Stream Drama Shorts",
       "developer": "STORYMATRIX PTE. LTD.",
@@ -154,23 +130,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 8987,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 14,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/ff/0c/19ff0c05-e717-f11f-b444-88affd31e3f4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2135665,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
+      "rank": 12,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -178,35 +142,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3031903,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 16,
-      "app_id": "885993234",
-      "app_name": "Ziraat Mobil",
-      "developer": "T.C. Ziraat Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/db/2b/cfdb2bc8-58d1-8f98-b30c-ba6e672c287a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1686808,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4b/6f/954b6fe8-41e0-883e-1b68-5bf7e2ad2f4d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "rank": 13,
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/e0/fc/1fe0fc09-024f-6590-0649-c7dba2c3799e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 85211,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 375401,
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 18,
+      "rank": 14,
+      "app_id": "6499423131",
+      "app_name": "DOA Depozitosu Olan Ambalajlar",
+      "developer": "TURKIYE CEVRE AJANSI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.5,
+      "rating_count": 2082,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 15,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -214,11 +178,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93280,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 19,
+      "rank": 16,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/ff/0c/19ff0c05-e717-f11f-b444-88affd31e3f4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2135665,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
       "app_id": "284815942",
       "app_name": "Google - More ways to search",
       "developer": "Google",
@@ -226,11 +202,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 340976,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 20,
+      "rank": 18,
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
       "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
@@ -238,7 +214,31 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 310551,
-      "change": "=",
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "885993234",
+      "app_name": "Ziraat Mobil",
+      "developer": "T.C. Ziraat Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/db/2b/cfdb2bc8-58d1-8f98-b30c-ba6e672c287a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1686808,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 20,
+      "app_id": "995280265",
+      "app_name": "getir: groceries, food&beyond",
+      "developer": "Getir",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/9f/d3/109fd388-d36e-0e7c-4998-7cf075f722a6/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1069166,
+      "change": "new",
       "change_val": 0
     }
   ]
