@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 90068,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,23 +46,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3178,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 5,
-      "app_id": "6742809194",
-      "app_name": "Warline: Sniper Strike",
-      "developer": "Powerfantasy",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/0b/a8/080ba88d-38a2-3171-247d-81f27af3490e/AppIcon-Global-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 432,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "1531842415",
       "app_name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -74,7 +62,31 @@
       "change_val": 1
     },
     {
+      "rank": 6,
+      "app_id": "6747834136",
+      "app_name": "Mafia Life: Underworld Boss",
+      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/16/30/921630fb-7769-6cf1-d3f8-9a7442f3cc52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 3435,
+      "change": "+4",
+      "change_val": 4
+    },
+    {
       "rank": 7,
+      "app_id": "6742809194",
+      "app_name": "Warline: Sniper Strike",
+      "developer": "Powerfantasy",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/0b/a8/080ba88d-38a2-3171-247d-81f27af3490e/AppIcon-Global-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 432,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 8,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -84,18 +96,6 @@
       "rating_count": 2135,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 8,
-      "app_id": "6752672568",
-      "app_name": "Block Out! - Color Sort Puzzle",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/47/76/f54776df-7473-635b-d336-70ce902ff8a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 6808,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 9,
@@ -111,15 +111,15 @@
     },
     {
       "rank": 10,
-      "app_id": "6747834136",
-      "app_name": "Mafia Life: Underworld Boss",
-      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/16/30/921630fb-7769-6cf1-d3f8-9a7442f3cc52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6752672568",
+      "app_name": "Block Out! - Color Sort Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/47/76/f54776df-7473-635b-d336-70ce902ff8a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.4,
-      "rating_count": 3435,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.5,
+      "rating_count": 6808,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 11,
@@ -142,11 +142,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 45599,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
+      "app_id": "6748084174",
+      "app_name": "Smash Fest!",
+      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/15/3a/74153a85-8436-259e-5297-63fbd718af84/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 58,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 14,
       "app_id": "1229016807",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
@@ -158,7 +170,7 @@
       "change_val": -1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -166,11 +178,11 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 689827,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -178,11 +190,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 258061,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "app_id": "6739124364",
       "app_name": "Top Tycoon: Coin Theme Empire",
       "developer": "BeheFun Games Limited",
@@ -190,11 +202,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 12066,
-      "change": "+2",
-      "change_val": 2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -206,7 +218,7 @@
       "change_val": -1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "app_id": "6471045672",
       "app_name": "Tasty Travels: Merge Game",
       "developer": "Century Games Pte. Ltd.",
@@ -218,18 +230,6 @@
       "change_val": -1
     },
     {
-      "rank": 19,
-      "app_id": "6752886832",
-      "app_name": "Hotel Legacy: Merge Game",
-      "developer": "Century Games Innovation Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/88/ee/6f88eef0-fc54-dcc3-c4c7-d8d06f09b4e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 1035,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 20,
       "app_id": "6746328263",
       "app_name": "Castle Busters",
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 4242,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
