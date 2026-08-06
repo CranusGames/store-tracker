@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/4c/fb/e74cfb45-827b-e1b0-1456-7298c0d01232/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 53147,
+      "rating_count": 53166,
       "change": "=",
       "change_val": 0
     },
@@ -21,12 +21,24 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/2d/ef/592defc8-04d3-4d04-b5c0-2205f1fa0121/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 937210,
+      "rating_count": 937357,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 3,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/8b/0f/478b0fdc-c6b5-6103-ee35-13385fcce290/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 358892,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
       "app_id": "6651841329",
       "app_name": "Payfour",
       "developer": "CarrefourSA Carrefour Sabanci Ticaret Merkezi A.S.",
@@ -34,20 +46,8 @@
       "installs": "",
       "rating": 3.0,
       "rating_count": 147,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/8b/0f/478b0fdc-c6b5-6103-ee35-13385fcce290/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 358862,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -57,7 +57,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/3c/61/f83c61c0-64cc-d6eb-f016-ddab02899b34/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 445308,
+      "rating_count": 445309,
       "change": "=",
       "change_val": 0
     },
@@ -69,7 +69,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.4,
-      "rating_count": 9389,
+      "rating_count": 9391,
       "change": "=",
       "change_val": 0
     },
@@ -81,7 +81,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/77/6f/89776fa8-1190-1bbc-c89d-56fdf81b2955/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 172513,
+      "rating_count": 172517,
       "change": "=",
       "change_val": 0
     },
@@ -105,7 +105,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/4a/a7/a54aa7e3-5d44-ea77-e434-2233eccb9074/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1918724,
+      "rating_count": 1918725,
       "change": "=",
       "change_val": 0
     },
@@ -117,7 +117,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 548238,
+      "rating_count": 548237,
       "change": "=",
       "change_val": 0
     },
@@ -129,7 +129,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ef/46/15ef46e0-5fe2-f6a1-57a0-610a1883389e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 9009,
+      "rating_count": 9015,
       "change": "=",
       "change_val": 0
     },
@@ -141,7 +141,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/e3/6f/1ce36fb4-2b70-36c9-05e9-acea3fb9b023/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3032085,
+      "rating_count": 3032124,
       "change": "=",
       "change_val": 0
     },
@@ -153,9 +153,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/a5/99/83a599e7-c367-ab65-11fc-721737bfa4fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 93280,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 93279,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -165,33 +165,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/e0/fc/1fe0fc09-024f-6590-0649-c7dba2c3799e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 375425,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 375416,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "6499423131",
-      "app_name": "DOA Depozitosu Olan Ambalajlar",
-      "developer": "TURKIYE CEVRE AJANSI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.5,
-      "rating_count": 2083,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 16,
       "app_id": "284815942",
       "app_name": "Google - More ways to search",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/27/c3/4e27c344-c232-7843-aabe-8f5953abcd6c/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 341030,
+      "rating_count": 341047,
       "change": "+1",
       "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/cf/7d/bccf7dcd-bbe2-8cf5-790f-1a67daeeef10/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 310779,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 17,
@@ -201,33 +201,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/ff/0c/19ff0c05-e717-f11f-b444-88affd31e3f4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2135816,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 18,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/cf/7d/bccf7dcd-bbe2-8cf5-790f-1a67daeeef10/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 310723,
+      "rating_count": 2135829,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "835599320",
       "app_name": "TikTok - Videos, Music & LIVE",
       "developer": "TikTok Ltd.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/70/42/50704260-89c4-2aa4-7740-4a6a621af5db/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 1063906,
-      "change": "new",
-      "change_val": 0
+      "rating_count": 1063914,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "6499423131",
+      "app_name": "DOA Depozitosu Olan Ambalajlar",
+      "developer": "TURKIYE CEVRE AJANSI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/48/54/bf485499-6bd9-73d3-4440-02ce49644f37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.5,
+      "rating_count": 2081,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 20,
@@ -237,9 +237,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/db/2b/cfdb2bc8-58d1-8f98-b30c-ba6e672c287a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1686875,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 1686885,
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
