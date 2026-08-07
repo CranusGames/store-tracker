@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 9074,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 311635,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4567706,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
