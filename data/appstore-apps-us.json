@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 75009,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,23 +46,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 10925533,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/4c/fb/e74cfb45-827b-e1b0-1456-7298c0d01232/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2146268,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 6,
       "app_id": "632064380",
       "app_name": "Vinted: Pre-loved marketplace",
       "developer": "Vinted Limited",
@@ -70,23 +58,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 154382,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/4c/fb/e74cfb45-827b-e1b0-1456-7298c0d01232/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2146268,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 7,
-      "app_id": "333903271",
-      "app_name": "X",
-      "developer": "X Corp.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 10925862,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 8,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -94,11 +82,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18385046,
-      "change": "+9",
-      "change_val": 9
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -106,11 +94,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4911080,
-      "change": "+6",
-      "change_val": 6
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
@@ -118,23 +106,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 940623,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "333903271",
+      "app_name": "X",
+      "developer": "X Corp.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 10925862,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 11,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/16/2eae1604-40be-df74-8292-82ce00f72d01/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 679225,
-      "change": "+9",
-      "change_val": 9
-    },
-    {
-      "rank": 12,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2428778,
-      "change": "+6",
-      "change_val": 6
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/16/2eae1604-40be-df74-8292-82ce00f72d01/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 679225,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -154,23 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 222017,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 14,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/70/42/50704260-89c4-2aa4-7740-4a6a621af5db/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18337707,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -178,11 +166,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2084901,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "1673567402",
       "app_name": "Freecash - Get Paid Real Money",
       "developer": "Freecash - Get Paid Real Money",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 104644,
-      "change": "-4",
-      "change_val": -4
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/70/42/50704260-89c4-2aa4-7740-4a6a621af5db/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18337707,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 17,
@@ -202,11 +202,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1117395,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
+      "app_id": "552602056",
+      "app_name": "ClassDojo",
+      "developer": "ClassDojo, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/93/5f/bb935f4c-8873-b40a-47e0-c41c11764368/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3949445,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
       "app_id": "6745274862",
       "app_name": "DealSeek: Coupons & Discounts",
       "developer": "DealSeek LLC",
@@ -214,11 +226,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 65042,
-      "change": "-10",
-      "change_val": -10
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "app_id": "1113153706",
       "app_name": "Microsoft Teams",
       "developer": "Microsoft Corporation",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3369018,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/77/6f/89776fa8-1190-1bbc-c89d-56fdf81b2955/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 7304205,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
