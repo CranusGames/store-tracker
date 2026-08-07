@@ -171,30 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 211152,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "6742809194",
-      "app_name": "Warline: Sniper Strike",
-      "developer": "Powerfantasy",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/a2/a3/15a2a34a-6755-083a-fd6d-2b4cfd188aff/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 6633,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "1623318294",
       "app_name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -202,11 +178,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 194615,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/9e/1c/3e9e1c51-fee7-203f-a4df-ce86f6a964a5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 211152,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 17,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -214,23 +202,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 447671,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "6742809194",
+      "app_name": "Warline: Sniper Strike",
+      "developer": "Powerfantasy",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/a2/a3/15a2a34a-6755-083a-fd6d-2b4cfd188aff/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 6633,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 19,
-      "app_id": "1482155847",
-      "app_name": "Royal Match",
-      "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/00/76/bf0076c8-d6d1-d404-e895-0848a066e0a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 3765038,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "6751056652",
       "app_name": "Pixel Flow!",
       "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 132900,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1482155847",
+      "app_name": "Royal Match",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/00/76/bf0076c8-d6d1-d404-e895-0848a066e0a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 3765038,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }

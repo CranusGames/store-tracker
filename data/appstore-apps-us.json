@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/8a/15/e88a15a7-2efd-61f8-a1f8-0d1e9061493c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 160603,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 941264,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/8a/15/e88a15a7-2efd-61f8-a1f8-0d1e9061493c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 160603,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -135,30 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/1b/cd4f1bda-47f3-2bd0-0278-eb9112c8b84f/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4912480,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b7/e9/dfb7e90b-cabc-ef4d-b586-a8eead20cadd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 972710,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -166,11 +142,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1117478,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 15,
+      "rank": 13,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -178,8 +154,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2086452,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 14,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/1b/cd4f1bda-47f3-2bd0-0278-eb9112c8b84f/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4912480,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 15,
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b7/e9/dfb7e90b-cabc-ef4d-b586-a8eead20cadd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 972710,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "552602056",
-      "app_name": "ClassDojo",
-      "developer": "ClassDojo, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/93/5f/bb935f4c-8873-b40a-47e0-c41c11764368/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3950035,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -214,11 +202,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2178242,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -226,19 +214,31 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2428869,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "552602056",
+      "app_name": "ClassDojo",
+      "developer": "ClassDojo, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/93/5f/bb935f4c-8873-b40a-47e0-c41c11764368/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3950035,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/16/2eae1604-40be-df74-8292-82ce00f72d01/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/70/42/50704260-89c4-2aa4-7740-4a6a621af5db/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 679320,
-      "change": "=",
+      "rating_count": 18338483,
+      "change": "new",
       "change_val": 0
     }
   ]
