@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/a4/a1/c3a4a166-6089-b52c-bd31-50e10eeff721/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 333573,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "1531842415",
       "app_name": "Super Bear Adventure",
       "developer": "Earthkwak Games",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 15647,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/a4/a1/c3a4a166-6089-b52c-bd31-50e10eeff721/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 333573,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -99,54 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "6747834136",
-      "app_name": "Mafia Life: Underworld Boss",
-      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/16/30/921630fb-7769-6cf1-d3f8-9a7442f3cc52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 3558,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/37/6d/57376d4e-08de-4d6d-d93c-ecbbbd88670b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1928423,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
-      "app_id": "1229016807",
-      "app_name": "Brawl Stars",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/15/b1/d215b17b-b984-732c-0d74-41a45bbcb77d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 860519,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "6773240689",
-      "app_name": "Era Online: Şeref Savaşı",
-      "developer": "HK XINGHAI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/fd/e0/74fde019-3242-a64e-205e-e3609dddd0cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 290,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -154,11 +106,47 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 45691,
-      "change": "=",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
     },
     {
-      "rank": 14,
+      "rank": 10,
+      "app_id": "1229016807",
+      "app_name": "Brawl Stars",
+      "developer": "Supercell",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/15/b1/d215b17b-b984-732c-0d74-41a45bbcb77d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 860519,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "6747834136",
+      "app_name": "Mafia Life: Underworld Boss",
+      "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/16/30/921630fb-7769-6cf1-d3f8-9a7442f3cc52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 3558,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 12,
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/37/6d/57376d4e-08de-4d6d-d93c-ecbbbd88670b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1928423,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 13,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -166,8 +154,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2158,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "6773240689",
+      "app_name": "Era Online: Şeref Savaşı",
+      "developer": "HK XINGHAI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/fd/e0/74fde019-3242-a64e-205e-e3609dddd0cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 290,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 15,
@@ -219,14 +219,14 @@
     },
     {
       "rank": 19,
-      "app_id": "6739124364",
-      "app_name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a3/51/f3a351bc-9dad-2bad-c5b8-11727f44d9e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6755455500",
+      "app_name": "Hollywood Merge",
+      "developer": "VoyagerOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/fc/fd/9afcfdd1-b735-e632-c54b-01c9240357f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 12279,
-      "change": "=",
+      "rating": 4.5,
+      "rating_count": 2299,
+      "change": "new",
       "change_val": 0
     },
     {
