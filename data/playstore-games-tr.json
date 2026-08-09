@@ -3,24 +3,24 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "com.dts.freefiremax",
-      "app_name": "Free Fire MAX",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/SDYv1Th3VdjfM0MwObMIvH3L2I2owroB3leEtbMrFJZYRklHroxw_AspZZmno_8DBdiar3d03kHsyjBsnvcdlg",
-      "installs": "500,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 2,
       "app_id": "com.JindoBlu.OfflineGames",
       "app_name": "Offline Games - No Wifi Games",
       "developer": "JindoBlu",
       "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
       "installs": "100,000,000+",
       "rating": 4.4,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "com.dts.freefiremax",
+      "app_name": "Free Fire MAX",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/SDYv1Th3VdjfM0MwObMIvH3L2I2owroB3leEtbMrFJZYRklHroxw_AspZZmno_8DBdiar3d03kHsyjBsnvcdlg",
+      "installs": "500,000,000+",
+      "rating": 4.6,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
@@ -46,8 +46,8 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "500,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -94,8 +94,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,29 +106,29 @@
       "installs": "500,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "-5",
-      "change_val": -5
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "solitaire.patience.card.games.klondike.free",
-      "app_name": "Solitaire - Classic Card Games",
-      "developer": "Guru Puzzle Game",
-      "icon_url": "https://play-lh.googleusercontent.com/nVTU-EbcHkMg-KXt93shtsgX506v_zDBLG04H2pnp4Lom2J_mSp5gHO5YtZhCSpDpLJUgBYneCd5h6oDduKJ6Q",
-      "installs": "50,000,000+",
-      "rating": 4.8,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 11,
       "app_id": "com.tocaboca.tocalifeworld",
       "app_name": "Toca Boca World",
       "developer": "Toca Boca",
       "icon_url": "https://play-lh.googleusercontent.com/FindnWJcVLEkWKxJPm1P4NA07WJkLd2BrkHschg7gjQ_CFJ_9DUkS2nBwywXPxQkdWokX2UG_0v8hGbuq9t_",
       "installs": "100,000,000+",
       "rating": 4.3,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "solitaire.patience.card.games.klondike.free",
+      "app_name": "Solitaire - Classic Card Games",
+      "developer": "Guru Puzzle Game",
+      "icon_url": "https://play-lh.googleusercontent.com/nVTU-EbcHkMg-KXt93shtsgX506v_zDBLG04H2pnp4Lom2J_mSp5gHO5YtZhCSpDpLJUgBYneCd5h6oDduKJ6Q",
+      "installs": "50,000,000+",
+      "rating": 4.8,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
@@ -147,24 +147,24 @@
     },
     {
       "rank": 13,
-      "app_id": "com.topfreegames.bikeracefreeworld",
-      "app_name": "Bike Race：Motorcycle Games",
-      "developer": "Wildlife Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
-      "installs": "100,000,000+",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 14,
       "app_id": "com.tencent.ig",
       "app_name": "PUBG MOBILE",
       "developer": "Level Infinite",
       "icon_url": "https://play-lh.googleusercontent.com/O8jPCZ2EXAt7wGlbZhkhA-3vPIWVBpz8tZrRnsr7uVeqp0UD1AQwIEl_N9So80kdp8gDvIksC64GypylkQV_",
       "installs": "1,000,000,000+",
       "rating": 4.6,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "com.topfreegames.bikeracefreeworld",
+      "app_name": "Bike Race：Motorcycle Games",
+      "developer": "Wildlife Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
+      "installs": "100,000,000+",
+      "rating": 4.2,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
@@ -183,24 +183,24 @@
     },
     {
       "rank": 16,
-      "app_id": "com.miniclip.eightballpool",
-      "app_name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
       "app_id": "com.firsttouchgames.dls7",
       "app_name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
       "icon_url": "https://play-lh.googleusercontent.com/xb1Vz614Oef63tpwV3AmcC4QWOeEQ5rw_bYOimuNF6M3NoINRmZV6WNmPgl4cBYc1rMJhAu0ohPhn4coq_AQlw",
       "installs": "100,000,000+",
       "rating": 4.0,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "com.miniclip.eightballpool",
+      "app_name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.7,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
