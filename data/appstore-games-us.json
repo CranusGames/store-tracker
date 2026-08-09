@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "6751056652",
-      "app_name": "Pixel Flow!",
-      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/42/f1/1d42f104-d58e-afd1-3111-20c8f70e8f10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 134492,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "6748397500",
       "app_name": "Arrows – Puzzle Escape",
       "developer": "Lessmore GmbH",
@@ -178,11 +166,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 371606,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 211761,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6751056652",
+      "app_name": "Pixel Flow!",
+      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/42/f1/1d42f104-d58e-afd1-3111-20c8f70e8f10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 134492,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 17,
@@ -207,30 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "6759081967",
-      "app_name": "Jewel Coloring",
-      "developer": "Ta Ta Game Technology Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/17/ab/9c17abf1-ae41-e047-d36b-780ee1d869cd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 33305,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "6756058501",
-      "app_name": "Jelly Busters: Puzzle Game",
-      "developer": "Moon Active",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/8c/70/a18c709e-20e6-e5dc-2313-93b3c2ad469f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 2390,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "1621328561",
       "app_name": "MONOPOLY GO!",
       "developer": "Scopely, Inc.",
@@ -238,8 +214,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3787372,
-      "change": "=",
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "1482155847",
+      "app_name": "Royal Match",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/00/76/bf0076c8-d6d1-d404-e895-0848a066e0a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 3768414,
+      "change": "new",
       "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "6759081967",
+      "app_name": "Jewel Coloring",
+      "developer": "Ta Ta Game Technology Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/17/ab/9c17abf1-ae41-e047-d36b-780ee1d869cd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 33305,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }

@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "407558537",
-      "app_name": "Capital One Mobile",
-      "developer": "Capital One",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/09/2d/29092db8-027f-7d82-1a5b-5b1731556d67/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 10936198,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -94,11 +82,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1117905,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4921023,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "407558537",
+      "app_name": "Capital One Mobile",
+      "developer": "Capital One",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/09/2d/29092db8-027f-7d82-1a5b-5b1731556d67/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 10936198,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 10,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "719972451",
-      "app_name": "DoorDash: Food, Grocery, More",
-      "developer": "DoorDash, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/8f/f5/fe8ff5e7-378c-6bec-48a8-ba007d3c5c80/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 22871633,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "1488269261",
       "app_name": "Whatnot: Shop, Sell, Connect",
       "developer": "Whatnot Inc.",
@@ -154,47 +142,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 977496,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
-      "app_id": "368677368",
-      "app_name": "Uber - Request a ride",
-      "developer": "Uber Technologies, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/fe/76/77fe769c-2e21-b1f9-a411-6e97b1a8b21b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 16567521,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/25/7b/29257bef-ef63-11b5-f30c-1ee806165851/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 223955,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/35/32/33353283-f217-a497-4e41-9e83cb2e6ccb/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 7307520,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
+      "rank": 13,
       "app_id": "6670430706",
       "app_name": "DramaWave - Dramas & Reels",
       "developer": "SKYWORK AI PTE LTD",
@@ -202,23 +154,59 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 142905,
-      "change": "=",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 14,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/25/7b/29257bef-ef63-11b5-f30c-1ee806165851/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 223955,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "368677368",
+      "app_name": "Uber - Request a ride",
+      "developer": "Uber Technologies, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/fe/76/77fe769c-2e21-b1f9-a411-6e97b1a8b21b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 16567521,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 16,
+      "app_id": "719972451",
+      "app_name": "DoorDash: Food, Grocery, More",
+      "developer": "DoorDash, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/8f/f5/fe8ff5e7-378c-6bec-48a8-ba007d3c5c80/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 22871633,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 17,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/35/32/33353283-f217-a497-4e41-9e83cb2e6ccb/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 7307520,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/f2/a8/c1f2a8b3-56af-7837-3369-ada0ca0fe760/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18399532,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "1673567402",
       "app_name": "Freecash - Get Paid Real Money",
       "developer": "Freecash - Get Paid Real Money",
@@ -226,8 +214,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 107790,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/f2/a8/c1f2a8b3-56af-7837-3369-ada0ca0fe760/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18399532,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
