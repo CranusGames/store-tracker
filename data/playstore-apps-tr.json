@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "pilatesworkouts.loseweight.dailyyoga",
-      "app_name": "PILATES Workouts at Home",
-      "developer": "Nexoft - Fitness Apps",
-      "icon_url": "https://play-lh.googleusercontent.com/plZFbDkCViX6TVXw1PNz1VhNtgM2S8DIY4CCmLv7S5plN47kqiuA9Uh4XfoVsQ7vo-elzmmhdPD4MdOMnP6x",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "com.scaleup.chatai",
       "app_name": "AI Chatbot - Nova",
       "developer": "ScaleUp",
@@ -178,11 +166,11 @@
       "installs": "",
       "rating": 3.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "interior.home.design.ai",
       "app_name": "Home AI - AI Interior Design",
       "developer": "HubX",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "pilatesworkouts.loseweight.dailyyoga",
+      "app_name": "PILATES Workouts at Home",
+      "developer": "Nexoft - Fitness Apps",
+      "icon_url": "https://play-lh.googleusercontent.com/plZFbDkCViX6TVXw1PNz1VhNtgM2S8DIY4CCmLv7S5plN47kqiuA9Uh4XfoVsQ7vo-elzmmhdPD4MdOMnP6x",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 17,
