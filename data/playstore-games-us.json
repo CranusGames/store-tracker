@@ -99,24 +99,24 @@
     },
     {
       "rank": 9,
-      "app_id": "com.king.candycrushsodasaga",
-      "app_name": "Candy Crush Soda Saga",
-      "developer": "King",
-      "icon_url": "https://play-lh.googleusercontent.com/kPPbmjP4QOq8D7Pt0xdPG8-NeyD6zcJ0bTeSLI7eqSylss7UNmek_Ik_Q8B5T8hV2jaDda_GpqniWq7jd7ZK7Q",
-      "installs": "500,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 10,
       "app_id": "com.roblox.client",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
       "icon_url": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
       "installs": "1,000,000,000+",
       "rating": 4.2,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "com.king.candycrushsodasaga",
+      "app_name": "Candy Crush Soda Saga",
+      "developer": "King",
+      "icon_url": "https://play-lh.googleusercontent.com/kPPbmjP4QOq8D7Pt0xdPG8-NeyD6zcJ0bTeSLI7eqSylss7UNmek_Ik_Q8B5T8hV2jaDda_GpqniWq7jd7ZK7Q",
+      "installs": "500,000,000+",
+      "rating": 4.6,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
@@ -130,8 +130,8 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "50,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "50,000,000+",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "-5",
-      "change_val": -5
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
