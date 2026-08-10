@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "rankings": [
     {
       "rank": 1,
@@ -87,18 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/68/bc/6b68bca2-0d75-6430-84a2-8921894bba97/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4921851,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -106,11 +94,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2180389,
-      "change": "+3",
-      "change_val": 3
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/68/bc/6b68bca2-0d75-6430-84a2-8921894bba97/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4921851,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
+      "app_id": "407558537",
+      "app_name": "Capital One Mobile",
+      "developer": "Capital One",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/09/2d/29092db8-027f-7d82-1a5b-5b1731556d67/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 10937893,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -122,18 +134,6 @@
       "change_val": -1
     },
     {
-      "rank": 11,
-      "app_id": "407558537",
-      "app_name": "Capital One Mobile",
-      "developer": "Capital One",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/09/2d/29092db8-027f-7d82-1a5b-5b1731556d67/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 10937893,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
       "rank": 12,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
@@ -142,23 +142,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1117476,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/70/42/50704260-89c4-2aa4-7740-4a6a621af5db/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18339395,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 14,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -166,11 +154,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2095017,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/70/42/50704260-89c4-2aa4-7740-4a6a621af5db/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18339395,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
+      "app_id": "338137227",
+      "app_name": "Walmart: Shopping & Savings",
+      "developer": "Walmart",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/df/90/a7df9061-c40a-4047-5468-bfe50584b918/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 18067467,
+      "change": "+5",
+      "change_val": 5
+    },
+    {
+      "rank": 16,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -178,35 +190,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7306401,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/25/7b/29257bef-ef63-11b5-f30c-1ee806165851/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 224350,
-      "change": "+2",
-      "change_val": 2
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
-      "app_id": "422689480",
-      "app_name": "Gmail - Email by Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/78/e1/9c78e1d3-c5a8-41b4-6613-2f93b00bd7ea/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2429342,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "1488269261",
       "app_name": "Whatnot: Shop, Sell, Connect",
       "developer": "Whatnot Inc.",
@@ -218,7 +206,31 @@
       "change_val": 1
     },
     {
+      "rank": 18,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/25/7b/29257bef-ef63-11b5-f30c-1ee806165851/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 224350,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
       "rank": 19,
+      "app_id": "422689480",
+      "app_name": "Gmail - Email by Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/78/e1/9c78e1d3-c5a8-41b4-6613-2f93b00bd7ea/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2429342,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 20,
       "app_id": "389801252",
       "app_name": "Instagram",
       "developer": "Instagram, Inc.",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 29355123,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 20,
-      "app_id": "338137227",
-      "app_name": "Walmart: Shopping & Savings",
-      "developer": "Walmart",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/df/90/a7df9061-c40a-4047-5468-bfe50584b918/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 18067467,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
