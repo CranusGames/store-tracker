@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/8a/15/e88a15a7-2efd-61f8-a1f8-0d1e9061493c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 167404,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
@@ -82,20 +70,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 947235,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "552602056",
+      "app_name": "ClassDojo",
+      "developer": "ClassDojo, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/b8/35/bdb835cb-ea2d-69ab-87ab-b3fcf07e6d90/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3956616,
+      "change": "+6",
+      "change_val": 6
     },
     {
       "rank": 8,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/a5/99/83a599e7-c367-ab65-11fc-721737bfa4fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/8a/15/e88a15a7-2efd-61f8-a1f8-0d1e9061493c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 1116963,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 167404,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 9,
@@ -123,6 +123,18 @@
     },
     {
       "rank": 11,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/a5/99/83a599e7-c367-ab65-11fc-721737bfa4fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1116963,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 12,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -130,11 +142,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2099303,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -142,20 +154,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4927039,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
-      "app_id": "552602056",
-      "app_name": "ClassDojo",
-      "developer": "ClassDojo, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/b8/35/bdb835cb-ea2d-69ab-87ab-b3fcf07e6d90/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3956616,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -171,6 +171,18 @@
     },
     {
       "rank": 15,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/16/2eae1604-40be-df74-8292-82ce00f72d01/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 680399,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 16,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -178,11 +190,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18385478,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "app_id": "1673567402",
       "app_name": "Freecash - Get Paid Real Money",
       "developer": "Freecash - Get Paid Real Money",
@@ -190,20 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 109765,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/1d/db/b61ddb08-bcc0-6878-3136-87433063aced/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 982395,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -219,15 +219,15 @@
     },
     {
       "rank": 19,
-      "app_id": "333903271",
-      "app_name": "X",
-      "developer": "X Corp.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/a4/ff/c8a4ffb6-5efa-2202-61bb-d727ff3497a6/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/1d/db/b61ddb08-bcc0-6878-3136-87433063aced/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 10933290,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 982395,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,

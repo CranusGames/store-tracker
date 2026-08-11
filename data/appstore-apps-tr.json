@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "6445905219",
-      "app_name": "DramaBox - Stream Drama Shorts",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ef/46/15ef46e0-5fe2-f6a1-57a0-610a1883389e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 9341,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "986339882",
       "app_name": "letgo: Buy & Sell Used Stuff",
       "developer": "Letgo Global B.V.",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 844755,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "1511527605",
+      "app_name": "Museums of Türkiye - Official",
+      "developer": "T. C. Kültür ve Turizm Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4b/6f/954b6fe8-41e0-883e-1b68-5bf7e2ad2f4d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 85181,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 14,
@@ -171,30 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "6466298983",
-      "app_name": "Retake AI: Face & Photo Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/0f/6f/0c0f6fe5-88a8-0de9-7bd8-0369492f3634/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 1616,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/4b/6f/954b6fe8-41e0-883e-1b68-5bf7e2ad2f4d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 85181,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -202,8 +178,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3035289,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 16,
+      "app_id": "6466298983",
+      "app_name": "Retake AI: Face & Photo Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/0f/6f/0c0f6fe5-88a8-0de9-7bd8-0369492f3634/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 1616,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 17,
+      "app_id": "6445905219",
+      "app_name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ef/46/15ef46e0-5fe2-f6a1-57a0-610a1883389e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 9341,
+      "change": "-5",
+      "change_val": -5
     },
     {
       "rank": 18,
@@ -219,18 +219,6 @@
     },
     {
       "rank": 19,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/cf/7d/bccf7dcd-bbe2-8cf5-790f-1a67daeeef10/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 315357,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2141592,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/cf/7d/bccf7dcd-bbe2-8cf5-790f-1a67daeeef10/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 315357,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
