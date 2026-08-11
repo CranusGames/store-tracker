@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "6483539426",
-      "app_name": "Fortnite",
-      "developer": "Epic Games Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/5c/dd655c6b-533c-fd36-bd77-9900cb7aa3f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 266973,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "6748397500",
       "app_name": "Arrows – Puzzle Escape",
       "developer": "Lessmore GmbH",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 375448,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6483539426",
+      "app_name": "Fortnite",
+      "developer": "Epic Games Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/5c/dd655c6b-533c-fd36-bd77-9900cb7aa3f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 266973,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -207,18 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "1608987929",
-      "app_name": "Triumph Arcade",
-      "developer": "Triumph Arcade",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/0e/47/6d0e4750-c5f8-23d8-94e9-627ef6aec86a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 943595,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "1623318294",
       "app_name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -226,8 +214,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 195387,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "1608987929",
+      "app_name": "Triumph Arcade",
+      "developer": "Triumph Arcade",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/0e/47/6d0e4750-c5f8-23d8-94e9-627ef6aec86a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 943595,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
