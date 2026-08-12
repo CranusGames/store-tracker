@@ -63,30 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "1531842415",
-      "app_name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/6c/6c/0c6c6cff-3634-af46-1b12-fc3681f5a7c4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 15965,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/56/35/d85635ee-6852-7cfa-8c09-3e0401a4a9ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 334188,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -94,23 +70,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2183,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 9,
-      "app_id": "6752672568",
-      "app_name": "Block Out! - Color Sort Puzzle",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/2a/f0/f82af074-04fc-bfea-d71c-d49c37d38501/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 7,
+      "app_id": "1531842415",
+      "app_name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/6c/6c/0c6c6cff-3634-af46-1b12-fc3681f5a7c4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 7170,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.3,
+      "rating_count": 15965,
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 10,
+      "rank": 8,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -118,8 +94,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3437,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 9,
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/56/35/d85635ee-6852-7cfa-8c09-3e0401a4a9ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 334188,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 10,
+      "app_id": "6752672568",
+      "app_name": "Block Out! - Color Sort Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/2a/f0/f82af074-04fc-bfea-d71c-d49c37d38501/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 7170,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -159,6 +159,18 @@
     },
     {
       "rank": 14,
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/4e/1c/004e1c54-f26a-10ac-800b-4bd3c04a4d53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 45765,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 15,
       "app_id": "6742809194",
       "app_name": "Warline: Sniper Strike",
       "developer": "Powerfantasy",
@@ -166,20 +178,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 609,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "1117270703",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/0c/8f/f70c8f63-9613-a144-8f0c-57039d41fc9a/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 258958,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -195,42 +195,30 @@
     },
     {
       "rank": 17,
-      "app_id": "6443575749",
-      "app_name": "Whiteout Survival",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/4e/1c/004e1c54-f26a-10ac-800b-4bd3c04a4d53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1117270703",
+      "app_name": "eFootball™",
+      "developer": "KONAMI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/0c/8f/f70c8f63-9613-a144-8f0c-57039d41fc9a/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 45765,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.3,
+      "rating_count": 258958,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
-      "app_id": "6739124364",
-      "app_name": "Top Tycoon: Coin Theme Empire",
-      "developer": "BeheFun Games Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a3/51/f3a351bc-9dad-2bad-c5b8-11727f44d9e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 12478,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "6752886832",
       "app_name": "Hotel Legacy: Merge Game",
       "developer": "Century Games Innovation Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/88/ee/6f88eef0-fc54-dcc3-c4c7-d8d06f09b4e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/0f/ed/a30fedb3-d8be-31a6-f645-ad279b904ca4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.9,
       "rating_count": 1092,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 27816,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "6739124364",
+      "app_name": "Top Tycoon: Coin Theme Empire",
+      "developer": "BeheFun Games Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/a3/51/f3a351bc-9dad-2bad-c5b8-11727f44d9e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 12478,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }

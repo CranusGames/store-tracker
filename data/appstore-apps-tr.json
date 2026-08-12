@@ -183,42 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "524362642",
-      "app_name": "Trendyol: Online Shopping",
-      "developer": "trendyol.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/8d/54/cb8d544c-9199-8c93-422c-25127b3f2119/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4574914,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/cf/7d/bccf7dcd-bbe2-8cf5-790f-1a67daeeef10/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 315738,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/ff/0c/19ff0c05-e717-f11f-b444-88affd31e3f4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2142189,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "986339882",
       "app_name": "letgo: Buy & Sell Used Stuff",
       "developer": "Letgo Global B.V.",
@@ -226,20 +190,56 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 844752,
-      "change": "=",
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 17,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/d5/1d/78d51d98-5e71-11f3-97fc-d913dae4a6cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 21725,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 18,
+      "app_id": "524362642",
+      "app_name": "Trendyol: Online Shopping",
+      "developer": "trendyol.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/8d/54/cb8d544c-9199-8c93-422c-25127b3f2119/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4574914,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 19,
+      "app_id": "6445905219",
+      "app_name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ef/46/15ef46e0-5fe2-f6a1-57a0-610a1883389e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 9387,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "422689480",
-      "app_name": "Gmail - Email by Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/17/f4/3017f45e-1477-c6d4-0381-b6e3c756a97e/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/cf/7d/bccf7dcd-bbe2-8cf5-790f-1a67daeeef10/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 85532,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 315738,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }
