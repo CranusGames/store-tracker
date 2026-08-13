@@ -159,30 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "1617391485",
-      "app_name": "Block Blast！",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/72/d5/5b72d564-c366-7429-ed6c-c24ea7907407/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 2657853,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/bd/6c/a4bd6ccf-84fd-d721-199c-604cba61e1ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 195770,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "6739554056",
       "app_name": "Kingshot",
       "developer": "Century Games Pte. Ltd.",
@@ -190,8 +166,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 214907,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 15,
+      "app_id": "1617391485",
+      "app_name": "Block Blast！",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/72/d5/5b72d564-c366-7429-ed6c-c24ea7907407/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 2657853,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 16,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/bd/6c/a4bd6ccf-84fd-d721-199c-604cba61e1ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 195770,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
@@ -207,18 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "6483539426",
-      "app_name": "Fortnite",
-      "developer": "Epic Games Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/5c/dd655c6b-533c-fd36-bd77-9900cb7aa3f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 270877,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -226,19 +214,31 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 212849,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "6483539426",
+      "app_name": "Fortnite",
+      "developer": "Epic Games Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/65/5c/dd655c6b-533c-fd36-bd77-9900cb7aa3f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 270877,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
-      "app_id": "6751056652",
-      "app_name": "Pixel Flow!",
-      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/42/f1/1d42f104-d58e-afd1-3111-20c8f70e8f10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1608987929",
+      "app_name": "Triumph Arcade",
+      "developer": "Triumph Arcade",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/0e/47/6d0e4750-c5f8-23d8-94e9-627ef6aec86a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 137103,
-      "change": "=",
+      "rating": 4.7,
+      "rating_count": 944592,
+      "change": "new",
       "change_val": 0
     }
   ]
