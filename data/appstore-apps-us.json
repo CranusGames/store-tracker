@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ac/09/e1ac0986-6bd2-2424-7a19-ab8610211a5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 5,
-      "rating_count": 6,
+      "rating_count": 34,
       "change": "=",
       "change_val": 0
     },
@@ -21,7 +21,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/63/ea/ac63ea07-1092-5dee-449a-73b8efd7b767/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 31755,
+      "rating_count": 31797,
       "change": "=",
       "change_val": 0
     },
@@ -33,7 +33,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/5b/dc/af5bdcf7-7eb9-b981-88b3-1014de5b987a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 9309799,
+      "rating_count": 9311746,
       "change": "=",
       "change_val": 0
     },
@@ -45,7 +45,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/6b/32/5c6b32ad-ddef-cc0b-20ad-d84e58ee46e6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 75152,
+      "rating_count": 75154,
       "change": "=",
       "change_val": 0
     },
@@ -57,45 +57,45 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/f6/08/88f608ab-2bdc-9a49-5fe2-6c07d40d66c0/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 167941,
+      "rating_count": 168013,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 6,
-      "app_id": "407558537",
-      "app_name": "Capital One Mobile",
-      "developer": "Capital One",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/ba/5b/2dba5b8c-70c3-27de-b453-48091e176b62/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 10950388,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
-      "app_id": "552602056",
-      "app_name": "ClassDojo",
-      "developer": "ClassDojo, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/de/ee/0cdeeeb4-9f5f-373f-3e12-c8c02f884134/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3964645,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/62/fb/a562fbb2-737f-7a1f-7089-ca03bae9157b/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 2159204,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 2159391,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 7,
+      "app_id": "407558537",
+      "app_name": "Capital One Mobile",
+      "developer": "Capital One",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/ba/5b/2dba5b8c-70c3-27de-b453-48091e176b62/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 10950581,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 8,
+      "app_id": "552602056",
+      "app_name": "ClassDojo",
+      "developer": "ClassDojo, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/de/ee/0cdeeeb4-9f5f-373f-3e12-c8c02f884134/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3964719,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -105,7 +105,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/c7/7f/b2c77f2e-bd1b-1b61-b36e-ba770abda59c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 950059,
+      "rating_count": 950208,
       "change": "=",
       "change_val": 0
     },
@@ -117,7 +117,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/27/1d/57271d1b-3c1a-dd5b-d250-f984c690c10c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 169403,
+      "rating_count": 169460,
       "change": "=",
       "change_val": 0
     },
@@ -129,21 +129,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/ec/b7/02ecb761-d14f-159d-10c2-258b2a2dcc5f/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2183128,
+      "rating_count": 2183173,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/59/d6/8559d6f6-f078-b914-a9e3-3d55a1971e63/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/e8/fb/62e8fb85-5996-d428-eea9-dc62d87ee81f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 227142,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 2107714,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 13,
@@ -153,21 +153,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/a9/df/3ea9dfb0-2f74-1b4c-cae0-28324535599c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1117218,
+      "rating_count": 1117242,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/e8/fb/62e8fb85-5996-d428-eea9-dc62d87ee81f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/59/d6/8559d6f6-f078-b914-a9e3-3d55a1971e63/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2107287,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 227205,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 15,
@@ -177,7 +177,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/37/44/783744ad-f353-7ce1-838c-a63579797e95/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 4935056,
+      "rating_count": 4935394,
       "change": "=",
       "change_val": 0
     },
@@ -189,56 +189,56 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ba/b8/5abab8cf-4fa9-2594-b244-99e9857a880a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 13628,
+      "rating_count": 13637,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/16/2eae1604-40be-df74-8292-82ce00f72d01/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 681557,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/fe/6a/edfe6abf-c14b-cc39-73e2-4f60fdc49dc6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 18396440,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 18396932,
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/17/f4/3017f45e-1477-c6d4-0381-b6e3c756a97e/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2429176,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 2429181,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/16/2eae1604-40be-df74-8292-82ce00f72d01/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 681574,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,
-      "app_id": "1673567402",
-      "app_name": "Freecash - Get Paid Real Money",
-      "developer": "Freecash - Get Paid Real Money",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/0a/2e/f10a2ec0-3216-91b3-3cce-8bba3d758927/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "333903271",
+      "app_name": "X",
+      "developer": "X Corp.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/a4/ff/c8a4ffb6-5efa-2202-61bb-d727ff3497a6/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 111157,
-      "change": "=",
+      "rating": 4.6,
+      "rating_count": 10938209,
+      "change": "new",
       "change_val": 0
     }
   ]
