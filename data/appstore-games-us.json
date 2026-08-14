@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6757908157",
-      "app_name": "JoJo's Bizarre Adventure: GS",
-      "developer": "HOOLAI GAME LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/2d/41/862d411e-3a6b-80f4-144f-825083bd02ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 0,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6752672568",
       "app_name": "Block Out! - Color Sort Puzzle",
       "developer": "Grand Games A.Ş.",
@@ -22,8 +10,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 176228,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6757908157",
+      "app_name": "JoJo's Bizarre Adventure: GS",
+      "developer": "HOOLAI GAME LIMITED",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/2d/41/862d411e-3a6b-80f4-144f-825083bd02ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 0,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "431946152",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/f0/91/1ff091f5-ac61-a3b6-7735-dd6f82c86cf5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 19751960,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 589108,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 39991,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 7,
@@ -87,15 +87,15 @@
     },
     {
       "rank": 8,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "app_id": "431946152",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/f0/91/1ff091f5-ac61-a3b6-7735-dd6f82c86cf5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 39991,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.5,
+      "rating_count": 19751960,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 9,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 215179,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 449705,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 215179,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -171,30 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "1608987929",
-      "app_name": "Triumph Arcade",
-      "developer": "Triumph Arcade",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/0e/47/6d0e4750-c5f8-23d8-94e9-627ef6aec86a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 945005,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/bd/6c/a4bd6ccf-84fd-d721-199c-604cba61e1ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 195960,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "6483539426",
       "app_name": "Fortnite",
       "developer": "Epic Games Inc.",
@@ -202,11 +178,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 272316,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "app_id": "1608987929",
+      "app_name": "Triumph Arcade",
+      "developer": "Triumph Arcade",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/0e/47/6d0e4750-c5f8-23d8-94e9-627ef6aec86a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 945005,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 17,
       "app_id": "6759081967",
       "app_name": "Jewel Coloring",
       "developer": "Ta Ta Game Technology Limited",
@@ -214,11 +202,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 34752,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -226,19 +214,31 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 213056,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/bd/6c/a4bd6ccf-84fd-d721-199c-604cba61e1ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 195960,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 20,
-      "app_id": "6748397500",
-      "app_name": "Arrows – Puzzle Escape",
-      "developer": "Lessmore GmbH",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/79/f8/5b79f8dc-3523-faa9-8633-8db53f60cb27/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6751056652",
+      "app_name": "Pixel Flow!",
+      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/42/f1/1d42f104-d58e-afd1-3111-20c8f70e8f10/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 380333,
-      "change": "=",
+      "rating": 4.6,
+      "rating_count": 137592,
+      "change": "new",
       "change_val": 0
     }
   ]
