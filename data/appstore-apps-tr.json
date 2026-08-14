@@ -27,30 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/5b/dc/af5bdcf7-7eb9-b981-88b3-1014de5b987a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 957988,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/af/44/16af4490-5928-e166-a715-c93fb1d71685/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 367352,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "603336861",
       "app_name": "beIN CONNECT",
       "developer": "DIGITURK",
@@ -58,8 +34,32 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 16603,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 4,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/5b/dc/af5bdcf7-7eb9-b981-88b3-1014de5b987a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 957988,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 5,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/af/44/16af4490-5928-e166-a715-c93fb1d71685/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 367352,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 172782,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6670430706",
       "app_name": "DramaWave - Dramas & Reels",
       "developer": "SKYWORK AI PTE LTD",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 21982,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 172782,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -111,6 +111,18 @@
     },
     {
       "rank": 10,
+      "app_id": "1615398541",
+      "app_name": "TOD Türkiye",
+      "developer": "DIGITURK",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/33/45/3333455d-2aa2-150d-520e-95db4f0ab682/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 28998,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 11,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -118,11 +130,11 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9411,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -130,20 +142,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1895747,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548075,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -159,6 +159,18 @@
     },
     {
       "rank": 14,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/9b/43/929b4349-296b-aa10-77ca-31a10d950110/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 548075,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 15,
       "app_id": "1511527605",
       "app_name": "Museums of Türkiye - Official",
       "developer": "T. C. Kültür ve Turizm Bakanlığı",
@@ -166,20 +178,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 85186,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "1149994032",
-      "app_name": "Facetune: Video & Photo Editor",
-      "developer": "Lightricks Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/2e/c1/f42ec1a2-477d-1ce3-8054-a0dff08cc689/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 23874,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -195,6 +195,18 @@
     },
     {
       "rank": 17,
+      "app_id": "1149994032",
+      "app_name": "Facetune: Video & Photo Editor",
+      "developer": "Lightricks Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/2e/c1/f42ec1a2-477d-1ce3-8054-a0dff08cc689/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 23874,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 18,
       "app_id": "284815942",
       "app_name": "Google - More ways to search",
       "developer": "Google",
@@ -202,11 +214,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 343092,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
       "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
@@ -214,20 +226,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 318224,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/ff/0c/19ff0c05-e717-f11f-b444-88affd31e3f4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2145683,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
