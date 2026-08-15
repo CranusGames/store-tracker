@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "com.codeway.aitutor",
-      "app_name": "Learn English, Spanish: Learna",
-      "developer": "Deep Flow Apps",
-      "icon_url": "https://play-lh.googleusercontent.com/leqcHo5HObqgD_Oq9To0q3ibkKcWTfAqft8DisnzeJIUTdX1O5dEs2utYXB-lqLuTJwS50VnlsJiZxp2TEMeAQ",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "com.ciceksepeti.ciceksepeti",
       "app_name": "Çiçeksepeti - Çiçek & Hediye",
       "developer": "Çiçeksepeti",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "com.codeway.aitutor",
+      "app_name": "Learn English, Spanish: Learna",
+      "developer": "Deep Flow Apps",
+      "icon_url": "https://play-lh.googleusercontent.com/leqcHo5HObqgD_Oq9To0q3ibkKcWTfAqft8DisnzeJIUTdX1O5dEs2utYXB-lqLuTJwS50VnlsJiZxp2TEMeAQ",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
