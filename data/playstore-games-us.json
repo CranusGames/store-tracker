@@ -70,8 +70,8 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -159,24 +159,24 @@
     },
     {
       "rank": 14,
-      "app_id": "com.bigduckgames.flow",
-      "app_name": "Flow Free",
-      "developer": "Big Duck Games LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/EfhYQZbslbUgQzI4rz0kNtqTPXhom-yYdkaO1Pv7OuUqJaNq4lvIIdAL7dubS_rJ03aG6ZCJqkSeLDf6bbah37A",
-      "installs": "100,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 15,
       "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
       "app_name": "Kids Games: For Toddlers 3-5",
       "developer": "RV AppStudios",
       "icon_url": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
       "installs": "50,000,000+",
       "rating": 4.3,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "com.bigduckgames.flow",
+      "app_name": "Flow Free",
+      "developer": "Big Duck Games LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/EfhYQZbslbUgQzI4rz0kNtqTPXhom-yYdkaO1Pv7OuUqJaNq4lvIIdAL7dubS_rJ03aG6ZCJqkSeLDf6bbah37A",
+      "installs": "100,000,000+",
+      "rating": 4.7,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
