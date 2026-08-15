@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6499209744",
-      "app_name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/d9/e3/15d9e360-fa4c-9cb0-5c60-d0c555951697/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 591255,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -58,8 +46,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19769396,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/d9/e3/15d9e360-fa4c-9cb0-5c60-d0c555951697/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 591255,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "6757908157",
-      "app_name": "JoJo's Bizarre Adventure: GS",
-      "developer": "HOOLAI GAME LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/2d/41/862d411e-3a6b-80f4-144f-825083bd02ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 728,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
@@ -118,23 +106,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2660743,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 11,
-      "app_id": "6443575749",
-      "app_name": "Whiteout Survival",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/4e/1c/004e1c54-f26a-10ac-800b-4bd3c04a4d53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 450229,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "app_id": "6483539426",
       "app_name": "Fortnite",
       "developer": "Epic Games Inc.",
@@ -142,8 +118,32 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 274442,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 11,
+      "app_id": "6757908157",
+      "app_name": "JoJo's Bizarre Adventure: GS",
+      "developer": "HOOLAI GAME LIMITED",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/2d/41/862d411e-3a6b-80f4-144f-825083bd02ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 728,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 12,
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/4e/1c/004e1c54-f26a-10ac-800b-4bd3c04a4d53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 450229,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -207,30 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "6471045672",
-      "app_name": "Tasty Travels: Merge Game",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/23/4f/d7234f4d-5ec1-9e4d-2cdc-33915438ccba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 43472,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 215673,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "512939461",
       "app_name": "Subway Surfers",
       "developer": "Sybo Games ApS",
@@ -238,8 +214,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3803342,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "6471045672",
+      "app_name": "Tasty Travels: Merge Game",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/23/4f/d7234f4d-5ec1-9e4d-2cdc-33915438ccba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 43472,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 20,
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/70/e5/5470e57a-21ef-2bce-6ef2-87fb86a8bc36/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 215673,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
