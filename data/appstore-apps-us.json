@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/63/ea/ac63ea07-1092-5dee-449a-73b8efd7b767/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 33301,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
@@ -34,8 +22,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 9369112,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/63/ea/ac63ea07-1092-5dee-449a-73b8efd7b767/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 33301,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/37/44/783744ad-f353-7ce1-838c-a63579797e95/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4944790,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2116276,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/37/44/783744ad-f353-7ce1-838c-a63579797e95/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4944790,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -159,14 +159,14 @@
     },
     {
       "rank": 14,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/fe/6a/edfe6abf-c14b-cc39-73e2-4f60fdc49dc6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/e8/c2/31e8c2bf-7545-4dec-010e-85265bfedf2c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 18410400,
-      "change": "=",
+      "rating": 4.9,
+      "rating_count": 147439,
+      "change": "new",
       "change_val": 0
     },
     {
@@ -183,18 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "333903271",
-      "app_name": "X",
-      "developer": "X Corp.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/7f/b1/aa7fb1d7-f047-2c30-c378-7256948c0f3f/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 10944005,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -202,23 +190,47 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7311506,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/fe/6a/edfe6abf-c14b-cc39-73e2-4f60fdc49dc6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18410400,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 18,
-      "app_id": "422689480",
-      "app_name": "Gmail - Email by Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/17/f4/3017f45e-1477-c6d4-0381-b6e3c756a97e/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "333903271",
+      "app_name": "X",
+      "developer": "X Corp.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/7f/b1/aa7fb1d7-f047-2c30-c378-7256948c0f3f/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2429910,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 10944005,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 19,
+      "app_id": "6761538521",
+      "app_name": "StoryReel: Exclusive Drama",
+      "developer": "Equinox Enterprises‌ Technology Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/15/30/e31530e7-3831-faa7-f83f-0e4492d92638/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 23374,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "1488269261",
       "app_name": "Whatnot: Shop, Sell, Connect",
       "developer": "Whatnot Inc.",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 991738,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "368677368",
-      "app_name": "Uber - Request a ride",
-      "developer": "Uber Technologies, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/6a/8b/806a8b44-511d-77dc-856d-f8b3a9642483/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 16607053,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
