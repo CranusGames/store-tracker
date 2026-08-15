@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 9369112,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 33301,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2116276,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4944790,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -166,7 +166,7 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 147439,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7311506,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18410400,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 10944005,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,7 +226,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 23374,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 991738,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
