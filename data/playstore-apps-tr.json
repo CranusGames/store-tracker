@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "com.ciceksepeti.ciceksepeti",
-      "app_name": "Çiçeksepeti - Çiçek & Hediye",
-      "developer": "Çiçeksepeti",
-      "icon_url": "https://play-lh.googleusercontent.com/HEXrITA9R6I-90l1Cs8aK66GXIm2aYyLVM8V40VtcOw6yneshpifPIr4VYVwNsIl6A3tx2rnSLD4WJHA2awQ",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "com.codeway.aitutor",
       "app_name": "Learn English, Spanish: Learna",
       "developer": "Deep Flow Apps",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "com.ciceksepeti.ciceksepeti",
+      "app_name": "Çiçeksepeti - Çiçek & Hediye",
+      "developer": "Çiçeksepeti",
+      "icon_url": "https://play-lh.googleusercontent.com/HEXrITA9R6I-90l1Cs8aK66GXIm2aYyLVM8V40VtcOw6yneshpifPIr4VYVwNsIl6A3tx2rnSLD4WJHA2awQ",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "tr.com.abat.sosyopix",
-      "app_name": "Sosyopix - Personalized Gift",
-      "developer": "Abat Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/A_lXwrVnohlvT72UlQF0neFIhdHZddBDBU0xSYJgYK62gcMs2YvAnCqR8q4JzTQFm2q6huAIUgjVmsSpCWfETQ",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "com.scaleup.chatai",
       "app_name": "AI Chatbot - Nova",
       "developer": "ScaleUp",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 3.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "tr.com.abat.sosyopix",
+      "app_name": "Sosyopix - Personalized Gift",
+      "developer": "Abat Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/A_lXwrVnohlvT72UlQF0neFIhdHZddBDBU0xSYJgYK62gcMs2YvAnCqR8q4JzTQFm2q6huAIUgjVmsSpCWfETQ",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "com.scaleup.plantid",
-      "app_name": "Plant App - Plant Identifier",
-      "developer": "ScaleUp",
-      "icon_url": "https://play-lh.googleusercontent.com/PSE5PUX1jFCZcp5L6ii-0Iro8wJ-WCawv2rLSsbfj8tDVVTlNQnWBYHj4MFNBjwT3BVbXDCJP3Elcb8xM962",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "pilatesworkouts.loseweight.dailyyoga",
       "app_name": "PILATES Workouts at Home",
       "developer": "Nexoft - Fitness Apps",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "com.scaleup.plantid",
+      "app_name": "Plant App - Plant Identifier",
+      "developer": "ScaleUp",
+      "icon_url": "https://play-lh.googleusercontent.com/PSE5PUX1jFCZcp5L6ii-0Iro8wJ-WCawv2rLSsbfj8tDVVTlNQnWBYHj4MFNBjwT3BVbXDCJP3Elcb8xM962",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
