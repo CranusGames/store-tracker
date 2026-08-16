@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "com.bigduckgames.flow",
-      "app_name": "Flow Free",
-      "developer": "Big Duck Games LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/EfhYQZbslbUgQzI4rz0kNtqTPXhom-yYdkaO1Pv7OuUqJaNq4lvIIdAL7dubS_rJ03aG6ZCJqkSeLDf6bbah37A",
-      "installs": "100,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 16,
       "app_id": "com.tencent.ig",
       "app_name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -190,23 +178,23 @@
       "installs": "1,000,000,000+",
       "rating": 4.3,
       "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "com.bigduckgames.flow",
+      "app_name": "Flow Free",
+      "developer": "Big Duck Games LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/EfhYQZbslbUgQzI4rz0kNtqTPXhom-yYdkaO1Pv7OuUqJaNq4lvIIdAL7dubS_rJ03aG6ZCJqkSeLDf6bbah37A",
+      "installs": "100,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 17,
-      "app_id": "com.dreamgames.royalmatch",
-      "app_name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
       "app_id": "com.topfreegames.bikeracefreeworld",
       "app_name": "Bike Race：Motorcycle Games",
       "developer": "Wildlife Studios",
@@ -214,11 +202,35 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "com.dreamgames.royalmatch",
+      "app_name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 19,
+      "app_id": "com.JindoBlu.OfflineGames",
+      "app_name": "Offline Games - No Wifi Games",
+      "developer": "JindoBlu",
+      "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "com.kiloo.subwaysurf",
       "app_name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -226,20 +238,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 20,
-      "app_id": "com.playrix.township",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-      "installs": "500,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
