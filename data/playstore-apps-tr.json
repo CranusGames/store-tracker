@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "com.scaleup.chatai",
-      "app_name": "AI Chatbot - Nova",
-      "developer": "ScaleUp",
-      "icon_url": "https://play-lh.googleusercontent.com/NOnNjxyGYX25Nopwpy-7xw624waRMSv5JyKI_VLj69M_Exa6GhxBZEhSVyNI3nbFCw7ebOWeJk_vMHYbbna7QQ",
-      "installs": "",
-      "rating": 3.7,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "app.meditasyon",
       "app_name": "Meditopia: Sleep & Meditation",
       "developer": "Meditopia",
@@ -130,8 +118,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "com.scaleup.chatai",
+      "app_name": "AI Chatbot - Nova",
+      "developer": "ScaleUp",
+      "icon_url": "https://play-lh.googleusercontent.com/NOnNjxyGYX25Nopwpy-7xw624waRMSv5JyKI_VLj69M_Exa6GhxBZEhSVyNI3nbFCw7ebOWeJk_vMHYbbna7QQ",
+      "installs": "",
+      "rating": 3.7,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
