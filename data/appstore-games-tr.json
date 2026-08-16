@@ -87,18 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/86/27/f88627bd-5b52-e648-f644-0fa0a5360042/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 3607,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 2272,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/86/27/f88627bd-5b52-e648-f644-0fa0a5360042/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 3607,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,

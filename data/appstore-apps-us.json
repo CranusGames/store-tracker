@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/27/1d/57271d1b-3c1a-dd5b-d250-f984c690c10c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 172983,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
@@ -34,35 +22,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 9397245,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/27/1d/57271d1b-3c1a-dd5b-d250-f984c690c10c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 172983,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/63/ea/ac63ea07-1092-5dee-449a-73b8efd7b767/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 34124,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
-      "app_id": "530168168",
-      "app_name": "Paramount+",
-      "developer": "CBS Interactive",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/7b/2f/247b2fb2-6eca-3339-a7a3-4d79f9ff0477/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 904887,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "6475737561",
       "app_name": "iNaturalist",
       "developer": "iNaturalist",
@@ -70,11 +46,23 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 609,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/63/ea/ac63ea07-1092-5dee-449a-73b8efd7b767/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 34124,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 6,
       "app_id": "632064380",
       "app_name": "Vinted: Pre-loved marketplace",
       "developer": "Vinted Limited",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 175797,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "530168168",
+      "app_name": "Paramount+",
+      "developer": "CBS Interactive",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/7b/2f/247b2fb2-6eca-3339-a7a3-4d79f9ff0477/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 904887,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 8,
@@ -183,6 +183,18 @@
     },
     {
       "rank": 16,
+      "app_id": "6761538521",
+      "app_name": "StoryReel: Exclusive Drama",
+      "developer": "Equinox Enterprises‌ Technology Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/15/30/e31530e7-3831-faa7-f83f-0e4492d92638/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 23849,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
       "app_id": "1673567402",
       "app_name": "Freecash - Get Paid Real Money",
       "developer": "Freecash - Get Paid Real Money",
@@ -190,20 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 113863,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "368677368",
-      "app_name": "Uber - Request a ride",
-      "developer": "Uber Technologies, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/6a/8b/806a8b44-511d-77dc-856d-f8b3a9642483/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 16617109,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
