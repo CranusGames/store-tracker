@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "com.topfreegames.bikeracefreeworld",
-      "app_name": "Bike Race：Motorcycle Games",
-      "developer": "Wildlife Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
-      "installs": "100,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
       "app_name": "Kids Games: For Toddlers 3-5",
       "developer": "RV AppStudios",
@@ -190,23 +178,23 @@
       "installs": "50,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "com.topfreegames.bikeracefreeworld",
+      "app_name": "Bike Race：Motorcycle Games",
+      "developer": "Wildlife Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
+      "installs": "100,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
-      "app_id": "com.tencent.ig",
-      "app_name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "icon_url": "https://play-lh.googleusercontent.com/O8jPCZ2EXAt7wGlbZhkhA-3vPIWVBpz8tZrRnsr7uVeqp0UD1AQwIEl_N9So80kdp8gDvIksC64GypylkQV_",
-      "installs": "1,000,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "com.bigduckgames.flow",
       "app_name": "Flow Free",
       "developer": "Big Duck Games LLC",
@@ -214,8 +202,20 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "com.tencent.ig",
+      "app_name": "PUBG MOBILE",
+      "developer": "Level Infinite",
+      "icon_url": "https://play-lh.googleusercontent.com/O8jPCZ2EXAt7wGlbZhkhA-3vPIWVBpz8tZrRnsr7uVeqp0UD1AQwIEl_N9So80kdp8gDvIksC64GypylkQV_",
+      "installs": "1,000,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
