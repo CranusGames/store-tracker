@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 42066,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19817590,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 42066,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "6760325543",
-      "app_name": "CubeAway - 3DPuzzle",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/c3/64/bcc364aa-74dd-504a-be7a-1a3dc0d90471/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 64360,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "1608987929",
       "app_name": "Triumph Arcade",
       "developer": "Triumph Arcade",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 947342,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6760325543",
+      "app_name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/c3/64/bcc364aa-74dd-504a-be7a-1a3dc0d90471/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 64360,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -195,15 +195,15 @@
     },
     {
       "rank": 17,
-      "app_id": "6751056652",
-      "app_name": "Pixel Flow!",
-      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/c4/b7/9ec4b794-e065-920d-8b65-fb730b1ab172/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/28/96/f02896d0-4012-4c0e-5993-ab5ac6dfc556/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 140417,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 3806518,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 18,
@@ -219,26 +219,26 @@
     },
     {
       "rank": 19,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/28/96/f02896d0-4012-4c0e-5993-ab5ac6dfc556/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6751056652",
+      "app_name": "Pixel Flow!",
+      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/c4/b7/9ec4b794-e065-920d-8b65-fb730b1ab172/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 3806518,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 140417,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/86/27/f88627bd-5b52-e648-f644-0fa0a5360042/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6748397500",
+      "app_name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore GmbH",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/79/f8/5b79f8dc-3523-faa9-8633-8db53f60cb27/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 214416,
-      "change": "=",
+      "rating": 4.9,
+      "rating_count": 387388,
+      "change": "new",
       "change_val": 0
     }
   ]
