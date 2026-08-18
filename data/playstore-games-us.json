@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "com.JindoBlu.OfflineGames",
-      "app_name": "Offline Games - No Wifi Games",
-      "developer": "JindoBlu",
-      "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "com.bigduckgames.flow",
       "app_name": "Flow Free",
       "developer": "Big Duck Games LLC",
@@ -190,8 +178,20 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "com.JindoBlu.OfflineGames",
+      "app_name": "Offline Games - No Wifi Games",
+      "developer": "JindoBlu",
+      "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
