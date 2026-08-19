@@ -202,17 +202,17 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
-      "app_id": "solitaire.patience.card.games.klondike.free",
-      "app_name": "Solitaire - Classic Card Games",
-      "developer": "Guru Puzzle Game",
-      "icon_url": "https://play-lh.googleusercontent.com/nVTU-EbcHkMg-KXt93shtsgX506v_zDBLG04H2pnp4Lom2J_mSp5gHO5YtZhCSpDpLJUgBYneCd5h6oDduKJ6Q",
-      "installs": "50,000,000+",
-      "rating": 4.9,
+      "app_id": "com.dreamgames.royalmatch",
+      "app_name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+      "installs": "100,000,000+",
+      "rating": 4.6,
       "rating_count": 0,
       "change": "+2",
       "change_val": 2
@@ -226,20 +226,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "com.dreamgames.royalmatch",
-      "app_name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-      "installs": "100,000,000+",
-      "rating": 4.6,
+      "app_id": "solitaire.patience.card.games.klondike.free",
+      "app_name": "Solitaire - Classic Card Games",
+      "developer": "Guru Puzzle Game",
+      "icon_url": "https://play-lh.googleusercontent.com/nVTU-EbcHkMg-KXt93shtsgX506v_zDBLG04H2pnp4Lom2J_mSp5gHO5YtZhCSpDpLJUgBYneCd5h6oDduKJ6Q",
+      "installs": "50,000,000+",
+      "rating": 4.9,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
