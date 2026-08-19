@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 75246,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 24976,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -150,12 +150,12 @@
       "app_id": "6758667154",
       "app_name": "VibeShort: AI Short Dramas",
       "developer": "AGILE QUADRANT MEDIA LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/a7/bd/93a7bd6f-7e51-a57c-952c-9c7572d1ee17/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/37/e2/8637e2d6-a73d-e2f5-d031-14680e6e0294/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
       "rating_count": 28153,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3370087,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -190,7 +190,7 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3980884,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2188211,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 10973483,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1117842,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 9162992,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
