@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6762023973",
-      "app_name": "7 Brew Coffee",
-      "developer": "Brew Culture, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ac/09/e1ac0986-6bd2-2424-7a19-ab8610211a5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 590,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "632064380",
       "app_name": "Vinted: Pre-loved marketplace",
       "developer": "Vinted Limited",
@@ -46,8 +34,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 184899,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "6762023973",
+      "app_name": "7 Brew Coffee",
+      "developer": "Brew Culture, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ac/09/e1ac0986-6bd2-2424-7a19-ab8610211a5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 590,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/fe/e0/f0fee095-0b5f-e8a7-0631-118cd915f9e5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2130047,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "6758667154",
       "app_name": "VibeShort: AI Short Dramas",
       "developer": "AGILE QUADRANT MEDIA LIMITED",
@@ -82,23 +70,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 28693,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/fe/e0/f0fee095-0b5f-e8a7-0631-118cd915f9e5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2130047,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
-      "app_id": "333903271",
-      "app_name": "X",
-      "developer": "X Corp.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/be/94/70be94c8-164a-a404-db3e-0e39830b97e8/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 10955447,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -106,20 +94,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2175057,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "333903271",
+      "app_name": "X",
+      "developer": "X Corp.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/be/94/70be94c8-164a-a404-db3e-0e39830b97e8/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 10955447,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/16/2eae1604-40be-df74-8292-82ce00f72d01/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/79/5c/73795c1d-3f1e-dfa9-a2b6-255ea9a63ae9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 684708,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 179548,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 11,
@@ -135,15 +135,15 @@
     },
     {
       "rank": 12,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/79/5c/73795c1d-3f1e-dfa9-a2b6-255ea9a63ae9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/8a/55/788a554c-3dc2-4838-6bed-b84566573c61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 179548,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 961415,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 13,
@@ -159,78 +159,30 @@
     },
     {
       "rank": 14,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/8a/55/788a554c-3dc2-4838-6bed-b84566573c61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/16/2eae1604-40be-df74-8292-82ce00f72d01/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 961415,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 684708,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 15,
-      "app_id": "552602056",
-      "app_name": "ClassDojo",
-      "developer": "ClassDojo, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/b6/90/c0b690b1-9eee-d848-ef56-ad9b2ebf5698/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/f4/17/48f41760-8597-5738-e2bf-03b0d6ed21fe/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 3985137,
-      "change": "=",
+      "rating": 4.7,
+      "rating_count": 2189544,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "392796698",
-      "app_name": "GroupMe",
-      "developer": "Skype Communications S.a.r.l",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/25/21/6a25216c-0f1c-d0c7-0ebd-ac6d7f3fa053/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1559075,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "1113153706",
-      "app_name": "Microsoft Teams",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/43/bb/e143bbd6-26a8-6e49-71de-7495cc14c28b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3370322,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "6761538521",
-      "app_name": "StoryReel: Exclusive Drama",
-      "developer": "Equinox Enterprises‌ Technology Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/15/30/e31530e7-3831-faa7-f83f-0e4492d92638/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 25708,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "407558537",
-      "app_name": "Capital One Mobile",
-      "developer": "Capital One",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/5e/4a/fc5e4af5-d874-5e9d-ec99-f899f7b6a8d5/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 10978421,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -238,8 +190,56 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18436132,
-      "change": "=",
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 17,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/66/e5/e566e522-06cc-b4a9-c541-cfa8c35b8540/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1117996,
+      "change": "new",
       "change_val": 0
+    },
+    {
+      "rank": 18,
+      "app_id": "407558537",
+      "app_name": "Capital One Mobile",
+      "developer": "Capital One",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/5e/4a/fc5e4af5-d874-5e9d-ec99-f899f7b6a8d5/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 10978421,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "552602056",
+      "app_name": "ClassDojo",
+      "developer": "ClassDojo, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/b6/90/c0b690b1-9eee-d848-ef56-ad9b2ebf5698/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3985137,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 20,
+      "app_id": "392796698",
+      "app_name": "GroupMe",
+      "developer": "Skype Communications S.a.r.l",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/25/21/6a25216c-0f1c-d0c7-0ebd-ac6d7f3fa053/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1559075,
+      "change": "-4",
+      "change_val": -4
     }
   ]
 }
