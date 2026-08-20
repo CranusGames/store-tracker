@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "632064380",
-      "app_name": "Vinted: Pre-loved marketplace",
-      "developer": "Vinted Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/37/48/e2374828-c8a1-a452-bcec-74a0c506be4c/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 185195,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "6762023973",
       "app_name": "7 Brew Coffee",
       "developer": "Brew Culture, LLC",
@@ -46,8 +34,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 589,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "632064380",
+      "app_name": "Vinted: Pre-loved marketplace",
+      "developer": "Vinted Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/37/48/e2374828-c8a1-a452-bcec-74a0c506be4c/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 185195,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -123,15 +123,15 @@
     },
     {
       "rank": 11,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/79/5c/73795c1d-3f1e-dfa9-a2b6-255ea9a63ae9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/2f/d3/532fd352-6146-89e2-f3cc-0196f3c69da6/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 179845,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 4965608,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 12,
@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/2f/d3/532fd352-6146-89e2-f3cc-0196f3c69da6/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4965608,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -166,23 +154,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2189787,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/79/5c/73795c1d-3f1e-dfa9-a2b6-255ea9a63ae9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 179845,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 15,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/16/2eae1604-40be-df74-8292-82ce00f72d01/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 684753,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -190,11 +178,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1118046,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -202,8 +190,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18437451,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/16/2eae1604-40be-df74-8292-82ce00f72d01/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 684753,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,

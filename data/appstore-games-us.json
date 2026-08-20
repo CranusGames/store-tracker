@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/70/af/9370af0a-6834-ac64-1ed0-af04689e92af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 1648622,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19838869,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/70/af/9370af0a-6834-ac64-1ed0-af04689e92af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 1648622,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -207,18 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "6780891673",
-      "app_name": "Royal Smash! - Physics Puzzle",
-      "developer": "Cypher Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/fa/cd/e6facde5-47b6-11a0-73f7-527fa0227974/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 32701,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -226,8 +214,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 214958,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "6780891673",
+      "app_name": "Royal Smash! - Physics Puzzle",
+      "developer": "Cypher Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/fa/cd/e6facde5-47b6-11a0-73f7-527fa0227974/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 32701,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
