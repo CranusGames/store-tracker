@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "rankings": [
     {
       "rank": 1,
@@ -87,30 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/bc/a9/43bca98d-e80b-622d-8508-9969619fe490/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2173852,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
-      "app_id": "6761538521",
-      "app_name": "StoryReel: Exclusive Drama",
-      "developer": "Equinox Enterprises‌ Technology Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/15/30/e31530e7-3831-faa7-f83f-0e4492d92638/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 25396,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "1113153706",
       "app_name": "Microsoft Teams",
       "developer": "Microsoft Corporation",
@@ -118,11 +94,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3370237,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 11,
+      "rank": 9,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/bc/a9/43bca98d-e80b-622d-8508-9969619fe490/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2173852,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 10,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -130,11 +118,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18433179,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "6758667154",
       "app_name": "VibeShort: AI Short Dramas",
       "developer": "AGILE QUADRANT MEDIA LIMITED",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 28459,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6761538521",
+      "app_name": "StoryReel: Exclusive Drama",
+      "developer": "Equinox Enterprises‌ Technology Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/15/30/e31530e7-3831-faa7-f83f-0e4492d92638/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 25396,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 13,
@@ -183,30 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/f4/17/48f41760-8597-5738-e2bf-03b0d6ed21fe/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2188937,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "951937596",
-      "app_name": "Microsoft Outlook",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/26/33/272633e4-6be8-d269-abeb-04f896721f8f/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 9165528,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "552602056",
       "app_name": "ClassDojo",
       "developer": "ClassDojo, Inc.",
@@ -214,11 +190,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3982936,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/f4/17/48f41760-8597-5738-e2bf-03b0d6ed21fe/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2188937,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 18,
       "app_id": "407558537",
       "app_name": "Capital One Mobile",
       "developer": "Capital One",
@@ -226,20 +214,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 10976170,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/8a/55/788a554c-3dc2-4838-6bed-b84566573c61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 960714,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/66/e5/e566e522-06cc-b4a9-c541-cfa8c35b8540/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "951937596",
+      "app_name": "Microsoft Outlook",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/26/33/272633e4-6be8-d269-abeb-04f896721f8f/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 1117965,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 9165528,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }
