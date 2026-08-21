@@ -87,18 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/bc/a9/43bca98d-e80b-622d-8508-9969619fe490/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2176533,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "6758667154",
       "app_name": "VibeShort: AI Short Dramas",
       "developer": "AGILE QUADRANT MEDIA LIMITED",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 29001,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/bc/a9/43bca98d-e80b-622d-8508-9969619fe490/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2176533,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -195,26 +195,26 @@
     },
     {
       "rank": 17,
-      "app_id": "333903271",
-      "app_name": "X",
-      "developer": "X Corp.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/13/30/8f1330ae-8e75-8511-c045-357248f0a433/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "392796698",
+      "app_name": "GroupMe",
+      "developer": "Skype Communications S.a.r.l",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/25/21/6a25216c-0f1c-d0c7-0ebd-ac6d7f3fa053/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 10957196,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 1559083,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 18,
-      "app_id": "951937596",
-      "app_name": "Microsoft Outlook",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/26/33/272633e4-6be8-d269-abeb-04f896721f8f/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "552602056",
+      "app_name": "ClassDojo",
+      "developer": "ClassDojo, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/b6/90/c0b690b1-9eee-d848-ef56-ad9b2ebf5698/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 9169979,
-      "change": "=",
+      "rating_count": 3986977,
+      "change": "new",
       "change_val": 0
     },
     {
@@ -231,15 +231,15 @@
     },
     {
       "rank": 20,
-      "app_id": "392796698",
-      "app_name": "GroupMe",
-      "developer": "Skype Communications S.a.r.l",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/25/21/6a25216c-0f1c-d0c7-0ebd-ac6d7f3fa053/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "951937596",
+      "app_name": "Microsoft Outlook",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/26/33/272633e4-6be8-d269-abeb-04f896721f8f/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 1559083,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 9169979,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
