@@ -123,27 +123,27 @@
     },
     {
       "rank": 11,
-      "app_id": "com.bigduckgames.flow",
-      "app_name": "Flow Free",
-      "developer": "Big Duck Games LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/EfhYQZbslbUgQzI4rz0kNtqTPXhom-yYdkaO1Pv7OuUqJaNq4lvIIdAL7dubS_rJ03aG6ZCJqkSeLDf6bbah37A",
-      "installs": "100,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "com.topfreegames.bikeracefreeworld",
-      "app_name": "Bike Race：Motorcycle Games",
-      "developer": "Wildlife Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
+      "app_id": "com.tocaboca.tocalifeworld",
+      "app_name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "icon_url": "https://play-lh.googleusercontent.com/FindnWJcVLEkWKxJPm1P4NA07WJkLd2BrkHschg7gjQ_CFJ_9DUkS2nBwywXPxQkdWokX2UG_0v8hGbuq9t_",
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 12,
+      "app_id": "com.miniclip.eightballpool",
+      "app_name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.8,
+      "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 13,
@@ -159,42 +159,18 @@
     },
     {
       "rank": 14,
-      "app_id": "com.miniclip.eightballpool",
-      "app_name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.8,
+      "app_id": "com.bigduckgames.flow",
+      "app_name": "Flow Free",
+      "developer": "Big Duck Games LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/EfhYQZbslbUgQzI4rz0kNtqTPXhom-yYdkaO1Pv7OuUqJaNq4lvIIdAL7dubS_rJ03aG6ZCJqkSeLDf6bbah37A",
+      "installs": "100,000,000+",
+      "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 15,
-      "app_id": "com.tocaboca.tocalifeworld",
-      "app_name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "icon_url": "https://play-lh.googleusercontent.com/FindnWJcVLEkWKxJPm1P4NA07WJkLd2BrkHschg7gjQ_CFJ_9DUkS2nBwywXPxQkdWokX2UG_0v8hGbuq9t_",
-      "installs": "100,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "com.rovio.baba",
-      "app_name": "Angry Birds 2",
-      "developer": "Rovio Entertainment Oy",
-      "icon_url": "https://play-lh.googleusercontent.com/XrA1acf-l1YT0jw0QTxWqpJLE_TYSgdGpWE1vrEepFpA2128Zx4to0ARPvKFdhT5vAc0LHHC7xAAwa8aABIFeg",
-      "installs": "100,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -202,23 +178,35 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 16,
+      "app_id": "com.topfreegames.bikeracefreeworld",
+      "app_name": "Bike Race：Motorcycle Games",
+      "developer": "Wildlife Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
+      "installs": "100,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 17,
+      "app_id": "com.rovio.baba",
+      "app_name": "Angry Birds 2",
+      "developer": "Rovio Entertainment Oy",
+      "icon_url": "https://play-lh.googleusercontent.com/XrA1acf-l1YT0jw0QTxWqpJLE_TYSgdGpWE1vrEepFpA2128Zx4to0ARPvKFdhT5vAc0LHHC7xAAwa8aABIFeg",
+      "installs": "100,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
-      "app_id": "com.JindoBlu.OfflineGames",
-      "app_name": "Offline Games - No Wifi Games",
-      "developer": "JindoBlu",
-      "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "solitaire.patience.card.games.klondike.free",
       "app_name": "Solitaire - Classic Card Games",
       "developer": "Guru Puzzle Game",
@@ -226,11 +214,11 @@
       "installs": "50,000,000+",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "com.playrix.township",
       "app_name": "Township",
       "developer": "Playrix",
@@ -238,7 +226,19 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.kiloo.subwaysurf",
+      "app_name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "icon_url": "https://play-lh.googleusercontent.com/T7az9M7td7A24vOr7Jp3C9NG16kyWA1NnlUySyl_mbDV9BtlrFbxps5TD5DzT7kCBxpNeTbIIju2_aFN4xtFoYM",
+      "installs": "1,000,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "new",
       "change_val": 0
     }
   ]
