@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6748084174",
-      "app_name": "Smash Fest!",
-      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/3e/2e/933e2ed1-8b86-d507-1fc1-184f7255e81c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 3387,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "1351168404",
       "app_name": "Among Us!",
       "developer": "InnerSloth LLC",
@@ -22,8 +10,20 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 39761,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6748084174",
+      "app_name": "Smash Fest!",
+      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/3e/2e/933e2ed1-8b86-d507-1fc1-184f7255e81c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 3387,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -39,30 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6758208278",
-      "app_name": "TACTICO - Football XOX",
-      "developer": "Muhammet OKUMUS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e5/85/67e585f1-1b6d-a255-f845-a396b7f7097b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.3,
-      "rating_count": 306,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
-      "app_id": "6472700792",
-      "app_name": "Gangstar Mirage City: Online",
-      "developer": "Level Infinite",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/6f/3f/ed6f3f45-64be-9052-41b8-2db6d1a797f9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 87,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "1617391485",
       "app_name": "Block Blast!",
       "developer": "Hungry Studio",
@@ -70,8 +46,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 92049,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 5,
+      "app_id": "6758208278",
+      "app_name": "TACTICO - Football XOX",
+      "developer": "Muhammet OKUMUS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e5/85/67e585f1-1b6d-a255-f845-a396b7f7097b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.3,
+      "rating_count": 306,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 6,
+      "app_id": "6472700792",
+      "app_name": "Gangstar Mirage City: Online",
+      "developer": "Level Infinite",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/6f/3f/ed6f3f45-64be-9052-41b8-2db6d1a797f9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 87,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "6746328263",
-      "app_name": "Castle Busters",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/71/8d/56718d51-1a58-bade-84bf-5d010e77e6e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 4780,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -154,47 +142,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3819,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
-      "app_id": "6443575749",
-      "app_name": "Whiteout Survival",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 46085,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/01/d0/7501d0d6-c726-e69f-5f14-8d63e670115b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1929612,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "1229016807",
-      "app_name": "Brawl Stars",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/15/b1/d215b17b-b984-732c-0d74-41a45bbcb77d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 863527,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
+      "rank": 13,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -202,23 +154,59 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 690368,
-      "change": "=",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 14,
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/01/d0/7501d0d6-c726-e69f-5f14-8d63e670115b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1929612,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "1229016807",
+      "app_name": "Brawl Stars",
+      "developer": "Supercell",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/15/b1/d215b17b-b984-732c-0d74-41a45bbcb77d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 863527,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6746328263",
+      "app_name": "Castle Busters",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/71/8d/56718d51-1a58-bade-84bf-5d010e77e6e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 4780,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 17,
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 46085,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 18,
-      "app_id": "6754878717",
-      "app_name": "The Cozy Florist",
-      "developer": "RiftSky Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/90/58/bd905847-8ed3-aefb-265a-ea1ab6dc8fbe/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2818,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -226,19 +214,31 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 262027,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "6754878717",
+      "app_name": "The Cozy Florist",
+      "developer": "RiftSky Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/90/58/bd905847-8ed3-aefb-265a-ea1ab6dc8fbe/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2818,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
-      "app_id": "6742809194",
-      "app_name": "Warline: Sniper Strike",
-      "developer": "Powerfantasy",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/a2/a3/15a2a34a-6755-083a-fd6d-2b4cfd188aff/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/67/10/1c671051-c2ca-e023-b79f-838aac94e403/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 836,
-      "change": "=",
+      "rating": 4.5,
+      "rating_count": 28275,
+      "change": "new",
       "change_val": 0
     }
   ]
