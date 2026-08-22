@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6762023973",
-      "app_name": "7 Brew Coffee",
-      "developer": "Brew Culture, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ac/09/e1ac0986-6bd2-2424-7a19-ab8610211a5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 613,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6447582581",
       "app_name": "Netflix Game Controller",
       "developer": "Netflix, Inc.",
@@ -58,8 +46,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 181491,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6762023973",
+      "app_name": "7 Brew Coffee",
+      "developer": "Brew Culture, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ac/09/e1ac0986-6bd2-2424-7a19-ab8610211a5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 613,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -111,30 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "6754134922",
-      "app_name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/92/d6/d292d6df-8d09-5527-6bc6-5608b8877be9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 17145,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/f4/17/48f41760-8597-5738-e2bf-03b0d6ed21fe/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2191342,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -142,8 +118,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1118246,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 11,
+      "app_id": "6754134922",
+      "app_name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/92/d6/d292d6df-8d09-5527-6bc6-5608b8877be9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 17145,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 12,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/fe/e0/f0fee095-0b5f-e8a7-0631-118cd915f9e5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2137582,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 13,
@@ -159,30 +159,18 @@
     },
     {
       "rank": 14,
-      "app_id": "908126679",
-      "app_name": "ParentSquare",
-      "developer": "ParentSquare",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/6b/32/5c6b32ad-ddef-cc0b-20ad-d84e58ee46e6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/f4/17/48f41760-8597-5738-e2bf-03b0d6ed21fe/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 75360,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 2191342,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 15,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/fe/e0/f0fee095-0b5f-e8a7-0631-118cd915f9e5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2137582,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "6758667154",
       "app_name": "VibeShort: AI Short Dramas",
       "developer": "AGILE QUADRANT MEDIA LIMITED",
@@ -190,47 +178,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 29570,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
-      "app_id": "719972451",
-      "app_name": "DoorDash: Food, Grocery, More",
-      "developer": "DoorDash, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/fb/e5/9bfbe577-bdc4-970f-adfd-a3070befeb25/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 22971872,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/9e/5f/949e5f96-e5ab-b1c2-8291-1d6c2b831f15/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 243166,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/43/38/d6433852-f8aa-dce6-7e6a-1f0c0c10633f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18448943,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
+      "rank": 16,
       "app_id": "368677368",
       "app_name": "Uber - Request a ride",
       "developer": "Uber Technologies, Inc.",
@@ -238,8 +190,56 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 16657403,
-      "change": "=",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 17,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/9e/5f/949e5f96-e5ab-b1c2-8291-1d6c2b831f15/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 243166,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/43/38/d6433852-f8aa-dce6-7e6a-1f0c0c10633f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18448943,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "908126679",
+      "app_name": "ParentSquare",
+      "developer": "ParentSquare",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/6b/32/5c6b32ad-ddef-cc0b-20ad-d84e58ee46e6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 75360,
+      "change": "-5",
+      "change_val": -5
+    },
+    {
+      "rank": 20,
+      "app_id": "719972451",
+      "app_name": "DoorDash: Food, Grocery, More",
+      "developer": "DoorDash, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/fb/e5/9bfbe577-bdc4-970f-adfd-a3070befeb25/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 22971872,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }
