@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "com.halfbrick.fruitninjafree",
-      "app_name": "Fruit Ninja®",
-      "developer": "Halfbrick Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/fznhdrBfXgOQx6CBMYServVpkwRBbJUke9-S6-QfeCnI0ZmipdfO7dvD5K-ae7Fb-8l9O3uIYYR3XXEl8ot1",
-      "installs": "500,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "com.dts.freefiremax",
       "app_name": "Free Fire MAX",
       "developer": "GARENA INTERNATIONAL I",
@@ -82,23 +70,23 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "com.halfbrick.fruitninjafree",
+      "app_name": "Fruit Ninja®",
+      "developer": "Halfbrick Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/fznhdrBfXgOQx6CBMYServVpkwRBbJUke9-S6-QfeCnI0ZmipdfO7dvD5K-ae7Fb-8l9O3uIYYR3XXEl8ot1",
+      "installs": "500,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
-      "app_id": "com.dts.freefireth",
-      "app_name": "Free Fire: 9th Anniversary",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/JT88XmsHoGDio7FxONwh382DhuTxuccfMmWFDtRBFjilySzNqWOCxUhqm8IhBKzQSwVrW2HWp_XvSgKFwi3ETA",
-      "installs": "1,000,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "com.roblox.client",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -106,8 +94,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "com.dts.freefireth",
+      "app_name": "Free Fire: 9th Anniversary",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/JT88XmsHoGDio7FxONwh382DhuTxuccfMmWFDtRBFjilySzNqWOCxUhqm8IhBKzQSwVrW2HWp_XvSgKFwi3ETA",
+      "installs": "1,000,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
