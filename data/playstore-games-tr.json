@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "com.ta.strike.ops",
-      "app_name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "icon_url": "https://play-lh.googleusercontent.com/eiOZd_w3-KqGU1NfuZDqrY8FclcKAdGegweEXsNcjBWPs9yWffAY78PCITk1wj9vtEdM0S3DuKdoXiqUF1o_",
-      "installs": "100,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "com.halfbrick.fruitninjafree",
       "app_name": "Fruit Ninja®",
       "developer": "Halfbrick Studios",
@@ -130,8 +118,20 @@
       "installs": "500,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "com.ta.strike.ops",
+      "app_name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "icon_url": "https://play-lh.googleusercontent.com/eiOZd_w3-KqGU1NfuZDqrY8FclcKAdGegweEXsNcjBWPs9yWffAY78PCITk1wj9vtEdM0S3DuKdoXiqUF1o_",
+      "installs": "100,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "com.topfreegames.bikeracefreeworld",
-      "app_name": "Bike Race：Motorcycle Games",
-      "developer": "Wildlife Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
-      "installs": "100,000,000+",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -190,8 +178,20 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "com.topfreegames.bikeracefreeworld",
+      "app_name": "Bike Race：Motorcycle Games",
+      "developer": "Wildlife Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
+      "installs": "100,000,000+",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
