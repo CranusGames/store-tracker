@@ -94,8 +94,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -195,24 +195,24 @@
     },
     {
       "rank": 17,
-      "app_id": "solitaire.patience.card.games.klondike.free",
-      "app_name": "Solitaire - Classic Card Games",
-      "developer": "Guru Puzzle Game",
-      "icon_url": "https://play-lh.googleusercontent.com/nVTU-EbcHkMg-KXt93shtsgX506v_zDBLG04H2pnp4Lom2J_mSp5gHO5YtZhCSpDpLJUgBYneCd5h6oDduKJ6Q",
-      "installs": "50,000,000+",
-      "rating": 4.9,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
       "app_id": "com.rovio.baba",
       "app_name": "Angry Birds 2",
       "developer": "Rovio Entertainment Oy",
       "icon_url": "https://play-lh.googleusercontent.com/XrA1acf-l1YT0jw0QTxWqpJLE_TYSgdGpWE1vrEepFpA2128Zx4to0ARPvKFdhT5vAc0LHHC7xAAwa8aABIFeg",
       "installs": "100,000,000+",
       "rating": 4.1,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "solitaire.patience.card.games.klondike.free",
+      "app_name": "Solitaire - Classic Card Games",
+      "developer": "Guru Puzzle Game",
+      "icon_url": "https://play-lh.googleusercontent.com/nVTU-EbcHkMg-KXt93shtsgX506v_zDBLG04H2pnp4Lom2J_mSp5gHO5YtZhCSpDpLJUgBYneCd5h6oDduKJ6Q",
+      "installs": "50,000,000+",
+      "rating": 4.9,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
