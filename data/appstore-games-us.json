@@ -3,30 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6748084174",
-      "app_name": "Smash Fest!",
-      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/3e/2e/933e2ed1-8b86-d507-1fc1-184f7255e81c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 349156,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
-      "app_id": "6752672568",
-      "app_name": "Block Out! - Color Sort Puzzle",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/e8/94/58e8945d-4868-a2a8-5315-66c4d47a9e63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 197705,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "6761760135",
       "app_name": "Meowdoku!",
       "developer": "Oakever Games",
@@ -34,15 +10,39 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 160361,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 2,
+      "app_id": "6748084174",
+      "app_name": "Smash Fest!",
+      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/3e/2e/933e2ed1-8b86-d507-1fc1-184f7255e81c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 349156,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 3,
+      "app_id": "6752672568",
+      "app_name": "Block Out! - Color Sort Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/e8/94/58e8945d-4868-a2a8-5315-66c4d47a9e63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 197705,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/67/10/1c671051-c2ca-e023-b79f-838aac94e403/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/fe/20/9dfe2071-42c7-a94f-23da-d87bb7e5486b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 605578,
@@ -123,30 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "6780195090",
-      "app_name": "82-0.com",
-      "developer": "Vaulty Studios Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/98/8a/5d988ad8-7687-3da8-859e-76c9f3ef9b5e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 8046,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "6471045672",
-      "app_name": "Tasty Travels: Merge Game",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/88/4d/29884def-ca46-cc2e-8736-d59ad3748d6f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 45720,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "6767091927",
       "app_name": "Jigsaw Drop: Solitaire Puzzle",
       "developer": "Runyou Game",
@@ -154,11 +130,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 32137,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 14,
+      "rank": 12,
+      "app_id": "6780195090",
+      "app_name": "82-0.com",
+      "developer": "Vaulty Studios Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/98/8a/5d988ad8-7687-3da8-859e-76c9f3ef9b5e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 8046,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 13,
       "app_id": "638689075",
       "app_name": "Township",
       "developer": "Playrix",
@@ -166,23 +154,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2182160,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "6471045672",
+      "app_name": "Tasty Travels: Merge Game",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/88/4d/29884def-ca46-cc2e-8736-d59ad3748d6f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 45720,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 15,
-      "app_id": "6758326278",
-      "app_name": "Amaze GO!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/15/0f/97150fd4-39cd-0fcf-b8e2-e53744a888e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 175812,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "6760325543",
       "app_name": "CubeAway - 3DPuzzle",
       "developer": "GOODROID,Inc.",
@@ -190,23 +178,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 68285,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
-      "app_id": "1608987929",
-      "app_name": "Triumph Arcade",
-      "developer": "Triumph Arcade",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/0d/90/b80d904e-3539-c2f1-0e6e-fcee40a64e15/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 950205,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "app_id": "6759081967",
       "app_name": "Jewel Coloring",
       "developer": "Ta Ta Game Technology Limited",
@@ -214,31 +190,55 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 37819,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "6758326278",
+      "app_name": "Amaze GO!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/15/0f/97150fd4-39cd-0fcf-b8e2-e53744a888e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 175812,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 18,
+      "app_id": "1608987929",
+      "app_name": "Triumph Arcade",
+      "developer": "Triumph Arcade",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/0d/90/b80d904e-3539-c2f1-0e6e-fcee40a64e15/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 950205,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/3a/07/ce3a075e-7c3e-164d-b099-727fe0a5e68f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6780891673",
+      "app_name": "Royal Smash! - Physics Puzzle",
+      "developer": "Cypher Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/e6/ad/92e6ada8-1127-7cd4-45d2-c347b342f50a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 3811887,
-      "change": "=",
+      "rating": 4.7,
+      "rating_count": 38163,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1621328561",
-      "app_name": "MONOPOLY GO!",
-      "developer": "Scopely, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/d4/bb/34d4bb7d-c967-047b-34ea-af34a95741e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6751101794",
+      "app_name": "Loop Sort",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/76/5e/e0765ee1-0649-26e6-d23d-10c2c5e4db15/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 3802172,
-      "change": "=",
+      "rating_count": 14419,
+      "change": "new",
       "change_val": 0
     }
   ]
