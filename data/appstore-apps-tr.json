@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.4,
-      "rating_count": 9440,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -58,23 +46,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445218,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 9440,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
-      "app_id": "1636235979",
-      "app_name": "ReelShort - Stream Drama & TV",
-      "developer": "NewLeaf Publishing",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/3f/8b/013f8beb-15c7-70bd-9f09-093c016c7012/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 19017,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 173272,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "1636235979",
+      "app_name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/3f/8b/013f8beb-15c7-70bd-9f09-093c016c7012/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 19017,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -147,15 +147,15 @@
     },
     {
       "rank": 13,
-      "app_id": "6466298983",
-      "app_name": "Retake AI: Face & Photo Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/0f/6f/0c0f6fe5-88a8-0de9-7bd8-0369492f3634/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1511527605",
+      "app_name": "Museums of Türkiye - Official",
+      "developer": "T. C. Kültür ve Turizm Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6c/fe/186cfedb-b9f5-00d3-e857-1e11e20e204a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 1777,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 85233,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 14,
@@ -171,15 +171,15 @@
     },
     {
       "rank": 15,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6c/fe/186cfedb-b9f5-00d3-e857-1e11e20e204a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "app_id": "6466298983",
+      "app_name": "Retake AI: Face & Photo Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/0f/6f/0c0f6fe5-88a8-0de9-7bd8-0369492f3634/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 85233,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.3,
+      "rating_count": 1777,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
@@ -207,18 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "6738610571",
-      "app_name": "Myt : Videos, Songs Streaming",
-      "developer": "Lorenz Popper",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/df/6b/94df6b7a-a92d-d767-1d6b-b2229196001e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 2.6,
-      "rating_count": 712,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
@@ -226,20 +214,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2156998,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/45/73/3f4573af-4bc8-87d2-855e-012dae79da33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 378485,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1539508996",
-      "app_name": "CDAS",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/11/5b/07115bb3-f025-f836-fdc8-906aba93cde8/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "6738610571",
+      "app_name": "Myt : Videos, Songs Streaming",
+      "developer": "Lorenz Popper",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/df/6b/94df6b7a-a92d-d767-1d6b-b2229196001e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 43969,
-      "change": "=",
-      "change_val": 0
+      "rating": 2.6,
+      "rating_count": 712,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
