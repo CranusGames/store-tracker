@@ -15,6 +15,18 @@
     },
     {
       "rank": 2,
+      "app_id": "bubbleshooter.orig",
+      "app_name": "Bubble Shooter - Classic Pop",
+      "developer": "Bubble Shooter",
+      "icon_url": "https://play-lh.googleusercontent.com/AyPKDJx_IvwDoatX91zVX1Hl9e1xtUHOYeQh4cXKBhB-Npascc9Y7Bw5gv3wNoqRL8KBfnloU9o1Y9dDGXYVpFs",
+      "installs": "500,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "+7",
+      "change_val": 7
+    },
+    {
+      "rank": 3,
       "app_id": "com.kiloo.subwaysurf",
       "app_name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -22,20 +34,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
-      "app_id": "com.ta.strike.ops",
-      "app_name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "icon_url": "https://play-lh.googleusercontent.com/eiOZd_w3-KqGU1NfuZDqrY8FclcKAdGegweEXsNcjBWPs9yWffAY78PCITk1wj9vtEdM0S3DuKdoXiqUF1o_",
-      "installs": "100,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "bubbleshooter.orig",
-      "app_name": "Bubble Shooter - Classic Pop",
-      "developer": "Bubble Shooter",
-      "icon_url": "https://play-lh.googleusercontent.com/AyPKDJx_IvwDoatX91zVX1Hl9e1xtUHOYeQh4cXKBhB-Npascc9Y7Bw5gv3wNoqRL8KBfnloU9o1Y9dDGXYVpFs",
-      "installs": "500,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "com.dts.freefireth",
       "app_name": "Free Fire: 9th Anniversary",
       "developer": "GARENA INTERNATIONAL I",
@@ -118,11 +106,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 11,
+      "rank": 10,
       "app_id": "com.halfbrick.fruitninjafree",
       "app_name": "Fruit Ninja®",
       "developer": "Halfbrick Studios",
@@ -130,8 +118,20 @@
       "installs": "500,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "com.ta.strike.ops",
+      "app_name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "icon_url": "https://play-lh.googleusercontent.com/eiOZd_w3-KqGU1NfuZDqrY8FclcKAdGegweEXsNcjBWPs9yWffAY78PCITk1wj9vtEdM0S3DuKdoXiqUF1o_",
+      "installs": "100,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-8",
+      "change_val": -8
     },
     {
       "rank": 12,
@@ -190,8 +190,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "50,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
