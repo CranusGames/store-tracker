@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "com.ea.game.pvzfree_row",
-      "app_name": "Plants vs. Zombies™",
-      "developer": "ELECTRONIC ARTS",
-      "icon_url": "https://play-lh.googleusercontent.com/FGB00L2-aGHPAiRJPxbC3Th_KEaGvVroVF-tPSf_1Unh9kzzY-al4mp1yJT16I16FuLK6oJ-3H-KrVgTrg3ABFc",
-      "installs": "500,000,000+",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "com.block.juggle",
       "app_name": "Block Blast!",
       "developer": "HungryStudio",
@@ -58,8 +46,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "com.ea.game.pvzfree_row",
+      "app_name": "Plants vs. Zombies™",
+      "developer": "ELECTRONIC ARTS",
+      "icon_url": "https://play-lh.googleusercontent.com/FGB00L2-aGHPAiRJPxbC3Th_KEaGvVroVF-tPSf_1Unh9kzzY-al4mp1yJT16I16FuLK6oJ-3H-KrVgTrg3ABFc",
+      "installs": "500,000,000+",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -111,12 +111,12 @@
     },
     {
       "rank": 10,
-      "app_id": "com.ironhidegames.android.kingdomrush",
-      "app_name": "Kingdom Rush Tower Defense TD",
-      "developer": "Ironhide Games",
-      "icon_url": "https://play-lh.googleusercontent.com/d7w1fnJLgVVooMXo6R5yr9RaWuLV6NdyZ_oFuJv9AAN3aAta8kzAE-VzJYS1CL2Pl5DCcX1b9-d981PdMnzQHw",
-      "installs": "10,000,000+",
-      "rating": 4.8,
+      "app_id": "com.halfbrick.fruitninjafree",
+      "app_name": "Fruit Ninja®",
+      "developer": "Halfbrick Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/fznhdrBfXgOQx6CBMYServVpkwRBbJUke9-S6-QfeCnI0ZmipdfO7dvD5K-ae7Fb-8l9O3uIYYR3XXEl8ot1",
+      "installs": "500,000,000+",
+      "rating": 4.1,
       "rating_count": 0,
       "change": "new",
       "change_val": 0
@@ -219,18 +219,6 @@
     },
     {
       "rank": 19,
-      "app_id": "com.firsttouchgames.dls7",
-      "app_name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/ldysRAGsIH0zWeNoCMhAUNx6OXp6SuNyeSMXiW7SHTluJVAkfxHP2XLTlxiV9WkBvvE2JXsK08JveGAuGNZNMw",
-      "installs": "100,000,000+",
-      "rating": 4.0,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "com.playrix.township",
       "app_name": "Township",
       "developer": "Playrix",
@@ -238,8 +226,20 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.firsttouchgames.dls7",
+      "app_name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/ldysRAGsIH0zWeNoCMhAUNx6OXp6SuNyeSMXiW7SHTluJVAkfxHP2XLTlxiV9WkBvvE2JXsK08JveGAuGNZNMw",
+      "installs": "100,000,000+",
+      "rating": 4.0,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
