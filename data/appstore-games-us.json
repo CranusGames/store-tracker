@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "6760325543",
-      "app_name": "CubeAway - 3DPuzzle",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/c3/64/bcc364aa-74dd-504a-be7a-1a3dc0d90471/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 69758,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -166,8 +154,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 454245,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "6760325543",
+      "app_name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/c3/64/bcc364aa-74dd-504a-be7a-1a3dc0d90471/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 69758,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -207,18 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "6758326278",
-      "app_name": "Amaze GO!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/15/0f/97150fd4-39cd-0fcf-b8e2-e53744a888e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 178179,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "6747492600",
       "app_name": "Mahjong Blast",
       "developer": "Nebula Studio",
@@ -226,8 +214,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 504350,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "6758326278",
+      "app_name": "Amaze GO!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/15/0f/97150fd4-39cd-0fcf-b8e2-e53744a888e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 178179,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
