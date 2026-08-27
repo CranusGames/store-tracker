@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "rankings": [
     {
       "rank": 1,
@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "com.ea.game.pvzfree_row",
-      "app_name": "Plants vs. Zombies™",
-      "developer": "ELECTRONIC ARTS",
-      "icon_url": "https://play-lh.googleusercontent.com/FGB00L2-aGHPAiRJPxbC3Th_KEaGvVroVF-tPSf_1Unh9kzzY-al4mp1yJT16I16FuLK6oJ-3H-KrVgTrg3ABFc",
-      "installs": "500,000,000+",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "com.block.juggle",
       "app_name": "Block Blast!",
       "developer": "HungryStudio",
@@ -58,8 +46,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "com.ea.game.pvzfree_row",
+      "app_name": "Plants vs. Zombies™",
+      "developer": "ELECTRONIC ARTS",
+      "icon_url": "https://play-lh.googleusercontent.com/FGB00L2-aGHPAiRJPxbC3Th_KEaGvVroVF-tPSf_1Unh9kzzY-al4mp1yJT16I16FuLK6oJ-3H-KrVgTrg3ABFc",
+      "installs": "500,000,000+",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -226,8 +226,8 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
