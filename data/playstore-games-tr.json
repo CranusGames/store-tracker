@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "rankings": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,23 +34,11 @@
       "installs": "500,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 4,
-      "app_id": "com.block.juggle",
-      "app_name": "Block Blast!",
-      "developer": "HungryStudio",
-      "icon_url": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
-      "installs": "1,000,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 5,
+      "rank": 4,
       "app_id": "com.king.candycrushsaga",
       "app_name": "Candy Crush Saga",
       "developer": "King",
@@ -62,6 +50,18 @@
       "change_val": 1
     },
     {
+      "rank": 5,
+      "app_id": "com.block.juggle",
+      "app_name": "Block Blast!",
+      "developer": "HungryStudio",
+      "icon_url": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
+      "installs": "1,000,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 6,
       "app_id": "com.ea.game.pvzfree_row",
       "app_name": "Plants vs. Zombies™",
@@ -70,8 +70,8 @@
       "installs": "500,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -174,7 +174,7 @@
       "app_id": "com.tocaboca.tocalifeworld",
       "app_name": "Toca Boca World",
       "developer": "Toca Boca",
-      "icon_url": "https://play-lh.googleusercontent.com/FindnWJcVLEkWKxJPm1P4NA07WJkLd2BrkHschg7gjQ_CFJ_9DUkS2nBwywXPxQkdWokX2UG_0v8hGbuq9t_",
+      "icon_url": "https://play-lh.googleusercontent.com/l-hJjz7wkD3DyqGvd-MXaqWG9fQaSYFNy8D3mP9iZ8puxkqICHEBOD4rLo9vY65bCHWe-PIvE0fI9tkUml-H",
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
@@ -195,24 +195,24 @@
     },
     {
       "rank": 17,
-      "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
-      "app_name": "Kids Games: For Toddlers 3-5",
-      "developer": "RV AppStudios",
-      "icon_url": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
-      "installs": "50,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
       "app_id": "com.miniclip.eightballpool",
       "app_name": "8 Ball Pool",
       "developer": "Miniclip.com",
       "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
       "installs": "1,000,000,000+",
       "rating": 4.7,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+      "app_name": "Kids Games: For Toddlers 3-5",
+      "developer": "RV AppStudios",
+      "icon_url": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
+      "installs": "50,000,000+",
+      "rating": 4.4,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
@@ -226,8 +226,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }

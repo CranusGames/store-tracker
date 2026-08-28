@@ -1,20 +1,8 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "rankings": [
     {
       "rank": 1,
-      "app_id": "com.block.juggle",
-      "app_name": "Block Blast!",
-      "developer": "HungryStudio",
-      "icon_url": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
-      "installs": "1,000,000,000+",
-      "rating": 4.9,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "com.king.candycrushsaga",
       "app_name": "Candy Crush Saga",
       "developer": "King",
@@ -22,8 +10,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "com.block.juggle",
+      "app_name": "Block Blast!",
+      "developer": "HungryStudio",
+      "icon_url": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
+      "installs": "1,000,000,000+",
+      "rating": 4.9,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "com.roblox.client",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-      "installs": "1,000,000,000+",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "com.dts.freefireth",
       "app_name": "Free Fire: 9th Anniversary",
       "developer": "GARENA INTERNATIONAL I",
@@ -118,8 +106,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "com.roblox.client",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+      "installs": "1,000,000,000+",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -171,15 +171,15 @@
     },
     {
       "rank": 15,
-      "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
-      "app_name": "Kids Games: For Toddlers 3-5",
-      "developer": "RV AppStudios",
-      "icon_url": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
-      "installs": "50,000,000+",
-      "rating": 4.4,
+      "app_id": "com.tocaboca.tocalifeworld",
+      "app_name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "icon_url": "https://play-lh.googleusercontent.com/l-hJjz7wkD3DyqGvd-MXaqWG9fQaSYFNy8D3mP9iZ8puxkqICHEBOD4rLo9vY65bCHWe-PIvE0fI9tkUml-H",
+      "installs": "100,000,000+",
+      "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 16,
@@ -190,35 +190,11 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
-      "app_id": "com.tocaboca.tocalifeworld",
-      "app_name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "icon_url": "https://play-lh.googleusercontent.com/FindnWJcVLEkWKxJPm1P4NA07WJkLd2BrkHschg7gjQ_CFJ_9DUkS2nBwywXPxQkdWokX2UG_0v8hGbuq9t_",
-      "installs": "100,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 18,
-      "app_id": "com.dreamgames.royalmatch",
-      "app_name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 19,
+      "rank": 17,
       "app_id": "com.playrix.township",
       "app_name": "Township",
       "developer": "Playrix",
@@ -226,8 +202,32 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 18,
+      "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+      "app_name": "Kids Games: For Toddlers 3-5",
+      "developer": "RV AppStudios",
+      "icon_url": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
+      "installs": "50,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 19,
+      "app_id": "com.dreamgames.royalmatch",
+      "app_name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
