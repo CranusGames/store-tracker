@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "rankings": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/ba/e8/83bae8ef-9463-3b51-db14-1d2bb9739de9/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 59671,
+      "rating_count": 59802,
       "change": "=",
       "change_val": 0
     },
@@ -21,36 +21,48 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/61/d1/8d61d164-af8a-6cf5-13d1-eb063334436b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 381636,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 382093,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
-      "app_id": "1451805015",
-      "app_name": "ÖSYM Aday İşlemleri Sistemi",
-      "developer": "Olcme Secme ve Yerlestirme Merkezi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.4,
-      "rating_count": 6480,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 4,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/de/22/4ede22cd-d4cb-1de3-66b5-9931e4c20008/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 992712,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 993997,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "1451805015",
+      "app_name": "ÖSYM Aday İşlemleri Sistemi",
+      "developer": "Olcme Secme ve Yerlestirme Merkezi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.4,
+      "rating_count": 6481,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/fb/d2/dafbd2e1-19f4-eb51-338a-b0c72fdbd0a9/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 445255,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -58,20 +70,8 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9447,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/fb/d2/dafbd2e1-19f4-eb51-338a-b0c72fdbd0a9/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445253,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -81,7 +81,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 173430,
+      "rating_count": 173449,
       "change": "=",
       "change_val": 0
     },
@@ -93,9 +93,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/2a/1b/0b2a1b79-850d-3b9a-f3cd-ac05f4b3f464/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1918675,
-      "change": "+3",
-      "change_val": 3
+      "rating_count": 1918679,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -111,51 +111,51 @@
     },
     {
       "rank": 10,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/31/85/a53185ec-43a3-2899-545b-ef2aa907c0a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 93495,
+      "change": "+6",
+      "change_val": 6
+    },
+    {
+      "rank": 11,
       "app_id": "885993234",
       "app_name": "Ziraat Mobil",
       "developer": "T.C. Ziraat Bankası A.Ş.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/94/27/779427b2-c7bc-bc07-66d3-c3fb8f8d2db8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1697073,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 11,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/45/73/3f4573af-4bc8-87d2-855e-012dae79da33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 379900,
-      "change": "new",
-      "change_val": 0
+      "rating_count": 1697212,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/55/16/85551614-59e2-61a6-a4dd-da6ab8a77b4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2160408,
-      "change": "+5",
-      "change_val": 5
-    },
-    {
-      "rank": 13,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/df/99/37df9942-070d-e1b5-1db4-e5dac9fabb87/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3048820,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 3049190,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/16/5f/25165f41-71d6-3ac3-08ac-c5b111556315/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 347300,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 14,
@@ -165,33 +165,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/34/b406349b-e7d9-01e7-1d39-764239d40b02/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1902004,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 15,
-      "app_id": "284815942",
-      "app_name": "Google - More ways to search",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/16/5f/25165f41-71d6-3ac3-08ac-c5b111556315/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 347133,
-      "change": "new",
+      "rating_count": 1902227,
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 16,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/31/85/a53185ec-43a3-2899-545b-ef2aa907c0a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 15,
+      "app_id": "984974779",
+      "app_name": "Gratis: Kişisel Bakım & Makyaj",
+      "developer": "Gratis ic ve Dis Ticaret Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/d7/c2/16d7c22e-a9ac-24f9-01e2-5945940afdb8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 93493,
-      "change": "-4",
-      "change_val": -4
+      "rating": 4.2,
+      "rating_count": 59868,
+      "change": "+5",
+      "change_val": 5
+    },
+    {
+      "rank": 16,
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/45/73/3f4573af-4bc8-87d2-855e-012dae79da33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 379982,
+      "change": "-5",
+      "change_val": -5
     },
     {
       "rank": 17,
@@ -201,21 +201,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e2/eb/c1e2eb09-f4ed-59e2-b347-915ed7a87fc6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 36989,
-      "change": "-9",
-      "change_val": -9
+      "rating_count": 37042,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6c/fe/186cfedb-b9f5-00d3-e857-1e11e20e204a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "app_id": "333903271",
+      "app_name": "X",
+      "developer": "X Corp.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/2f/27/7d2f27ab-b544-70ce-6c37-e469984d9127/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 85245,
-      "change": "+2",
-      "change_val": 2
+      "rating": 4.6,
+      "rating_count": 1650021,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -225,19 +225,19 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/30/5c/05305cc0-3dcf-7914-b3e5-5538b8d2503d/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 85633,
-      "change": "new",
+      "rating_count": 85634,
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "984974779",
-      "app_name": "Gratis: Kişisel Bakım & Makyaj",
-      "developer": "Gratis ic ve Dis Ticaret Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/d7/c2/16d7c22e-a9ac-24f9-01e2-5945940afdb8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "284882215",
+      "app_name": "Facebook",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/42/07/a3420793-995f-911e-e779-c9ef28659441/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.2,
-      "rating_count": 59868,
+      "rating": 4.5,
+      "rating_count": 1161506,
       "change": "new",
       "change_val": 0
     }
