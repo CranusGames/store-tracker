@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 173493,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918686,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,11 +82,23 @@
       "installs": "",
       "rating": 1.4,
       "rating_count": 6483,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
+      "app_id": "603336861",
+      "app_name": "beIN CONNECT",
+      "developer": "DIGITURK",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/54/00/9b54006e-a998-afd1-fb75-3edfd3497602/AppIcon-0-0-1x_U007emarketing-0-9-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 21741,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 9,
       "app_id": "1511527605",
       "app_name": "Museums of Türkiye - Official",
       "developer": "T. C. Kültür ve Turizm Bakanlığı",
@@ -94,11 +106,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 85247,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -106,35 +118,11 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9452,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 10,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/45/73/3f4573af-4bc8-87d2-855e-012dae79da33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 380240,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 11,
-      "app_id": "284815942",
-      "app_name": "Google - More ways to search",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7e/bb/237ebb7c-ff4a-79a5-cd6a-7f01b34d5e47/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 347557,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -142,11 +130,35 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93504,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7e/bb/237ebb7c-ff4a-79a5-cd6a-7f01b34d5e47/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 347557,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/45/73/3f4573af-4bc8-87d2-855e-012dae79da33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 380240,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 14,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -154,20 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3049764,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 14,
-      "app_id": "6504849169",
-      "app_name": "NetShort - Popular Dramas & TV",
-      "developer": "NETSTORY PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e2/eb/c1e2eb09-f4ed-59e2-b347-915ed7a87fc6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 37120,
-      "change": "-4",
-      "change_val": -4
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -183,6 +183,18 @@
     },
     {
       "rank": 16,
+      "app_id": "6504849169",
+      "app_name": "NetShort - Popular Dramas & TV",
+      "developer": "NETSTORY PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e2/eb/c1e2eb09-f4ed-59e2-b347-915ed7a87fc6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 37120,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
       "app_id": "835599320",
       "app_name": "TikTok - Videos, Music & LIVE",
       "developer": "TikTok Ltd.",
@@ -190,11 +202,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1065107,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "app_id": "984974779",
       "app_name": "Gratis: Kişisel Bakım & Makyaj",
       "developer": "Gratis ic ve Dis Ticaret Anonim Sirketi",
@@ -202,20 +214,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 59871,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 18,
-      "app_id": "422689480",
-      "app_name": "Gmail - Email by Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/30/5c/05305cc0-3dcf-7914-b3e5-5538b8d2503d/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 85644,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4600859,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/91/75/3391759a-b318-0a87-f73d-1950130ee929/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "284882215",
+      "app_name": "Facebook",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/42/07/a3420793-995f-911e-e779-c9ef28659441/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 330806,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.5,
+      "rating_count": 1162016,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
