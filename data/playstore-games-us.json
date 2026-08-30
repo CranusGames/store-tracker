@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "rankings": [
     {
       "rank": 1,
@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "com.dts.freefireth",
-      "app_name": "Free Fire: 9th Anniversary",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/JT88XmsHoGDio7FxONwh382DhuTxuccfMmWFDtRBFjilySzNqWOCxUhqm8IhBKzQSwVrW2HWp_XvSgKFwi3ETA",
-      "installs": "1,000,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "bubbleshooter.orig",
       "app_name": "Bubble Shooter - Classic Pop",
       "developer": "Bubble Shooter",
@@ -46,11 +34,11 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 5,
+      "rank": 4,
       "app_id": "com.ea.game.pvzfree_row",
       "app_name": "Plants vs. Zombies™",
       "developer": "ELECTRONIC ARTS",
@@ -58,23 +46,11 @@
       "installs": "500,000,000+",
       "rating": 3.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
-      "app_id": "com.playrix.fishdomdd.gplay",
-      "app_name": "Fishdom",
-      "developer": "Playrix",
-      "icon_url": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "app_id": "com.halfbrick.fruitninjafree",
       "app_name": "Fruit Ninja®",
       "developer": "Halfbrick Studios",
@@ -82,11 +58,11 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 8,
+      "rank": 6,
       "app_id": "com.dts.freefiremax",
       "app_name": "Free Fire MAX",
       "developer": "GARENA INTERNATIONAL I",
@@ -94,11 +70,11 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 9,
+      "rank": 7,
       "app_id": "com.imangi.templerun2",
       "app_name": "Temple Run 2",
       "developer": "Imangi Studios",
@@ -106,23 +82,35 @@
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 8,
+      "app_id": "com.dts.freefireth",
+      "app_name": "Free Fire: 9th Anniversary",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/JT88XmsHoGDio7FxONwh382DhuTxuccfMmWFDtRBFjilySzNqWOCxUhqm8IhBKzQSwVrW2HWp_XvSgKFwi3ETA",
+      "installs": "1,000,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-5",
+      "change_val": -5
+    },
+    {
+      "rank": 9,
+      "app_id": "com.miniclip.eightballpool",
+      "app_name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.8,
+      "rating_count": 0,
+      "change": "+5",
+      "change_val": 5
     },
     {
       "rank": 10,
-      "app_id": "com.roblox.client",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
-      "installs": "1,000,000,000+",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "com.bigduckgames.flow",
       "app_name": "Flow Free",
       "developer": "Big Duck Games LLC",
@@ -130,11 +118,11 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "com.wildspike.wormszone",
       "app_name": "Worms Zone .io - Hungry Snake",
       "developer": "CASUAL AZUR GAMES",
@@ -142,8 +130,20 @@
       "installs": "500,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "com.roblox.client",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
+      "installs": "1,000,000,000+",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 13,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "com.miniclip.eightballpool",
-      "app_name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.8,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "com.topfreegames.bikeracefreeworld",
       "app_name": "Bike Race：Motorcycle Games",
       "developer": "Wildlife Studios",
@@ -178,11 +166,11 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "com.tocaboca.tocalifeworld",
       "app_name": "Toca Boca World",
       "developer": "Toca Boca",
@@ -190,11 +178,11 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "com.rovio.baba",
       "app_name": "Angry Birds 2",
       "developer": "Rovio Entertainment Oy",
@@ -202,11 +190,11 @@
       "installs": "100,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "com.playrix.township",
       "app_name": "Township",
       "developer": "Playrix",
@@ -214,11 +202,11 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -226,11 +214,11 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "com.kiloo.subwaysurf",
       "app_name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -238,7 +226,19 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.vincentb.MobControl",
+      "app_name": "Mob Control",
+      "developer": "VOODOO",
+      "icon_url": "https://play-lh.googleusercontent.com/eYc7EHSPfZCXbS-oj4mdPH3sSX6ljrhAJntv-bN9zrRHp8qjuroDo_kknhgb0Tu4UGnl5DdkYCW1paSNlspt",
+      "installs": "100,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "new",
       "change_val": 0
     }
   ]
