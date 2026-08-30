@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918692,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -75,6 +75,30 @@
     },
     {
       "rank": 7,
+      "app_id": "1207256037",
+      "app_name": "EBA",
+      "developer": "EBA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/5b/3c/305b3ca7-a65b-a777-e060-a05ec8b01e4f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 2.1,
+      "rating_count": 44331,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "603336861",
+      "app_name": "beIN CONNECT",
+      "developer": "DIGITURK",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/54/00/9b54006e-a998-afd1-fb75-3edfd3497602/AppIcon-0-0-1x_U007emarketing-0-9-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 22158,
+      "change": "+9",
+      "change_val": 9
+    },
+    {
+      "rank": 9,
       "app_id": "1511527605",
       "app_name": "Museums of Türkiye - Official",
       "developer": "T. C. Kültür ve Turizm Bakanlığı",
@@ -86,43 +110,7 @@
       "change_val": -2
     },
     {
-      "rank": 8,
-      "app_id": "1207256037",
-      "app_name": "EBA",
-      "developer": "EBA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/5b/3c/305b3ca7-a65b-a777-e060-a05ec8b01e4f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 2.1,
-      "rating_count": 44331,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 9,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/45/73/3f4573af-4bc8-87d2-855e-012dae79da33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 380568,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 10,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/19/2e/8b192ed7-7808-d040-a6d5-4d70dc047643/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 23828,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 11,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -130,11 +118,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3050605,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -142,35 +130,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93515,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 13,
-      "app_id": "1451805015",
-      "app_name": "ÖSYM Aday İşlemleri Sistemi",
-      "developer": "Olcme Secme ve Yerlestirme Merkezi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.4,
-      "rating_count": 6484,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/91/75/3391759a-b318-0a87-f73d-1950130ee929/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 331719,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 12,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7e/bb/237ebb7c-ff4a-79a5-cd6a-7f01b34d5e47/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 347886,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 13,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -178,11 +154,47 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1903002,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 14,
+      "app_id": "524362642",
+      "app_name": "Trendyol: Online Shopping",
+      "developer": "trendyol.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/c1/6c/e5c16c30-a43a-19f5-aba0-2bb71a5bae5d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4602106,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 15,
+      "app_id": "1451805015",
+      "app_name": "ÖSYM Aday İşlemleri Sistemi",
+      "developer": "Olcme Secme ve Yerlestirme Merkezi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.4,
+      "rating_count": 6484,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/45/73/3f4573af-4bc8-87d2-855e-012dae79da33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 380568,
+      "change": "-7",
+      "change_val": -7
+    },
+    {
+      "rank": 17,
       "app_id": "995280265",
       "app_name": "getir: groceries, food&beyond",
       "developer": "Getir",
@@ -190,54 +202,42 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1073010,
-      "change": "+2",
-      "change_val": 2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 17,
-      "app_id": "603336861",
-      "app_name": "beIN CONNECT",
-      "developer": "DIGITURK",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/54/00/9b54006e-a998-afd1-fb75-3edfd3497602/AppIcon-0-0-1x_U007emarketing-0-9-0-sRGB-85-220.png/100x100bb.png",
+      "rank": 18,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Music & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/f6/9e/b4f69e23-a20c-784c-7f41-400fd8ab3d1c/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.4,
-      "rating_count": 22158,
+      "rating": 4.5,
+      "rating_count": 1065176,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 18,
-      "app_id": "6466298983",
-      "app_name": "Retake AI: Face & Photo Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/4d/d7/194dd74b-47c8-fdac-2089-af176edf11e8/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 1840,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
       "rank": 19,
-      "app_id": "6504849169",
-      "app_name": "NetShort - Popular Dramas & TV",
-      "developer": "NETSTORY PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e2/eb/c1e2eb09-f4ed-59e2-b347-915ed7a87fc6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/19/2e/8b192ed7-7808-d040-a6d5-4d70dc047643/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 37250,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.8,
+      "rating_count": 23828,
+      "change": "-9",
+      "change_val": -9
     },
     {
       "rank": 20,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/91/01/579101da-f384-3cd9-7dbe-7de6bff3d124/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 69245,
+      "rating": 3.4,
+      "rating_count": 9451,
       "change": "new",
       "change_val": 0
     }
