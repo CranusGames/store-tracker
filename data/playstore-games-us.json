@@ -63,10 +63,10 @@
     },
     {
       "rank": 6,
-      "app_id": "com.halfbrick.fruitninjafree",
-      "app_name": "Fruit Ninja®",
-      "developer": "Halfbrick Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/fznhdrBfXgOQx6CBMYServVpkwRBbJUke9-S6-QfeCnI0ZmipdfO7dvD5K-ae7Fb-8l9O3uIYYR3XXEl8ot1",
+      "app_id": "com.dts.freefiremax",
+      "app_name": "Free Fire MAX",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/SDYv1Th3VdjfM0MwObMIvH3L2I2owroB3leEtbMrFJZYRklHroxw_AspZZmno_8DBdiar3d03kHsyjBsnvcdlg",
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
@@ -75,10 +75,10 @@
     },
     {
       "rank": 7,
-      "app_id": "com.dts.freefiremax",
-      "app_name": "Free Fire MAX",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/SDYv1Th3VdjfM0MwObMIvH3L2I2owroB3leEtbMrFJZYRklHroxw_AspZZmno_8DBdiar3d03kHsyjBsnvcdlg",
+      "app_id": "com.halfbrick.fruitninjafree",
+      "app_name": "Fruit Ninja®",
+      "developer": "Halfbrick Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/fznhdrBfXgOQx6CBMYServVpkwRBbJUke9-S6-QfeCnI0ZmipdfO7dvD5K-ae7Fb-8l9O3uIYYR3XXEl8ot1",
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
@@ -202,7 +202,7 @@
       "installs": "50,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -214,29 +214,29 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "com.playrix.township",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
-      "installs": "500,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 20,
       "app_id": "com.kiloo.subwaysurf",
       "app_name": "Subway Surfers",
       "developer": "SYBO Games",
       "icon_url": "https://play-lh.googleusercontent.com/T7az9M7td7A24vOr7Jp3C9NG16kyWA1NnlUySyl_mbDV9BtlrFbxps5TD5DzT7kCBxpNeTbIIju2_aFN4xtFoYM",
       "installs": "1,000,000,000+",
       "rating": 4.6,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.playrix.township",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+      "installs": "500,000,000+",
+      "rating": 4.7,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
