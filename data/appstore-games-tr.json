@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/3e/2e/933e2ed1-8b86-d507-1fc1-184f7255e81c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 5535,
+      "rating_count": 5578,
       "change": "=",
       "change_val": 0
     },
@@ -21,7 +21,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/c1/bc/12c1bc9e-e254-76ef-10a3-e1600bec5d84/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 93525,
+      "rating_count": 93551,
       "change": "=",
       "change_val": 0
     },
@@ -33,7 +33,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7e/5c/a67e5c64-65f4-bd11-edcc-087936599310/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.8,
-      "rating_count": 40227,
+      "rating_count": 40233,
       "change": "=",
       "change_val": 0
     },
@@ -45,7 +45,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/37/32/073732fc-1aa2-007b-882f-3cdfae8e6f2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 18192,
+      "rating_count": 18200,
       "change": "=",
       "change_val": 0
     },
@@ -57,7 +57,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/60/7d/b5607d7f-188b-6df8-a139-a7181b0bc6c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.3,
-      "rating_count": 17558,
+      "rating_count": 17572,
       "change": "=",
       "change_val": 0
     },
@@ -68,10 +68,10 @@
       "developer": "Sybo Games ApS",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/3f/e9/dc3fe95d-c5a3-3a60-d506-a0ef7ab053e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 338258,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.4,
+      "rating_count": 338293,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -81,9 +81,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/65/ad/d965adef-ab2d-596a-a2d9-f88486cd5278/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 8330,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 8352,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -93,24 +93,12 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 2702,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 9,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/4d/aa1b4d6b-b561-e2bf-24c4-99aae15daa28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4137,
+      "rating_count": 2707,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 10,
+      "rank": 9,
       "app_id": "6503636810",
       "app_name": "Screw Match®: ASMR Game",
       "developer": "BESTPLAY GAMES PTE. LTD.",
@@ -122,6 +110,18 @@
       "change_val": 1
     },
     {
+      "rank": 10,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/4d/aa1b4d6b-b561-e2bf-24c4-99aae15daa28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4144,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 11,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
@@ -129,33 +129,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/05/20/880520de-82fe-e342-31ca-955145617bcd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1930645,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 1930668,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "6746328263",
-      "app_name": "Castle Busters",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/71/8d/56718d51-1a58-bade-84bf-5d010e77e6e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 5276,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 13,
       "app_id": "1229016807",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/b7/0a/82b70a55-611d-227f-c88b-b8630c3e8443/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 865953,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 865923,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6746328263",
+      "app_name": "Castle Busters",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/71/8d/56718d51-1a58-bade-84bf-5d010e77e6e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 5284,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -165,9 +165,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c1/54/e3c15430-c128-802a-ec17-95d0a02bc752/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.2,
-      "rating_count": 690766,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 690764,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -177,31 +177,31 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/28/20/09282029-6a85-7978-6c31-b94a8501af15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 40682,
+      "rating_count": 40699,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "506627515",
-      "app_name": "Hay Day",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/e4/de/68e4de8b-0e48-d1bc-004b-1346c3cf511b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 154746,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 17,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8c/42/508c42ee-b55e-375a-63dc-158374da9693/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.3,
-      "rating_count": 263415,
+      "rating_count": 263444,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "506627515",
+      "app_name": "Hay Day",
+      "developer": "Supercell",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/e4/de/68e4de8b-0e48-d1bc-004b-1346c3cf511b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 154765,
       "change": "-1",
       "change_val": -1
     },
@@ -213,9 +213,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/c1/54/54c15423-422f-8728-bb44-01694aeb7043/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.3,
-      "rating_count": 69883,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 69902,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -225,7 +225,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/a2/a3/15a2a34a-6755-083a-fd6d-2b4cfd188aff/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 1110,
+      "rating_count": 1114,
       "change": "=",
       "change_val": 0
     },
@@ -237,8 +237,8 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/a9/70/3ea970c3-34c9-02a6-a4e4-e29c24e811d1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 13521,
-      "change": "new",
+      "rating_count": 13530,
+      "change": "=",
       "change_val": 0
     }
   ]

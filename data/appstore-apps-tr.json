@@ -6,10 +6,10 @@
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/03/7a/eb037a88-935d-c93d-a72b-39b04bd56667/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/e7/76/e2e776e1-18c6-5210-1d79-d8a2822254e8/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 60819,
+      "rating_count": 60858,
       "change": "=",
       "change_val": 0
     },
@@ -21,7 +21,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/db/55/fedb5542-d8b9-9f88-be27-3a581bb4e169/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 385785,
+      "rating_count": 385999,
       "change": "=",
       "change_val": 0
     },
@@ -30,10 +30,10 @@
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/de/22/4ede22cd-d4cb-1de3-66b5-9931e4c20008/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/ae/7b/33ae7b77-258b-f4ae-1056-fce248dca3a0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1002053,
+      "rating_count": 1002506,
       "change": "=",
       "change_val": 0
     },
@@ -45,7 +45,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/56/09/4956094f-1b14-70ed-e817-49d9faa4439b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 2.1,
-      "rating_count": 44433,
+      "rating_count": 44444,
       "change": "=",
       "change_val": 0
     },
@@ -69,9 +69,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/fb/d2/dafbd2e1-19f4-eb51-338a-b0c72fdbd0a9/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 445292,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 445293,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -81,12 +81,24 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 173602,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 173607,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/00/0e/95000e95-5c3a-79b3-cd67-4cd6deafcfcb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1918718,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 9,
       "app_id": "980446169",
       "app_name": "e-Nabız",
       "developer": "T.C. Saglik Bakanligi",
@@ -94,32 +106,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548076,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "app_id": "6758667154",
       "app_name": "VibeShort: AI Short Dramas",
       "developer": "AGILE QUADRANT MEDIA LIMITED",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/37/e2/8637e2d6-a73d-e2f5-d031-14680e6e0294/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1015,
+      "rating_count": 1024,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 10,
-      "app_id": "373034841",
-      "app_name": "Yemeksepeti: Food & Grocery",
-      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/8f/23/4d8f23cc-95d5-d380-0dd2-782f629cb590/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1918715,
-      "change": "+1",
-      "change_val": 1
     },
     {
       "rank": 11,
@@ -129,33 +129,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/55/16/85551614-59e2-61a6-a4dd-da6ab8a77b4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2164232,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 2164552,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/19/2e/8b192ed7-7808-d040-a6d5-4d70dc047643/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 23996,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 13,
       "app_id": "885993234",
       "app_name": "Ziraat Mobil",
       "developer": "T.C. Ziraat Bankası A.Ş.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/94/27/779427b2-c7bc-bc07-66d3-c3fb8f8d2db8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1698508,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 1698620,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/19/2e/8b192ed7-7808-d040-a6d5-4d70dc047643/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 24012,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -177,9 +177,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/49/07/bc49076a-a288-9f18-1527-50e282484db2/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3052069,
-      "change": "+3",
-      "change_val": 3
+      "rating_count": 3052269,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -189,8 +189,8 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/16/f2/de16f2b0-8047-e3d4-193d-caf3d133cf0e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 479395,
-      "change": "new",
+      "rating_count": 479463,
+      "change": "=",
       "change_val": 0
     },
     {
@@ -201,8 +201,8 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/d7/c2/16d7c22e-a9ac-24f9-01e2-5945940afdb8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.2,
-      "rating_count": 59873,
-      "change": "new",
+      "rating_count": 59874,
+      "change": "=",
       "change_val": 0
     },
     {
@@ -213,9 +213,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/34/b406349b-e7d9-01e7-1d39-764239d40b02/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1903709,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1903808,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -225,9 +225,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/7d/0b/ec7d0bd9-51af-0688-8c28-f0a345fe3c72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 93538,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 93541,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -237,9 +237,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/e2/eb/c1e2eb09-f4ed-59e2-b347-915ed7a87fc6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 37469,
-      "change": "-4",
-      "change_val": -4
+      "rating_count": 37508,
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
