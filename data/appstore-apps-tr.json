@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6744158894",
-      "app_name": "MASS",
-      "developer": "Enerji Piyasaları İşletme A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/c6/1e/a9c61ef2-6d6d-9689-97aa-1e2b5f984098/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 5,
-      "rating_count": 2,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -58,23 +46,23 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9459,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/fb/d2/dafbd2e1-19f4-eb51-338a-b0c72fdbd0a9/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445304,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "app_id": "6744158894",
+      "app_name": "MASS",
+      "developer": "Enerji Piyasaları İşletme A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/c6/1e/a9c61ef2-6d6d-9689-97aa-1e2b5f984098/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 5,
+      "rating_count": 2,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 6,
       "app_id": "1207256037",
       "app_name": "EBA",
       "developer": "EBA",
@@ -82,6 +70,18 @@
       "installs": "",
       "rating": 2.1,
       "rating_count": 44490,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/fb/d2/dafbd2e1-19f4-eb51-338a-b0c72fdbd0a9/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 445304,
       "change": "-1",
       "change_val": -1
     },
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918735,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,35 +118,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548080,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
-      "app_id": "885993234",
-      "app_name": "Ziraat Mobil",
-      "developer": "T.C. Ziraat Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/94/27/779427b2-c7bc-bc07-66d3-c3fb8f8d2db8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1699229,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/55/16/85551614-59e2-61a6-a4dd-da6ab8a77b4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2166143,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "1451805015",
       "app_name": "ÖSYM Aday İşlemleri Sistemi",
       "developer": "Olcme Secme ve Yerlestirme Merkezi",
@@ -154,11 +130,11 @@
       "installs": "",
       "rating": 1.4,
       "rating_count": 6485,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 14,
+      "rank": 12,
       "app_id": "6758667154",
       "app_name": "VibeShort: AI Short Dramas",
       "developer": "AGILE QUADRANT MEDIA LIMITED",
@@ -166,11 +142,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1095,
-      "change": "-1",
-      "change_val": -1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 15,
+      "rank": 13,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -182,7 +158,19 @@
       "change_val": 2
     },
     {
-      "rank": 16,
+      "rank": 14,
+      "app_id": "885993234",
+      "app_name": "Ziraat Mobil",
+      "developer": "T.C. Ziraat Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/94/27/779427b2-c7bc-bc07-66d3-c3fb8f8d2db8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1699229,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 15,
       "app_id": "570060128",
       "app_name": "Duolingo: Language & Chess",
       "developer": "Duolingo",
@@ -190,23 +178,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 479793,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 17,
-      "app_id": "6792835543",
-      "app_name": "Kiku - Kitap Kulübün",
-      "developer": "YAVUZ KAKLIKKAYA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/0b/cc/270bcc1d-8c84-425a-7524-cf873d894bba/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 23,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 18,
+      "rank": 16,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -218,19 +194,31 @@
       "change_val": 2
     },
     {
-      "rank": 19,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/5d/b8/a25db8cb-ef1a-00fc-c2ba-e238adc60b01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "rank": 17,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/55/16/85551614-59e2-61a6-a4dd-da6ab8a77b4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 24118,
-      "change": "-3",
-      "change_val": -3
+      "rating": 4.7,
+      "rating_count": 2166143,
+      "change": "-5",
+      "change_val": -5
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/34/b406349b-e7d9-01e7-1d39-764239d40b02/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1904205,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
       "app_id": "984974779",
       "app_name": "Gratis: Kişisel Bakım & Makyaj",
       "developer": "Gratis ic ve Dis Ticaret Anonim Sirketi",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 59877,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "6792835543",
+      "app_name": "Kiku - Kitap Kulübün",
+      "developer": "YAVUZ KAKLIKKAYA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/0b/cc/270bcc1d-8c84-425a-7524-cf873d894bba/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 23,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }

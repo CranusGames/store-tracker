@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6761760135",
-      "app_name": "Meowdoku!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/92/a0/1d92a03e-cbc0-50c4-e454-bef69fa07305/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 182943,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6748084174",
       "app_name": "Smash Fest!",
       "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
@@ -22,8 +10,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 391730,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6761760135",
+      "app_name": "Meowdoku!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/92/a0/1d92a03e-cbc0-50c4-e454-bef69fa07305/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 182943,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 9646,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 75271,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 456565,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,11 +166,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2187894,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
+      "app_id": "1608987929",
+      "app_name": "Triumph Arcade",
+      "developer": "Triumph Arcade",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/a3/d1/fea3d149-220d-6057-84b1-32db81955f14/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 955032,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
       "app_id": "6751101794",
       "app_name": "Loop Sort",
       "developer": "Voodoo",
@@ -182,18 +194,6 @@
       "change_val": -1
     },
     {
-      "rank": 16,
-      "app_id": "1608987929",
-      "app_name": "Triumph Arcade",
-      "developer": "Triumph Arcade",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/a3/d1/fea3d149-220d-6057-84b1-32db81955f14/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 955032,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
       "rank": 17,
       "app_id": "1482155847",
       "app_name": "Royal Match",
@@ -202,11 +202,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3799978,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/92/ad/8892adaa-44ce-b302-3969-41bd5c86a41e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 199629,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
       "app_id": "6780891673",
       "app_name": "Royal Smash! - Physics Puzzle",
       "developer": "Cypher Games",
@@ -218,18 +230,6 @@
       "change_val": -1
     },
     {
-      "rank": 19,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/92/ad/8892adaa-44ce-b302-3969-41bd5c86a41e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 199629,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 20,
       "app_id": "6767091927",
       "app_name": "Jigsaw Drop: Solitaire Puzzle",
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 41520,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
