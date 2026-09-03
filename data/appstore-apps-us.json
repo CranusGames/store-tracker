@@ -66,7 +66,7 @@
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/34/98/003498a5-7371-cbaa-f640-f1a1d2e64699/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/3d/8f/b83d8fb9-195a-768f-5132-c65017e33ff3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 251067,
@@ -82,11 +82,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2178835,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
+      "app_id": "6762023973",
+      "app_name": "7 Brew Coffee",
+      "developer": "Brew Culture, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/7a/3b/e97a3bd1-7c1d-abb9-5c0c-927fa0b608eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 32675,
+      "change": "+8",
+      "change_val": 8
+    },
+    {
+      "rank": 9,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -98,18 +110,6 @@
       "change_val": -1
     },
     {
-      "rank": 9,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/bf/77/05bf778e-0832-4c6b-05e5-87c67b8e9b67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 983440,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 10,
       "app_id": "6446901002",
       "app_name": "Threads",
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2205645,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,11 +130,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5028594,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/bf/77/05bf778e-0832-4c6b-05e5-87c67b8e9b67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 983440,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 13,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -142,71 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18523223,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/7d/0b/ec7d0bd9-51af-0688-8c28-f0a345fe3c72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1119461,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
-      "app_id": "422689480",
-      "app_name": "Gmail - Email by Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f0/57/a0f057ec-e69b-27d7-3ada-ad34c50dbfb5/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2435055,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 15,
-      "app_id": "987367543",
-      "app_name": "Sleeper - Fantasy Sports",
-      "developer": "Blitz Studios",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/5f/43/a15f43b2-9a2a-f2ef-e1a6-f429ac3f9c13/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 265627,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 16,
-      "app_id": "6762023973",
-      "app_name": "7 Brew Coffee",
-      "developer": "Brew Culture, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/7a/3b/e97a3bd1-7c1d-abb9-5c0c-927fa0b608eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 32675,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "407558537",
-      "app_name": "Capital One Mobile",
-      "developer": "Capital One",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/ef/c4/4aefc446-5dc3-dfad-a6fd-812cca4264b1/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 11033675,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 18,
       "app_id": "983156458",
       "app_name": "Microsoft Authenticator",
       "developer": "Microsoft Corporation",
@@ -214,8 +166,56 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 691215,
-      "change": "-1",
-      "change_val": -1
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 15,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/7d/0b/ec7d0bd9-51af-0688-8c28-f0a345fe3c72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1119461,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
+      "app_id": "1113153706",
+      "app_name": "Microsoft Teams",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/d0/fe/d9d0fe80-f987-c8eb-e729-031ff11fe152/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3372680,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
+      "app_id": "422689480",
+      "app_name": "Gmail - Email by Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f0/57/a0f057ec-e69b-27d7-3ada-ad34c50dbfb5/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2435055,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 18,
+      "app_id": "987367543",
+      "app_name": "Sleeper - Fantasy Sports",
+      "developer": "Blitz Studios",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/5f/43/a15f43b2-9a2a-f2ef-e1a6-f429ac3f9c13/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 265627,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 19,
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7346915,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6749139358",
-      "app_name": "PopDrama",
-      "developer": "Rahat Social Media Marketing co",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/cd/ad/12cdad2f-a017-3e66-3589-1fc43c50825b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "407558537",
+      "app_name": "Capital One Mobile",
+      "developer": "Capital One",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/ef/c4/4aefc446-5dc3-dfad-a6fd-812cca4264b1/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 24194,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 11033675,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }

@@ -54,39 +54,27 @@
       "app_id": "1207256037",
       "app_name": "EBA",
       "developer": "EBA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/56/09/4956094f-1b14-70ed-e817-49d9faa4439b/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/4c/5b/da4c5b9a-7f76-5891-5135-4c34dea03669/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 2.1,
       "rating_count": 44632,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/5d/b8/a25db8cb-ef1a-00fc-c2ba-e238adc60b01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/2e/65/9e2e659e-838c-e9b9-d00a-f6ddf6aea2f9/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 24206,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.7,
+      "rating_count": 445303,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 7,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548083,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 8,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -98,19 +86,7 @@
       "change_val": 1
     },
     {
-      "rank": 9,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/fb/d2/dafbd2e1-19f4-eb51-338a-b0c72fdbd0a9/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445303,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "app_id": "6744158894",
       "app_name": "MASS",
       "developer": "Enerji Piyasaları İşletme A.Ş.",
@@ -118,6 +94,30 @@
       "installs": "",
       "rating": 2.5,
       "rating_count": 8,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 9,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 548083,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 10,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/5d/b8/a25db8cb-ef1a-00fc-c2ba-e238adc60b01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 24206,
       "change": "-4",
       "change_val": -4
     },
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918742,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1699642,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,35 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2167242,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "6758667154",
-      "app_name": "VibeShort: AI Short Dramas",
-      "developer": "AGILE QUADRANT MEDIA LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/37/e2/8637e2d6-a73d-e2f5-d031-14680e6e0294/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1147,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 15,
-      "app_id": "6504849169",
-      "app_name": "NetShort - Popular Dramas & TV",
-      "developer": "NETSTORY PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/a7/9e/a1a79eb7-f269-f849-2c6a-95804201a16d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 37842,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 16,
       "app_id": "1451805015",
       "app_name": "ÖSYM Aday İşlemleri Sistemi",
       "developer": "Olcme Secme ve Yerlestirme Merkezi",
@@ -190,8 +166,32 @@
       "installs": "",
       "rating": 1.4,
       "rating_count": 6486,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 15,
+      "app_id": "6758667154",
+      "app_name": "VibeShort: AI Short Dramas",
+      "developer": "AGILE QUADRANT MEDIA LIMITED",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/37/e2/8637e2d6-a73d-e2f5-d031-14680e6e0294/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1147,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 16,
+      "app_id": "6504849169",
+      "app_name": "NetShort - Popular Dramas & TV",
+      "developer": "NETSTORY PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/a7/9e/a1a79eb7-f269-f849-2c6a-95804201a16d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 37842,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
@@ -202,23 +202,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3053891,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/7d/0b/ec7d0bd9-51af-0688-8c28-f0a345fe3c72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "839482639",
+      "app_name": "MEB E-OKUL VBS",
+      "developer": "T.C. Milli Egitim Bakanligı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/d5/6e/59d56e07-a805-2cf0-3b0f-360d825f9ae6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 93557,
-      "change": "+1",
-      "change_val": 1
+      "rating": 1.7,
+      "rating_count": 33863,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 19,
+      "app_id": "1068841746",
+      "app_name": "Halkbank Mobil",
+      "developer": "Turkiye Halk Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/bb/8d/17bb8db4-93fc-c705-d09d-d82336f6aeac/HBAppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 392800,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1904575,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 20,
-      "app_id": "570060128",
-      "app_name": "Duolingo: Language & Chess",
-      "developer": "Duolingo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/b8/6b/b7b86b67-18ad-44c9-8909-f1da80444946/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 480056,
-      "change": "-3",
-      "change_val": -3
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
