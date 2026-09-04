@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/3e/2e/933e2ed1-8b86-d507-1fc1-184f7255e81c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 6129,
+      "rating_count": 6180,
       "change": "=",
       "change_val": 0
     },
@@ -21,33 +21,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/10/3c/92103c76-c18d-d222-8279-796080f933b4/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 93970,
+      "rating_count": 93996,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 3,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/37/32/073732fc-1aa2-007b-882f-3cdfae8e6f2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 18343,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "1351168404",
       "app_name": "Among Us!",
       "developer": "InnerSloth LLC",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7e/5c/a67e5c64-65f4-bd11-edcc-087936599310/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.8,
-      "rating_count": 40343,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 40351,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "6739554056",
+      "app_name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/37/32/073732fc-1aa2-007b-882f-3cdfae8e6f2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 18352,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -57,7 +57,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/60/7d/b5607d7f-188b-6df8-a139-a7181b0bc6c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.3,
-      "rating_count": 17750,
+      "rating_count": 17779,
       "change": "=",
       "change_val": 0
     },
@@ -69,7 +69,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/65/ad/d965adef-ab2d-596a-a2d9-f88486cd5278/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 8696,
+      "rating_count": 8725,
       "change": "=",
       "change_val": 0
     },
@@ -93,80 +93,80 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/16/bf/d216bf0b-181e-bd71-53a9-1c4350d16e7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 338754,
+      "rating_count": 338782,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/4d/aa1b4d6b-b561-e2bf-24c4-99aae15daa28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4240,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/05/20/880520de-82fe-e342-31ca-955145617bcd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1930930,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 1930947,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/4d/aa1b4d6b-b561-e2bf-24c4-99aae15daa28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4242,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
-      "app_id": "6746328263",
-      "app_name": "Castle Busters",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/4d/0f/ea4d0f48-4e84-cace-668e-910c374ba0d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 5403,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 2817,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "1229016807",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/b7/0a/82b70a55-611d-227f-c88b-b8630c3e8443/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 869792,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 869926,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 12,
+      "app_id": "6746328263",
+      "app_name": "Castle Busters",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/4d/0f/ea4d0f48-4e84-cace-668e-910c374ba0d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 5424,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 13,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 2825,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
-      "app_id": "1606549505",
-      "app_name": "Royal Kingdom",
-      "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/28/20/09282029-6a85-7978-6c31-b94a8501af15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1597760047",
+      "app_name": "OneState RP: Role Play Online",
+      "developer": "CHILLBASE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/7d/51/5c7d5143-0bd7-9ce4-7680-5aae0f4839d6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 40914,
-      "change": "=",
+      "rating": 4.0,
+      "rating_count": 842,
+      "change": "new",
       "change_val": 0
     },
     {
@@ -177,33 +177,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c1/54/e3c15430-c128-802a-ec17-95d0a02bc752/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.2,
-      "rating_count": 690876,
+      "rating_count": 690877,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 16,
+      "app_id": "1606549505",
+      "app_name": "Royal Kingdom",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/28/20/09282029-6a85-7978-6c31-b94a8501af15/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 40931,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 46520,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "6752886832",
-      "app_name": "Hotel Legacy: Merge Game",
-      "developer": "Century Games Innovation Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/50/ff/fe50ff67-98e9-0750-8a75-586f5f145bf0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 1436,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 46526,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -213,33 +213,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/a2/a3/15a2a34a-6755-083a-fd6d-2b4cfd188aff/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 1158,
+      "rating_count": 1161,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 19,
+      "app_id": "6752886832",
+      "app_name": "Hotel Legacy: Merge Game",
+      "developer": "Century Games Innovation Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/50/ff/fe50ff67-98e9-0750-8a75-586f5f145bf0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 1440,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 20,
       "app_id": "506627515",
       "app_name": "Hay Day",
       "developer": "Supercell",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/e4/de/68e4de8b-0e48-d1bc-004b-1346c3cf511b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 154945,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/03/dd/ac03ddd8-cec0-3190-c3bf-cd31ab4bd49b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 46943,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 154968,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
