@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/e7/76/e2e776e1-18c6-5210-1d79-d8a2822254e8/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 61483,
+      "rating_count": 61563,
       "change": "=",
       "change_val": 0
     },
@@ -21,33 +21,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/eb/fb/04ebfb38-5dcb-babe-a092-0268a25ff40a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 388663,
+      "rating_count": 389067,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 3,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/ae/7b/33ae7b77-258b-f4ae-1056-fce248dca3a0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1008333,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "1207256037",
       "app_name": "EBA",
       "developer": "EBA",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/4c/5b/da4c5b9a-7f76-5891-5135-4c34dea03669/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 2.1,
-      "rating_count": 44717,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 44728,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/ae/7b/33ae7b77-258b-f4ae-1056-fce248dca3a0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1009093,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -57,21 +57,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.4,
-      "rating_count": 9465,
+      "rating_count": 9468,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 6,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/5d/b8/a25db8cb-ef1a-00fc-c2ba-e238adc60b01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/2e/65/9e2e659e-838c-e9b9-d00a-f6ddf6aea2f9/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 24262,
-      "change": "+2",
-      "change_val": 2
+      "rating": 4.7,
+      "rating_count": 445297,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 7,
@@ -81,9 +81,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 173716,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 173732,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -93,36 +93,24 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 548081,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 548082,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "6504849169",
-      "app_name": "NetShort - Popular Dramas & TV",
-      "developer": "NETSTORY PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/a7/9e/a1a79eb7-f269-f849-2c6a-95804201a16d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/00/0e/95000e95-5c3a-79b3-cd67-4cd6deafcfcb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 37959,
-      "change": "+2",
-      "change_val": 2
+      "rating": 4.6,
+      "rating_count": 1918729,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 10,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/2e/65/9e2e659e-838c-e9b9-d00a-f6ddf6aea2f9/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445296,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 11,
       "app_id": "1451805015",
       "app_name": "ÖSYM Aday İşlemleri Sistemi",
       "developer": "Olcme Secme ve Yerlestirme Merkezi",
@@ -130,56 +118,68 @@
       "installs": "",
       "rating": 1.4,
       "rating_count": 6486,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
-      "app_id": "6758667154",
-      "app_name": "VibeShort: AI Short Dramas",
-      "developer": "AGILE QUADRANT MEDIA LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/37/e2/8637e2d6-a73d-e2f5-d031-14680e6e0294/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1192,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 13,
-      "app_id": "373034841",
-      "app_name": "Yemeksepeti: Food & Grocery",
-      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/00/0e/95000e95-5c3a-79b3-cd67-4cd6deafcfcb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1918730,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 14,
+      "rank": 11,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/55/16/85551614-59e2-61a6-a4dd-da6ab8a77b4a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2167935,
-      "change": "new",
-      "change_val": 0
+      "rating_count": 2168466,
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 15,
+      "rank": 12,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/5d/b8/a25db8cb-ef1a-00fc-c2ba-e238adc60b01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 24284,
+      "change": "-6",
+      "change_val": -6
+    },
+    {
+      "rank": 13,
       "app_id": "885993234",
       "app_name": "Ziraat Mobil",
       "developer": "T.C. Ziraat Bankası A.Ş.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/94/27/779427b2-c7bc-bc07-66d3-c3fb8f8d2db8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1699926,
-      "change": "+5",
-      "change_val": 5
+      "rating_count": 1700133,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 14,
+      "app_id": "6504849169",
+      "app_name": "NetShort - Popular Dramas & TV",
+      "developer": "NETSTORY PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/a7/9e/a1a79eb7-f269-f849-2c6a-95804201a16d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 38006,
+      "change": "-5",
+      "change_val": -5
+    },
+    {
+      "rank": 15,
+      "app_id": "418535251",
+      "app_name": "sahibinden #AlSatKiralaKesfet",
+      "developer": "sahibinden.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/37/3f/df373f0a-1fa0-e36c-115d-d310c3b700e9/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 3054865,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 16,
@@ -190,20 +190,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93564,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "418535251",
-      "app_name": "sahibinden #AlSatKiralaKesfet",
-      "developer": "sahibinden.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/c3/71/e0c37129-b339-4ded-c63e-0e910409a623/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1068841746",
+      "app_name": "Halkbank Mobil",
+      "developer": "Turkiye Halk Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/bb/8d/17bb8db4-93fc-c705-d09d-d82336f6aeac/HBAppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 3054554,
-      "change": "-3",
-      "change_val": -3
+      "rating": 4.5,
+      "rating_count": 392795,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -213,9 +213,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/34/b406349b-e7d9-01e7-1d39-764239d40b02/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1904843,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 1904977,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -225,21 +225,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/d5/6e/59d56e07-a805-2cf0-3b0f-360d825f9ae6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 1.7,
-      "rating_count": 33869,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 33873,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "570060128",
-      "app_name": "Duolingo: Language & Chess",
-      "developer": "Duolingo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/b8/6b/b7b86b67-18ad-44c9-8909-f1da80444946/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "1511527605",
+      "app_name": "Museums of Türkiye - Official",
+      "developer": "T. C. Kültür ve Turizm Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6c/fe/186cfedb-b9f5-00d3-e857-1e11e20e204a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 480288,
-      "change": "-4",
-      "change_val": -4
+      "rating_count": 85261,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
