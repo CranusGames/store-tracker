@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "rankings": [
     {
       "rank": 1,
@@ -102,12 +102,12 @@
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/b5/1f/cbb51f14-c56c-f35d-421b-c89f5592a923/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ee/c3/05eec37b-94a9-4c02-2455-900a936bdbb8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 18524807,
-      "change": "+5",
-      "change_val": 5
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5029646,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3372768,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,23 +142,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2206097,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 13,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/3f/31/953f3143-8530-0b80-b9cc-d3a52d45b4fd/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 691399,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 14,
+      "rank": 13,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -166,11 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2435145,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 23535,
-      "change": "-5",
-      "change_val": -5
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/3f/31/953f3143-8530-0b80-b9cc-d3a52d45b4fd/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 691399,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
@@ -190,23 +190,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 983699,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 17,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/f9/7a/86f97a45-d6d6-efd9-c24a-d7c614482369/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18352607,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -214,8 +202,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7347967,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/f9/7a/86f97a45-d6d6-efd9-c24a-d7c614482369/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18352607,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1119475,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "407558537",
-      "app_name": "Capital One Mobile",
-      "developer": "Capital One",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/ef/c4/4aefc446-5dc3-dfad-a6fd-812cca4264b1/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+      "app_id": "987367543",
+      "app_name": "Sleeper - Fantasy Sports",
+      "developer": "Blitz Studios",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/5f/43/a15f43b2-9a2a-f2ef-e1a6-f429ac3f9c13/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 11034758,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.7,
+      "rating_count": 265764,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }

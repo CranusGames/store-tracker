@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "rankings": [
     {
       "rank": 1,
@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "1531842415",
-      "app_name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/60/7d/b5607d7f-188b-6df8-a139-a7181b0bc6c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 17703,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "6780891673",
       "app_name": "Royal Smash! - Physics Puzzle",
       "developer": "Cypher Games",
@@ -74,6 +62,18 @@
       "change_val": 1
     },
     {
+      "rank": 6,
+      "app_id": "1531842415",
+      "app_name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/60/7d/b5607d7f-188b-6df8-a139-a7181b0bc6c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 17703,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 7,
       "app_id": "6503636810",
       "app_name": "Screw Match®: ASMR Game",
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 1115,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -111,6 +111,18 @@
     },
     {
       "rank": 10,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/4d/aa1b4d6b-b561-e2bf-24c4-99aae15daa28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4213,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 11,
       "app_id": "1229016807",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
@@ -118,20 +130,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 869285,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 11,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c1/54/e3c15430-c128-802a-ec17-95d0a02bc752/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 690843,
-      "change": "+4",
-      "change_val": 4
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -142,20 +142,20 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 2776,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/4d/aa1b4d6b-b561-e2bf-24c4-99aae15daa28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/c1/54/e3c15430-c128-802a-ec17-95d0a02bc752/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 4213,
-      "change": "-3",
-      "change_val": -3
+      "rating": 4.2,
+      "rating_count": 690843,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 5353,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,47 +178,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 40860,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 16,
-      "app_id": "1117270703",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8c/42/508c42ee-b55e-375a-63dc-158374da9693/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 263679,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 17,
-      "app_id": "506627515",
-      "app_name": "Hay Day",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/e4/de/68e4de8b-0e48-d1bc-004b-1346c3cf511b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 154901,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 18,
-      "app_id": "6443575749",
-      "app_name": "Whiteout Survival",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 46506,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 19,
+      "rank": 16,
       "app_id": "6752886832",
       "app_name": "Hotel Legacy: Merge Game",
       "developer": "Century Games Innovation Pte. Ltd.",
@@ -226,6 +190,42 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 1426,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 17,
+      "app_id": "1117270703",
+      "app_name": "eFootball™",
+      "developer": "KONAMI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8c/42/508c42ee-b55e-375a-63dc-158374da9693/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 263679,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 18,
+      "app_id": "506627515",
+      "app_name": "Hay Day",
+      "developer": "Supercell",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/e4/de/68e4de8b-0e48-d1bc-004b-1346c3cf511b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 154901,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 46506,
       "change": "-1",
       "change_val": -1
     },
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1871,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]

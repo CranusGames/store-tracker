@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "rankings": [
     {
       "rank": 1,
@@ -58,11 +58,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1675333,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 6,
+      "app_id": "431946152",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/f6/b9/73f6b9d7-6a5c-e9db-57d6-dd82f64038f3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 19980155,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -72,18 +84,6 @@
       "rating_count": 50883,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 7,
-      "app_id": "431946152",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/f6/b9/73f6b9d7-6a5c-e9db-57d6-dd82f64038f3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 19980155,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 8,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2688276,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4533,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "6747492600",
-      "app_name": "Mahjong Blast",
-      "developer": "Nebula Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/f3/a1/7ff3a166-3059-ea34-b897-7909624a16d7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 521754,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "1621328561",
       "app_name": "MONOPOLY GO!",
       "developer": "Scopely, Inc.",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3813002,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6747492600",
+      "app_name": "Mahjong Blast",
+      "developer": "Nebula Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/f3/a1/7ff3a166-3059-ea34-b897-7909624a16d7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 521754,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "6780891673",
-      "app_name": "Royal Smash! - Physics Puzzle",
-      "developer": "Cypher Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/65/ad/d965adef-ab2d-596a-a2d9-f88486cd5278/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 53472,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "1482155847",
       "app_name": "Royal Match",
       "developer": "Dream Games",
@@ -214,20 +202,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3801472,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "6759412341",
+      "app_name": "EA College Football Mobile 27",
+      "developer": "Electronic Arts",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/2e/a5/632ea5a5-33e3-d96b-49da-9b733c81a90b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 5801,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/92/ad/8892adaa-44ce-b302-3969-41bd5c86a41e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6780891673",
+      "app_name": "Royal Smash! - Physics Puzzle",
+      "developer": "Cypher Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/65/ad/d965adef-ab2d-596a-a2d9-f88486cd5278/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 199855,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 53472,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 77052,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
