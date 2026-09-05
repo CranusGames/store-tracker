@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 52851,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 19991807,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/b5/ae/b0b5ae03-60d3-2d6b-13fb-dab687ae307d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 52851,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "6780195090",
-      "app_name": "82-0.com",
-      "developer": "Vaulty Studios Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/79/d9/3c79d9d0-e17d-1095-6366-6c2ac02a4e34/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 10287,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
@@ -118,15 +106,27 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2690286,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "6780195090",
+      "app_name": "82-0.com",
+      "developer": "Vaulty Studios Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/79/d9/3c79d9d0-e17d-1095-6366-6c2ac02a4e34/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 10287,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
       "app_id": "6779167923",
       "app_name": "Colony Flow!",
       "developer": "ABI GLOBAL LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/d4/a9/8fd4a9e5-9871-64ff-949b-da14a00bdd6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/f7/38/fdf738cf-1a06-8366-e630-0a094cf77653/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 13851,
@@ -159,30 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "638689075",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a6/df/7fa6dff1-c833-d96d-564b-ecb2f3ed37e9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 2189565,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "6761757565",
-      "app_name": "Colorever: Gem Art Puzzle",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/2e/b0/a32eb044-3e64-ceb9-e7f2-96aa2f24d30f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 1667,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -190,11 +166,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 457369,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "app_id": "638689075",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a6/df/7fa6dff1-c833-d96d-564b-ecb2f3ed37e9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 2189565,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 16,
       "app_id": "1621328561",
       "app_name": "MONOPOLY GO!",
       "developer": "Scopely, Inc.",
@@ -202,35 +190,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3814690,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "6761757565",
+      "app_name": "Colorever: Gem Art Puzzle",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/2e/b0/a32eb044-3e64-ceb9-e7f2-96aa2f24d30f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 1667,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
-      "app_id": "6747492600",
-      "app_name": "Mahjong Blast",
-      "developer": "Nebula Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/d5/07/ced50705-e3a3-9d6d-0ba0-f0abe81ff629/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 525673,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "6758326278",
-      "app_name": "Amaze GO!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/40/ef/b440ef3e-ddf5-475a-3883-48d142e6a5fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 187654,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "6759412341",
       "app_name": "EA College Football Mobile 27",
       "developer": "Electronic Arts",
@@ -238,8 +214,32 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 6756,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "6747492600",
+      "app_name": "Mahjong Blast",
+      "developer": "Nebula Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/d5/07/ced50705-e3a3-9d6d-0ba0-f0abe81ff629/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 525673,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 20,
+      "app_id": "6758326278",
+      "app_name": "Amaze GO!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/40/ef/b440ef3e-ddf5-475a-3883-48d142e6a5fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 187654,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }

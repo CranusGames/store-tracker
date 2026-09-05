@@ -111,6 +111,18 @@
     },
     {
       "rank": 10,
+      "app_id": "com.rioo.runnersubway",
+      "app_name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "icon_url": "https://play-lh.googleusercontent.com/uGtFh8FUHkMYhzDqf3i_KoAF4GOSixKmEiK0OAICddnDyLI8dRcsfdBrCNT6K3UdrqxCOmy9nxIVgCFZLCaU",
+      "installs": "500,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 11,
       "app_id": "com.topfreegames.bikeracefreeworld",
       "app_name": "Bike Race：Motorcycle Games",
       "developer": "Wildlife Studios",
@@ -118,29 +130,17 @@
       "installs": "100,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "app_id": "com.tocaboca.tocalifeworld",
       "app_name": "Toca Boca World",
       "developer": "Toca Boca",
       "icon_url": "https://play-lh.googleusercontent.com/l-hJjz7wkD3DyqGvd-MXaqWG9fQaSYFNy8D3mP9iZ8puxkqICHEBOD4rLo9vY65bCHWe-PIvE0fI9tkUml-H",
       "installs": "100,000,000+",
       "rating": 4.3,
-      "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 12,
-      "app_id": "com.rioo.runnersubway",
-      "app_name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "icon_url": "https://play-lh.googleusercontent.com/uGtFh8FUHkMYhzDqf3i_KoAF4GOSixKmEiK0OAICddnDyLI8dRcsfdBrCNT6K3UdrqxCOmy9nxIVgCFZLCaU",
-      "installs": "500,000,000+",
-      "rating": 4.1,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
@@ -154,8 +154,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "50,000,000+",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "50,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "500,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
