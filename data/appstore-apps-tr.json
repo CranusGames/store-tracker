@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "rankings": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/e7/76/e2e776e1-18c6-5210-1d79-d8a2822254e8/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 61889,
+      "rating_count": 61937,
       "change": "=",
       "change_val": 0
     },
@@ -21,7 +21,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/50/d2/6050d2ec-0206-5212-daf7-a0fdaa4fb620/AppIcon-0-0-1x_U007emarketing-0-9-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 23387,
+      "rating_count": 23395,
       "change": "=",
       "change_val": 0
     },
@@ -33,9 +33,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/ae/7b/33ae7b77-258b-f4ae-1056-fce248dca3a0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1012504,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 1012868,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -45,33 +45,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/eb/fb/04ebfb38-5dcb-babe-a092-0268a25ff40a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 391593,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 391866,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
-      "app_id": "1615398541",
-      "app_name": "TOD: Spor, Dizi & Film İzle",
-      "developer": "DIGITURK",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/6b/67/356b67a2-81da-2950-d62e-9fa06ec8cd14/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.1,
-      "rating_count": 30291,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 6,
       "app_id": "1207256037",
       "app_name": "EBA",
       "developer": "EBA",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/fa/9c/d8fa9c87-0843-a70b-3968-7045abe840c8/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 2.1,
-      "rating_count": 44894,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 44907,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "1615398541",
+      "app_name": "TOD: Spor, Dizi & Film İzle",
+      "developer": "DIGITURK",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/6b/67/356b67a2-81da-2950-d62e-9fa06ec8cd14/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 30296,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -81,7 +81,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/2e/65/9e2e659e-838c-e9b9-d00a-f6ddf6aea2f9/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 445294,
+      "rating_count": 445297,
       "change": "=",
       "change_val": 0
     },
@@ -93,7 +93,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 173790,
+      "rating_count": 173792,
       "change": "=",
       "change_val": 0
     },
@@ -105,7 +105,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/00/0e/95000e95-5c3a-79b3-cd67-4cd6deafcfcb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1918733,
+      "rating_count": 1918735,
       "change": "=",
       "change_val": 0
     },
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 42194,
-      "change": "+6",
-      "change_val": 6
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -129,9 +129,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/6f/af/836faf36-eb77-9ac5-4d0d-c38b77970b8a/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1651972,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1652019,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 1.4,
       "rating_count": 6488,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -165,9 +165,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/d4/e7/e1d4e75d-0be5-374a-f346-5643576e984e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 6821,
-      "change": "-4",
-      "change_val": -4
+      "rating_count": 6823,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -177,9 +177,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/7d/0b/ec7d0bd9-51af-0688-8c28-f0a345fe3c72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 93579,
-      "change": "+3",
-      "change_val": 3
+      "rating_count": 93582,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -189,8 +189,8 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7e/bb/237ebb7c-ff4a-79a5-cd6a-7f01b34d5e47/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 349822,
-      "change": "new",
+      "rating_count": 349873,
+      "change": "=",
       "change_val": 0
     },
     {
@@ -201,33 +201,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/5d/b8/a25db8cb-ef1a-00fc-c2ba-e238adc60b01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 24405,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 24425,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
-      "app_id": "418535251",
-      "app_name": "sahibinden #AlSatKiralaKesfet",
-      "developer": "sahibinden.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/37/3f/df373f0a-1fa0-e36c-115d-d310c3b700e9/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 3056102,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 19,
       "app_id": "6504849169",
       "app_name": "NetShort - Popular Dramas & TV",
       "developer": "NETSTORY PTE. LTD.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/a7/9e/a1a79eb7-f269-f849-2c6a-95804201a16d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 38303,
-      "change": "-5",
-      "change_val": -5
+      "rating_count": 38341,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "418535251",
+      "app_name": "sahibinden #AlSatKiralaKesfet",
+      "developer": "sahibinden.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/37/3f/df373f0a-1fa0-e36c-115d-d310c3b700e9/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 3056219,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
@@ -237,9 +237,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/29/b7/2529b7ae-8c9e-9f3e-1acb-0cfd5e52d231/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 336501,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 336628,
+      "change": "=",
+      "change_val": 0
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "rankings": [
     {
       "rank": 1,
@@ -9,9 +9,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/ae/7b/33ae7b77-258b-f4ae-1056-fce248dca3a0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 9960954,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 9966459,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -21,9 +21,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/e8/a6/56e8a696-7f4e-982a-79e9-d7df6568c7fb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.3,
-      "rating_count": 26579,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 26722,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -33,69 +33,69 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/5e/60/b05e6033-95d8-962b-ca36-4f6ca5f70cdb/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 238044,
+      "rating_count": 239171,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 4,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/5a/e8/bd5ae8da-53a3-f198-8473-1ee583820434/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 48736,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "555376968",
       "app_name": "ESPN Fantasy Sports & More",
       "developer": "Disney",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/c8/f1/fcc8f1f5-9a4d-1a40-59e7-fae3fc7db2c8/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1992249,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 1992798,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/5a/e8/bd5ae8da-53a3-f198-8473-1ee583820434/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 48876,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
-      "app_id": "6762023973",
-      "app_name": "7 Brew Coffee",
-      "developer": "Brew Culture, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/7a/3b/e97a3bd1-7c1d-abb9-5c0c-927fa0b608eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 45522,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
-      "app_id": "6754134922",
-      "app_name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/61/37/246137f8-616a-9994-b2c1-65295e3c7508/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 24827,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6447582581",
       "app_name": "Netflix Game Controller",
       "developer": "Netflix, Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 196126,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 196397,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 7,
+      "app_id": "6762023973",
+      "app_name": "7 Brew Coffee",
+      "developer": "Brew Culture, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/7a/3b/e97a3bd1-7c1d-abb9-5c0c-927fa0b608eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 46326,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 8,
+      "app_id": "6754134922",
+      "app_name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/61/37/246137f8-616a-9994-b2c1-65295e3c7508/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 24976,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -105,45 +105,45 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7e/bb/237ebb7c-ff4a-79a5-cd6a-7f01b34d5e47/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 5039031,
-      "change": "+3",
-      "change_val": 3
+      "rating_count": 5039966,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ee/c3/05eec37b-94a9-4c02-2455-900a936bdbb8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18538230,
-      "change": "+6",
-      "change_val": 6
-    },
-    {
-      "rank": 11,
       "app_id": "6744257048",
       "app_name": "Tesla Robotaxi",
       "developer": "Tesla, Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/6e/3e/046e3e31-37ac-480d-8795-9f5c009fa958/Rides-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 5819,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 5843,
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/eb/fb/04ebfb38-5dcb-babe-a092-0268a25ff40a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2188838,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 2189809,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ee/c3/05eec37b-94a9-4c02-2455-900a936bdbb8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18539376,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 13,
@@ -153,9 +153,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/e7/76/e2e776e1-18c6-5210-1d79-d8a2822254e8/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 2210929,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 2211332,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -165,7 +165,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/d3/e2/4ed3e273-5114-70b7-b919-dca325bee1aa/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 7354001,
+      "rating_count": 7354412,
       "change": "=",
       "change_val": 0
     },
@@ -177,43 +177,43 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/7d/0b/ec7d0bd9-51af-0688-8c28-f0a345fe3c72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1119615,
+      "rating_count": 1119632,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/f9/7a/86f97a45-d6d6-efd9-c24a-d7c614482369/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18353561,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/3d/8f/b83d8fb9-195a-768f-5132-c65017e33ff3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 252259,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 18,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/bf/77/05bf778e-0832-4c6b-05e5-87c67b8e9b67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 986373,
+      "rating_count": 986592,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/f9/7a/86f97a45-d6d6-efd9-c24a-d7c614482369/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18353638,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 18,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/65/f6/ee65f66e-1bac-b4cd-38fd-dc3776d21ae7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 252329,
       "change": "-1",
       "change_val": -1
     },
@@ -225,19 +225,19 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f0/57/a0f057ec-e69b-27d7-3ada-ad34c50dbfb5/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2435714,
+      "rating_count": 2435756,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "389801252",
-      "app_name": "Instagram",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/f3/dc/84f3dc56-cf85-0cc4-b24c-1f87a99ac806/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "719972451",
+      "app_name": "DoorDash: Food, Grocery, More",
+      "developer": "DoorDash, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/33/13/e233137f-29d0-91dd-8a56-9aeccae7fb09/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 29445736,
+      "rating": 4.8,
+      "rating_count": 23091746,
       "change": "new",
       "change_val": 0
     }
