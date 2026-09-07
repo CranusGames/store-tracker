@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 628146,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 54831,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 20017218,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -94,23 +94,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 79359,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "6754464806",
-      "app_name": "Car Evolve",
-      "developer": "Heseri Games Inc",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/fd/2a/f1fd2a75-d77c-2e0a-18d5-f56f2d0633f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 5133,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 10,
       "app_id": "6779167923",
       "app_name": "Colony Flow!",
       "developer": "ABI GLOBAL LTD.",
@@ -122,6 +110,18 @@
       "change_val": 1
     },
     {
+      "rank": 10,
+      "app_id": "6754464806",
+      "app_name": "Car Evolve",
+      "developer": "Heseri Games Inc",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/fd/2a/f1fd2a75-d77c-2e0a-18d5-f56f2d0633f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 5133,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 11,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2693908,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 10638,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,35 +154,23 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 8814,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
-      "app_id": "6761757565",
-      "app_name": "Colorever: Gem Art Puzzle",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/2e/b0/a32eb044-3e64-ceb9-e7f2-96aa2f24d30f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 1813,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 15,
-      "app_id": "6483539426",
-      "app_name": "Fortnite",
-      "developer": "Epic Games Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/77/58/617758bf-45a0-1e57-ddfa-c895f46eabbb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rank": 14,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/92/ad/8892adaa-44ce-b302-3969-41bd5c86a41e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 323813,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 200592,
+      "change": "+4",
+      "change_val": 4
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "6780891673",
       "app_name": "Royal Smash! - Physics Puzzle",
       "developer": "Cypher Games",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 60103,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "638689075",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a6/df/7fa6dff1-c833-d96d-564b-ecb2f3ed37e9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 2191000,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 17,
@@ -202,42 +202,42 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 189641,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/92/ad/8892adaa-44ce-b302-3969-41bd5c86a41e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 200592,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 19,
-      "app_id": "638689075",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a6/df/7fa6dff1-c833-d96d-564b-ecb2f3ed37e9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rank": 18,
+      "app_id": "6761757565",
+      "app_name": "Colorever: Gem Art Puzzle",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/2e/b0/a32eb044-3e64-ceb9-e7f2-96aa2f24d30f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 2191000,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.9,
+      "rating_count": 1813,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 19,
+      "app_id": "6483539426",
+      "app_name": "Fortnite",
+      "developer": "Epic Games Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/77/58/617758bf-45a0-1e57-ddfa-c895f46eabbb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 323813,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 20,
-      "app_id": "6746743297",
-      "app_name": "Bus Fever! Car Jam Escape",
-      "developer": "Lumi Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/f0/f1/8cf0f115-8d97-b629-1887-185ebf14325d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2149,
+      "rating": 4.6,
+      "rating_count": 458117,
       "change": "new",
       "change_val": 0
     }

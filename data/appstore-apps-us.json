@@ -3,15 +3,15 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "6762023973",
+      "app_name": "7 Brew Coffee",
+      "developer": "Brew Culture, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/7a/3b/e97a3bd1-7c1d-abb9-5c0c-927fa0b608eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 199342,
-      "change": "+2",
-      "change_val": 2
+      "rating": 4.9,
+      "rating_count": 51152,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 2,
@@ -27,6 +27,18 @@
     },
     {
       "rank": 3,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 199342,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 4,
       "app_id": "555376968",
       "app_name": "ESPN Fantasy Sports & More",
       "developer": "Disney",
@@ -34,32 +46,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1997433,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 4,
-      "app_id": "632064380",
-      "app_name": "Vinted: Pre-loved marketplace",
-      "developer": "Vinted Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/5e/60/b05e6033-95d8-962b-ca36-4f6ca5f70cdb/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 243892,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
-      "app_id": "6762023973",
-      "app_name": "7 Brew Coffee",
-      "developer": "Brew Culture, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/7a/3b/e97a3bd1-7c1d-abb9-5c0c-927fa0b608eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "632064380",
+      "app_name": "Vinted: Pre-loved marketplace",
+      "developer": "Vinted Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/a7/74/aaa7745a-1580-2988-c245-e1e0f63399b4/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 51152,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 243892,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/7d/0b/ec7d0bd9-51af-0688-8c28-f0a345fe3c72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1119833,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 11,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -130,8 +118,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2214466,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/7d/0b/ec7d0bd9-51af-0688-8c28-f0a345fe3c72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1119833,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -142,23 +142,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5045906,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "6744257048",
-      "app_name": "Tesla Robotaxi",
-      "developer": "Tesla, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/6e/3e/046e3e31-37ac-480d-8795-9f5c009fa958/Rides-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 6060,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 14,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
@@ -166,27 +154,15 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 252861,
-      "change": "+6",
-      "change_val": 6
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
-      "app_id": "987367543",
-      "app_name": "Sleeper - Fantasy Sports",
-      "developer": "Blitz Studios",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/5f/43/a15f43b2-9a2a-f2ef-e1a6-f429ac3f9c13/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 270916,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/26/72/e626722b-0733-8819-dd8b-7e9b83f36b5b/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/8b/54/158b547f-b422-c66c-9c26-7d36c2a955e2/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 2203825,
@@ -194,19 +170,7 @@
       "change_val": 2
     },
     {
-      "rank": 17,
-      "app_id": "719972451",
-      "app_name": "DoorDash: Food, Grocery, More",
-      "developer": "DoorDash, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/33/13/e233137f-29d0-91dd-8a56-9aeccae7fb09/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 23105955,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
+      "rank": 15,
       "app_id": "6761538521",
       "app_name": "StoryReel: Drama Shorts & TV",
       "developer": "Equinox Enterprises‌ Technology Limited",
@@ -214,23 +178,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 32207,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 16,
+      "app_id": "6744257048",
+      "app_name": "Tesla Robotaxi",
+      "developer": "Tesla, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/6e/3e/046e3e31-37ac-480d-8795-9f5c009fa958/Rides-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 6060,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 17,
+      "app_id": "1636235979",
+      "app_name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/d7/e2/c4d7e2ca-3462-dde3-9949-e0cd13637218/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 487541,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 19,
-      "app_id": "316126557",
-      "app_name": "MapQuest GPS Navigation & Maps",
-      "developer": "MapQuest Holdings LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/e8/a6/56e8a696-7f4e-982a-79e9-d7df6568c7fb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 27321,
-      "change": "-5",
-      "change_val": -5
-    },
-    {
-      "rank": 20,
+      "rank": 18,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -238,8 +214,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18547919,
-      "change": "-5",
-      "change_val": -5
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "987367543",
+      "app_name": "Sleeper - Fantasy Sports",
+      "developer": "Blitz Studios",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/5f/43/a15f43b2-9a2a-f2ef-e1a6-f429ac3f9c13/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 270916,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 20,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/92/a1/6b92a154-ea3c-029f-85a4-96ed19a5f685/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 7356653,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
