@@ -3,27 +3,27 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7e/4f/307e4f33-316d-b626-8bc6-87b3d3567b9c/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 62285,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/ae/7b/33ae7b77-258b-f4ae-1056-fce248dca3a0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1015831,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 1016535,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7e/4f/307e4f33-316d-b626-8bc6-87b3d3567b9c/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 62350,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -33,7 +33,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/eb/fb/04ebfb38-5dcb-babe-a092-0268a25ff40a/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 393770,
+      "rating_count": 394308,
       "change": "=",
       "change_val": 0
     },
@@ -57,33 +57,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/d2/81/c6d281d3-80fe-54bb-35b5-55e707197349/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.4,
-      "rating_count": 9479,
+      "rating_count": 9481,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 6,
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/47/62/bb4762a8-a09b-5287-9686-9f970c612663/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 445306,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/92/a1/6b92a154-ea3c-029f-85a4-96ed19a5f685/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 173856,
+      "rating_count": 173864,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 7,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/2e/65/9e2e659e-838c-e9b9-d00a-f6ddf6aea2f9/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445307,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 8,
@@ -93,9 +93,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/c4/d1/c9c4d1d9-0666-c397-7e8e-3c0b27d5080c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1918718,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 1918719,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -105,67 +105,67 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/34/b406349b-e7d9-01e7-1d39-764239d40b02/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1906040,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 1906184,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/5d/b8/a25db8cb-ef1a-00fc-c2ba-e238adc60b01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 24543,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 11,
-      "app_id": "6504849169",
-      "app_name": "NetShort - Popular Dramas & TV",
-      "developer": "NETSTORY PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/a7/9e/a1a79eb7-f269-f849-2c6a-95804201a16d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 38667,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 12,
       "app_id": "583274826",
       "app_name": "BiP - Messenger, Video Call",
       "developer": "Turkcell Iletisim Hizmetleri A.S.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/6f/3f/746f3fc2-5252-b2fe-2eb5-23bd0e586def/AppIconNew-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 252057,
-      "change": "+7",
-      "change_val": 7
+      "rating_count": 252058,
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 13,
+      "rank": 11,
       "app_id": "980446169",
       "app_name": "e-Nabız",
       "developer": "T.C. Saglik Bakanligi",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 548084,
-      "change": "+4",
-      "change_val": 4
+      "rating_count": 548083,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 12,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/5d/b8/a25db8cb-ef1a-00fc-c2ba-e238adc60b01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 24575,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 13,
+      "app_id": "6504849169",
+      "app_name": "NetShort - Popular Dramas & TV",
+      "developer": "NETSTORY PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/a7/9e/a1a79eb7-f269-f849-2c6a-95804201a16d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 38742,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 14,
-      "app_id": "885993234",
-      "app_name": "Ziraat Mobil",
-      "developer": "T.C. Ziraat Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/94/27/779427b2-c7bc-bc07-66d3-c3fb8f8d2db8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "6478564587",
+      "app_name": "FaceAI: AI Photo Video Editor",
+      "developer": "DOFA TECH YAZILIM HIZMETLERI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2e/d5/9a2ed599-f5df-58de-bc9a-7ca02ec0a97c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 1701231,
+      "rating": 4.7,
+      "rating_count": 14373,
       "change": "new",
       "change_val": 0
     },
@@ -177,21 +177,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/7d/0b/ec7d0bd9-51af-0688-8c28-f0a345fe3c72/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 93590,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 93593,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/60/4f/25604fa6-0868-6e9e-3d36-0fdb7edb4d59/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "885993234",
+      "app_name": "Ziraat Mobil",
+      "developer": "T.C. Ziraat Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/94/27/779427b2-c7bc-bc07-66d3-c3fb8f8d2db8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2172027,
-      "change": "new",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 1701323,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 17,
@@ -201,9 +201,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/fa/9c/d8fa9c87-0843-a70b-3968-7045abe840c8/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 2.1,
-      "rating_count": 45038,
-      "change": "-4",
-      "change_val": -4
+      "rating_count": 45069,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -213,33 +213,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/4e/de/034ede7f-4bf4-a729-1d44-6174307b55a5/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3057192,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 3057434,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/60/4f/25604fa6-0868-6e9e-3d36-0fdb7edb4d59/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2172286,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 20,
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
       "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/4e/1e/9c4e1e2f-685a-e33a-bd97-ce611dd334e5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 337802,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 20,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6c/fe/186cfedb-b9f5-00d3-e857-1e11e20e204a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 85272,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 338020,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
