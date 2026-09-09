@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 248250,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 0,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -94,47 +94,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 253893,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7e/4f/307e4f33-316d-b626-8bc6-87b3d3567b9c/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0b/e0/b10be06e-917c-5dbd-aab0-a03cc5d648ad/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
       "rating_count": 2220292,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 10,
-      "app_id": "987367543",
-      "app_name": "Sleeper - Fantasy Sports",
-      "developer": "Blitz Studios",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/5f/43/a15f43b2-9a2a-f2ef-e1a6-f429ac3f9c13/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 278170,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 11,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/b4/bd/c1b4bd56-3cc2-af70-6483-9e4eea6afab9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 992930,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "app_id": "983156458",
       "app_name": "Microsoft Authenticator",
       "developer": "Microsoft Corporation",
@@ -142,23 +118,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 693490,
-      "change": "+6",
-      "change_val": 6
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 11,
+      "app_id": "987367543",
+      "app_name": "Sleeper - Fantasy Sports",
+      "developer": "Blitz Studios",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/5f/43/a15f43b2-9a2a-f2ef-e1a6-f429ac3f9c13/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 278170,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 12,
+      "app_id": "6648798962",
+      "app_name": "Polymarket: Trade Live Sports",
+      "developer": "Polymarket",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/f1/c2/c0f1c2e9-7a85-e595-fb67-5d2f116b0ea8/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 53827,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 13,
-      "app_id": "6754134922",
-      "app_name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/61/37/246137f8-616a-9994-b2c1-65295e3c7508/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 27400,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 14,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -166,8 +154,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5056379,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/b4/bd/c1b4bd56-3cc2-af70-6483-9e4eea6afab9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 992930,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 15,
@@ -178,23 +178,35 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1120143,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "6648798962",
-      "app_name": "Polymarket: Trade Live Sports",
-      "developer": "Polymarket",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/3b/f6/163bf65a-2122-cdce-82ed-2c24b0c323cc/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1113153706",
+      "app_name": "Microsoft Teams",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c5/20/c1c52081-51ee-eee8-5619-921ff965b4eb/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 53827,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.8,
+      "rating_count": 3373456,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 17,
+      "app_id": "6754134922",
+      "app_name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/61/37/246137f8-616a-9994-b2c1-65295e3c7508/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 27400,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 18,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -206,7 +218,19 @@
       "change_val": -1
     },
     {
-      "rank": 18,
+      "rank": 19,
+      "app_id": "1632713844",
+      "app_name": "Kalshi: Trade Football & more",
+      "developer": "KalshiEX LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/2b/d5/cd2bd53f-2aa3-1922-78a0-958071ac64cb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 503319,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "6762023973",
       "app_name": "7 Brew Coffee",
       "developer": "Brew Culture, LLC",
@@ -214,32 +238,8 @@
       "installs": "",
       "rating": 5.0,
       "rating_count": 62587,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 19,
-      "app_id": "1113153706",
-      "app_name": "Microsoft Teams",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/c5/20/c1c52081-51ee-eee8-5619-921ff965b4eb/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3373456,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "422689480",
-      "app_name": "Gmail - Email by Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f0/57/a0f057ec-e69b-27d7-3ada-ad34c50dbfb5/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2436814,
-      "change": "-1",
-      "change_val": -1
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }

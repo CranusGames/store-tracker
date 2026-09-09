@@ -30,7 +30,7 @@
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7e/4f/307e4f33-316d-b626-8bc6-87b3d3567b9c/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0b/e0/b10be06e-917c-5dbd-aab0-a03cc5d648ad/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
       "rating_count": 62914,
@@ -75,14 +75,14 @@
     },
     {
       "rank": 7,
-      "app_id": "6744824597",
-      "app_name": "Version AI: AI Photo Creator",
-      "developer": "Apptribe Dijital Hizmetler Limited Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f8/d8/42f8d887-56d9-de57-fd40-525175e50b86/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1668441657",
+      "app_name": "tabii",
+      "developer": "Turkiye Radyo ve Televizyon Kurumu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 1424,
-      "change": "=",
+      "rating": 4.5,
+      "rating_count": 68111,
+      "change": "new",
       "change_val": 0
     },
     {
@@ -99,6 +99,18 @@
     },
     {
       "rank": 9,
+      "app_id": "6744824597",
+      "app_name": "Version AI: AI Photo Creator",
+      "developer": "Apptribe Dijital Hizmetler Limited Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/f8/d8/42f8d887-56d9-de57-fd40-525175e50b86/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1424,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 10,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -106,18 +118,6 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9488,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 10,
-      "app_id": "6478564587",
-      "app_name": "FaceAI: AI Photo Video Editor",
-      "developer": "DOFA TECH YAZILIM HIZMETLERI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2e/d5/9a2ed599-f5df-58de-bc9a-7ca02ec0a97c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 15761,
       "change": "-1",
       "change_val": -1
     },
@@ -130,11 +130,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445316,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
+      "app_id": "6478564587",
+      "app_name": "FaceAI: AI Photo Video Editor",
+      "developer": "DOFA TECH YAZILIM HIZMETLERI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2e/d5/9a2ed599-f5df-58de-bc9a-7ca02ec0a97c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 15761,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 13,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -142,18 +154,6 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 173965,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 13,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548080,
       "change": "-1",
       "change_val": -1
     },
@@ -166,11 +166,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1907213,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 548080,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -178,11 +190,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918717,
-      "change": "+2",
-      "change_val": 2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "app_id": "583274826",
       "app_name": "BiP - Messenger, Video Call",
       "developer": "Turkcell Iletisim Hizmetleri A.S.",
@@ -190,18 +202,6 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 252061,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 17,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/60/4f/25604fa6-0868-6e9e-3d36-0fdb7edb4d59/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2175321,
       "change": "-1",
       "change_val": -1
     },
@@ -214,11 +214,23 @@
       "installs": "",
       "rating": 2.1,
       "rating_count": 45150,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/60/4f/25604fa6-0868-6e9e-3d36-0fdb7edb4d59/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2175321,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 20,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3059242,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "1068841746",
-      "app_name": "Halkbank Mobil",
-      "developer": "Turkiye Halk Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/99/de/3299de67-93ca-be10-22af-27b73793278b/HBAppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 392802,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
