@@ -135,24 +135,24 @@
     },
     {
       "rank": 12,
-      "app_id": "com.rioo.runnersubway",
-      "app_name": "Subway Princess Runner",
-      "developer": "Ivy",
-      "icon_url": "https://play-lh.googleusercontent.com/uGtFh8FUHkMYhzDqf3i_KoAF4GOSixKmEiK0OAICddnDyLI8dRcsfdBrCNT6K3UdrqxCOmy9nxIVgCFZLCaU",
-      "installs": "500,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 13,
       "app_id": "com.tocaboca.tocalifeworld",
       "app_name": "Toca Boca World",
       "developer": "Toca Boca",
       "icon_url": "https://play-lh.googleusercontent.com/l-hJjz7wkD3DyqGvd-MXaqWG9fQaSYFNy8D3mP9iZ8puxkqICHEBOD4rLo9vY65bCHWe-PIvE0fI9tkUml-H",
       "installs": "100,000,000+",
       "rating": 4.3,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "com.rioo.runnersubway",
+      "app_name": "Subway Princess Runner",
+      "developer": "Ivy",
+      "icon_url": "https://play-lh.googleusercontent.com/uGtFh8FUHkMYhzDqf3i_KoAF4GOSixKmEiK0OAICddnDyLI8dRcsfdBrCNT6K3UdrqxCOmy9nxIVgCFZLCaU",
+      "installs": "500,000,000+",
+      "rating": 4.1,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
@@ -226,8 +226,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -236,10 +236,10 @@
       "developer": "Scopely",
       "icon_url": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
       "installs": "100,000,000+",
-      "rating": 4.6,
+      "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
