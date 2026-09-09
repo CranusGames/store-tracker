@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "rankings": [
     {
       "rank": 1,
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "1451805015",
-      "app_name": "ÖSYM Aday İşlemleri Sistemi",
-      "developer": "Olcme Secme ve Yerlestirme Merkezi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.4,
-      "rating_count": 6491,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -118,8 +106,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93614,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "1451805015",
+      "app_name": "ÖSYM Aday İşlemleri Sistemi",
+      "developer": "Olcme Secme ve Yerlestirme Merkezi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.4,
+      "rating_count": 6491,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/47/62/bb4762a8-a09b-5287-9686-9f970c612663/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445309,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -166,20 +154,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1906805,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "1668441657",
+      "app_name": "tabii",
+      "developer": "Turkiye Radyo ve Televizyon Kurumu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 68106,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "583274826",
-      "app_name": "BiP - Messenger, Video Call",
-      "developer": "Turkcell Iletisim Hizmetleri A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/6f/3f/746f3fc2-5252-b2fe-2eb5-23bd0e586def/AppIconNew-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/47/62/bb4762a8-a09b-5287-9686-9f970c612663/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 252058,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 445309,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
@@ -207,6 +207,18 @@
     },
     {
       "rank": 18,
+      "app_id": "583274826",
+      "app_name": "BiP - Messenger, Video Call",
+      "developer": "Turkcell Iletisim Hizmetleri A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/6f/3f/746f3fc2-5252-b2fe-2eb5-23bd0e586def/AppIconNew-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 252058,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 19,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
@@ -214,31 +226,19 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2174128,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "723672499",
-      "app_name": "Pegasus: Cheap Flight Tickets",
-      "developer": "Pegasus Hava Tasimaciligi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/4c/3d/a24c3d85-0415-03b8-5b28-b4fde5414872/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 516207,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
-      "app_id": "418535251",
-      "app_name": "sahibinden #AlSatKiralaKesfet",
-      "developer": "sahibinden.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/4e/de/034ede7f-4bf4-a729-1d44-6174307b55a5/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/da/43/05da4369-5b78-2e89-06ba-08eeba0ac301/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 3058568,
-      "change": "=",
+      "rating": 4.4,
+      "rating_count": 350888,
+      "change": "new",
       "change_val": 0
     }
   ]
