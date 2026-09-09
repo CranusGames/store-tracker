@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6745820631",
-      "app_name": "Shots: Photo & Video Generator",
-      "developer": "DeePix AI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 738,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -46,8 +34,20 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 62846,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "6745820631",
+      "app_name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 738,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -58,11 +58,23 @@
       "installs": "",
       "rating": 1.2,
       "rating_count": 1943,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 6,
+      "app_id": "885993234",
+      "app_name": "Ziraat Mobil",
+      "developer": "T.C. Ziraat Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/94/27/779427b2-c7bc-bc07-66d3-c3fb8f8d2db8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1702248,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "app_id": "6744824597",
       "app_name": "Version AI: AI Photo Creator",
       "developer": "Apptribe Dijital Hizmetler Limited Sirketi",
@@ -74,31 +86,7 @@
       "change_val": -1
     },
     {
-      "rank": 7,
-      "app_id": "885993234",
-      "app_name": "Ziraat Mobil",
-      "developer": "T.C. Ziraat Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/94/27/779427b2-c7bc-bc07-66d3-c3fb8f8d2db8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1702248,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
       "rank": 8,
-      "app_id": "6478564587",
-      "app_name": "FaceAI: AI Photo Video Editor",
-      "developer": "DOFA TECH YAZILIM HIZMETLERI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2e/d5/9a2ed599-f5df-58de-bc9a-7ca02ec0a97c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 15498,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 9,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -106,6 +94,18 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93618,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6478564587",
+      "app_name": "FaceAI: AI Photo Video Editor",
+      "developer": "DOFA TECH YAZILIM HIZMETLERI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/2e/d5/9a2ed599-f5df-58de-bc9a-7ca02ec0a97c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 15498,
       "change": "-1",
       "change_val": -1
     },
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9489,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,23 +130,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 173952,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "583274826",
-      "app_name": "BiP - Messenger, Video Call",
-      "developer": "Turkcell Iletisim Hizmetleri A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/6f/3f/746f3fc2-5252-b2fe-2eb5-23bd0e586def/AppIconNew-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 252060,
-      "change": "+6",
-      "change_val": 6
-    },
-    {
-      "rank": 13,
       "app_id": "980446169",
       "app_name": "e-Nabız",
       "developer": "T.C. Saglik Bakanligi",
@@ -154,23 +142,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548082,
-      "change": "+3",
-      "change_val": 3
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
-      "app_id": "481035064",
-      "app_name": "Hepsiburada: Online Shopping",
-      "developer": "Hepsiburada",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/34/b406349b-e7d9-01e7-1d39-764239d40b02/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1907109,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -178,23 +154,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445312,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 14,
+      "app_id": "583274826",
+      "app_name": "BiP - Messenger, Video Call",
+      "developer": "Turkcell Iletisim Hizmetleri A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/6f/3f/746f3fc2-5252-b2fe-2eb5-23bd0e586def/AppIconNew-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 252060,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 15,
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/34/b406349b-e7d9-01e7-1d39-764239d40b02/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1907109,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 16,
-      "app_id": "1451805015",
-      "app_name": "ÖSYM Aday İşlemleri Sistemi",
-      "developer": "Olcme Secme ve Yerlestirme Merkezi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.4,
-      "rating_count": 6493,
-      "change": "-6",
-      "change_val": -6
-    },
-    {
-      "rank": 17,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
@@ -202,11 +190,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2174902,
-      "change": "+3",
-      "change_val": 3
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -214,8 +202,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918718,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "1068841746",
+      "app_name": "Halkbank Mobil",
+      "developer": "Turkiye Halk Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/99/de/3299de67-93ca-be10-22af-27b73793278b/HBAppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 392802,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 19,
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 2.1,
       "rating_count": 45149,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1068841746",
-      "app_name": "Halkbank Mobil",
-      "developer": "Turkiye Halk Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/99/de/3299de67-93ca-be10-22af-27b73793278b/HBAppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "app_id": "1451805015",
+      "app_name": "ÖSYM Aday İşlemleri Sistemi",
+      "developer": "Olcme Secme ve Yerlestirme Merkezi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/49/e8/4949e899-15e3-5c23-5d99-e14a223b7b31/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 392802,
-      "change": "new",
-      "change_val": 0
+      "rating": 1.4,
+      "rating_count": 6493,
+      "change": "-4",
+      "change_val": -4
     }
   ]
 }
