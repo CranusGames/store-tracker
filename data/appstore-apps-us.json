@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "555376968",
-      "app_name": "ESPN Fantasy Sports & More",
-      "developer": "Disney",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/c8/f1/fcc8f1f5-9a4d-1a40-59e7-fae3fc7db2c8/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 2016912,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "6760173601",
       "app_name": "Muse from Meta",
       "developer": "Meta Platforms, Inc.",
@@ -34,11 +22,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 145,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 4,
+      "rank": 3,
       "app_id": "632064380",
       "app_name": "Vinted: Pre-loved marketplace",
       "developer": "Vinted Limited",
@@ -46,8 +34,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 254335,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "555376968",
+      "app_name": "ESPN Fantasy Sports & More",
+      "developer": "Disney",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/c8/f1/fcc8f1f5-9a4d-1a40-59e7-fae3fc7db2c8/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 2016912,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 5,
@@ -70,11 +70,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2210616,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 7,
+      "app_id": "6648798962",
+      "app_name": "Polymarket: Trade Live Sports",
+      "developer": "Polymarket",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/f1/c2/c0f1c2e9-7a85-e595-fb67-5d2f116b0ea8/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 53897,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "app_id": "1508186374",
       "app_name": "Peacock TV: Stream TV & Movies",
       "developer": "Peacock TV LLC",
@@ -86,28 +98,16 @@
       "change_val": -1
     },
     {
-      "rank": 8,
-      "app_id": "6648798962",
-      "app_name": "Polymarket: Trade Live Sports",
-      "developer": "Polymarket",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/f1/c2/c0f1c2e9-7a85-e595-fb67-5d2f116b0ea8/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 53897,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 9,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/07/70/2d077036-6355-669f-41c3-423253ac1ba4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/8b/ed/798bed8d-5c2b-6f05-4cac-72b611c5c122/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 254232,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2222083,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 504857,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,23 +142,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 994033,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/54/a1/8454a15f-5543-6c27-e18e-bf31712c9410/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1120242,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 14,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -166,11 +154,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5059802,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "6768593043",
       "app_name": "BlinkDrama - Short Dramas",
       "developer": "Atlas Ventures Culture & Technology Limited",
@@ -182,6 +170,18 @@
       "change_val": 1
     },
     {
+      "rank": 15,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/54/a1/8454a15f-5543-6c27-e18e-bf31712c9410/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1120242,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
       "rank": 16,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 27982,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -207,18 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "422689480",
-      "app_name": "Gmail - Email by Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f0/57/a0f057ec-e69b-27d7-3ada-ad34c50dbfb5/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2437040,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 19,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -226,20 +214,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7361497,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "422689480",
+      "app_name": "Gmail - Email by Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f0/57/a0f057ec-e69b-27d7-3ada-ad34c50dbfb5/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2437040,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
-      "app_id": "987367543",
-      "app_name": "Sleeper - Fantasy Sports",
-      "developer": "Blitz Studios",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/5f/43/a15f43b2-9a2a-f2ef-e1a6-f429ac3f9c13/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/26/ad/8026adff-d8e1-15e4-3366-be76b24250b9/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 280727,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 693871,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }

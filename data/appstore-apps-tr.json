@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1702810,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 832,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,11 +82,23 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9489,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 8,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/92/a1/6b92a154-ea3c-029f-85a4-96ed19a5f685/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 174001,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -96,18 +108,6 @@
       "rating_count": 93627,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 9,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/92/a1/6b92a154-ea3c-029f-85a4-96ed19a5f685/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 174001,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 10,
@@ -123,30 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "481035064",
-      "app_name": "Hepsiburada: Online Shopping",
-      "developer": "Hepsiburada",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/34/b406349b-e7d9-01e7-1d39-764239d40b02/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1907599,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "583274826",
-      "app_name": "BiP - Messenger, Video Call",
-      "developer": "Turkcell Iletisim Hizmetleri A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/6f/3f/746f3fc2-5252-b2fe-2eb5-23bd0e586def/AppIconNew-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 252067,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 13,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -154,11 +130,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445320,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 14,
+      "rank": 12,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
@@ -166,11 +142,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2176191,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/34/b406349b-e7d9-01e7-1d39-764239d40b02/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1907599,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 14,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -178,8 +166,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918733,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "583274826",
+      "app_name": "BiP - Messenger, Video Call",
+      "developer": "Turkcell Iletisim Hizmetleri A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/6f/3f/746f3fc2-5252-b2fe-2eb5-23bd0e586def/AppIconNew-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 252067,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 16,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 392805,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,23 +214,11 @@
       "installs": "",
       "rating": 2.1,
       "rating_count": 45230,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "1668441657",
-      "app_name": "tabii",
-      "developer": "Turkiye Radyo ve Televizyon Kurumu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 68114,
-      "change": "-7",
-      "change_val": -7
-    },
-    {
-      "rank": 20,
       "app_id": "1511527605",
       "app_name": "Museums of Türkiye - Official",
       "developer": "T. C. Kültür ve Turizm Bakanlığı",
@@ -238,6 +226,18 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 85279,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "458627086",
+      "app_name": "Yapı Kredi Mobile",
+      "developer": "Yapı ve Kredi Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/0a/9c/d30a9c6a-b40f-0f41-59c6-fe0ac25a0378/AppIconNew-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1586176,
       "change": "new",
       "change_val": 0
     }

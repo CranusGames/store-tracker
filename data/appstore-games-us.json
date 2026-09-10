@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 427920,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 682,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "6761757565",
-      "app_name": "Colorever: Gem Art Puzzle",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f1/e3/2bf1e381-80b3-121c-8fa4-bb535555b615/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 2152,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "6747492600",
       "app_name": "Mahjong Blast",
       "developer": "Nebula Studio",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 537144,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6761757565",
+      "app_name": "Colorever: Gem Art Puzzle",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f1/e3/2bf1e381-80b3-121c-8fa4-bb535555b615/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 2152,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "6754464806",
-      "app_name": "Car Evolve",
-      "developer": "Heseri Games Inc",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/fd/2a/f1fd2a75-d77c-2e0a-18d5-f56f2d0633f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6759412341",
+      "app_name": "EA College Football Mobile 27",
+      "developer": "Electronic Arts",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/2e/a5/632ea5a5-33e3-d96b-49da-9b733c81a90b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 5760,
-      "change": "=",
+      "rating": 4.4,
+      "rating_count": 11504,
+      "change": "new",
       "change_val": 0
     }
   ]
