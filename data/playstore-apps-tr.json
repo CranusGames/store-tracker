@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "com.obilet.androidside",
-      "app_name": "obilet: Otel Uçak Otobüs Araç",
-      "developer": "obilet.com",
-      "icon_url": "https://play-lh.googleusercontent.com/vfvCMwOrNc6bECJ4msdY6h3Jf72-mF72o6YMnuEiD2lsV4f1iuBjyc6ZHBc8tEe_doo6S8UxSQZMtyIi3hyBWw",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "com.codeway.aitutor",
       "app_name": "Learn English, Spanish: Learna",
       "developer": "Deep Flow Apps",
@@ -58,8 +46,20 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "com.obilet.androidside",
+      "app_name": "obilet: Otel Uçak Otobüs Araç",
+      "developer": "obilet.com",
+      "icon_url": "https://play-lh.googleusercontent.com/vfvCMwOrNc6bECJ4msdY6h3Jf72-mF72o6YMnuEiD2lsV4f1iuBjyc6ZHBc8tEe_doo6S8UxSQZMtyIi3hyBWw",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
