@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "rankings": [
     {
       "rank": 1,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1689039,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 633916,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 20065591,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 82736,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2699463,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,11 +142,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 16164,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
+      "app_id": "6746743297",
+      "app_name": "Bus Fever Party!",
+      "developer": "Lumi Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/20/4a/88204a17-8942-3a71-df34-96dfc698e48d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2933,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
       "app_id": "638689075",
       "app_name": "Township",
       "developer": "Playrix",
@@ -158,43 +170,7 @@
       "change_val": -1
     },
     {
-      "rank": 14,
-      "app_id": "6746743297",
-      "app_name": "Bus Fever Party!",
-      "developer": "Lumi Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/20/4a/88204a17-8942-3a71-df34-96dfc698e48d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2933,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
       "rank": 15,
-      "app_id": "6747492600",
-      "app_name": "Mahjong Blast",
-      "developer": "Nebula Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/8b/c3/3c8bc3af-0288-b180-a987-4287a625c027/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 537870,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "6758326278",
-      "app_name": "Amaze GO!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/ca/4c/81ca4c82-2402-4ead-21c6-dba1a905def6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 193295,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
       "app_id": "6759412341",
       "app_name": "EA College Football Mobile 27",
       "developer": "Electronic Arts",
@@ -206,7 +182,43 @@
       "change_val": 2
     },
     {
+      "rank": 16,
+      "app_id": "6747492600",
+      "app_name": "Mahjong Blast",
+      "developer": "Nebula Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/8b/c3/3c8bc3af-0288-b180-a987-4287a625c027/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 537870,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 17,
+      "app_id": "6758326278",
+      "app_name": "Amaze GO!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/ca/4c/81ca4c82-2402-4ead-21c6-dba1a905def6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 193295,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 18,
+      "app_id": "6780891673",
+      "app_name": "Royal Smash! - Physics Puzzle",
+      "developer": "Cypher Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/7b/ba/cf7bba17-4270-55ab-7d08-96ec164921cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 66654,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
       "app_id": "1623318294",
       "app_name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -214,11 +226,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 201392,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "app_id": "6761757565",
       "app_name": "Colorever: Gem Art Puzzle",
       "developer": "Oakever Games",
@@ -228,18 +240,6 @@
       "rating_count": 2178,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 20,
-      "app_id": "6780891673",
-      "app_name": "Royal Smash! - Physics Puzzle",
-      "developer": "Cypher Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/7b/ba/cf7bba17-4270-55ab-7d08-96ec164921cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 66654,
-      "change": "=",
-      "change_val": 0
     }
   ]
 }
