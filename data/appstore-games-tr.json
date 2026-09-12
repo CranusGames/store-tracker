@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 18747,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 18277,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 40582,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 241832,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,59 +94,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 340067,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 9,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 692624,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 10,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/4d/aa1b4d6b-b561-e2bf-24c4-99aae15daa28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4470,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 11,
-      "app_id": "6780891673",
-      "app_name": "Royal Smash! - Physics Puzzle",
-      "developer": "Cypher Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/7b/ba/cf7bba17-4270-55ab-7d08-96ec164921cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 9522,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 12,
-      "app_id": "6760325543",
-      "app_name": "CubeAway - 3DPuzzle",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 2298,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 13,
+      "rank": 9,
       "app_id": "6742809194",
       "app_name": "Warline: Sniper Strike",
       "developer": "Powerfantasy",
@@ -154,11 +106,35 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1313,
-      "change": "+3",
-      "change_val": 3
+      "change": "+4",
+      "change_val": 4
     },
     {
-      "rank": 14,
+      "rank": 10,
+      "app_id": "6780891673",
+      "app_name": "Royal Smash! - Physics Puzzle",
+      "developer": "Cypher Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/7b/ba/cf7bba17-4270-55ab-7d08-96ec164921cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 9522,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 692624,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 12,
       "app_id": "6746328263",
       "app_name": "Castle Busters",
       "developer": "Voodoo",
@@ -166,23 +142,35 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 5757,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 13,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/52/6a/87526a46-131a-bf31-6dbe-457cc9541485/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 47328,
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 14,
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/1b/4d/aa1b4d6b-b561-e2bf-24c4-99aae15daa28/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4470,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 15,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/05/20/880520de-82fe-e342-31ca-955145617bcd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1931683,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 16,
       "app_id": "1229016807",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
@@ -194,16 +182,28 @@
       "change_val": 1
     },
     {
+      "rank": 16,
+      "app_id": "6760325543",
+      "app_name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 2298,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
       "rank": 17,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/52/6a/87526a46-131a-bf31-6dbe-457cc9541485/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/05/20/880520de-82fe-e342-31ca-955145617bcd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 47328,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1931683,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 1133,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,18 +226,18 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 4332,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6767834940",
-      "app_name": "Top Lords",
-      "developer": "GAME SPARK PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/54/c8/9454c850-fd97-7290-c482-044e1f8dd0ed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1423046460",
+      "app_name": "Paper.io 2",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/20/34/352034d2-4b77-9681-73d4-3e57a4e126da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 185,
+      "rating": 4.3,
+      "rating_count": 70980,
       "change": "new",
       "change_val": 0
     }

@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 205202,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7364193,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/8f/b4/988fb4a7-5e80-b5ca-fc39-a3c44e9f2bfa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2219461,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 7,
@@ -87,15 +87,15 @@
     },
     {
       "rank": 8,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/8f/b4/988fb4a7-5e80-b5ca-fc39-a3c44e9f2bfa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2219461,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 205202,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 9,
@@ -130,20 +130,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2226562,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "1632713844",
-      "app_name": "Kalshi: Trade Football & more",
-      "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/25/ae/5725ae2d-5191-9b50-0e98-b04f41966cfd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "app_id": "544007664",
+      "app_name": "YouTube",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/49/dd/be49dddb-168f-685c-49a7-d7358d2b6684/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 510904,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.7,
+      "rating_count": 48937449,
+      "change": "+6",
+      "change_val": 6
     },
     {
       "rank": 13,
@@ -159,27 +159,27 @@
     },
     {
       "rank": 14,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/8b/ed/798bed8d-5c2b-6f05-4cac-72b611c5c122/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "351727428",
+      "app_name": "Venmo",
+      "developer": "Venmo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/8e/fd/3d8efd53-c81c-81e2-c252-066c29b6f74a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 256094,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 15470520,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 15,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/da/43/05da4369-5b78-2e89-06ba-08eeba0ac301/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "1636235979",
+      "app_name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/d7/e2/c4d7e2ca-3462-dde3-9949-e0cd13637218/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 5068475,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.7,
+      "rating_count": 491077,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,47 +190,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 34062,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 17,
-      "app_id": "351727428",
-      "app_name": "Venmo",
-      "developer": "Venmo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/8e/fd/3d8efd53-c81c-81e2-c252-066c29b6f74a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 15470520,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 18,
-      "app_id": "544007664",
-      "app_name": "YouTube",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/49/dd/be49dddb-168f-685c-49a7-d7358d2b6684/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 48937449,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 19,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/b4/bd/c1b4bd56-3cc2-af70-6483-9e4eea6afab9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 996857,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 20,
+      "rank": 17,
       "app_id": "297606951",
       "app_name": "Amazon Shopping",
       "developer": "AMZN Mobile LLC",
@@ -238,8 +202,44 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 8440538,
-      "change": "new",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 18,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/8b/ed/798bed8d-5c2b-6f05-4cac-72b611c5c122/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 256094,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 19,
+      "app_id": "1632713844",
+      "app_name": "Kalshi: Trade Football & more",
+      "developer": "KalshiEX LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/25/ae/5725ae2d-5191-9b50-0e98-b04f41966cfd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 510904,
+      "change": "-7",
+      "change_val": -7
+    },
+    {
+      "rank": 20,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/da/43/05da4369-5b78-2e89-06ba-08eeba0ac301/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 5068475,
+      "change": "-5",
+      "change_val": -5
     }
   ]
 }
