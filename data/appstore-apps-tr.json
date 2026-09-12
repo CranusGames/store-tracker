@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "rankings": [
     {
       "rank": 1,
@@ -9,9 +9,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/d2/2c/1ed22c36-78c3-54c9-7b35-b6837a28c0e3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1041373,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1042333,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -21,9 +21,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0b/e0/b10be06e-917c-5dbd-aab0-a03cc5d648ad/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 63462,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 63530,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -33,7 +33,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/8f/b4/988fb4a7-5e80-b5ca-fc39-a3c44e9f2bfa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 402793,
+      "rating_count": 403061,
       "change": "=",
       "change_val": 0
     },
@@ -45,7 +45,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/94/27/779427b2-c7bc-bc07-66d3-c3fb8f8d2db8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1703479,
+      "rating_count": 1703539,
       "change": "=",
       "change_val": 0
     },
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9502,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -69,9 +69,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/1e/12/d11e1245-3286-ffa3-da4e-f0d102520f41/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 174054,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 174060,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -81,9 +81,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/47/62/bb4762a8-a09b-5287-9686-9f970c612663/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 445332,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 445333,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -93,7 +93,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/c4/d1/c9c4d1d9-0666-c397-7e8e-3c0b27d5080c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1918739,
+      "rating_count": 1918735,
       "change": "=",
       "change_val": 0
     },
@@ -105,12 +105,24 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/4e/de/034ede7f-4bf4-a729-1d44-6174307b55a5/SahibindenAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 3061045,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 3061222,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/34/b406349b-e7d9-01e7-1d39-764239d40b02/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1908289,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
       "app_id": "980446169",
       "app_name": "e-Nabız",
       "developer": "T.C. Saglik Bakanligi",
@@ -122,18 +134,6 @@
       "change_val": -1
     },
     {
-      "rank": 11,
-      "app_id": "481035064",
-      "app_name": "Hepsiburada: Online Shopping",
-      "developer": "Hepsiburada",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/06/34/b406349b-e7d9-01e7-1d39-764239d40b02/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1908209,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
       "rank": 12,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
@@ -141,9 +141,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/54/a1/8454a15f-5543-6c27-e18e-bf31712c9410/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 93648,
-      "change": "+3",
-      "change_val": 3
+      "rating_count": 93651,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -153,9 +153,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/de/d1/47ded171-3538-c774-23d6-abe51c592f42/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 2.1,
-      "rating_count": 45353,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 45361,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -165,9 +165,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/7f/d0/b37fd011-c04d-a16c-fed6-44a2f54e8da6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 1.2,
-      "rating_count": 1954,
-      "change": "-4",
-      "change_val": -4
+      "rating_count": 1955,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -177,9 +177,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/60/4f/25604fa6-0868-6e9e-3d36-0fdb7edb4d59/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2177935,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 2178098,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -189,45 +189,45 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/da/43/05da4369-5b78-2e89-06ba-08eeba0ac301/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 351867,
-      "change": "new",
+      "rating_count": 351928,
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "422689480",
-      "app_name": "Gmail - Email by Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f0/57/a0f057ec-e69b-27d7-3ada-ad34c50dbfb5/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 85749,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "524362642",
       "app_name": "Trendyol: Online Shopping",
       "developer": "trendyol.com",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/14/22/6a14223b-a235-186f-0493-c6671c7a625e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 4620133,
-      "change": "new",
-      "change_val": 0
+      "rating_count": 4620428,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "422689480",
+      "app_name": "Gmail - Email by Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/f0/57/a0f057ec-e69b-27d7-3ada-ad34c50dbfb5/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 85748,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
-      "app_id": "583274826",
-      "app_name": "BiP - Messenger, Video Call",
-      "developer": "Turkcell Iletisim Hizmetleri A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/a7/9c/21a79c43-ed92-d84a-1475-46bdf0756704/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1523682319",
+      "app_name": "Widgetsmith",
+      "developer": "Cross Forward Consulting, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/4a/80/b84a8002-052c-3573-ef27-e7bfbc877287/Primary-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 252067,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 18324,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -237,9 +237,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/ac/ee/6dacee5a-dcdb-0b59-84e9-aca179dad6ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 6910,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 6947,
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
