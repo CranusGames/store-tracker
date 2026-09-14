@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "rankings": [
     {
       "rank": 1,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 2.1,
       "rating_count": 45426,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3062781,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 7435,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93681,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 85294,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -159,15 +159,15 @@
     },
     {
       "rank": 14,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/11/55/af115564-f8ce-f333-ab6e-49a477ca9d88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/f7/7f/ccf77fd3-b191-c19f-2d35-0707bb89c8af/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 383169,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.8,
+      "rating_count": 25128,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 15,
@@ -178,20 +178,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 342959,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/f7/7f/ccf77fd3-b191-c19f-2d35-0707bb89c8af/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/11/55/af115564-f8ce-f333-ab6e-49a477ca9d88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 25128,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 383169,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 17,
@@ -202,23 +202,11 @@
       "installs": "",
       "rating": 2.9,
       "rating_count": 18031,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/d6/3e/ddd63e7e-0269-698c-f9ad-1b557a2a9708/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 69330,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 19,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -226,11 +214,11 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9517,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "472650686",
       "app_name": "Yandex Go: Taxi Food Delivery",
       "developer": "Mikromobilnost doo",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 135327,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1234494259",
+      "app_name": "Cepte Şok",
+      "developer": "Şok Marketler Tic. A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/d6/3e/ddd63e7e-0269-698c-f9ad-1b557a2a9708/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 69330,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }

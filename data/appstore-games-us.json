@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "rankings": [
     {
       "rank": 1,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 20093540,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1029,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -222,7 +222,7 @@
       "app_id": "6771681639",
       "app_name": "Fish Sort Puzzle - Bubble Jam",
       "developer": "Shycheese",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/4e/e2/074ee263-7b18-cf50-c2a6-b94e1a3b4faf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/86/39/5986391c-4a07-7794-f2a0-016fbca50e38/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
       "rating_count": 1327,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 544382,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
