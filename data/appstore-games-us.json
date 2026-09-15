@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1698716,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 641009,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18332,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 62829,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/c3/15/b7c31546-603c-f813-0af5-71978cd76570/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 202426,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "6780891673",
       "app_name": "Royal Smash! - Physics Puzzle",
       "developer": "Cypher Games",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 75505,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/c3/15/b7c31546-603c-f813-0af5-71978cd76570/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 202426,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 50881,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2706848,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 6564,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -226,8 +226,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2592,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,

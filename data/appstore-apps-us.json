@@ -70,11 +70,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 55171,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 7,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/de/d8/03ded865-effd-9bbc-61b2-a94e91434a65/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 262008,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade Football & more",
       "developer": "KalshiEX LLC",
@@ -86,18 +98,6 @@
       "change_val": -1
     },
     {
-      "rank": 8,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/de/d8/03ded865-effd-9bbc-61b2-a94e91434a65/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 262008,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
       "rank": 9,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
@@ -106,35 +106,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1001927,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 10,
-      "app_id": "6754134922",
-      "app_name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/b7/fb/98b7fbce-3ff4-9400-c352-db149a7aeec4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 31537,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 11,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/54/a1/8454a15f-5543-6c27-e18e-bf31712c9410/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1120838,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 12,
+      "rank": 10,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -142,23 +118,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5083518,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 13,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/a6/cf/bda6cf09-df7b-f800-e5e5-b44bb1ea5f5f/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2234412,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
+      "rank": 11,
       "app_id": "983156458",
       "app_name": "Microsoft Authenticator",
       "developer": "Microsoft Corporation",
@@ -170,6 +134,42 @@
       "change_val": 3
     },
     {
+      "rank": 12,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/54/a1/8454a15f-5543-6c27-e18e-bf31712c9410/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1120838,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 13,
+      "app_id": "6754134922",
+      "app_name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/b7/fb/98b7fbce-3ff4-9400-c352-db149a7aeec4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 31537,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 14,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/a6/cf/bda6cf09-df7b-f800-e5e5-b44bb1ea5f5f/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2234412,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 15,
       "app_id": "585027354",
       "app_name": "Google Maps",
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7368600,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,7 +190,7 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3374297,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18599851,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -226,8 +226,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 35689,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2438052,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
