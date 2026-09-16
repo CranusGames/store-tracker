@@ -171,24 +171,24 @@
     },
     {
       "rank": 15,
-      "app_id": "com.kiloo.subwaysurf",
-      "app_name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "icon_url": "https://play-lh.googleusercontent.com/-b6afYVP9kkzaFgDT3bZpGy2ugh1AjzCiXS0o9aZw7bIZ5rCb3Bp8YAwIxyMjUGLjl1pD6ZFGxeKKGlXBw950g",
-      "installs": "1,000,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 16,
       "app_id": "com.tocaboca.tocalifeworld",
       "app_name": "Toca Boca World",
       "developer": "Toca Boca",
       "icon_url": "https://play-lh.googleusercontent.com/l-hJjz7wkD3DyqGvd-MXaqWG9fQaSYFNy8D3mP9iZ8puxkqICHEBOD4rLo9vY65bCHWe-PIvE0fI9tkUml-H",
       "installs": "100,000,000+",
       "rating": 4.3,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "com.kiloo.subwaysurf",
+      "app_name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "icon_url": "https://play-lh.googleusercontent.com/-b6afYVP9kkzaFgDT3bZpGy2ugh1AjzCiXS0o9aZw7bIZ5rCb3Bp8YAwIxyMjUGLjl1pD6ZFGxeKKGlXBw950g",
+      "installs": "1,000,000,000+",
+      "rating": 4.5,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
@@ -226,8 +226,8 @@
       "installs": "50,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "50,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
