@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "app_id": "com.scaleup.chatai",
-      "app_name": "AI Chatbot - Nova",
-      "developer": "ScaleUp",
-      "icon_url": "https://play-lh.googleusercontent.com/NOnNjxyGYX25Nopwpy-7xw624waRMSv5JyKI_VLj69M_Exa6GhxBZEhSVyNI3nbFCw7ebOWeJk_vMHYbbna7QQ",
-      "installs": "",
-      "rating": 3.7,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "tr.com.abat.sosyopix",
       "app_name": "Sosyopix - Personalized Gift",
       "developer": "Abat Ltd.",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "com.scaleup.chatai",
+      "app_name": "AI Chatbot - Nova",
+      "developer": "ScaleUp",
+      "icon_url": "https://play-lh.googleusercontent.com/NOnNjxyGYX25Nopwpy-7xw624waRMSv5JyKI_VLj69M_Exa6GhxBZEhSVyNI3nbFCw7ebOWeJk_vMHYbbna7QQ",
+      "installs": "",
+      "rating": 3.7,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -183,18 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "com.scaleup.plantid",
-      "app_name": "Plant App - Plant Identifier",
-      "developer": "ScaleUp",
-      "icon_url": "https://play-lh.googleusercontent.com/PSE5PUX1jFCZcp5L6ii-0Iro8wJ-WCawv2rLSsbfj8tDVVTlNQnWBYHj4MFNBjwT3BVbXDCJP3Elcb8xM962",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "com.ai.sound.donna",
       "app_name": "Donna AI Song & Music Maker",
       "developer": "MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK",
@@ -202,11 +190,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "com.feraset.livensa",
       "app_name": "AI Video Generator: Livensa",
       "developer": "FERASET",
@@ -214,11 +202,11 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "com.hubx.imagination",
       "app_name": "DaVinci - AI Image Generator",
       "developer": "HubX",
@@ -226,11 +214,11 @@
       "installs": "",
       "rating": 3.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "com.jetkite.gemmy",
       "app_name": "Jimmy AI: Chat & Assistant",
       "developer": "Jetkite",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.scaleup.plantid",
+      "app_name": "Plant App - Plant Identifier",
+      "developer": "ScaleUp",
+      "icon_url": "https://play-lh.googleusercontent.com/PSE5PUX1jFCZcp5L6ii-0Iro8wJ-WCawv2rLSsbfj8tDVVTlNQnWBYHj4MFNBjwT3BVbXDCJP3Elcb8xM962",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-4",
+      "change_val": -4
     }
   ]
 }
