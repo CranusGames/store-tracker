@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/34/90/75349013-65e2-e5c0-fc05-6002e2682aa6/HatchAppIconPublic-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 15073,
+      "rating_count": 15951,
       "change": "=",
       "change_val": 0
     },
@@ -21,33 +21,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/d2/2c/1ed22c36-78c3-54c9-7b35-b6837a28c0e3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 10407483,
+      "rating_count": 10416849,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 3,
-      "app_id": "545519333",
-      "app_name": "Amazon Prime Video",
-      "developer": "AMZN Mobile LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/68/61/1d6861d6-09b2-03db-4233-f72ed4640a4c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3047934,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "632064380",
       "app_name": "Vinted: Pre-loved marketplace",
       "developer": "Vinted Limited",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/7b/a5/eb7ba565-3303-83ac-fd64-4587807d28be/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 292063,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 293237,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "545519333",
+      "app_name": "Amazon Prime Video",
+      "developer": "AMZN Mobile LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/68/61/1d6861d6-09b2-03db-4233-f72ed4640a4c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3048177,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -57,7 +57,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/4a/e5/2d4ae596-3f2e-cf86-639c-fc46b80aa383/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 268982,
+      "rating_count": 269529,
       "change": "=",
       "change_val": 0
     },
@@ -69,33 +69,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/19/8a/12198a0a-7235-d459-b92a-e86eac7e7442/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 529220,
+      "rating_count": 529627,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 7,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/17/b0/ad17b070-1f38-5669-c38b-1fab7b18d01b/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 56545,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 8,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/24/75/6424752a-af65-db93-99bf-c2bfa225814e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2245791,
+      "rating_count": 2246957,
       "change": "+1",
       "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/17/b0/ad17b070-1f38-5669-c38b-1fab7b18d01b/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 56634,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -105,9 +105,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/ed/6e/ffed6efe-f575-a243-7733-34039f8fa049/AppIcon2-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 59206,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 59225,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -117,21 +117,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/b7/fb/98b7fbce-3ff4-9400-c352-db149a7aeec4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 33447,
+      "rating_count": 33535,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 11,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/07/c6/6b07c612-fd59-c4d6-d294-486db9cc6918/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/98/52/4e9852f9-553a-5c52-3097-3417caedb04b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 1005543,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 266109,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 12,
@@ -141,21 +141,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/9a/50/3e9a5002-8ff3-a736-eea0-f55ec8855295/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1121026,
+      "rating_count": 1121068,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/98/52/4e9852f9-553a-5c52-3097-3417caedb04b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/07/c6/6b07c612-fd59-c4d6-d294-486db9cc6918/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 265918,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 1005931,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 14,
@@ -165,7 +165,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/79/af/7979af5c-30a8-e3fd-3d08-b5aedb8637fa/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 5095272,
+      "rating_count": 5096422,
       "change": "=",
       "change_val": 0
     },
@@ -177,45 +177,45 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/a6/cf/bda6cf09-df7b-f800-e5e5-b44bb1ea5f5f/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 2240540,
+      "rating_count": 2241180,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/6e/2b/cd6e2b5b-13d7-ef7c-8b05-a617760620bb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18615278,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
-      "app_id": "6761013741",
-      "app_name": "DHS Trusted Traveler",
-      "developer": "US Customs and Border Protection",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/1f/35/3a1f35fb-c83c-3357-a810-bf7baf882a79/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 157,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 18,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/d2/0e/c3d20e1c-93e8-c558-8400-43c2c3f8cc7b/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 7371805,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 7372204,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/6e/2b/cd6e2b5b-13d7-ef7c-8b05-a617760620bb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18617057,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 18,
+      "app_id": "6761013741",
+      "app_name": "DHS Trusted Traveler",
+      "developer": "US Customs and Border Protection",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/1f/35/3a1f35fb-c83c-3357-a810-bf7baf882a79/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 178,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
@@ -225,9 +225,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e9/5e/fde95ef0-657c-e77e-c0f4-8fdd2b610157/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2438594,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 2438675,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -237,9 +237,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/b4/fe/bbb4fec6-c112-a40b-8957-e6c5f6e29fcc/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2212383,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 2212542,
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
