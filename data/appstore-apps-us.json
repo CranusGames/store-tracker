@@ -39,30 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "457494327",
-      "app_name": "Five Guys Burgers & Fries",
-      "developer": "Five Guys Franchisor, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/4a/e5/2d4ae596-3f2e-cf86-639c-fc46b80aa383/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 276624,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/17/b0/ad17b070-1f38-5669-c38b-1fab7b18d01b/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 57179,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade Football & more",
       "developer": "KalshiEX LLC",
@@ -70,11 +46,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 532825,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "app_id": "457494327",
+      "app_name": "Five Guys Burgers & Fries",
+      "developer": "Five Guys Franchisor, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/4a/e5/2d4ae596-3f2e-cf86-639c-fc46b80aa383/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 276624,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 6,
       "app_id": "6648798962",
       "app_name": "Polymarket: Trade Live Sports",
       "developer": "Polymarket",
@@ -82,23 +70,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 59356,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 8,
-      "app_id": "6754134922",
-      "app_name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/b7/fb/98b7fbce-3ff4-9400-c352-db149a7aeec4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 34451,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/17/b0/ad17b070-1f38-5669-c38b-1fab7b18d01b/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 57179,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 8,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -106,23 +94,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2251759,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6754134922",
+      "app_name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/b7/fb/98b7fbce-3ff4-9400-c352-db149a7aeec4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 34451,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 10,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/9a/50/3e9a5002-8ff3-a736-eea0-f55ec8855295/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1121170,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -130,8 +118,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7373780,
-      "change": "+3",
-      "change_val": 3
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/9a/50/3e9a5002-8ff3-a736-eea0-f55ec8855295/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1121170,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5101330,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,23 +154,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18623997,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/9c/dc/769cdcb1-3c00-3731-3bd4-42c377d58f8c/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18364655,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 15,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
@@ -178,23 +166,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1007863,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
-      "app_id": "389801252",
-      "app_name": "Instagram",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/62/59/a46259eb-f016-aa37-df4b-c881362c6e91/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "rank": 15,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/9c/dc/769cdcb1-3c00-3731-3bd4-42c377d58f8c/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 29501583,
+      "rating_count": 18364655,
       "change": "-1",
       "change_val": -1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "6761538521",
       "app_name": "StoryReel: Drama Shorts & TV",
       "developer": "Equinox Enterprises‌ Technology Limited",
@@ -206,6 +194,18 @@
       "change_val": 1
     },
     {
+      "rank": 17,
+      "app_id": "389801252",
+      "app_name": "Instagram",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/62/59/a46259eb-f016-aa37-df4b-c881362c6e91/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 29501583,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 18,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2438919,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
