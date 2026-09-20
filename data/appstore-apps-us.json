@@ -70,23 +70,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 57569,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 211931,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 8,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -98,6 +86,18 @@
       "change_val": 1
     },
     {
+      "rank": 8,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/5a/8d/2e5a8d87-29b5-e2b2-90d6-d8ec48bfd116/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 211931,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 9,
       "app_id": "530168168",
       "app_name": "Paramount+",
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 919555,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -154,11 +154,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 37399,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
+      "app_id": "905401434",
+      "app_name": "Fubo: Watch Live TV & Sports",
+      "developer": "fuboTV Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/e6/fc/57e6fcd8-4c6f-d8ed-173c-36d951592912/Fubo-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 111315,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 15,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -166,11 +178,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5104211,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -178,35 +190,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2245204,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 16,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/09/40/40094005-ff50-c497-67a3-5311b25244d1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 172764,
-      "change": "+3",
-      "change_val": 3
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
-      "app_id": "368677368",
-      "app_name": "Uber - Request a ride",
-      "developer": "Uber Technologies, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/86/83/16868340-a647-8d3f-6439-6972cb91fc49/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 16871720,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 18,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -214,32 +202,44 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7374678,
-      "change": "-3",
-      "change_val": -3
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/09/40/40094005-ff50-c497-67a3-5311b25244d1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 172764,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 19,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/3d/d1/f43dd120-4a75-61a1-84ba-e2e66fe138a6/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "app_id": "1193350206",
+      "app_name": "YouTube TV",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/f5/ba/50f5bad9-d94d-d342-1dc2-713be7d848ad/logo_youtube_television_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2213930,
+      "rating": 3.6,
+      "rating_count": 59593,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1631584032",
-      "app_name": "PLAYFUL REWARDS: Earn Rewards",
-      "developer": "Playful Rewards",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/95/4b/d6954b30-f5bc-8fe8-01b4-341f9e144a6e/AppIcon-0-0-1x_U007epad-0-11-85-220.jpeg/100x100bb.png",
+      "app_id": "368677368",
+      "app_name": "Uber - Request a ride",
+      "developer": "Uber Technologies, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/86/83/16868340-a647-8d3f-6439-6972cb91fc49/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 118424,
-      "change": "new",
-      "change_val": 0
+      "rating": 4.9,
+      "rating_count": 16871720,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }
