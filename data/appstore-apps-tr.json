@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/d2/0e/c3d20e1c-93e8-c558-8400-43c2c3f8cc7b/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 174383,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -62,31 +50,19 @@
       "change_val": 1
     },
     {
-      "rank": 6,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6c/fe/186cfedb-b9f5-00d3-e857-1e11e20e204a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 85313,
-      "change": "+6",
-      "change_val": 6
-    },
-    {
-      "rank": 7,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/9a/50/3e9a5002-8ff3-a736-eea0-f55ec8855295/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 5,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/d2/0e/c3d20e1c-93e8-c558-8400-43c2c3f8cc7b/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 93734,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 174383,
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 8,
+      "rank": 6,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -94,11 +70,47 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918729,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 7,
+      "app_id": "1511527605",
+      "app_name": "Museums of Türkiye - Official",
+      "developer": "T. C. Kültür ve Turizm Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6c/fe/186cfedb-b9f5-00d3-e857-1e11e20e204a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 85313,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 8,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/9a/50/3e9a5002-8ff3-a736-eea0-f55ec8855295/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 93734,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 9,
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ea/7c/b5ea7cab-4a49-6d50-ba14-6b9e51e49af2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 384366,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -110,55 +122,19 @@
       "change_val": -1
     },
     {
-      "rank": 10,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ea/7c/b5ea7cab-4a49-6d50-ba14-6b9e51e49af2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 384366,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
       "rank": 11,
-      "app_id": "6575386702",
-      "app_name": "Obigenc",
-      "developer": "TÜRK EĞİTİM VAKFI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/a8/4d/18a84d02-7838-d072-36d8-d47800111b53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "603336861",
+      "app_name": "beIN CONNECT",
+      "developer": "DIGITURK",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/ba/15/24ba151c-9e8c-b15c-b466-e537d923fba5/AppIcon-0-0-1x_U007emarketing-0-9-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 2.3,
-      "rating_count": 275,
-      "change": "+2",
-      "change_val": 2
+      "rating": 4.4,
+      "rating_count": 25284,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "570060128",
-      "app_name": "Duolingo: Language & Chess",
-      "developer": "Duolingo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/ee/1d/c7ee1d8c-9928-98bf-318a-0713e0351998/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 484938,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 13,
-      "app_id": "6478287397",
-      "app_name": "Speak & Learn English: Learna",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/19/fc/cf19fc36-92e1-c567-9bd3-5c32f05a1bbf/Learna-LiquidGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 31361,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 14,
       "app_id": "1234494259",
       "app_name": "Cepte Şok",
       "developer": "Şok Marketler Tic. A.Ş.",
@@ -166,11 +142,47 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 69350,
-      "change": "+5",
-      "change_val": 5
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 13,
+      "app_id": "6575386702",
+      "app_name": "Obigenc",
+      "developer": "TÜRK EĞİTİM VAKFI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/a8/4d/18a84d02-7838-d072-36d8-d47800111b53/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 2.3,
+      "rating_count": 275,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 14,
+      "app_id": "6478287397",
+      "app_name": "Speak & Learn English: Learna",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/19/fc/cf19fc36-92e1-c567-9bd3-5c32f05a1bbf/Learna-LiquidGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 31361,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
+      "app_id": "570060128",
+      "app_name": "Duolingo: Language & Chess",
+      "developer": "Duolingo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/ee/1d/c7ee1d8c-9928-98bf-318a-0713e0351998/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 484938,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 16,
       "app_id": "908956795",
       "app_name": "MediaMarkt Türkiye",
       "developer": "MMS E-Commerce GmbH",
@@ -178,11 +190,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 59112,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "app_id": "472650686",
       "app_name": "Yandex Go: Taxi Food Delivery",
       "developer": "Mikromobilnost doo",
@@ -190,11 +202,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 138197,
-      "change": "-5",
-      "change_val": -5
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -206,7 +218,7 @@
       "change_val": -1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "app_id": "284815942",
       "app_name": "Google - More ways to search",
       "developer": "Google",
@@ -218,7 +230,7 @@
       "change_val": -1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
       "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
@@ -228,18 +240,6 @@
       "rating_count": 348139,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 20,
-      "app_id": "524362642",
-      "app_name": "Trendyol: Online Shopping",
-      "developer": "trendyol.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/3b/0d/393b0da1-2f95-52c4-bd90-19e4fc58e9f7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4634896,
-      "change": "new",
-      "change_val": 0
     }
   ]
 }
