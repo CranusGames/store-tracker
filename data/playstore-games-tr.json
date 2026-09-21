@@ -46,23 +46,11 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
-      "app_id": "com.block.juggle",
-      "app_name": "Block Blast!",
-      "developer": "HungryStudio",
-      "icon_url": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
-      "installs": "1,000,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 6,
       "app_id": "com.king.candycrushsaga",
       "app_name": "Candy Crush Saga",
       "developer": "King",
@@ -74,6 +62,18 @@
       "change_val": 1
     },
     {
+      "rank": 6,
+      "app_id": "com.block.juggle",
+      "app_name": "Block Blast!",
+      "developer": "HungryStudio",
+      "icon_url": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
+      "installs": "1,000,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 7,
       "app_id": "com.imangi.templerun2",
       "app_name": "Temple Run 2",
@@ -82,8 +82,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "500,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-6",
-      "change_val": -6
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "500,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-7",
-      "change_val": -7
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "com.innersloth.spacemafia",
-      "app_name": "Among Us",
-      "developer": "Innersloth LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/pfGArJJx-vtMRVu2-ziedzAhTLsHgks6N3mNyyOC0oxRdsXINGwdd9h4ZutdTG7MfgiqlDXBXnk-kNo-Fns70Q",
-      "installs": "500,000,000+",
-      "rating": 3.9,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "com.kiloo.subwaysurf",
       "app_name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -190,11 +178,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "com.miniclip.eightballpool",
       "app_name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -202,8 +190,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "com.innersloth.spacemafia",
+      "app_name": "Among Us",
+      "developer": "Innersloth LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/pfGArJJx-vtMRVu2-ziedzAhTLsHgks6N3mNyyOC0oxRdsXINGwdd9h4ZutdTG7MfgiqlDXBXnk-kNo-Fns70Q",
+      "installs": "500,000,000+",
+      "rating": 3.9,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
