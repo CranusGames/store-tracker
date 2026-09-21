@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "rankings": [
     {
       "rank": 1,
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1074249,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 416502,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 42303,
-      "change": "+13",
-      "change_val": 13
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 26045,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445394,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918728,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 174400,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93742,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3069182,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,11 +130,23 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 354939,
-      "change": "+7",
-      "change_val": 7
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
+      "app_id": "6800211040",
+      "app_name": "CarTV - M3U IPTV Player & Cast",
+      "developer": "Lyntra Technology Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/db/ae/0adbae72-9161-59bf-79d6-6bdb7728fe78/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 45,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 13,
       "app_id": "524362642",
       "app_name": "Trendyol: Online Shopping",
       "developer": "trendyol.com",
@@ -142,11 +154,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4635438,
-      "change": "new",
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 14,
+      "app_id": "6478287397",
+      "app_name": "Speak & Learn English: Learna",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/19/fc/cf19fc36-92e1-c567-9bd3-5c32f05a1bbf/Learna-LiquidGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 31421,
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 13,
+      "rank": 15,
       "app_id": "397585390",
       "app_name": "Migros: Food & Groceries",
       "developer": "MigrosOne",
@@ -158,19 +182,7 @@
       "change_val": -2
     },
     {
-      "rank": 14,
-      "app_id": "6478287397",
-      "app_name": "Speak & Learn English: Learna",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/19/fc/cf19fc36-92e1-c567-9bd3-5c32f05a1bbf/Learna-LiquidGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 31421,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 15,
+      "rank": 16,
       "app_id": "570060128",
       "app_name": "Duolingo: Language & Chess",
       "developer": "Duolingo",
@@ -182,7 +194,7 @@
       "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -190,20 +202,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1912584,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 17,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/92/a0/1f92a02b-cea2-fa56-e85c-7454ad3a4bc9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 69352,
-      "change": "-5",
-      "change_val": -5
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -214,23 +214,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1066586,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/6c/fe/186cfedb-b9f5-00d3-e857-1e11e20e204a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 85313,
-      "change": "-9",
-      "change_val": -9
-    },
-    {
-      "rank": 20,
       "app_id": "908956795",
       "app_name": "MediaMarkt Türkiye",
       "developer": "MMS E-Commerce GmbH",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 59136,
-      "change": "-4",
-      "change_val": -4
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "422689480",
+      "app_name": "Gmail - Email by Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e9/5e/fde95ef0-657c-e77e-c0f4-8fdd2b610157/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 85840,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
