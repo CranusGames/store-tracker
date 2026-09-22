@@ -10,7 +10,7 @@
       "installs": "",
       "rating": 0,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 233638,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,23 +34,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 255062,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 4,
-      "app_id": "6748084174",
-      "app_name": "Smash Fest!",
-      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/bc/71/07bc71c3-4cea-196c-6dbb-6decedb08930/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 473704,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 5,
+      "rank": 4,
       "app_id": "6760325543",
       "app_name": "CubeAway - 3DPuzzle",
       "developer": "GOODROID,Inc.",
@@ -58,11 +46,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 94238,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "6779167923",
       "app_name": "Colony Flow!",
       "developer": "ABI GLOBAL LTD.",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 22564,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6748084174",
+      "app_name": "Smash Fest!",
+      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/bc/71/07bc71c3-4cea-196c-6dbb-6decedb08930/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 473704,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1712549,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,23 +94,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 649563,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "431946152",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/55/46/3d55460c-3920-abcb-6292-ac29ec83940b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 20178344,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 10,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -118,11 +106,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 67071,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 11,
+      "rank": 10,
       "app_id": "6746743297",
       "app_name": "Bus Fever Party!",
       "developer": "Lumi Games",
@@ -130,23 +118,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 6477,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "431946152",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/55/46/3d55460c-3920-abcb-6292-ac29ec83940b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 20178344,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 12,
-      "app_id": "1617391485",
-      "app_name": "Block Blast！",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/4f/d2/204fd22f-12bf-c671-2f08-d6c2b67ec6bc/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 2716126,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 13,
       "app_id": "6758326278",
       "app_name": "Amaze GO!",
       "developer": "Oakever Games",
@@ -154,11 +142,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 205081,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6756482832",
+      "app_name": "Brain Puzzle 3: Crazy Mind",
+      "developer": "SmallStep Dev Team",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f4/df/edf4df66-c8f5-e488-bc0d-7677aa8ea52d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18425,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 14,
+      "app_id": "1617391485",
+      "app_name": "Block Blast！",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/4f/d2/204fd22f-12bf-c671-2f08-d6c2b67ec6bc/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 2716126,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 15,
       "app_id": "6754464806",
       "app_name": "Car Evolve",
       "developer": "Heseri Games Inc",
@@ -170,31 +182,7 @@
       "change_val": -1
     },
     {
-      "rank": 15,
-      "app_id": "6756482832",
-      "app_name": "Brain Puzzle 3: Crazy Mind",
-      "developer": "SmallStep Dev Team",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f4/df/edf4df66-c8f5-e488-bc0d-7677aa8ea52d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18425,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
       "rank": 16,
-      "app_id": "6761469046",
-      "app_name": "Rap Star:Idle Clicker",
-      "developer": "聪 马",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/3c/74/533c741b-d78d-9221-28de-230b0aa89f1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 41773,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 17,
       "app_id": "1482155847",
       "app_name": "Royal Match",
       "developer": "Dream Games",
@@ -202,11 +190,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3826702,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "6747492600",
       "app_name": "Mahjong Blast",
       "developer": "Nebula Studio",
@@ -214,11 +202,35 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 562637,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "6769314786",
+      "app_name": "Food Hunt: Pixel Puzzle",
+      "developer": "FUNFINITY PTE. LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/69/81/e3698133-d61d-b655-7ddf-f6fac07e0bf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 36592,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 19,
+      "app_id": "6761757565",
+      "app_name": "Colorever: Gem Art Puzzle",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/d7/17/b3d7172c-50e2-a616-c2e1-7e4158c06325/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 3141,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "6780891673",
       "app_name": "Royal Smash! - Physics Puzzle",
       "developer": "Cypher Games",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 87812,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/5f/a8/fe5fa8bd-23a0-8fc1-e7b6-af93cc405a9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 203917,
-      "change": "-3",
-      "change_val": -3
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
