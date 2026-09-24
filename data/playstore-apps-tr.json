@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "com.codeway.brainapp",
-      "app_name": "IQ Masters - Brain Games",
-      "developer": "Deep Flow Apps",
-      "icon_url": "https://play-lh.googleusercontent.com/2BJcbwfs3A7MPwVhGDjMtJ9XzNYDP0kZGml5U2AFzEQFstq6KsDi3Bl98fq-D7QefZ6MOEjg8R7FlV1Wtw6X6Ms",
-      "installs": "",
-      "rating": 3.8,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "com.scaleup.chatai",
       "app_name": "AI Chatbot - Nova",
       "developer": "ScaleUp",
@@ -130,11 +118,11 @@
       "installs": "",
       "rating": 3.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "tr.com.abat.sosyopix",
       "app_name": "Sosyopix - Personalized Gift",
       "developer": "Abat Ltd.",
@@ -142,23 +130,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "com.codeway.brainapp",
+      "app_name": "IQ Masters - Brain Games",
+      "developer": "Deep Flow Apps",
+      "icon_url": "https://play-lh.googleusercontent.com/2BJcbwfs3A7MPwVhGDjMtJ9XzNYDP0kZGml5U2AFzEQFstq6KsDi3Bl98fq-D7QefZ6MOEjg8R7FlV1Wtw6X6Ms",
+      "installs": "",
+      "rating": 3.8,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 13,
-      "app_id": "interior.home.design.ai",
-      "app_name": "Home AI - AI Interior Design",
-      "developer": "HubX",
-      "icon_url": "https://play-lh.googleusercontent.com/zB2tNHzohgQhXO6p6sWISt2bDG9WdzRvrUfAxVpdR_cRoM5npG_3vTey3IjSKdadgZsIrTSY8n6Y_4OXv-H82Q",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "com.kompanion.habit.android",
       "app_name": "Dear Me: Daily Routine Tracker",
       "developer": "Fitself",
@@ -166,8 +154,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "interior.home.design.ai",
+      "app_name": "Home AI - AI Interior Design",
+      "developer": "HubX",
+      "icon_url": "https://play-lh.googleusercontent.com/zB2tNHzohgQhXO6p6sWISt2bDG9WdzRvrUfAxVpdR_cRoM5npG_3vTey3IjSKdadgZsIrTSY8n6Y_4OXv-H82Q",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
