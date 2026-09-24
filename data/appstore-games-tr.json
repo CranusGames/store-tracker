@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1932822,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,23 +118,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 3090,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 11,
-      "app_id": "6746328263",
-      "app_name": "Castle Busters",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/5a/c2/0b5ac269-410d-f766-bee9-81a293431ab3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 6275,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "6780891673",
       "app_name": "Royal Smash! - Physics Puzzle",
       "developer": "Cypher Games",
@@ -142,8 +130,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 10603,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6746328263",
+      "app_name": "Castle Busters",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/5a/c2/0b5ac269-410d-f766-bee9-81a293431ab3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 6275,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -171,15 +171,15 @@
     },
     {
       "rank": 15,
-      "app_id": "1638139403",
-      "app_name": "Block Crush: Block Puzzle Game",
-      "developer": "Wonderful Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/ee/1d/77ee1dde-e79f-cf04-4f88-89d146cc3ee3/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1351168404",
+      "app_name": "Among Us!",
+      "developer": "InnerSloth LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7e/5c/a67e5c64-65f4-bd11-edcc-087936599310/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 10027,
-      "change": "=",
-      "change_val": 0
+      "rating": 3.8,
+      "rating_count": 40835,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 16,
@@ -195,6 +195,18 @@
     },
     {
       "rank": 17,
+      "app_id": "1638139403",
+      "app_name": "Block Crush: Block Puzzle Game",
+      "developer": "Wonderful Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/ee/1d/77ee1dde-e79f-cf04-4f88-89d146cc3ee3/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 10027,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 18,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -202,35 +214,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 47037,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
-      "app_id": "1351168404",
-      "app_name": "Among Us!",
-      "developer": "InnerSloth LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7e/5c/a67e5c64-65f4-bd11-edcc-087936599310/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.8,
-      "rating_count": 40835,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 19,
-      "app_id": "6503636810",
-      "app_name": "Screw Match®: ASMR Game",
-      "developer": "BESTPLAY GAMES PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/2c/9d/862c9d24-e8fb-8f6a-0ea1-ec37a6dbe000/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.1,
-      "rating_count": 1159,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 265880,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "6503636810",
+      "app_name": "Screw Match®: ASMR Game",
+      "developer": "BESTPLAY GAMES PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/2c/9d/862c9d24-e8fb-8f6a-0ea1-ec37a6dbe000/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 1159,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
