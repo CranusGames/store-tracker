@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 40868,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,23 +70,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2278598,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 7,
-      "app_id": "6745820631",
-      "app_name": "Shots: Photo & Video Generator",
-      "developer": "DeePix AI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 15292,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1121909,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6745820631",
+      "app_name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 15292,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -106,35 +106,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 39085,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 10,
-      "app_id": "545519333",
-      "app_name": "Amazon Prime Video",
-      "developer": "AMZN Mobile LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/f9/9b/f1f99b52-e554-1e65-ff91-bae3d07de8c5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3058495,
-      "change": "-5",
-      "change_val": -5
-    },
-    {
-      "rank": 11,
-      "app_id": "1631584032",
-      "app_name": "PLAYFUL REWARDS: Earn Rewards",
-      "developer": "Playful Rewards",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/09/d8/6c09d8b9-3464-3239-cd78-15290de4e156/AppIcon-0-0-1x_U007epad-0-11-85-220.jpeg/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 119378,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 12,
+      "rank": 10,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -142,23 +118,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5127952,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 13,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/3b/42/f93b4263-8c78-7bd1-44fd-f137e3fe5f54/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 269161,
       "change": "+2",
       "change_val": 2
     },
     {
-      "rank": 14,
+      "rank": 11,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
@@ -166,23 +130,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1016615,
-      "change": "-1",
-      "change_val": -1
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 15,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/c6/1d/8ec61d8b-34a1-dbb1-ec6c-6267090aba11/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 12,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/ff/cb/24ffcb56-9d47-60cc-266c-fcb43e31a190/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 60911,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.7,
+      "rating_count": 269161,
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 13,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade Football & more",
       "developer": "KalshiEX LLC",
@@ -190,11 +154,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 549927,
-      "change": "-4",
-      "change_val": -4
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 17,
+      "rank": 14,
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/c6/1d/8ec61d8b-34a1-dbb1-ec6c-6267090aba11/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 60911,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -202,35 +178,47 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18660456,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 16,
+      "app_id": "545519333",
+      "app_name": "Amazon Prime Video",
+      "developer": "AMZN Mobile LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/f9/9b/f1f99b52-e554-1e65-ff91-bae3d07de8c5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3058495,
+      "change": "-6",
+      "change_val": -6
+    },
+    {
+      "rank": 17,
+      "app_id": "1631584032",
+      "app_name": "PLAYFUL REWARDS: Earn Rewards",
+      "developer": "Playful Rewards",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/09/d8/6c09d8b9-3464-3239-cd78-15290de4e156/AppIcon-0-0-1x_U007epad-0-11-85-220.jpeg/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 119378,
+      "change": "-6",
+      "change_val": -6
     },
     {
       "rank": 18,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/7c/88/b07c88d8-0314-7b8b-7ab0-788e7059074b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/3d/88/673d887a-0001-c7d0-0ca2-fc8cd73a9ded/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 18371594,
+      "rating_count": 7381761,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ad/69/7aad691b-e448-8923-516c-5b9dc308d758/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2257393,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 20,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2439968,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ad/69/7aad691b-e448-8923-516c-5b9dc308d758/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2257393,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
