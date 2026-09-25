@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6748084174",
-      "app_name": "Smash Fest!",
-      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/40/db/1940db5a-3f81-fabc-1fad-48a5df75e5c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 10436,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6757350661",
       "app_name": "Police Chief",
       "developer": "VoyagerOne",
@@ -22,8 +10,20 @@
       "installs": "",
       "rating": 0,
       "rating_count": 0,
-      "change": "+3",
-      "change_val": 3
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6748084174",
+      "app_name": "Smash Fest!",
+      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/40/db/1940db5a-3f81-fabc-1fad-48a5df75e5c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 10436,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 96840,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 751,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -82,23 +82,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1611,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "6760325543",
-      "app_name": "CubeAway - 3DPuzzle",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 3141,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 9,
       "app_id": "1482155847",
       "app_name": "Royal Match",
       "developer": "Dream Games",
@@ -110,6 +98,18 @@
       "change_val": 1
     },
     {
+      "rank": 9,
+      "app_id": "6760325543",
+      "app_name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 3141,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 10,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1932895,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,35 +130,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 341369,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "1597760047",
-      "app_name": "OneState RP: Role Play Online",
-      "developer": "CHILLBASE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/7d/51/5c7d5143-0bd7-9ce4-7680-5aae0f4839d6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 949,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 13,
-      "app_id": "6780891673",
-      "app_name": "Royal Smash! - Physics Puzzle",
-      "developer": "Cypher Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/07/11/670711b5-7ac8-bd8a-f72e-b05b095e1c18/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 10654,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
       "app_id": "6746328263",
       "app_name": "Castle Busters",
       "developer": "Voodoo",
@@ -170,6 +146,30 @@
       "change_val": 2
     },
     {
+      "rank": 13,
+      "app_id": "6780891673",
+      "app_name": "Royal Smash! - Physics Puzzle",
+      "developer": "Cypher Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/07/11/670711b5-7ac8-bd8a-f72e-b05b095e1c18/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 10654,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 14,
+      "app_id": "1597760047",
+      "app_name": "OneState RP: Role Play Online",
+      "developer": "CHILLBASE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/7d/51/5c7d5143-0bd7-9ce4-7680-5aae0f4839d6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 949,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
       "rank": 15,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
@@ -178,20 +178,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 47048,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "app_id": "6767834940",
+      "app_name": "Top Lords",
+      "developer": "GAME SPARK PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.2,
-      "rating_count": 693424,
-      "change": "-3",
-      "change_val": -3
+      "rating": 4.8,
+      "rating_count": 486,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 17,
@@ -202,11 +202,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 48200,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 18,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 693424,
       "change": "-2",
       "change_val": -2
     },
     {
-      "rank": 18,
+      "rank": 19,
       "app_id": "1351168404",
       "app_name": "Among Us!",
       "developer": "InnerSloth LLC",
@@ -218,27 +230,15 @@
       "change_val": -1
     },
     {
-      "rank": 19,
-      "app_id": "6767834940",
-      "app_name": "Top Lords",
-      "developer": "GAME SPARK PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 486,
-      "change": "new",
-      "change_val": 0
-    },
-    {
       "rank": 20,
-      "app_id": "1117270703",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8c/42/508c42ee-b55e-375a-63dc-158374da9693/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1638139403",
+      "app_name": "Block Crush: Block Puzzle Game",
+      "developer": "Wonderful Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/ee/1d/77ee1dde-e79f-cf04-4f88-89d146cc3ee3/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 265925,
-      "change": "=",
+      "rating": 4.6,
+      "rating_count": 10084,
+      "change": "new",
       "change_val": 0
     }
   ]

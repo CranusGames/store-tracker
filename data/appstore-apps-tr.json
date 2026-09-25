@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 423296,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1089328,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -70,32 +70,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548060,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/40/19/65401978-8a7b-c4c5-35f0-7ea83b83b28d/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/3d/88/673d887a-0001-c7d0-0ca2-fc8cd73a9ded/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
       "rating_count": 174592,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "1113153706",
-      "app_name": "Microsoft Teams",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ff/e0/ecffe051-af85-edee-02da-88b89319ad81/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/a8/fb/19a8fb81-2bb6-340f-a4fc-4ffc9e2eee60/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 89404,
-      "change": "+4",
-      "change_val": 4
+      "rating_count": 445392,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 9,
@@ -106,35 +106,23 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9601,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/a8/fb/19a8fb81-2bb6-340f-a4fc-4ffc9e2eee60/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "1113153706",
+      "app_name": "Microsoft Teams",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/ff/e0/ecffe051-af85-edee-02da-88b89319ad81/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 445392,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 89404,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 11,
-      "app_id": "481035064",
-      "app_name": "Hepsiburada: Online Shopping",
-      "developer": "Hepsiburada",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/c8/90/72c8906c-c233-56d4-037a-d8d20fe662b7/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1914649,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 12,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -142,11 +130,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918734,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "521117624",
       "app_name": "Garanti BBVA Mobile",
       "developer": "T. Garanti Bankasi A.S.",
@@ -154,11 +142,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2193455,
-      "change": "+7",
-      "change_val": 7
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
+      "rank": 13,
       "app_id": "458627086",
       "app_name": "Yapı Kredi Mobile",
       "developer": "Yapı ve Kredi Bankası A.Ş.",
@@ -166,11 +154,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1595944,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "1068841746",
       "app_name": "Halkbank Mobil",
       "developer": "Turkiye Halk Bankasi A.S.",
@@ -178,11 +166,47 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 392806,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "885993234",
+      "app_name": "Ziraat Mobil",
+      "developer": "T.C. Ziraat Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/51/70/1e517069-0082-1a48-0f96-211b421a5d48/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1710127,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 16,
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/c8/90/72c8906c-c233-56d4-037a-d8d20fe662b7/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1914649,
+      "change": "-5",
+      "change_val": -5
+    },
+    {
+      "rank": 17,
+      "app_id": "907009662",
+      "app_name": "Petrol Ofisi",
+      "developer": "PETROL OFİSİ A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/00/b1/d300b14b-3d43-a5e6-411d-fc79a4919ddf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 179905,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 18,
       "app_id": "418535251",
       "app_name": "sahibinden #AlSatKiralaKesfet",
       "developer": "sahibinden.com",
@@ -194,30 +218,6 @@
       "change_val": -2
     },
     {
-      "rank": 17,
-      "app_id": "907009662",
-      "app_name": "Petrol Ofisi",
-      "developer": "PETROL OFİSİ A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/00/b1/d300b14b-3d43-a5e6-411d-fc79a4919ddf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 179905,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "885993234",
-      "app_name": "Ziraat Mobil",
-      "developer": "T.C. Ziraat Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/51/70/1e517069-0082-1a48-0f96-211b421a5d48/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1710127,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
       "rank": 19,
       "app_id": "472650686",
       "app_name": "Yandex Go: Taxi Food Delivery",
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 140174,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "284815942",
-      "app_name": "Google - More ways to search",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/90/c6/9190c6b7-80b4-0451-ac46-43f3429b7ff5/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/49/18/8b49186c-519e-047c-927b-3bde9b35ed7e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.4,
-      "rating_count": 356392,
-      "change": "-9",
-      "change_val": -9
+      "rating": 4.7,
+      "rating_count": 351714,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
