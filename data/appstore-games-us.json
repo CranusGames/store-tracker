@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6748084174",
-      "app_name": "Smash Fest!",
-      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/40/db/1940db5a-3f81-fabc-1fad-48a5df75e5c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 489088,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "1498019884",
       "app_name": "Castlevania: 40th Anniversary",
       "developer": "KONAMI",
@@ -58,8 +46,20 @@
       "installs": "",
       "rating": 3,
       "rating_count": 13,
-      "change": "+4",
-      "change_val": 4
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6748084174",
+      "app_name": "Smash Fest!",
+      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/40/db/1940db5a-3f81-fabc-1fad-48a5df75e5c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 489088,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -82,23 +82,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 100374,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "6499209744",
-      "app_name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/96/c1/2e96c1d7-a5ec-c46d-87da-3fc742161f73/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 655643,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 9,
       "app_id": "6779167923",
       "app_name": "Colony Flow!",
       "developer": "ABI GLOBAL LTD.",
@@ -106,6 +94,18 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 25586,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/96/c1/2e96c1d7-a5ec-c46d-87da-3fc742161f73/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 655643,
       "change": "-1",
       "change_val": -1
     },
@@ -130,20 +130,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 8077,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "6756482832",
-      "app_name": "Brain Puzzle 3: Crazy Mind",
-      "developer": "SmallStep Dev Team",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f4/df/edf4df66-c8f5-e488-bc0d-7677aa8ea52d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6793924927",
+      "app_name": "Rotate Rings",
+      "developer": "Nebula Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/d2/28/a0d2287e-3406-6134-6080-0676f7e9608f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 19330,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.8,
+      "rating_count": 1027,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2721859,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,20 +166,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 69909,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "6793924927",
-      "app_name": "Rotate Rings",
-      "developer": "Nebula Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/d2/28/a0d2287e-3406-6134-6080-0676f7e9608f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "6756482832",
+      "app_name": "Brain Puzzle 3: Crazy Mind",
+      "developer": "SmallStep Dev Team",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f4/df/edf4df66-c8f5-e488-bc0d-7677aa8ea52d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 1027,
-      "change": "+5",
-      "change_val": 5
+      "rating": 4.7,
+      "rating_count": 19330,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 16,
@@ -190,23 +190,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 3563,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "6747492600",
-      "app_name": "Mahjong Blast",
-      "developer": "Nebula Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/27/43/04274346-8580-589e-4b8f-9bffb35b02ae/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 572862,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 18,
       "app_id": "1623318294",
       "app_name": "Gossip Harbor®: Merge & Story",
       "developer": "Microfun Limited",
@@ -214,11 +202,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 204821,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "638689075",
       "app_name": "Township",
       "developer": "Playrix",
@@ -226,8 +214,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2202459,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "6747492600",
+      "app_name": "Mahjong Blast",
+      "developer": "Nebula Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/27/43/04274346-8580-589e-4b8f-9bffb35b02ae/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 572862,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 210025,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
