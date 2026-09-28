@@ -3,27 +3,27 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6761760135",
-      "app_name": "Meowdoku!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/92/ba/bb92ba02-bec3-41fb-c5e9-b6875bcb5d1e/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 258237,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6752672568",
       "app_name": "Block Out! - Color Sort Puzzle",
       "developer": "Grand Games A.Ş.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d0/bc/1dd0bcac-6a6c-52bd-9b5d-e2d6a41b59a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 269812,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 270391,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6761760135",
+      "app_name": "Meowdoku!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/92/ba/bb92ba02-bec3-41fb-c5e9-b6875bcb5d1e/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 259102,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -33,7 +33,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/d2/28/a0d2287e-3406-6134-6080-0676f7e9608f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 3295,
+      "rating_count": 3847,
       "change": "=",
       "change_val": 0
     },
@@ -45,31 +45,31 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/ef/57/a0ef5705-570a-f61e-cfbd-5913e40e6c9b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 1728847,
+      "rating_count": 1729370,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 5,
-      "app_id": "6760325543",
-      "app_name": "CubeAway - 3DPuzzle",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 102651,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 6,
       "app_id": "6748084174",
       "app_name": "Smash Fest!",
       "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/40/db/1940db5a-3f81-fabc-1fad-48a5df75e5c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 495354,
+      "rating_count": 496019,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6760325543",
+      "app_name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 102940,
       "change": "-1",
       "change_val": -1
     },
@@ -81,9 +81,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/7b/12/237b1251-16fe-3a52-a9dc-022d9253266b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 658319,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 658690,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -93,9 +93,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/23/42/2123423c-5f47-6efe-ba43-d07ce3b4b4e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 26675,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 26808,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -105,9 +105,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/7d/01/fd7d0197-f3fa-2836-1e90-f74acedaa746/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.1,
-      "rating_count": 253,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 260,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -117,69 +117,69 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/55/46/3d55460c-3920-abcb-6292-ac29ec83940b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 20231403,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 11,
-      "app_id": "6756482832",
-      "app_name": "Brain Puzzle 3: Crazy Mind",
-      "developer": "SmallStep Dev Team",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f4/df/edf4df66-c8f5-e488-bc0d-7677aa8ea52d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 19752,
-      "change": "new",
+      "rating_count": 20233750,
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "6746743297",
       "app_name": "Bus Fever Party!",
       "developer": "Lumi Games",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/0e/f2/a00ef223-a563-5329-c4ee-ab31e25f5e86/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 8673,
+      "rating_count": 8780,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "6761757565",
       "app_name": "Colorever: Gem Art Puzzle",
       "developer": "Oakever Games",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/d7/17/b3d7172c-50e2-a616-c2e1-7e4158c06325/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 3768,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 3791,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6756482832",
+      "app_name": "Brain Puzzle 3: Crazy Mind",
+      "developer": "SmallStep Dev Team",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f4/df/edf4df66-c8f5-e488-bc0d-7677aa8ea52d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 19828,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 14,
+      "app_id": "1617391485",
+      "app_name": "Block Blast！",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/42/e0/3c42e0e1-b437-b4bd-3e24-804d6778355d/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 2725690,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
       "app_id": "596402997",
       "app_name": "Minion Rush: Running game",
       "developer": "Gameloft",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/0e/51/ff0e519a-2cbe-abf6-9ee6-5d1cc407538f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 298521,
-      "change": "-5",
-      "change_val": -5
-    },
-    {
-      "rank": 15,
-      "app_id": "1617391485",
-      "app_name": "Block Blast！",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/ed/20/7ced20d6-c54f-71ee-ae2c-f2e06b59796e/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 2725319,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 298602,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -189,33 +189,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/53/a9/1453a9f5-30ca-a2be-5e88-26a1e35dbb5f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 212011,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 212227,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/08/c3/1b08c380-77f7-cb9e-a7ab-c815348d09d8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 70993,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 18,
       "app_id": "638689075",
       "app_name": "Township",
       "developer": "Playrix",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/7e/db/527edbb0-11e2-293e-e707-2bb08d109a8b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 2203905,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 2204078,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/08/c3/1b08c380-77f7-cb9e-a7ab-c815348d09d8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 71124,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
@@ -225,21 +225,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/90/74/5e907478-23a6-35c9-1dee-33259471b9be/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 576859,
-      "change": "new",
+      "rating_count": 577332,
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6754464806",
-      "app_name": "Car Evolve",
-      "developer": "Heseri Games Inc",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/2b/4d/142b4d0a-ce43-f35f-b4fd-7eb6584d571d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/5f/a8/fe5fa8bd-23a0-8fc1-e7b6-af93cc405a9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 8406,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 205278,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
