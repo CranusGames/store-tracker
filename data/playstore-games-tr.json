@@ -10,8 +10,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,11 +22,23 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
+      "app_id": "com.JindoBlu.OfflineGames",
+      "app_name": "Offline Games - No Wifi Games",
+      "developer": "JindoBlu",
+      "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
+      "installs": "100,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 4,
       "app_id": "com.tencent.ig",
       "app_name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -34,11 +46,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "app_id": "com.dts.freefiremax",
       "app_name": "Free Fire MAX x NARUTO",
       "developer": "GARENA INTERNATIONAL I",
@@ -48,18 +60,6 @@
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 5,
-      "app_id": "com.JindoBlu.OfflineGames",
-      "app_name": "Offline Games - No Wifi Games",
-      "developer": "JindoBlu",
-      "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
-      "installs": "100,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 6,
@@ -75,54 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "com.ludo.king",
-      "app_name": "Ludo King®",
-      "developer": "Gametion",
-      "icon_url": "https://play-lh.googleusercontent.com/qSN0Eb6mDVPIX4PRggTB3PsEU1oyPorteUfiuJ709P9cZxdWP9Y-kV0htG7rtJNYywGE-3wlrC_7Gix0h0-Urw",
-      "installs": "1,000,000,000+",
-      "rating": 3.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
-      "app_id": "com.imangi.templerun2",
-      "app_name": "Temple Run 2",
-      "developer": "Imangi Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
-      "installs": "1,000,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
-      "app_id": "com.media720.games2020",
-      "app_name": "Offline Games: No WiFi - FunOn",
-      "developer": "Fun Offline Games",
-      "icon_url": "https://play-lh.googleusercontent.com/rgxlkDr9t_Nxjo0ojkGNdfsxRxEdZxEjZw6_vlDq9BBEhvOgX5SG-qg4cPF6_RrETPRpTF67HPI-iSG7O-RjzQ",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "com.matteljv.uno",
-      "app_name": "UNO!™",
-      "developer": "Mattel Game Studios HK Limited",
-      "icon_url": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
-      "installs": "100,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "com.block.juggle",
       "app_name": "Block Blast!",
       "developer": "HungryStudio",
@@ -130,8 +82,56 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 8,
+      "app_id": "com.media720.games2020",
+      "app_name": "Offline Games: No WiFi - FunOn",
+      "developer": "Fun Offline Games",
+      "icon_url": "https://play-lh.googleusercontent.com/rgxlkDr9t_Nxjo0ojkGNdfsxRxEdZxEjZw6_vlDq9BBEhvOgX5SG-qg4cPF6_RrETPRpTF67HPI-iSG7O-RjzQ",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "com.ludo.king",
+      "app_name": "Ludo King®",
+      "developer": "Gametion",
+      "icon_url": "https://play-lh.googleusercontent.com/qSN0Eb6mDVPIX4PRggTB3PsEU1oyPorteUfiuJ709P9cZxdWP9Y-kV0htG7rtJNYywGE-3wlrC_7Gix0h0-Urw",
+      "installs": "1,000,000,000+",
+      "rating": 3.3,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 10,
+      "app_id": "com.imangi.templerun2",
+      "app_name": "Temple Run 2",
+      "developer": "Imangi Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
+      "installs": "1,000,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 11,
+      "app_id": "com.matteljv.uno",
+      "app_name": "UNO!™",
+      "developer": "Mattel Game Studios HK Limited",
+      "icon_url": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
+      "installs": "100,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -166,8 +166,8 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -214,19 +214,19 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "com.playrix.township",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
+      "app_id": "com.fungames.sniper3d",
+      "app_name": "Sniper 3D：Gun Shooting Games",
+      "developer": "Wildlife Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/seWyOBcAUUgzE8USqm7I5W9qZ2McX6USk8aRBSQ7HJLLwjPyjnrJV9rf66ZD2icbwKUXcBnB3fCchLqXGtGEEKY",
       "installs": "500,000,000+",
-      "rating": 4.7,
+      "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
+      "change": "new",
       "change_val": 0
     },
     {
@@ -238,7 +238,7 @@
       "installs": "500,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
