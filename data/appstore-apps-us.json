@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 10783354,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 356477,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 87650,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -70,11 +70,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2291375,
-      "change": "+7",
-      "change_val": 7
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/a9/44/6ca944d1-3c78-9114-4b3c-e32dff750bc2/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2266090,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 8,
       "app_id": "6741796873",
       "app_name": "TikTok Pro - Events",
       "developer": "TikTok Ltd.",
@@ -82,11 +94,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 63047,
-      "change": "+2",
-      "change_val": 2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -94,11 +106,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 42158,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -110,18 +122,6 @@
       "change_val": -1
     },
     {
-      "rank": 10,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/a9/44/6ca944d1-3c78-9114-4b3c-e32dff750bc2/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2266090,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
       "rank": 11,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1022612,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 270465,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,20 +154,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 563123,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "6761538521",
-      "app_name": "StoryReel: Drama Shorts & TV",
-      "developer": "Equinox Enterprises‌ Technology Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/d8/be/fad8be6f-eead-eccd-1c4d-016a9283545e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "1631584032",
+      "app_name": "PLAYFUL REWARDS: Earn Rewards",
+      "developer": "Playful Rewards",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/09/d8/6c09d8b9-3464-3239-cd78-15290de4e156/AppIcon-0-0-1x_U007epad-0-11-85-220.jpeg/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 43479,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 120600,
+      "change": "+5",
+      "change_val": 5
     },
     {
       "rank": 15,
@@ -178,11 +178,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5145336,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
+      "app_id": "6761538521",
+      "app_name": "StoryReel: Drama Shorts & TV",
+      "developer": "Equinox Enterprises‌ Technology Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/d8/be/fad8be6f-eead-eccd-1c4d-016a9283545e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 43479,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -190,47 +202,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18682801,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 17,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/7c/88/b07c88d8-0314-7b8b-7ab0-788e7059074b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18375852,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
-      "app_id": "422689480",
-      "app_name": "Gmail - Email by Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/e2/23/91e223e2-0de8-367b-ae90-5bb895662760/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2440869,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "1631584032",
-      "app_name": "PLAYFUL REWARDS: Earn Rewards",
-      "developer": "Playful Rewards",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/09/d8/6c09d8b9-3464-3239-cd78-15290de4e156/AppIcon-0-0-1x_U007epad-0-11-85-220.jpeg/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 120600,
-      "change": "-8",
-      "change_val": -8
-    },
-    {
-      "rank": 20,
       "app_id": "983156458",
       "app_name": "Microsoft Authenticator",
       "developer": "Microsoft Corporation",
@@ -238,8 +214,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 703149,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "1056813463",
+      "app_name": "Dunkin'",
+      "developer": "Dunkin' Donuts",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/ad/a2/29ada2b9-13d5-8966-3b19-8e95cea6e2de/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1415676,
       "change": "new",
       "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "422689480",
+      "app_name": "Gmail - Email by Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/e2/23/91e223e2-0de8-367b-ae90-5bb895662760/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2440869,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }

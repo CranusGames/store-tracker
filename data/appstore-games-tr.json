@@ -10,8 +10,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 11216,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 792,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "6742809194",
-      "app_name": "Warline: Sniper Strike",
-      "developer": "Powerfantasy",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/91/e0/3f91e0f3-ed96-95c6-6231-e53367abe96f/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1731,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 6,
       "app_id": "6769314786",
       "app_name": "Food Hunt: Pixel Puzzle",
       "developer": "FUNFINITY PTE. LTD",
@@ -70,6 +58,18 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2132,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6742809194",
+      "app_name": "Warline: Sniper Strike",
+      "developer": "Powerfantasy",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/91/e0/3f91e0f3-ed96-95c6-6231-e53367abe96f/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1731,
       "change": "-1",
       "change_val": -1
     },
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 693573,
-      "change": "+5",
-      "change_val": 5
-    },
-    {
-      "rank": 10,
       "app_id": "6760325543",
       "app_name": "CubeAway - 3DPuzzle",
       "developer": "GOODROID,Inc.",
@@ -118,11 +106,35 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 3422,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 693573,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 11,
+      "app_id": "6780891673",
+      "app_name": "Royal Smash! - Physics Puzzle",
+      "developer": "Cypher Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/07/11/670711b5-7ac8-bd8a-f72e-b05b095e1c18/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 11000,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 12,
       "app_id": "1482155847",
       "app_name": "Royal Match",
       "developer": "Dream Games",
@@ -130,11 +142,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 244307,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/65/52/44655223-74c0-abff-50ab-736354d374f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 341801,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
       "app_id": "6761893238",
       "app_name": "Top Force: Commander",
       "developer": "Century Games Innovation Pte. Ltd.",
@@ -146,43 +170,7 @@
       "change_val": -2
     },
     {
-      "rank": 13,
-      "app_id": "6780891673",
-      "app_name": "Royal Smash! - Physics Puzzle",
-      "developer": "Cypher Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/07/11/670711b5-7ac8-bd8a-f72e-b05b095e1c18/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 11000,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/65/52/44655223-74c0-abff-50ab-736354d374f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 341801,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
       "rank": 15,
-      "app_id": "6746328263",
-      "app_name": "Castle Busters",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/70/ba/c070ba00-8e66-27fe-8dd7-f6dca40266c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 6497,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "1351168404",
       "app_name": "Among Us!",
       "developer": "InnerSloth LLC",
@@ -190,11 +178,35 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 40975,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "1117270703",
+      "app_name": "eFootball™",
+      "developer": "KONAMI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8c/42/508c42ee-b55e-375a-63dc-158374da9693/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 266417,
       "change": "+2",
       "change_val": 2
     },
     {
       "rank": 17,
+      "app_id": "6746328263",
+      "app_name": "Castle Busters",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/70/ba/c070ba00-8e66-27fe-8dd7-f6dca40266c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 6497,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 18,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -206,18 +218,6 @@
       "change_val": -1
     },
     {
-      "rank": 18,
-      "app_id": "1117270703",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/8c/42/508c42ee-b55e-375a-63dc-158374da9693/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 266417,
-      "change": "new",
-      "change_val": 0
-    },
-    {
       "rank": 19,
       "app_id": "1229016807",
       "app_name": "Brawl Stars",
@@ -226,7 +226,7 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 875998,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 562,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
