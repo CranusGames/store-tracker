@@ -147,15 +147,15 @@
     },
     {
       "rank": 13,
-      "app_id": "com.dreamgames.royalmatch",
-      "app_name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-      "installs": "100,000,000+",
-      "rating": 4.5,
+      "app_id": "com.innersloth.spacemafia",
+      "app_name": "Among Us",
+      "developer": "Innersloth LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/pfGArJJx-vtMRVu2-ziedzAhTLsHgks6N3mNyyOC0oxRdsXINGwdd9h4ZutdTG7MfgiqlDXBXnk-kNo-Fns70Q",
+      "installs": "500,000,000+",
+      "rating": 3.9,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 14,
@@ -171,15 +171,15 @@
     },
     {
       "rank": 15,
-      "app_id": "com.innersloth.spacemafia",
-      "app_name": "Among Us",
-      "developer": "Innersloth LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/pfGArJJx-vtMRVu2-ziedzAhTLsHgks6N3mNyyOC0oxRdsXINGwdd9h4ZutdTG7MfgiqlDXBXnk-kNo-Fns70Q",
-      "installs": "500,000,000+",
-      "rating": 3.9,
+      "app_id": "com.dreamgames.royalmatch",
+      "app_name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+      "installs": "100,000,000+",
+      "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 16,
@@ -207,18 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "com.tocaboca.tocalifeworld",
-      "app_name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "icon_url": "https://play-lh.googleusercontent.com/RbCkY3iXSo5b4GcS176iPu1sE27MnakJV7iW6VbiOYBXrP_ekoq7IeNKGddS9q-C93g1H-KpQ-a5BJHq1OdL",
-      "installs": "100,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "com.ea.gp.fifamobile",
       "app_name": "EA SPORTS FC Soccer Mobile 27",
       "developer": "ELECTRONIC ARTS",
@@ -226,8 +214,20 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "com.tocaboca.tocalifeworld",
+      "app_name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "icon_url": "https://play-lh.googleusercontent.com/RbCkY3iXSo5b4GcS176iPu1sE27MnakJV7iW6VbiOYBXrP_ekoq7IeNKGddS9q-C93g1H-KpQ-a5BJHq1OdL",
+      "installs": "100,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
