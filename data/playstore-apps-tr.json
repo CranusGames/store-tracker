@@ -51,24 +51,24 @@
     },
     {
       "rank": 5,
-      "app_id": "com.instagram.android",
-      "app_name": "Instagram",
-      "developer": "Instagram",
-      "icon_url": "https://play-lh.googleusercontent.com/yHi59jmO_lVamcyJ1i3rM1_E8bAiAspShnGjjURq05ipQQSUksO3QVEsXTegRSqul038-4YNA7O644XAcx251Q",
-      "installs": "",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 6,
       "app_id": "com.facebook.katana",
       "app_name": "Facebook",
       "developer": "Meta Platforms, Inc.",
       "icon_url": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q",
       "installs": "",
       "rating": 4.5,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "com.instagram.android",
+      "app_name": "Instagram",
+      "developer": "Instagram",
+      "icon_url": "https://play-lh.googleusercontent.com/yHi59jmO_lVamcyJ1i3rM1_E8bAiAspShnGjjURq05ipQQSUksO3QVEsXTegRSqul038-4YNA7O644XAcx251Q",
+      "installs": "",
+      "rating": 4.1,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
@@ -87,14 +87,14 @@
     },
     {
       "rank": 8,
-      "app_id": "sg.bigo.live",
-      "app_name": "Bigo Live–Live Stream, Go Live",
-      "developer": "Bigo Technology Pte. Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/wLqTIVC7lNNd9TqLd_AknfAzPf3GP8kH0LQ_L9pLPBhQL3JGx0DWIUiyn3wwmGrikdBronljeZKXAXt79LNPtg",
+      "app_id": "video.like",
+      "app_name": "Likee - Short Video Community",
+      "developer": "Likeme Pte. Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/5kFm2Or1bHsU_OEZWkrWPWTBol5V5lMYbZieFg8E_8iXjuarqkb6PEQnKW84nD6KPGvLySi_XZfY90dA0aFL",
       "installs": "",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "=",
+      "change": "new",
       "change_val": 0
     },
     {
@@ -130,7 +130,7 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -142,20 +142,20 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "io.anonchat",
-      "app_name": "Anonymous Chat / AnonChat",
-      "developer": "Anon.Chat",
-      "icon_url": "https://play-lh.googleusercontent.com/pPjZz--W5ODSC81O8C_9FEsr3foPj3of-l1SzkHTaopU90k62t7xq4774i0rhoo7o5Q163v7TdShAel0atWx0g",
+      "app_id": "com.baitu.qingshu",
+      "app_name": "Poppo Live - Live Stream",
+      "developer": "PoppoLive",
+      "icon_url": "https://play-lh.googleusercontent.com/uxMEM4LC3Z-HMeReIkBNZ1wlpxRcBkwOZ-xIRH2IxsuNmezceugiPWOANSipi2JKXrIfVhSPaN4RPreWhJnX6A",
       "installs": "",
-      "rating": 3.5,
+      "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 14,
@@ -166,11 +166,23 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
+      "app_id": "com.mico",
+      "app_name": "MICO: Go Live Streaming & Chat",
+      "developer": "Mico World",
+      "icon_url": "https://play-lh.googleusercontent.com/yDnZiDBszKXpyMqqcmONJrfv7u6UGrakxlPSqHrm2fICQAge3caJC59i27Go7k_ORi_UQ6ASYav-cNujPE4BHg",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 16,
       "app_id": "com.twitter.android",
       "app_name": "X",
       "developer": "X Corp.",
@@ -178,11 +190,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "app_id": "com.nglreactnative",
       "app_name": "NGL: ask me anything",
       "developer": "NGL App",
@@ -194,18 +206,6 @@
       "change_val": -1
     },
     {
-      "rank": 17,
-      "app_id": "com.baitu.qingshu",
-      "app_name": "Poppo Live - Live Stream",
-      "developer": "PoppoLive",
-      "icon_url": "https://play-lh.googleusercontent.com/uxMEM4LC3Z-HMeReIkBNZ1wlpxRcBkwOZ-xIRH2IxsuNmezceugiPWOANSipi2JKXrIfVhSPaN4RPreWhJnX6A",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
       "rank": 18,
       "app_id": "tv.twitch.android.app",
       "app_name": "Twitch: Live Streaming",
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -231,15 +231,15 @@
     },
     {
       "rank": 20,
-      "app_id": "com.bite.chillchat",
-      "app_name": "ChillChat - Live Chat & Game",
-      "developer": "Mangostar Team",
-      "icon_url": "https://play-lh.googleusercontent.com/8w9Ype_aF_PIa31rVfSV0O9c5CZJp9RiSkKWnNdOvZKRp6VSeZzrgejdTPYMC7-46RB6Pb8FzwSQTH8r5AHr",
+      "app_id": "com.dearu.bubble.jyp",
+      "app_name": "bubble for JYPnation",
+      "developer": "Dear U Co., Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/gIWnnrnG0s3z2fpRVM2zXYtxy5Ai1E3xcYJ2IvUMvYd9XLTsE7CJO82UUuFn5nM92PkpUmRd8q7wi01-im1oVQ",
       "installs": "",
-      "rating": 3.5,
+      "rating": 3.4,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "new",
+      "change_val": 0
     }
   ]
 }

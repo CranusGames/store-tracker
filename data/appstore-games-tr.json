@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1178,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1848,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,23 +58,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1043,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 6,
-      "app_id": "6769314786",
-      "app_name": "Food Hunt: Pixel Puzzle",
-      "developer": "FUNFINITY PTE. LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ce/55/42ce5527-0dc9-28e7-60d3-d43ebbf8b3aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2336,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 7,
+      "rank": 6,
       "app_id": "6793924927",
       "app_name": "Rotate Rings",
       "developer": "Nebula Studio",
@@ -82,20 +70,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 344,
-      "change": "+6",
-      "change_val": 6
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6769314786",
+      "app_name": "Food Hunt: Pixel Puzzle",
+      "developer": "FUNFINITY PTE. LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ce/55/42ce5527-0dc9-28e7-60d3-d43ebbf8b3aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2336,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/1f/0e/3a1f0ec3-af79-84d6-75fb-edde42886aed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/ef/57/a0ef5705-570a-f61e-cfbd-5913e40e6c9b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1933650,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 48782,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 9,
@@ -106,35 +106,23 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 342101,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/ef/57/a0ef5705-570a-f61e-cfbd-5913e40e6c9b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/1f/0e/3a1f0ec3-af79-84d6-75fb-edde42886aed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 48782,
-      "change": "+4",
-      "change_val": 4
+      "rating_count": 1933650,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 11,
-      "app_id": "6757140488",
-      "app_name": "Sand Blocks: Drop Puzzle",
-      "developer": "Rollic Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/da/87/e1da8790-94a9-aa14-e143-d1a35c3231a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 54,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 12,
       "app_id": "6780891673",
       "app_name": "Royal Smash! - Physics Puzzle",
       "developer": "Cypher Games",
@@ -142,11 +130,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 11323,
-      "change": "-3",
-      "change_val": -3
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -154,35 +142,23 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 693676,
-      "change": "-3",
-      "change_val": -3
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6757140488",
+      "app_name": "Sand Blocks: Drop Puzzle",
+      "developer": "Rollic Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/70/69/4e706955-44ee-aa3d-4f59-d02f66b18f12/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 54,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 14,
-      "app_id": "1482155847",
-      "app_name": "Royal Match",
-      "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/de/aa/24deaa83-7e15-c811-cc29-5f8dca26bbf9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 244932,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 15,
-      "app_id": "6760325543",
-      "app_name": "CubeAway - 3DPuzzle",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 3645,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 16,
       "app_id": "6761893238",
       "app_name": "Top Force: Commander",
       "developer": "Century Games Innovation Pte. Ltd.",
@@ -190,8 +166,32 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 614,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 15,
+      "app_id": "1482155847",
+      "app_name": "Royal Match",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/de/aa/24deaa83-7e15-c811-cc29-5f8dca26bbf9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 244932,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 16,
+      "app_id": "1531842415",
+      "app_name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/0a/63/e80a6301-8bb2-5c5f-606b-211aa68da18a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 19474,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 17,
@@ -202,35 +202,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 47241,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/a8/d0/cca8d073-9899-e2d9-bd83-19e41e120ad1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 4910,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 19,
-      "app_id": "1531842415",
-      "app_name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/0a/63/e80a6301-8bb2-5c5f-606b-211aa68da18a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 19474,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 20,
+      "rank": 18,
       "app_id": "6747834136",
       "app_name": "Mafia Life: Underworld Boss",
       "developer": "UDO GAMES OYUN YAZILIM ANONIM SIRKETI",
@@ -238,8 +214,32 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 4954,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "6767834940",
+      "app_name": "Top Lords",
+      "developer": "GAME SPARK PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 626,
       "change": "new",
       "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "6760325543",
+      "app_name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 3645,
+      "change": "-5",
+      "change_val": -5
     }
   ]
 }
