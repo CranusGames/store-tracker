@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "rankings": [
     {
       "rank": 1,
@@ -87,18 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "com.media720.games2020",
-      "app_name": "Offline Games: No WiFi - FunOn",
-      "developer": "Fun Offline Games",
-      "icon_url": "https://play-lh.googleusercontent.com/rgxlkDr9t_Nxjo0ojkGNdfsxRxEdZxEjZw6_vlDq9BBEhvOgX5SG-qg4cPF6_RrETPRpTF67HPI-iSG7O-RjzQ",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "com.ludo.king",
       "app_name": "Ludo King®",
       "developer": "Gametion",
@@ -106,8 +94,20 @@
       "installs": "1,000,000,000+",
       "rating": 3.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "com.media720.games2020",
+      "app_name": "Offline Games: No WiFi - FunOn",
+      "developer": "Fun Offline Games",
+      "icon_url": "https://play-lh.googleusercontent.com/rgxlkDr9t_Nxjo0ojkGNdfsxRxEdZxEjZw6_vlDq9BBEhvOgX5SG-qg4cPF6_RrETPRpTF67HPI-iSG7O-RjzQ",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
