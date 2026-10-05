@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "rankings": [
     {
       "rank": 1,
@@ -46,23 +46,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 575026,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 5,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/a9/44/6ca944d1-3c78-9114-4b3c-e32dff750bc2/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2278597,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -70,23 +58,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 46543,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/a9/44/6ca944d1-3c78-9114-4b3c-e32dff750bc2/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2278597,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/a5/00/a7a50020-3c73-99dc-6279-34def1472fdf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 223740,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 8,
       "app_id": "6741796873",
       "app_name": "TikTok Pro - Events",
       "developer": "TikTok Ltd.",
@@ -94,11 +82,35 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 66282,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6746049430",
+      "app_name": "FOX One: Live News, Sports, TV",
+      "developer": "Fox Digital Services, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/01/ad/e401ad39-14d7-4257-232a-9835e2ae64af/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 102400,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 9,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/a5/00/a7a50020-3c73-99dc-6279-34def1472fdf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 223740,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 10,
       "app_id": "1630403500",
       "app_name": "APTV",
       "developer": "Suzhou Xiying Guangnian Technology Co., Ltd",
@@ -106,11 +118,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1067,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -118,11 +130,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1122826,
-      "change": "=",
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 12,
+      "app_id": "1193350206",
+      "app_name": "YouTube TV",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/46/c1/f346c1ed-30fd-b4b2-a71d-296f7a40c453/logo_youtube_television_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.6,
+      "rating_count": 59688,
+      "change": "new",
       "change_val": 0
     },
     {
-      "rank": 11,
+      "rank": 13,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -130,23 +154,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2310275,
-      "change": "=",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 12,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/e8/45/25e845b4-1b18-27da-1b78-42170245a48a/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "rank": 14,
+      "app_id": "1532016072",
+      "app_name": "Cinnabon",
+      "developer": "Cinnabon® Franchisor SPV LLC.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/6c/58/cb6c585a-c0ef-1ba8-893e-9433810afbfe/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 7394278,
-      "change": "=",
+      "rating_count": 7668,
+      "change": "new",
       "change_val": 0
     },
     {
-      "rank": 13,
+      "rank": 15,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -154,11 +178,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2224765,
-      "change": "=",
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/e8/45/25e845b4-1b18-27da-1b78-42170245a48a/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 7394278,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 17,
+      "app_id": "905401434",
+      "app_name": "Fubo: Watch Live TV & Sports",
+      "developer": "fuboTV Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/e6/fc/57e6fcd8-4c6f-d8ed-173c-36d951592912/Fubo-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 111550,
+      "change": "new",
       "change_val": 0
     },
     {
-      "rank": 14,
+      "rank": 18,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
@@ -166,11 +214,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 273322,
-      "change": "=",
-      "change_val": 0
+      "change": "-4",
+      "change_val": -4
     },
     {
-      "rank": 15,
+      "rank": 19,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -178,66 +226,18 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5170489,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "368677368",
-      "app_name": "Uber - Rides, Eats, Hotels",
-      "developer": "Uber Technologies, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/4b/39/744b39ab-c800-cd5d-cc6e-b4c8b6de5717/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 16977021,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/b7/d5/3db7d576-9d53-7f67-4351-1b63cfed0445/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1029910,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/7c/88/b07c88d8-0314-7b8b-7ab0-788e7059074b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18379610,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "389801252",
-      "app_name": "Instagram",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/3d/fa/3a3dfa81-9e7a-f495-f177-04fbabc23f32/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 29557351,
-      "change": "new",
-      "change_val": 0
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 20,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/08/2d/54082dca-2973-b8b7-5481-a6299244b8c6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "app_id": "530168168",
+      "app_name": "Paramount+",
+      "developer": "CBS Interactive",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/53/b0/5d53b04f-62a5-a096-54a9-6104ce8d952c/P_U002bAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 18714323,
+      "rating": 4.6,
+      "rating_count": 925501,
       "change": "new",
       "change_val": 0
     }
