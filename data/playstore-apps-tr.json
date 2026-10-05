@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+10",
-      "change_val": 10
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 3.7,
       "rating_count": 0,
-      "change": "+11",
-      "change_val": 11
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,7 +94,7 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -106,7 +106,7 @@
       "installs": "",
       "rating": 3.6,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -118,15 +118,15 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 11,
-      "app_id": "co.benx.weverse",
-      "app_name": "Weverse: Connect with Artists",
-      "developer": "WEVERSE COMPANY Inc.",
-      "icon_url": "https://play-lh.googleusercontent.com/1nKJspxAS_Uaop80HDD7TpphZbUdzntjl8x_8meCJ2Z8WRdZGIfpRPfsPLqq4ZQwt6WPeMbCc1Q-jg-_Fr4QYA",
+      "app_id": "com.voicechat.live.group",
+      "app_name": "YoHo: Group Voice Chat Room",
+      "developer": "YoHo Studio",
+      "icon_url": "https://play-lh.googleusercontent.com/DwurZKy8M-beYIPEK7AdIFBUyTQkQrlLQtQLyjSDAv3VcTDHcb_LP8XCtQBRPx10nsWtCw0GiXe7GfLFHVYV2w",
       "installs": "",
       "rating": 4.1,
       "rating_count": 0,
@@ -135,15 +135,15 @@
     },
     {
       "rank": 12,
-      "app_id": "com.instagram.barcelona",
-      "app_name": "Threads",
-      "developer": "Instagram",
-      "icon_url": "https://play-lh.googleusercontent.com/6PzXaP0KaRU4DifAfsXKbWNVA3JPrP9uklvEh5EDhzPRdPfHV4tzszhAavQa4bq0YGdbnphBucz9vEUXiu1Ebg",
+      "app_id": "co.benx.weverse",
+      "app_name": "Weverse: Connect with Artists",
+      "developer": "WEVERSE COMPANY Inc.",
+      "icon_url": "https://play-lh.googleusercontent.com/1nKJspxAS_Uaop80HDD7TpphZbUdzntjl8x_8meCJ2Z8WRdZGIfpRPfsPLqq4ZQwt6WPeMbCc1Q-jg-_Fr4QYA",
       "installs": "",
-      "rating": 3.9,
+      "rating": 4.1,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
@@ -154,23 +154,11 @@
       "installs": "",
       "rating": 3.5,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "com.twitter.android",
-      "app_name": "X",
-      "developer": "X Corp.",
-      "icon_url": "https://play-lh.googleusercontent.com/IsLsCD4eLC2CYvlkgTI6Z5TROj0BJIBgUF7BZ5eliTzyyTjqG_mbofeG4kw2s7oG_JZMSi5ErLz_qsDi169C8w",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "com.baitu.qingshu",
       "app_name": "Poppo Live - Live Stream",
       "developer": "PoppoLive",
@@ -178,11 +166,35 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "com.instagram.barcelona",
+      "app_name": "Threads",
+      "developer": "Instagram",
+      "icon_url": "https://play-lh.googleusercontent.com/6PzXaP0KaRU4DifAfsXKbWNVA3JPrP9uklvEh5EDhzPRdPfHV4tzszhAavQa4bq0YGdbnphBucz9vEUXiu1Ebg",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 0,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 16,
+      "app_id": "com.twitter.android",
+      "app_name": "X",
+      "developer": "X Corp.",
+      "icon_url": "https://play-lh.googleusercontent.com/IsLsCD4eLC2CYvlkgTI6Z5TROj0BJIBgUF7BZ5eliTzyyTjqG_mbofeG4kw2s7oG_JZMSi5ErLz_qsDi169C8w",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
       "app_id": "com.nglreactnative",
       "app_name": "NGL: ask me anything",
       "developer": "NGL App",
@@ -190,11 +202,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "app_id": "tv.twitch.android.app",
       "app_name": "Twitch: Live Streaming",
       "developer": "Twitch Interactive, Inc.",
@@ -202,35 +214,11 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "com.dearu.bubble.jyp",
-      "app_name": "bubble for JYPnation",
-      "developer": "Dear U Co., Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/gIWnnrnG0s3z2fpRVM2zXYtxy5Ai1E3xcYJ2IvUMvYd9XLTsE7CJO82UUuFn5nM92PkpUmRd8q7wi01-im1oVQ",
-      "installs": "",
-      "rating": 3.4,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
-      "app_id": "com.bite.chillchat",
-      "app_name": "ChillChat - Live Chat & Game",
-      "developer": "Mangostar Team",
-      "icon_url": "https://play-lh.googleusercontent.com/8w9Ype_aF_PIa31rVfSV0O9c5CZJp9RiSkKWnNdOvZKRp6VSeZzrgejdTPYMC7-46RB6Pb8FzwSQTH8r5AHr",
-      "installs": "",
-      "rating": 3.5,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "com.hubolabs.hubo",
       "app_name": "purp - Make new friends",
       "developer": "hubo Labs",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.dearu.bubble.jyp",
+      "app_name": "bubble for JYPnation",
+      "developer": "Dear U Co., Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/gIWnnrnG0s3z2fpRVM2zXYtxy5Ai1E3xcYJ2IvUMvYd9XLTsE7CJO82UUuFn5nM92PkpUmRd8q7wi01-im1oVQ",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
