@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "rankings": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/f4/82/14f482a9-e97f-ae33-f898-253dea69396b/HatchAppIconPublic-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 155943,
+      "rating_count": 159324,
       "change": "=",
       "change_val": 0
     },
@@ -21,7 +21,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/49/a6/2549a64c-ef50-324f-6884-254ff5c1963b/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 404473,
+      "rating_count": 406792,
       "change": "=",
       "change_val": 0
     },
@@ -33,33 +33,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/b3/01/e8b30151-1abb-e33c-75e2-a2e230c85b52/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 10980278,
+      "rating_count": 10995513,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 4,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/f8/31/08f831ff-0198-ec3f-77d0-d2bccf64d0a2/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2280352,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 5,
       "app_id": "6741796873",
       "app_name": "TikTok Pro - Events",
       "developer": "TikTok Ltd.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/c6/1d/8ec61d8b-34a1-dbb1-ec6c-6267090aba11/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 66704,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 66950,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/f8/31/08f831ff-0198-ec3f-77d0-d2bccf64d0a2/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2281244,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -69,9 +69,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/c9/8b/a6c98b37-df1e-26e3-061c-b239c6decd40/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 47196,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 47487,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -81,9 +81,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/f0/9d/cef09d72-c904-1cc1-4651-2a34378801b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 578133,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 581062,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -93,9 +93,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/66/6b/b4666b02-f19f-3c84-e0f8-5222b1e0d544/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2312429,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 2313866,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -105,9 +105,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/7d/61/a97d6162-c9cb-8fa3-d671-dae8538cb974/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1122938,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 1122995,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -117,45 +117,45 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/a8/d0/2da8d08e-a2b8-4e33-1a37-23beee74e211/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 273782,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 11,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/b5/a4/24b5a4ad-175f-1939-210b-7e14f9f34452/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18718834,
-      "change": "new",
+      "rating_count": 274067,
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 12,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/7c/88/b07c88d8-0314-7b8b-7ab0-788e7059074b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18380982,
-      "change": "+8",
-      "change_val": 8
-    },
-    {
-      "rank": 13,
+      "rank": 11,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/79/d3/bc79d33d-8836-b5c1-86de-a74f128f4ca9/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 5174265,
-      "change": "+3",
-      "change_val": 3
+      "rating_count": 5176680,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 12,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/b5/a4/24b5a4ad-175f-1939-210b-7e14f9f34452/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18721482,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 13,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/7c/88/b07c88d8-0314-7b8b-7ab0-788e7059074b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18381716,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -165,33 +165,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/14/50/e7145085-c77c-d932-f48c-e22bccf81e5d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1145,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 1191,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/65/a6/ff65a660-d2b1-01c9-0cb1-8b4aad24a389/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2225449,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 16,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/e8/45/25e845b4-1b18-27da-1b78-42170245a48a/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 7395377,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 7396035,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/65/a6/ff65a660-d2b1-01c9-0cb1-8b4aad24a389/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2225818,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
@@ -201,33 +201,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/c4/77/d6c47746-1b03-473b-8a4b-c4e4b566fb56/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2442570,
-      "change": "new",
+      "rating_count": 2442667,
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 18,
-      "app_id": "544007664",
-      "app_name": "YouTube",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/e3/6d/91e36d95-56fd-4162-3ab5-1fd5e18db785/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 49281056,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "389801252",
       "app_name": "Instagram",
       "developer": "Instagram, Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/41/2c/c9412c71-9d57-e5c0-9312-3dd74708dbca/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 29560689,
-      "change": "new",
-      "change_val": 0
+      "rating_count": 29562827,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "544007664",
+      "app_name": "YouTube",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/e3/6d/91e36d95-56fd-4162-3ab5-1fd5e18db785/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 49288962,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
@@ -237,8 +237,8 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/43/b2/0343b28c-bee0-cd1b-652b-96e4dd94d51e/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 706402,
-      "change": "new",
+      "rating_count": 706517,
+      "change": "=",
       "change_val": 0
     }
   ]
