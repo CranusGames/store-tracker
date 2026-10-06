@@ -10,8 +10,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 98151,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 12428,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 598,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1506,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -94,35 +94,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1965,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "6745206863",
-      "app_name": "X-Clash: Survival Strategies",
-      "developer": "9z Games(HK)",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/80/1a/37801a62-1485-4a6f-8a33-05ff32be1163/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 118,
-      "change": "+9",
-      "change_val": 9
-    },
-    {
-      "rank": 10,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/4f/71/224f71ae-0058-55fa-d065-2e7052f9e7af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 49032,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 11,
       "app_id": "6780891673",
       "app_name": "Royal Smash! - Physics Puzzle",
       "developer": "Cypher Games",
@@ -130,23 +106,35 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 11589,
-      "change": "-3",
-      "change_val": -3
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 10,
+      "app_id": "6745206863",
+      "app_name": "X-Clash: Survival Strategies",
+      "developer": "9z Games(HK)",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/80/1a/37801a62-1485-4a6f-8a33-05ff32be1163/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 118,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 11,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/4f/71/224f71ae-0058-55fa-d065-2e7052f9e7af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 49032,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
-      "app_id": "1482155847",
-      "app_name": "Royal Match",
-      "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/de/aa/24deaa83-7e15-c811-cc29-5f8dca26bbf9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 245308,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "512939461",
       "app_name": "Subway Surfers",
       "developer": "Sybo Games ApS",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 342482,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 693766,
+      "change": "+5",
+      "change_val": 5
     },
     {
       "rank": 14,
@@ -166,35 +166,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 3842,
-      "change": "-5",
-      "change_val": -5
-    },
-    {
-      "rank": 15,
-      "app_id": "6761893238",
-      "app_name": "Top Force: Commander",
-      "developer": "Century Games Innovation Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/80/b9/4d80b91c-9eb9-bb35-1db8-e2d7550af896/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 729,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 16,
-      "app_id": "6757140488",
-      "app_name": "Sand Blocks: Drop Puzzle",
-      "developer": "Rollic Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/70/69/4e706955-44ee-aa3d-4f59-d02f66b18f12/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 15,
+      "app_id": "1482155847",
+      "app_name": "Royal Match",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/de/aa/24deaa83-7e15-c811-cc29-5f8dca26bbf9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 111,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.6,
+      "rating_count": 245308,
+      "change": "-3",
+      "change_val": -3
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -202,23 +190,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4962,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "6761893238",
+      "app_name": "Top Force: Commander",
+      "developer": "Century Games Innovation Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/80/b9/4d80b91c-9eb9-bb35-1db8-e2d7550af896/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 729,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 693766,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 19,
       "app_id": "6767834940",
       "app_name": "Top Lords",
       "developer": "GAME SPARK PTE. LTD.",
@@ -230,7 +218,7 @@
       "change_val": 1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 47336,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1597760047",
+      "app_name": "OneState RP: Role Play Online",
+      "developer": "CHILLBASE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/85/df/cd85dfbb-e477-9524-81a9-01326b894ba3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 998,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
