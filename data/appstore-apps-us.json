@@ -46,7 +46,7 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 9247,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -58,23 +58,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 67223,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 6,
-      "app_id": "6754134922",
-      "app_name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/c9/8b/a6c98b37-df1e-26e3-061c-b239c6decd40/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 47956,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 7,
+      "rank": 6,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -82,23 +70,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2282019,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 8,
-      "app_id": "1632713844",
-      "app_name": "Kalshi: Trade Football & more",
-      "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/1d/88/631d887a-5654-2fea-8b07-114d6d5c58da/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "rank": 7,
+      "app_id": "6754134922",
+      "app_name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/c9/8b/a6c98b37-df1e-26e3-061c-b239c6decd40/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 582627,
+      "rating": 4.9,
+      "rating_count": 47956,
       "change": "-1",
       "change_val": -1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -106,6 +94,18 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2314918,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "1632713844",
+      "app_name": "Kalshi: Trade Football & more",
+      "developer": "KalshiEX LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/1d/88/631d887a-5654-2fea-8b07-114d6d5c58da/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 582627,
       "change": "-1",
       "change_val": -1
     },
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1123037,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,23 +130,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 274318,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 12,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/0a/b4/820ab46b-0a76-4a6a-1fcb-e4d41ec7271d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1032298,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5178507,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/0a/b4/820ab46b-0a76-4a6a-1fcb-e4d41ec7271d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1032298,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2226141,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,35 +178,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1223,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/b5/a4/24b5a4ad-175f-1939-210b-7e14f9f34452/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/d5/5b/b4d55b8f-81c4-5d58-91a2-eca30c1eb0a5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 18723283,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 17,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/b7/70/16b7701c-fc8b-afca-66b2-2888d356a699/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 226564,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -214,30 +202,42 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7396437,
-      "change": "-3",
-      "change_val": -3
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "422689480",
+      "app_name": "Gmail - Email by Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/c4/77/d6c47746-1b03-473b-8a4b-c4e4b566fb56/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2442704,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "1223471316",
-      "app_name": "Shop: Track, Pay, Discover",
-      "developer": "Shopify Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/22/84/6e2284a7-e8aa-fd11-77dc-00e8d14df9f8/AppIconProduction-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "686449807",
+      "app_name": "Telegram Messenger",
+      "developer": "Telegram FZ-LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/b6/99/01b699a0-d264-d1c3-c798-50aedd0be3db/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 7180115,
+      "rating": 4.0,
+      "rating_count": 282178,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/1e/e4/401ee466-b22a-f41c-952f-33692d26361b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/7c/88/b07c88d8-0314-7b8b-7ab0-788e7059074b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1049255,
+      "rating_count": 18382358,
       "change": "new",
       "change_val": 0
     }

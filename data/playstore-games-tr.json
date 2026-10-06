@@ -27,30 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "com.dts.freefireth",
-      "app_name": "Free Fire x NARUTO SHIPPUDEN",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/cK-U0_B9GrnSy26SNISDuvU_hL4VggyqJ1J5V2oiuyVEfiGo7fzegdBjk0ejXPg3PKK5sPwumdLBbWv8KkBKLQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
-      "app_id": "com.kitkagames.fallbuddies",
-      "app_name": "Stumble Guys",
-      "developer": "Scopely",
-      "icon_url": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
-      "installs": "100,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "com.dts.freefiremax",
       "app_name": "Free Fire MAX x NARUTO",
       "developer": "GARENA INTERNATIONAL I",
@@ -58,11 +34,23 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "app_id": "com.dts.freefireth",
+      "app_name": "Free Fire x NARUTO SHIPPUDEN",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/cK-U0_B9GrnSy26SNISDuvU_hL4VggyqJ1J5V2oiuyVEfiGo7fzegdBjk0ejXPg3PKK5sPwumdLBbWv8KkBKLQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 5,
       "app_id": "com.tencent.ig",
       "app_name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -70,8 +58,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "com.kitkagames.fallbuddies",
+      "app_name": "Stumble Guys",
+      "developer": "Scopely",
+      "icon_url": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-",
+      "installs": "100,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 7,
@@ -87,15 +87,15 @@
     },
     {
       "rank": 8,
-      "app_id": "com.media720.games2020",
-      "app_name": "Offline Games: No WiFi - FunOn",
-      "developer": "Fun Offline Games",
-      "icon_url": "https://play-lh.googleusercontent.com/rgxlkDr9t_Nxjo0ojkGNdfsxRxEdZxEjZw6_vlDq9BBEhvOgX5SG-qg4cPF6_RrETPRpTF67HPI-iSG7O-RjzQ",
-      "installs": "100,000,000+",
-      "rating": 4.6,
+      "app_id": "com.imangi.templerun2",
+      "app_name": "Temple Run 2",
+      "developer": "Imangi Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
+      "installs": "1,000,000,000+",
+      "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 9,
@@ -111,18 +111,30 @@
     },
     {
       "rank": 10,
-      "app_id": "com.imangi.templerun2",
-      "app_name": "Temple Run 2",
-      "developer": "Imangi Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
+      "app_id": "com.kiloo.subwaysurf",
+      "app_name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "icon_url": "https://play-lh.googleusercontent.com/-b6afYVP9kkzaFgDT3bZpGy2ugh1AjzCiXS0o9aZw7bIZ5rCb3Bp8YAwIxyMjUGLjl1pD6ZFGxeKKGlXBw950g",
       "installs": "1,000,000,000+",
-      "rating": 4.1,
+      "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+7",
+      "change_val": 7
     },
     {
       "rank": 11,
+      "app_id": "com.media720.games2020",
+      "app_name": "Offline Games: No WiFi - FunOn",
+      "developer": "Fun Offline Games",
+      "icon_url": "https://play-lh.googleusercontent.com/rgxlkDr9t_Nxjo0ojkGNdfsxRxEdZxEjZw6_vlDq9BBEhvOgX5SG-qg4cPF6_RrETPRpTF67HPI-iSG7O-RjzQ",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 12,
       "app_id": "com.matteljv.uno",
       "app_name": "UNO!™",
       "developer": "Mattel Game Studios HK Limited",
@@ -130,35 +142,11 @@
       "installs": "100,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "com.innersloth.spacemafia",
-      "app_name": "Among Us",
-      "developer": "Innersloth LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/pfGArJJx-vtMRVu2-ziedzAhTLsHgks6N3mNyyOC0oxRdsXINGwdd9h4ZutdTG7MfgiqlDXBXnk-kNo-Fns70Q",
-      "installs": "500,000,000+",
-      "rating": 3.9,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
-      "app_id": "com.ta.strike.ops",
-      "app_name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "icon_url": "https://play-lh.googleusercontent.com/eiOZd_w3-KqGU1NfuZDqrY8FclcKAdGegweEXsNcjBWPs9yWffAY78PCITk1wj9vtEdM0S3DuKdoXiqUF1o_",
-      "installs": "100,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "com.topfreegames.bikeracefreeworld",
       "app_name": "Bike Race：Motorcycle Games",
       "developer": "Wildlife Studios",
@@ -166,8 +154,20 @@
       "installs": "100,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "com.ta.strike.ops",
+      "app_name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "icon_url": "https://play-lh.googleusercontent.com/eiOZd_w3-KqGU1NfuZDqrY8FclcKAdGegweEXsNcjBWPs9yWffAY78PCITk1wj9vtEdM0S3DuKdoXiqUF1o_",
+      "installs": "100,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -195,14 +195,14 @@
     },
     {
       "rank": 17,
-      "app_id": "com.kiloo.subwaysurf",
-      "app_name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "icon_url": "https://play-lh.googleusercontent.com/-b6afYVP9kkzaFgDT3bZpGy2ugh1AjzCiXS0o9aZw7bIZ5rCb3Bp8YAwIxyMjUGLjl1pD6ZFGxeKKGlXBw950g",
-      "installs": "1,000,000,000+",
-      "rating": 4.5,
+      "app_id": "bubbleshooter.orig",
+      "app_name": "Bubble Shooter - Classic Pop",
+      "developer": "Bubble Shooter",
+      "icon_url": "https://play-lh.googleusercontent.com/AyPKDJx_IvwDoatX91zVX1Hl9e1xtUHOYeQh4cXKBhB-Npascc9Y7Bw5gv3wNoqRL8KBfnloU9o1Y9dDGXYVpFs",
+      "installs": "500,000,000+",
+      "rating": 4.4,
       "rating_count": 0,
-      "change": "=",
+      "change": "new",
       "change_val": 0
     },
     {
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "com.firsttouchgames.dls7",
-      "app_name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/ldysRAGsIH0zWeNoCMhAUNx6OXp6SuNyeSMXiW7SHTluJVAkfxHP2XLTlxiV9WkBvvE2JXsK08JveGAuGNZNMw",
-      "installs": "100,000,000+",
-      "rating": 4.0,
+      "app_id": "com.ea.game.pvzfree_row",
+      "app_name": "Plants vs. Zombies™",
+      "developer": "ELECTRONIC ARTS",
+      "icon_url": "https://play-lh.googleusercontent.com/FGB00L2-aGHPAiRJPxbC3Th_KEaGvVroVF-tPSf_1Unh9kzzY-al4mp1yJT16I16FuLK6oJ-3H-KrVgTrg3ABFc",
+      "installs": "500,000,000+",
+      "rating": 4.2,
       "rating_count": 0,
-      "change": "=",
+      "change": "new",
       "change_val": 0
     }
   ]
