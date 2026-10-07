@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "rankings": [
     {
       "rank": 1,
@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6670251421",
-      "app_name": "Quince: Luxury Essentials",
-      "developer": "Lastbrand Inc",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/db/6e/80db6ef5-3ac8-1285-5413-9e17f2d8b34e/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 9247,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 4,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
@@ -46,6 +34,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 11008615,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "6670251421",
+      "app_name": "Quince: Luxury Essentials",
+      "developer": "Lastbrand Inc",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/db/6e/80db6ef5-3ac8-1285-5413-9e17f2d8b34e/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 9247,
       "change": "-1",
       "change_val": -1
     },
@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "6754134922",
-      "app_name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/c9/8b/a6c98b37-df1e-26e3-061c-b239c6decd40/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 47956,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -94,20 +82,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2314918,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6754134922",
+      "app_name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/c9/8b/a6c98b37-df1e-26e3-061c-b239c6decd40/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 47956,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/a8/d0/2da8d08e-a2b8-4e33-1a37-23beee74e211/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/3e/66/1b3e66b0-b3bd-bcf2-3b5b-76af66d255a7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 274318,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -130,47 +130,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 582627,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 12,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/79/d3/bc79d33d-8836-b5c1-86de-a74f128f4ca9/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 5178507,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 13,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/43/b2/0343b28c-bee0-cd1b-652b-96e4dd94d51e/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 706599,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/0a/b4/820ab46b-0a76-4a6a-1fcb-e4d41ec7271d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1032298,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 15,
+      "rank": 12,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -178,20 +142,56 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18723283,
-      "change": "+1",
-      "change_val": 1
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 13,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/79/d3/bc79d33d-8836-b5c1-86de-a74f128f4ca9/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 5178507,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 14,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/43/b2/0343b28c-bee0-cd1b-652b-96e4dd94d51e/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 706599,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 15,
+      "app_id": "422689480",
+      "app_name": "Gmail - Email by Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/c4/77/d6c47746-1b03-473b-8a4b-c4e4b566fb56/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2442704,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/65/a6/ff65a660-d2b1-01c9-0cb1-8b4aad24a389/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/7c/88/b07c88d8-0314-7b8b-7ab0-788e7059074b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2226141,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 18382358,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -207,18 +207,6 @@
     },
     {
       "rank": 18,
-      "app_id": "1630403500",
-      "app_name": "APTV",
-      "developer": "Suzhou Xiying Guangnian Technology Co., Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/14/50/e7145085-c77c-d932-f48c-e22bccf81e5d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1223,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 19,
       "app_id": "922103212",
       "app_name": "McDonald's",
       "developer": "McDonald's USA",
@@ -226,20 +214,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 7881841,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "1113153706",
+      "app_name": "Microsoft Teams",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/d9/40/5bd940d9-d71d-17b0-7515-8fff4d9e7aa4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3377586,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6472232952",
-      "app_name": "Koupon: Real Deals & Codes",
-      "developer": "Koupon Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/ac/cb/80accbff-926a-2099-1126-23fddbcad6d7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/65/a6/ff65a660-d2b1-01c9-0cb1-8b4aad24a389/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 41214,
-      "change": "new",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 2226141,
+      "change": "-4",
+      "change_val": -4
     }
   ]
 }

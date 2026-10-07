@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "rankings": [
     {
       "rank": 1,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1748549,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 112458,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 11409,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,23 +94,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 519756,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 9,
-      "app_id": "6779167923",
-      "app_name": "Colony Flow!",
-      "developer": "ABI GLOBAL LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/95/4e/15954e75-96b2-f65b-3734-d841bf94649b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 31174,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 10,
+      "rank": 9,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -122,7 +110,31 @@
       "change_val": 1
     },
     {
+      "rank": 10,
+      "app_id": "6779167923",
+      "app_name": "Colony Flow!",
+      "developer": "ABI GLOBAL LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/95/4e/15954e75-96b2-f65b-3734-d841bf94649b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 31174,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 11,
+      "app_id": "1617391485",
+      "app_name": "Block Blast！",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/1d/f1/3e1df1cf-07f5-85b5-0ed9-c8e8b653ff74/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 2739039,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
       "app_id": "6756482832",
       "app_name": "Brain Puzzle 3: Crazy Mind",
       "developer": "SmallStep Dev Team",
@@ -132,18 +144,6 @@
       "rating_count": 21627,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 12,
-      "app_id": "1617391485",
-      "app_name": "Block Blast！",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/1d/f1/3e1df1cf-07f5-85b5-0ed9-c8e8b653ff74/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 2739039,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 13,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 206832,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 593887,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 465766,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6471045672",
-      "app_name": "Tasty Travels: Merge Game",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/84/b5/a384b58b-569b-9e31-07a2-28816b966e74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6754464806",
+      "app_name": "Car Evolve",
+      "developer": "Heseri Games Inc",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/44/6c/b5446c7a-2772-0b9f-0c1d-65ae37c67d87/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 55029,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 9499,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
