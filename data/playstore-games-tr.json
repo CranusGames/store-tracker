@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "com.JindoBlu.OfflineGames",
-      "app_name": "Offline Games - No Wifi Games",
-      "developer": "JindoBlu",
-      "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
-      "installs": "100,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "com.dts.freefireth",
       "app_name": "Free Fire x NARUTO SHIPPUDEN",
       "developer": "GARENA INTERNATIONAL I",
@@ -34,8 +22,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "com.JindoBlu.OfflineGames",
+      "app_name": "Offline Games - No Wifi Games",
+      "developer": "JindoBlu",
+      "icon_url": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w",
+      "installs": "100,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "com.tocaboca.tocalifeworld",
-      "app_name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "icon_url": "https://play-lh.googleusercontent.com/RbCkY3iXSo5b4GcS176iPu1sE27MnakJV7iW6VbiOYBXrP_ekoq7IeNKGddS9q-C93g1H-KpQ-a5BJHq1OdL",
-      "installs": "100,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "com.ea.gp.fifamobile",
       "app_name": "EA SPORTS FC Soccer Mobile 27",
       "developer": "ELECTRONIC ARTS",
@@ -214,8 +202,20 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "com.tocaboca.tocalifeworld",
+      "app_name": "Toca Boca World",
+      "developer": "Toca Boca",
+      "icon_url": "https://play-lh.googleusercontent.com/RbCkY3iXSo5b4GcS176iPu1sE27MnakJV7iW6VbiOYBXrP_ekoq7IeNKGddS9q-C93g1H-KpQ-a5BJHq1OdL",
+      "installs": "100,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,

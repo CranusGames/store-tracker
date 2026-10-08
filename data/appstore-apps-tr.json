@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "1644664646",
-      "app_name": "A101: Tek Uygulama",
-      "developer": "YENİ MAĞAZACILIK ANONİM ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/74/99/577499e7-5e0a-812a-54e5-e78eb6d8c10f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 23155,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -22,8 +10,20 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 69738,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "1644664646",
+      "app_name": "A101: Tek Uygulama",
+      "developer": "YENİ MAĞAZACILIK ANONİM ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/74/99/577499e7-5e0a-812a-54e5-e78eb6d8c10f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 23155,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -87,42 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/a8/fb/19a8fb81-2bb6-340f-a4fc-4ffc9e2eee60/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445465,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/9c/b6/e49cb6e9-95db-8ee4-fb02-9a23e5e9c02a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.4,
-      "rating_count": 9647,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548042,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "6504849169",
       "app_name": "NetShort - Popular Dramas & TV",
       "developer": "NETSTORY PTE. LTD.",
@@ -130,8 +94,44 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 43966,
-      "change": "+1",
-      "change_val": 1
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 9,
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/a8/fb/19a8fb81-2bb6-340f-a4fc-4ffc9e2eee60/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 445465,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 10,
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/9c/b6/e49cb6e9-95db-8ee4-fb02-9a23e5e9c02a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 9647,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 11,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 548042,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 175126,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "481035064",
-      "app_name": "Hepsiburada: Online Shopping",
-      "developer": "Hepsiburada",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/51/f1/d451f19c-91c2-629f-025f-b9a848f62c8a/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1920657,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 15,
       "app_id": "686449807",
       "app_name": "Telegram Messenger",
       "developer": "Telegram FZ-LLC",
@@ -178,6 +166,18 @@
       "installs": "",
       "rating": 3.6,
       "rating_count": 27668,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/51/f1/d451f19c-91c2-629f-025f-b9a848f62c8a/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1920657,
       "change": "-1",
       "change_val": -1
     },
@@ -190,23 +190,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93898,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/d6/5d/7bd65d51-d0b9-7dc3-5914-d59c327ae17b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2208904,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 18,
       "app_id": "284815942",
       "app_name": "Google - More ways to search",
       "developer": "Google",
@@ -218,7 +206,7 @@
       "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "524362642",
       "app_name": "Trendyol: Online Shopping",
       "developer": "trendyol.com",
@@ -226,8 +214,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4660191,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/d6/5d/7bd65d51-d0b9-7dc3-5914-d59c327ae17b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2208904,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 3083118,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
