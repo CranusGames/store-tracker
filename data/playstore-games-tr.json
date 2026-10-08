@@ -22,8 +22,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -87,18 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "com.media720.games2020",
-      "app_name": "Offline Games: No WiFi - FunOn",
-      "developer": "Fun Offline Games",
-      "icon_url": "https://play-lh.googleusercontent.com/gLZI5-x7lSLgofWGMOMuaneWB6tbuPwX7r1U0wbwHB_vuLQk-kAMT6_gH5NAp8el2mjjZVVPF1qVNnvSwDbaGg",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "com.ludo.king",
       "app_name": "Ludo King®",
       "developer": "Gametion",
@@ -106,8 +94,20 @@
       "installs": "1,000,000,000+",
       "rating": 3.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "com.media720.games2020",
+      "app_name": "Offline Games: No WiFi - FunOn",
+      "developer": "Fun Offline Games",
+      "icon_url": "https://play-lh.googleusercontent.com/gLZI5-x7lSLgofWGMOMuaneWB6tbuPwX7r1U0wbwHB_vuLQk-kAMT6_gH5NAp8el2mjjZVVPF1qVNnvSwDbaGg",
+      "installs": "100,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -195,24 +195,24 @@
     },
     {
       "rank": 17,
-      "app_id": "com.ea.gp.fifamobile",
-      "app_name": "EA SPORTS FC Soccer Mobile 27",
-      "developer": "ELECTRONIC ARTS",
-      "icon_url": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
-      "installs": "500,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
       "app_id": "com.tocaboca.tocalifeworld",
       "app_name": "Toca Boca World",
       "developer": "Toca Boca",
       "icon_url": "https://play-lh.googleusercontent.com/RbCkY3iXSo5b4GcS176iPu1sE27MnakJV7iW6VbiOYBXrP_ekoq7IeNKGddS9q-C93g1H-KpQ-a5BJHq1OdL",
       "installs": "100,000,000+",
       "rating": 4.3,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "com.ea.gp.fifamobile",
+      "app_name": "EA SPORTS FC Soccer Mobile 27",
+      "developer": "ELECTRONIC ARTS",
+      "icon_url": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
+      "installs": "500,000,000+",
+      "rating": 4.5,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
