@@ -51,6 +51,18 @@
     },
     {
       "rank": 5,
+      "app_id": "545519333",
+      "app_name": "Amazon Prime Video",
+      "developer": "AMZN Mobile LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/35/af/b135af59-82c6-9cf1-66ce-d75fa104d0a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3067276,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 6,
       "app_id": "922103212",
       "app_name": "McDonald's",
       "developer": "McDonald's USA",
@@ -58,11 +70,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 7882129,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "app_id": "6741796873",
       "app_name": "TikTok Pro - Events",
       "developer": "TikTok Ltd.",
@@ -70,47 +82,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 68207,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 7,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/3f/2f/4e3f2f2f-e6bd-91fc-c73f-8bdb62bd9dde/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2322875,
-      "change": "+2",
-      "change_val": 2
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/05/11/ca051103-4acb-a2c4-6e5c-7568e85cfcf9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 275832,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/f8/31/08f831ff-0198-ec3f-77d0-d2bccf64d0a2/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2287450,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 10,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -118,23 +94,59 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1123230,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 9,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/3f/2f/4e3f2f2f-e6bd-91fc-c73f-8bdb62bd9dde/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2322875,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 10,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/05/11/ca051103-4acb-a2c4-6e5c-7568e85cfcf9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 275832,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 11,
-      "app_id": "1673567402",
-      "app_name": "Freecash - Get Paid Real Money",
-      "developer": "Freecash - Get Paid Real Money",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/52/0e/e3520efc-56ef-4ff1-74c7-3f44b2fd194a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/f8/31/08f831ff-0198-ec3f-77d0-d2bccf64d0a2/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 149952,
-      "change": "-5",
-      "change_val": -5
+      "rating": 4.6,
+      "rating_count": 2287450,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 12,
+      "app_id": "1632713844",
+      "app_name": "Kalshi: Trade Football & more",
+      "developer": "KalshiEX LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/9b/bb/f59bbb28-ade6-61d3-7426-a28509f7ecc3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 587017,
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 13,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -142,20 +154,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 49814,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/dc/2a/3cdc2a16-402f-151e-0126-99c912c92a42/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18738389,
-      "change": "+5",
-      "change_val": 5
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -171,6 +171,30 @@
     },
     {
       "rank": 15,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/dc/2a/3cdc2a16-402f-151e-0126-99c912c92a42/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18738389,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
+      "app_id": "1673567402",
+      "app_name": "Freecash - Get Paid Real Money",
+      "developer": "Freecash - Get Paid Real Money",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/52/0e/e3520efc-56ef-4ff1-74c7-3f44b2fd194a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 149952,
+      "change": "-5",
+      "change_val": -5
+    },
+    {
+      "rank": 17,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -178,23 +202,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2443421,
-      "change": "+5",
-      "change_val": 5
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 16,
-      "app_id": "1632713844",
-      "app_name": "Kalshi: Trade Football & more",
-      "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/9b/bb/f59bbb28-ade6-61d3-7426-a28509f7ecc3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "rank": 18,
+      "app_id": "905177575",
+      "app_name": "Be My Eyes",
+      "developer": "Be My Eyes",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/a6/df/61a6dfe0-545d-024a-2452-60dc3316b51b/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 587017,
-      "change": "-3",
-      "change_val": -3
+      "rating_count": 11349,
+      "change": "new",
+      "change_val": 0
     },
     {
-      "rank": 17,
+      "rank": 19,
       "app_id": "835599320",
       "app_name": "TikTok - Videos, Shop & LIVE",
       "developer": "TikTok Ltd.",
@@ -202,23 +226,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18384385,
-      "change": "new",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 18,
-      "app_id": "1113153706",
-      "app_name": "Microsoft Teams",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/d9/40/5bd940d9-d71d-17b0-7515-8fff4d9e7aa4/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3378222,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 19,
+      "rank": 20,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7399853,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 20,
-      "app_id": "1630403500",
-      "app_name": "APTV",
-      "developer": "Suzhou Xiying Guangnian Technology Co., Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/14/50/e7145085-c77c-d932-f48c-e22bccf81e5d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1396,
-      "change": "-5",
-      "change_val": -5
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
