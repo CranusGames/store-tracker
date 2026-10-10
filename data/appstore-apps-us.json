@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "rankings": [
     {
       "rank": 1,
@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/79/89/c77989be-de98-6c64-b2e0-425d52fa86bc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 11121804,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "632064380",
       "app_name": "Vinted: Pre-loved marketplace",
       "developer": "Vinted Limited",
@@ -38,6 +26,18 @@
       "change_val": 1
     },
     {
+      "rank": 3,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/79/89/c77989be-de98-6c64-b2e0-425d52fa86bc/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 11121804,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 4,
       "app_id": "6767364919",
       "app_name": "Trump Accounts: Official App",
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 23071,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -94,35 +94,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2325548,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 9,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/f8/31/08f831ff-0198-ec3f-77d0-d2bccf64d0a2/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2289382,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 10,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/05/11/ca051103-4acb-a2c4-6e5c-7568e85cfcf9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 276396,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -130,20 +106,44 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1123292,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 10,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/f8/31/08f831ff-0198-ec3f-77d0-d2bccf64d0a2/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2289382,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 11,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/05/11/ca051103-4acb-a2c4-6e5c-7568e85cfcf9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 276396,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 12,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/dc/2a/3cdc2a16-402f-151e-0126-99c912c92a42/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/15/f1/0115f1d1-3b42-b19e-b2aa-d10b936c83f6/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 18743365,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 7400864,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 13,
@@ -154,35 +154,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5194574,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "545519333",
-      "app_name": "Amazon Prime Video",
-      "developer": "AMZN Mobile LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/e6/44/bee644cc-6d31-16cd-5584-060937b741bf/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/dc/2a/3cdc2a16-402f-151e-0126-99c912c92a42/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 3068394,
-      "change": "-6",
-      "change_val": -6
+      "rating": 4.7,
+      "rating_count": 18743365,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 15,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/15/f1/0115f1d1-3b42-b19e-b2aa-d10b936c83f6/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 7400864,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 16,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade Football & more",
       "developer": "KalshiEX LLC",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 588522,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6754134922",
+      "app_name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/c9/8b/a6c98b37-df1e-26e3-061c-b239c6decd40/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 50485,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 17,
@@ -207,15 +207,15 @@
     },
     {
       "rank": 18,
-      "app_id": "6754134922",
-      "app_name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/c9/8b/a6c98b37-df1e-26e3-061c-b239c6decd40/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "545519333",
+      "app_name": "Amazon Prime Video",
+      "developer": "AMZN Mobile LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/e6/44/bee644cc-6d31-16cd-5584-060937b741bf/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 50485,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 3068394,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18385108,
-      "change": "-5",
-      "change_val": -5
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 16422,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
