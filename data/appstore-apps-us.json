@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 29366,
-      "change": "+9",
-      "change_val": 9
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,7 +58,7 @@
       "installs": "",
       "rating": 3.6,
       "rating_count": 10,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 69556,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -99,15 +99,15 @@
     },
     {
       "rank": 9,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/b7/70/16b7701c-fc8b-afca-66b2-2888d356a699/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "1632713844",
+      "app_name": "Kalshi: Trade Football & more",
+      "developer": "KalshiEX LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/9b/bb/f59bbb28-ade6-61d3-7426-a28509f7ecc3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 229938,
-      "change": "-5",
-      "change_val": -5
+      "rating": 4.8,
+      "rating_count": 593535,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 10,
@@ -118,35 +118,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2293910,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
-      "app_id": "1632713844",
-      "app_name": "Kalshi: Trade Football & more",
-      "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/9b/bb/f59bbb28-ade6-61d3-7426-a28509f7ecc3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 593535,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 12,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3f/96/5e3f9662-e690-3e55-e0b0-77da51f98fd2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1123556,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 13,
       "app_id": "1631584032",
       "app_name": "PLAYFUL REWARDS: Earn Rewards",
       "developer": "Playful Rewards",
@@ -154,20 +130,44 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 123927,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 12,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/b7/70/16b7701c-fc8b-afca-66b2-2888d356a699/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 229938,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 13,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3f/96/5e3f9662-e690-3e55-e0b0-77da51f98fd2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1123556,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
-      "app_id": "6758667154",
-      "app_name": "VibeShort: AI Short Dramas",
-      "developer": "AGILE QUADRANT MEDIA LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/fd/63/c4fd63e4-d798-f4e8-7b4f-8d429183935a/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/82/20/dc82200f-7f26-ff98-c1af-7615943ad4e3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 48019,
-      "change": "+4",
-      "change_val": 4
+      "rating_count": 2231316,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 15,
@@ -178,11 +178,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2331630,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
+      "app_id": "6758667154",
+      "app_name": "VibeShort: AI Short Dramas",
+      "developer": "AGILE QUADRANT MEDIA LIMITED",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/fd/63/c4fd63e4-d798-f4e8-7b4f-8d429183935a/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 48019,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
+      "app_id": "1193350206",
+      "app_name": "YouTube TV",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/14/85/ff148515-2f1d-525f-4f53-e38a73f2d788/logo_youtube_television_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.6,
+      "rating_count": 59747,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 18,
       "app_id": "6768593043",
       "app_name": "BlinkDrama - Short Dramas",
       "developer": "Atlas Ventures Culture & Technology Limited",
@@ -190,32 +214,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 17600,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 17,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/82/20/dc82200f-7f26-ff98-c1af-7615943ad4e3/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2231316,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f0/b2/d8f0b203-3968-dd77-07ff-70134b89f7c1/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18388560,
-      "change": "new",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 19,
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 277600,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/15/f1/0115f1d1-3b42-b19e-b2aa-d10b936c83f6/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f0/b2/d8f0b203-3968-dd77-07ff-70134b89f7c1/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 7404004,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 18388560,
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }

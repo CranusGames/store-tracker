@@ -34,23 +34,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 446014,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
-      "app_id": "1630403500",
-      "app_name": "APTV",
-      "developer": "Suzhou Xiying Guangnian Technology Co., Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/14/50/e7145085-c77c-d932-f48c-e22bccf81e5d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 222,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 5,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
@@ -62,6 +50,18 @@
       "change_val": 1
     },
     {
+      "rank": 5,
+      "app_id": "1630403500",
+      "app_name": "APTV",
+      "developer": "Suzhou Xiying Guangnian Technology Co., Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/14/50/e7145085-c77c-d932-f48c-e22bccf81e5d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 222,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 6,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445488,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,23 +82,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918745,
-      "change": "+5",
-      "change_val": 5
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/15/f1/0115f1d1-3b42-b19e-b2aa-d10b936c83f6/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 175306,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 9,
       "app_id": "6504849169",
       "app_name": "NetShort - Popular Dramas & TV",
       "developer": "NETSTORY PTE. LTD.",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 44626,
-      "change": "-4",
-      "change_val": -4
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/15/f1/0115f1d1-3b42-b19e-b2aa-d10b936c83f6/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 175306,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 27149,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,23 +130,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 387534,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/7b/a5/117ba573-9ad6-046d-e207-2c962eb706ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 69373,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 13,
       "app_id": "6745820631",
       "app_name": "Shots: Photo & Video Generator",
       "developer": "DeePix AI",
@@ -154,23 +142,11 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 2679,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/d0/49/6dd049c1-4e1b-07e5-d0de-803484db2f83/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 364615,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -178,11 +154,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93931,
-      "change": "+4",
-      "change_val": 4
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 16,
+      "rank": 14,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -194,19 +170,55 @@
       "change_val": 2
     },
     {
-      "rank": 17,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/a4/8b/87a48b12-093b-e4dd-618c-f09e35876da9/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "rank": 15,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/c0/df/d9c0df97-6ace-af90-44c9-3a86432c3462/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 8026,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 16,
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/d0/49/6dd049c1-4e1b-07e5-d0de-803484db2f83/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 85353,
-      "change": "-6",
-      "change_val": -6
+      "rating_count": 364615,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
+      "app_id": "1234494259",
+      "app_name": "Cepte Şok",
+      "developer": "Şok Marketler Tic. A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/7b/a5/117ba573-9ad6-046d-e207-2c962eb706ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 69373,
+      "change": "-5",
+      "change_val": -5
     },
     {
       "rank": 18,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/79/d3/bc79d33d-8836-b5c1-86de-a74f128f4ca9/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 361984,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
       "app_id": "472650686",
       "app_name": "Yandex Go: Taxi Food Delivery",
       "developer": "Mikromobilnost doo",
@@ -218,28 +230,16 @@
       "change_val": -1
     },
     {
-      "rank": 19,
-      "app_id": "284815942",
-      "app_name": "Google - More ways to search",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/79/d3/bc79d33d-8836-b5c1-86de-a74f128f4ca9/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "rank": 20,
+      "app_id": "524362642",
+      "app_name": "Trendyol: Online Shopping",
+      "developer": "trendyol.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/6e/81/006e812f-fe0d-2eec-6582-8f0ae7d0fbd7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.4,
-      "rating_count": 361984,
+      "rating": 4.6,
+      "rating_count": 4666794,
       "change": "new",
       "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "6744158894",
-      "app_name": "MASS",
-      "developer": "Enerji Piyasaları İşletme A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/64/ab/a464abcb-52c3-60d3-ed78-632a1b6750c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.8,
-      "rating_count": 105,
-      "change": "-12",
-      "change_val": -12
     }
   ]
 }

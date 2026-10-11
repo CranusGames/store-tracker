@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "com.codeway.aitutor",
-      "app_name": "Learn English, Spanish: Learna",
-      "developer": "Deep Flow Apps",
-      "icon_url": "https://play-lh.googleusercontent.com/XNk6uQwmWG9XJuLpYfPICi_blcfTIxkuWSEZDvr9PxbKRvym_oNMjaqf0mWYeOKT8GEcPZ1ijifQgP-lhcvh1hQ",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "com.obilet.androidside",
       "app_name": "obilet: Otel Uçak Otobüs Araç",
       "developer": "obilet.com",
@@ -58,11 +46,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "com.ciceksepeti.ciceksepeti",
       "app_name": "Çiçeksepeti - Çiçek & Hediye",
       "developer": "Çiçeksepeti",
@@ -70,8 +58,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "com.codeway.aitutor",
+      "app_name": "Learn English, Spanish: Learna",
+      "developer": "Deep Flow Apps",
+      "icon_url": "https://play-lh.googleusercontent.com/XNk6uQwmWG9XJuLpYfPICi_blcfTIxkuWSEZDvr9PxbKRvym_oNMjaqf0mWYeOKT8GEcPZ1ijifQgP-lhcvh1hQ",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 7,
