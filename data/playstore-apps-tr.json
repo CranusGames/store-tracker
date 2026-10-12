@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "rankings": [
     {
       "rank": 1,
@@ -39,6 +39,18 @@
     },
     {
       "rank": 4,
+      "app_id": "com.codeway.aitutor",
+      "app_name": "Learn English, Spanish: Learna",
+      "developer": "Deep Flow Apps",
+      "icon_url": "https://play-lh.googleusercontent.com/XNk6uQwmWG9XJuLpYfPICi_blcfTIxkuWSEZDvr9PxbKRvym_oNMjaqf0mWYeOKT8GEcPZ1ijifQgP-lhcvh1hQ",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 5,
       "app_id": "com.obilet.androidside",
       "app_name": "obilet: Otel Uçak Otobüs Araç",
       "developer": "obilet.com",
@@ -46,11 +58,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 5,
+      "rank": 6,
       "app_id": "com.ciceksepeti.ciceksepeti",
       "app_name": "Çiçeksepeti - Çiçek & Hediye",
       "developer": "Çiçeksepeti",
@@ -58,20 +70,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 6,
-      "app_id": "com.codeway.aitutor",
-      "app_name": "Learn English, Spanish: Learna",
-      "developer": "Deep Flow Apps",
-      "icon_url": "https://play-lh.googleusercontent.com/XNk6uQwmWG9XJuLpYfPICi_blcfTIxkuWSEZDvr9PxbKRvym_oNMjaqf0mWYeOKT8GEcPZ1ijifQgP-lhcvh1hQ",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -195,42 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "com.ai.sound.donna",
-      "app_name": "Donna AI Song & Music Maker",
-      "developer": "MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK",
-      "icon_url": "https://play-lh.googleusercontent.com/XqmFj3eQg4X3cWEHKUUu-cuo5AxAZ9OhMNQQ0OGTGmgfZU6mLE5lXUjfT3P2ywxcEUpR883FIUA2DC4067u5",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "com.feraset.livensa",
-      "app_name": "AI Video Generator: Livensa",
-      "developer": "FERASET",
-      "icon_url": "https://play-lh.googleusercontent.com/RnpGEf5G8Z09mY1pfLD67BNAajP3L_7JY7nCl-jdOeMVNBSzjRxkECvXhaHZroIuJcph13T7FvekUSwXQAuU1Q",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "com.jetkite.gemmy",
-      "app_name": "AI Chatbot & Assistant - Jimmy",
-      "developer": "Jetkite",
-      "icon_url": "https://play-lh.googleusercontent.com/H0_eTuuaGTr7xcwZk_RWx3VEfTMF1BVl184jKayBcAGw4rLg4ozdQTO2urKhkEOPtBA56pac2Ch-h_NA3lmJ4w",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "com.kappa.teddybear.android",
       "app_name": "TeddyCare: Daily Routine Plan",
       "developer": "Kappa Yazilim Anonim Sirketi",
@@ -238,8 +202,44 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 18,
+      "app_id": "com.ai.sound.donna",
+      "app_name": "Donna AI Song & Music Maker",
+      "developer": "MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK",
+      "icon_url": "https://play-lh.googleusercontent.com/XqmFj3eQg4X3cWEHKUUu-cuo5AxAZ9OhMNQQ0OGTGmgfZU6mLE5lXUjfT3P2ywxcEUpR883FIUA2DC4067u5",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "com.feraset.livensa",
+      "app_name": "AI Video Generator: Livensa",
+      "developer": "FERASET",
+      "icon_url": "https://play-lh.googleusercontent.com/RnpGEf5G8Z09mY1pfLD67BNAajP3L_7JY7nCl-jdOeMVNBSzjRxkECvXhaHZroIuJcph13T7FvekUSwXQAuU1Q",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.jetkite.gemmy",
+      "app_name": "AI Chatbot & Assistant - Jimmy",
+      "developer": "Jetkite",
+      "icon_url": "https://play-lh.googleusercontent.com/H0_eTuuaGTr7xcwZk_RWx3VEfTMF1BVl184jKayBcAGw4rLg4ozdQTO2urKhkEOPtBA56pac2Ch-h_NA3lmJ4w",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
