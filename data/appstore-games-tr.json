@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1906,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 13320,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -66,12 +66,12 @@
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/1f/0e/3a1f0ec3-af79-84d6-75fb-edde42886aed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/7d/8f/7a7d8f53-b428-8f1c-7d25-8493bad34b6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
       "rating_count": 1934602,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,23 +82,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2784,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 693942,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 9,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -110,7 +98,7 @@
       "change_val": 1
     },
     {
-      "rank": 10,
+      "rank": 9,
       "app_id": "6780891673",
       "app_name": "Royal Smash! - Physics Puzzle",
       "developer": "Cypher Games",
@@ -118,23 +106,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 12058,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 11,
-      "app_id": "1531842415",
-      "app_name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/27/98/24279835-6eaa-fc2e-5299-835f7330a791/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 10,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.2,
-      "rating_count": 19990,
+      "rating_count": 693942,
       "change": "-2",
       "change_val": -2
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "512939461",
       "app_name": "Subway Surfers",
       "developer": "Sybo Games ApS",
@@ -146,19 +134,7 @@
       "change_val": 1
     },
     {
-      "rank": 13,
-      "app_id": "1229016807",
-      "app_name": "Brawl Stars",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/98/dd/2798dd4e-f772-d93b-0a82-588d3fb55302/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 878458,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "app_id": "1482155847",
       "app_name": "Royal Match",
       "developer": "Dream Games",
@@ -166,11 +142,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 246122,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 15,
+      "rank": 13,
       "app_id": "6760325543",
       "app_name": "CubeAway - 3DPuzzle",
       "developer": "GOODROID,Inc.",
@@ -178,23 +154,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 4183,
-      "change": "+4",
-      "change_val": 4
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 16,
-      "app_id": "1351168404",
-      "app_name": "Among Us!",
-      "developer": "InnerSloth LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/b8/06/06b80694-d4ff-a00e-1e22-9aafd5dd6e2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 14,
+      "app_id": "1531842415",
+      "app_name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/27/98/24279835-6eaa-fc2e-5299-835f7330a791/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.8,
-      "rating_count": 41313,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.2,
+      "rating_count": 19990,
+      "change": "-3",
+      "change_val": -3
     },
     {
-      "rank": 17,
+      "rank": 15,
       "app_id": "1597760047",
       "app_name": "OneState RP: Role Play Online",
       "developer": "CHILLBASE LTD",
@@ -202,20 +178,44 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 1132,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 16,
+      "app_id": "1229016807",
+      "app_name": "Brawl Stars",
+      "developer": "Supercell",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/98/dd/2798dd4e-f772-d93b-0a82-588d3fb55302/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 878458,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 17,
+      "app_id": "1351168404",
+      "app_name": "Among Us!",
+      "developer": "InnerSloth LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/b8/06/06b80694-d4ff-a00e-1e22-9aafd5dd6e2e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.8,
+      "rating_count": 41313,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
-      "app_id": "1117270703",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/c5/a7/99c5a7ab-102e-ccf0-e876-b7f884b66787/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6742809194",
+      "app_name": "Warline: Sniper Strike",
+      "developer": "Powerfantasy",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/91/e0/3f91e0f3-ed96-95c6-6231-e53367abe96f/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 268846,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.8,
+      "rating_count": 2114,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 157206,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 10675,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
