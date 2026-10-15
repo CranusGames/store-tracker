@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6760325543",
-      "app_name": "CubeAway - 3DPuzzle",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 124089,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 7,
       "app_id": "6793924927",
       "app_name": "Rotate Rings",
       "developer": "Nebula Studio",
@@ -82,6 +70,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 39248,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6760325543",
+      "app_name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 124089,
       "change": "-1",
       "change_val": -1
     },
@@ -94,11 +94,23 @@
       "installs": "",
       "rating": 0,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 9,
+      "app_id": "431946152",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/c4/83/9ec48355-15d8-9eef-02a0-4bba07640bef/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 20375312,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
       "app_id": "638689075",
       "app_name": "Township",
       "developer": "Playrix",
@@ -110,18 +122,6 @@
       "change_val": -1
     },
     {
-      "rank": 10,
-      "app_id": "431946152",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/a9/a5/96a9a586-952f-c5b2-4898-085555d49d52/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 20375312,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
       "rank": 11,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2756851,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 539791,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 232311,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 34594,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,11 +178,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 208697,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
+      "app_id": "6760796215",
+      "app_name": "Little Kitty, Big City",
+      "developer": "Double Dagger Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/c1/b5/4dc1b505-a634-38bc-acd1-4a21e45f6b03/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 171,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -194,7 +206,7 @@
       "change_val": -1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "app_id": "6475757306",
       "app_name": "Disney Solitaire",
       "developer": "SuperPlay",
@@ -202,11 +214,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 730527,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "app_id": "6797929772",
       "app_name": "All Dubs",
       "developer": "Vaulty Studios Inc.",
@@ -214,11 +226,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 460,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "app_id": "1621328561",
       "app_name": "MONOPOLY GO!",
       "developer": "Scopely, Inc.",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3859753,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 20,
-      "app_id": "6780891673",
-      "app_name": "Royal Smash! - Physics Puzzle",
-      "developer": "Cypher Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/83/4d/91834dce-37a5-f269-0fc9-526c049d70f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 126917,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }

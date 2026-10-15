@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 1.9,
       "rating_count": 132,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 450684,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,59 +58,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1156893,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/97/16/279716b1-a124-611e-04a6-911a8b845dc1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 27548,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 7,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/61/43/51614377-8976-4277-5f5e-90c614b04913/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 8169,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 8,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/dc/68/87dc6805-556e-c62d-daee-841516a253cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 388259,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 9,
-      "app_id": "481035064",
-      "app_name": "Hepsiburada: Online Shopping",
-      "developer": "Hepsiburada",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/6d/34/cd6d340d-96a5-d58b-b138-d192880f0fed/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1924677,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 10,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -118,23 +70,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445493,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 11,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 548042,
       "change": "+4",
       "change_val": 4
     },
     {
-      "rank": 12,
+      "rank": 7,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/97/16/279716b1-a124-611e-04a6-911a8b845dc1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 27548,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 8,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -142,11 +94,35 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9668,
-      "change": "=",
-      "change_val": 0
+      "change": "+4",
+      "change_val": 4
     },
     {
-      "rank": 13,
+      "rank": 9,
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/dc/68/87dc6805-556e-c62d-daee-841516a253cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 388259,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 10,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/61/43/51614377-8976-4277-5f5e-90c614b04913/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 8169,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 11,
       "app_id": "1234494259",
       "app_name": "Cepte Şok",
       "developer": "Şok Marketler Tic. A.Ş.",
@@ -154,11 +130,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 69376,
-      "change": "+5",
-      "change_val": 5
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 14,
+      "rank": 12,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -166,8 +142,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918739,
-      "change": "+3",
-      "change_val": 3
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 13,
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/6d/34/cd6d340d-96a5-d58b-b138-d192880f0fed/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1924677,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 14,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 548042,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 15,
@@ -178,23 +178,35 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 175471,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "779715397",
-      "app_name": "instdown",
-      "developer": "FAWAZ ALOTAIBI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/88/f2/f988f209-ca9e-6375-4003-d9a04ed45953/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "521117624",
+      "app_name": "Garanti BBVA Mobile",
+      "developer": "T. Garanti Bankasi A.S.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/d6/5d/7bd65d51-d0b9-7dc3-5914-d59c327ae17b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 5446,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.7,
+      "rating_count": 2218119,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 17,
+      "app_id": "885993234",
+      "app_name": "Ziraat Mobil",
+      "developer": "T.C. Ziraat Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/21/60/242160f0-d23a-ae7a-3d5a-79c4756acde9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1719029,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 18,
       "app_id": "1113153706",
       "app_name": "Microsoft Teams",
       "developer": "Microsoft Corporation",
@@ -202,44 +214,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 89484,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/de/cd/52decd9f-2d96-bb60-a7c0-7dca9be8d6ed/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 363492,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 18,
-      "app_id": "1630403500",
-      "app_name": "APTV",
-      "developer": "Suzhou Xiying Guangnian Technology Co., Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/14/50/e7145085-c77c-d932-f48c-e22bccf81e5d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 346,
-      "change": "-9",
-      "change_val": -9
-    },
-    {
-      "rank": 19,
-      "app_id": "472650686",
-      "app_name": "Yandex Go: Taxi Food Delivery",
-      "developer": "Mikromobilnost doo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/e0/46/b9e046ad-7b0b-be9b-d1a9-da649f07f072/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 148923,
-      "change": "-6",
-      "change_val": -6
-    },
-    {
       "rank": 20,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/4f/e8/6f4fe8a2-8865-3b3f-73a7-835c8a7e84eb/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "779715397",
+      "app_name": "instdown",
+      "developer": "FAWAZ ALOTAIBI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/88/f2/f988f209-ca9e-6375-4003-d9a04ed45953/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 367902,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.6,
+      "rating_count": 5446,
+      "change": "-4",
+      "change_val": -4
     }
   ]
 }
