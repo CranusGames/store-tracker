@@ -10,11 +10,23 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 2,
+      "app_id": "com.dts.freefireth",
+      "app_name": "Free Fire x NARUTO SHIPPUDEN",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/cK-U0_B9GrnSy26SNISDuvU_hL4VggyqJ1J5V2oiuyVEfiGo7fzegdBjk0ejXPg3PKK5sPwumdLBbWv8KkBKLQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 2,
+      "rank": 3,
       "app_id": "com.dts.freefiremax",
       "app_name": "Free Fire MAX x NARUTO",
       "developer": "GARENA INTERNATIONAL I",
@@ -24,18 +36,6 @@
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 3,
-      "app_id": "com.dts.freefireth",
-      "app_name": "Free Fire x NARUTO SHIPPUDEN",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/cK-U0_B9GrnSy26SNISDuvU_hL4VggyqJ1J5V2oiuyVEfiGo7fzegdBjk0ejXPg3PKK5sPwumdLBbWv8KkBKLQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 4,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "com.ta.strike.ops",
-      "app_name": "FPS Strike Ops : Modern Arena",
-      "developer": "FPS Shooter & Action Game",
-      "icon_url": "https://play-lh.googleusercontent.com/eiOZd_w3-KqGU1NfuZDqrY8FclcKAdGegweEXsNcjBWPs9yWffAY78PCITk1wj9vtEdM0S3DuKdoXiqUF1o_",
-      "installs": "100,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "com.kiloo.subwaysurf",
       "app_name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -154,8 +142,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "com.ta.strike.ops",
+      "app_name": "FPS Strike Ops : Modern Arena",
+      "developer": "FPS Shooter & Action Game",
+      "icon_url": "https://play-lh.googleusercontent.com/eiOZd_w3-KqGU1NfuZDqrY8FclcKAdGegweEXsNcjBWPs9yWffAY78PCITk1wj9vtEdM0S3DuKdoXiqUF1o_",
+      "installs": "100,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "com.topfreegames.bikeracefreeworld",
-      "app_name": "Bike Race：Motorcycle Games",
-      "developer": "Wildlife Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
-      "installs": "100,000,000+",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -194,7 +182,7 @@
       "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "com.miniclip.eightballpool",
       "app_name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -202,11 +190,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "com.ea.gp.fifamobile",
       "app_name": "EA SPORTS FC Soccer Mobile 27",
       "developer": "ELECTRONIC ARTS",
@@ -214,8 +202,20 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "com.topfreegames.bikeracefreeworld",
+      "app_name": "Bike Race：Motorcycle Games",
+      "developer": "Wildlife Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/12LtSiIFju0HEbALFBLRssXvz4OYW-n5dNsPF67qgjtmmkX8VRz26TlTKRI-sOST50BK4H2GxMcqSy2bX1aO",
+      "installs": "100,000,000+",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 19,
@@ -238,7 +238,7 @@
       "installs": "50,000,000+",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
