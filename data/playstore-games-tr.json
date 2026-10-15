@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "com.dts.freefiremax",
-      "app_name": "Free Fire MAX x NARUTO",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/M_l-dWl4q9FLX3IgYu8lrSPAs6WrMiL2gPxzYwehWAsfFpOVOSG-APyLkUkJn8Og_uHXw_qv5K351Dyy4pmqoQ",
-      "installs": "500,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "com.king.candycrushsaga",
       "app_name": "Candy Crush Saga",
       "developer": "King",
@@ -22,8 +10,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "com.dts.freefiremax",
+      "app_name": "Free Fire MAX x NARUTO",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/M_l-dWl4q9FLX3IgYu8lrSPAs6WrMiL2gPxzYwehWAsfFpOVOSG-APyLkUkJn8Og_uHXw_qv5K351Dyy4pmqoQ",
+      "installs": "500,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 3,
@@ -183,18 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "com.miniclip.eightballpool",
-      "app_name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -202,8 +190,20 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "com.miniclip.eightballpool",
+      "app_name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -226,17 +226,17 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "jp.konami.pesam",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
-      "installs": "100,000,000+",
-      "rating": 4.4,
+      "app_id": "solitaire.patience.card.games.klondike.free",
+      "app_name": "Solitaire - Classic Card Games",
+      "developer": "Guru Puzzle Game",
+      "icon_url": "https://play-lh.googleusercontent.com/nVTU-EbcHkMg-KXt93shtsgX506v_zDBLG04H2pnp4Lom2J_mSp5gHO5YtZhCSpDpLJUgBYneCd5h6oDduKJ6Q",
+      "installs": "50,000,000+",
+      "rating": 4.9,
       "rating_count": 0,
       "change": "new",
       "change_val": 0

@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "6748084174",
-      "app_name": "Smash Fest!",
-      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/f7/db/baf7db1f-9e85-ab76-255f-85490243c164/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 13721,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "6746743297",
       "app_name": "Bus Fever Party!",
       "developer": "Lumi Games",
@@ -34,23 +22,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1424,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "6748084174",
+      "app_name": "Smash Fest!",
+      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/f7/db/baf7db1f-9e85-ab76-255f-85490243c164/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 13721,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 4,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/7d/8f/7a7d8f53-b428-8f1c-7d25-8493bad34b6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1934968,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6767834940",
       "app_name": "Top Lords",
       "developer": "GAME SPARK PTE. LTD.",
@@ -58,23 +46,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 994,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/7d/8f/7a7d8f53-b428-8f1c-7d25-8493bad34b6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1934968,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
-      "app_id": "6769314786",
-      "app_name": "Food Hunt: Pixel Puzzle",
-      "developer": "FUNFINITY PTE. LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a3/e9/7fa3e906-85f1-778d-27c2-abd4e1b5b78e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2950,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "6757350661",
       "app_name": "Police Chief",
       "developer": "VoyagerOne",
@@ -82,23 +70,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2177,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6769314786",
+      "app_name": "Food Hunt: Pixel Puzzle",
+      "developer": "FUNFINITY PTE. LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a3/e9/7fa3e906-85f1-778d-27c2-abd4e1b5b78e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2950,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 694238,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "6780891673",
       "app_name": "Royal Smash! - Physics Puzzle",
       "developer": "Cypher Games",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 12336,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 694238,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 246606,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2168,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -166,23 +166,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 4370,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "1117270703",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/c5/a7/99c5a7ab-102e-ccf0-e876-b7f884b66787/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 269269,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 16,
       "app_id": "6748950306",
       "app_name": "Solitaire Associations Journey",
       "developer": "Hitapps Games LTD",
@@ -190,27 +178,39 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5139,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6783815362",
+      "app_name": "Word Tiles - Relaxing Puzzle",
+      "developer": "Agave Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/88/8b/db888b0b-837e-eb0b-83b2-761289a77416/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1024,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 17,
-      "app_id": "506627515",
-      "app_name": "Hay Day",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/07/69/4f076947-6bf8-75a9-7bc3-a0654ea6defb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6754014472",
+      "app_name": "Double Tile!",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/a2/25/d2a225da-a2eb-e35b-b0d9-4edfa2f03a4d/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 157368,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.8,
+      "rating_count": 1672,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 18,
       "app_id": "1597760047",
       "app_name": "OneState RP: Role Play Online",
       "developer": "CHILLBASE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/85/df/cd85dfbb-e477-9524-81a9-01326b894ba3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/b7/e8/fab7e803-db24-efb8-5b1f-979e23d3c385/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.9,
       "rating_count": 1150,
@@ -219,6 +219,18 @@
     },
     {
       "rank": 19,
+      "app_id": "1117270703",
+      "app_name": "eFootball™",
+      "developer": "KONAMI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/98/c4/f298c428-1e55-a238-3c3c-a2c59b50523a/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 269269,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 20,
       "app_id": "1105855019",
       "app_name": "Gardenscapes",
       "developer": "Playrix",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 154336,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 20,
-      "app_id": "6783815362",
-      "app_name": "Word Tiles - Relaxing Puzzle",
-      "developer": "Agave Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/88/8b/db888b0b-837e-eb0b-83b2-761289a77416/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1024,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
