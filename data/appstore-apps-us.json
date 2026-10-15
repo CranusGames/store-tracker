@@ -54,7 +54,7 @@
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/61/43/51614377-8976-4277-5f5e-90c614b04913/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/40/fc/9540fc5b-705f-03bb-fefd-a70c3f840ced/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 279701,
@@ -63,15 +63,15 @@
     },
     {
       "rank": 6,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/d0/e8/f8d0e873-d8d9-b627-5afc-198d0a692846/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "922103212",
+      "app_name": "McDonald's",
+      "developer": "McDonald's USA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 2302414,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 7883319,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 7,
@@ -82,11 +82,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2343258,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/d0/e8/f8d0e873-d8d9-b627-5afc-198d0a692846/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2302414,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 9,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -98,18 +110,6 @@
       "change_val": -1
     },
     {
-      "rank": 9,
-      "app_id": "922103212",
-      "app_name": "McDonald's",
-      "developer": "McDonald's USA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 7883319,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
       "rank": 10,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1123982,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,23 +130,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18779303,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "1668228991",
-      "app_name": "Dave’s Hot Chicken®",
-      "developer": "Dave's Hot Chicken",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/8e/5e/4e8e5ed4-522d-37ea-3846-73af02f99de3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 69012,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 13,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -154,23 +142,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5222643,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f0/b2/d8f0b203-3968-dd77-07ff-70134b89f7c1/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18393398,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -182,7 +158,19 @@
       "change_val": 2
     },
     {
-      "rank": 16,
+      "rank": 14,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f0/b2/d8f0b203-3968-dd77-07ff-70134b89f7c1/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18393398,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 15,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade Football & more",
       "developer": "KalshiEX LLC",
@@ -190,23 +178,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 604470,
-      "change": "-4",
-      "change_val": -4
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
-      "app_id": "389801252",
-      "app_name": "Instagram",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/41/0a/41410ad0-b22e-c93c-d4b1-7f14f8494e06/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 29598865,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -214,32 +190,56 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7409536,
-      "change": "=",
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "1668228991",
+      "app_name": "Dave’s Hot Chicken®",
+      "developer": "Dave's Hot Chicken",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/8e/5e/4e8e5ed4-522d-37ea-3846-73af02f99de3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 69012,
+      "change": "-5",
+      "change_val": -5
+    },
+    {
+      "rank": 18,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/43/b2/0343b28c-bee0-cd1b-652b-96e4dd94d51e/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 711295,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "284882215",
-      "app_name": "Facebook",
-      "developer": "Meta Platforms, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/23/38042309-1e34-7b09-70c3-ec5733769459/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1113153706",
+      "app_name": "Microsoft Teams",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ac/d6/0facd652-7de5-115e-54f1-0308cfc4175d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 28763061,
+      "rating": 4.8,
+      "rating_count": 3379399,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "544007664",
-      "app_name": "YouTube",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/cc/4d/9dcc4d29-3199-cfdb-da1e-64ec30a4046b/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "389801252",
+      "app_name": "Instagram",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/41/0a/41410ad0-b22e-c93c-d4b1-7f14f8494e06/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 49430037,
-      "change": "new",
-      "change_val": 0
+      "rating_count": 29598865,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }
