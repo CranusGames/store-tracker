@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "rankings": [
     {
       "rank": 1,
@@ -75,6 +75,18 @@
     },
     {
       "rank": 7,
+      "app_id": "6760796215",
+      "app_name": "Little Kitty, Big City",
+      "developer": "Double Dagger Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/c1/b5/4dc1b505-a634-38bc-acd1-4a21e45f6b03/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 171,
+      "change": "+5",
+      "change_val": 5
+    },
+    {
+      "rank": 8,
       "app_id": "6760325543",
       "app_name": "CubeAway - 3DPuzzle",
       "developer": "GOODROID,Inc.",
@@ -82,11 +94,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 124089,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -94,11 +106,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 20375312,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "app_id": "638689075",
       "app_name": "Township",
       "developer": "Playrix",
@@ -106,20 +118,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2213684,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 10,
-      "app_id": "6767434212",
-      "app_name": "Dragonbound: Wings of Magic",
-      "developer": "Efun Global Company Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/71/1d/be711df2-8746-1df7-943f-2c0df850c06d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 0,
-      "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "6760796215",
-      "app_name": "Little Kitty, Big City",
-      "developer": "Double Dagger Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/c1/b5/4dc1b505-a634-38bc-acd1-4a21e45f6b03/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 171,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 13,
       "app_id": "6748084174",
       "app_name": "Smash Fest!",
       "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 539791,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6767434212",
+      "app_name": "Dragonbound: Wings of Magic",
+      "developer": "Efun Global Company Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/71/1d/be711df2-8746-1df7-943f-2c0df850c06d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 0,
+      "rating_count": 0,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 232311,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 34594,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,11 +202,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 730527,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 18,
+      "app_id": "6797929772",
+      "app_name": "All Dubs",
+      "developer": "Vaulty Studios Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/9e/d9/5b9ed9d9-e003-1e38-1cbc-63e481141771/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 460,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -218,27 +230,15 @@
       "change_val": -1
     },
     {
-      "rank": 19,
-      "app_id": "6797929772",
-      "app_name": "All Dubs",
-      "developer": "Vaulty Studios Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/9e/d9/5b9ed9d9-e003-1e38-1cbc-63e481141771/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 460,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 20,
-      "app_id": "1621328561",
-      "app_name": "MONOPOLY GO!",
-      "developer": "Scopely, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/5a/ed/655aed4a-2a6d-2729-855e-aee89e6d5477/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6756482832",
+      "app_name": "Brain Puzzle 3: Crazy Mind",
+      "developer": "SmallStep Dev Team",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/10/47/d910471a-6dab-f930-9001-3d451d121904/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 3859753,
-      "change": "=",
+      "rating": 4.6,
+      "rating_count": 23842,
+      "change": "new",
       "change_val": 0
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "rankings": [
     {
       "rank": 1,
@@ -82,23 +82,35 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918739,
-      "change": "+5",
-      "change_val": 5
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/7b/a5/117ba573-9ad6-046d-e207-2c962eb706ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/6d/34/cd6d340d-96a5-d58b-b138-d192880f0fed/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 69376,
+      "rating": 4.7,
+      "rating_count": 1924677,
       "change": "+3",
       "change_val": 3
     },
     {
       "rank": 9,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/40/fc/9540fc5b-705f-03bb-fefd-a70c3f840ced/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 8169,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 10,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -110,7 +122,7 @@
       "change_val": -1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "app_id": "397585390",
       "app_name": "Migros: Food & Groceries",
       "developer": "MigrosOne",
@@ -122,31 +134,7 @@
       "change_val": -1
     },
     {
-      "rank": 11,
-      "app_id": "481035064",
-      "app_name": "Hepsiburada: Online Shopping",
-      "developer": "Hepsiburada",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/6d/34/cd6d340d-96a5-d58b-b138-d192880f0fed/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1924677,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
       "rank": 12,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/40/fc/9540fc5b-705f-03bb-fefd-a70c3f840ced/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 8169,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 13,
       "app_id": "6670430706",
       "app_name": "DramaWave - Dramas & Reels",
       "developer": "SKYWORK AI PTE LTD",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 27548,
-      "change": "-6",
-      "change_val": -6
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "1234494259",
+      "app_name": "Cepte Şok",
+      "developer": "Şok Marketler Tic. A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/7b/a5/117ba573-9ad6-046d-e207-2c962eb706ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 69376,
+      "change": "-5",
+      "change_val": -5
     },
     {
       "rank": 14,
@@ -183,42 +183,18 @@
     },
     {
       "rank": 16,
-      "app_id": "885993234",
-      "app_name": "Ziraat Mobil",
-      "developer": "T.C. Ziraat Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/21/60/242160f0-d23a-ae7a-3d5a-79c4756acde9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1630403500",
+      "app_name": "APTV",
+      "developer": "Suzhou Xiying Guangnian Technology Co., Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/14/50/e7145085-c77c-d932-f48c-e22bccf81e5d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 1719029,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.7,
+      "rating_count": 346,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "284815942",
-      "app_name": "Google - More ways to search",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/de/cd/52decd9f-2d96-bb60-a7c0-7dca9be8d6ed/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 363492,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 18,
-      "app_id": "521117624",
-      "app_name": "Garanti BBVA Mobile",
-      "developer": "T. Garanti Bankasi A.S.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/d6/5d/7bd65d51-d0b9-7dc3-5914-d59c327ae17b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2218119,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 19,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -226,11 +202,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 93968,
-      "change": "new",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/de/cd/52decd9f-2d96-bb60-a7c0-7dca9be8d6ed/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 363492,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
       "app_id": "524362642",
       "app_name": "Trendyol: Online Shopping",
       "developer": "trendyol.com",
@@ -238,6 +226,18 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4671943,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "422689480",
+      "app_name": "Gmail - Email by Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/89/1d/74891df0-2de1-b997-3745-27cd1b43e50b/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 86069,
       "change": "new",
       "change_val": 0
     }
