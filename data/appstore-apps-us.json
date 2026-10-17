@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "460177396",
-      "app_name": "Twitch: Live Streaming",
-      "developer": "Twitch Interactive, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/60/f2/0e60f2cb-a96f-a951-2242-2b51f42aa26b/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2813718,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 7,
       "app_id": "922103212",
       "app_name": "McDonald's",
       "developer": "McDonald's USA",
@@ -82,11 +70,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 7883602,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "6447582581",
       "app_name": "Netflix Game Controller",
       "developer": "Netflix, Inc.",
@@ -94,20 +82,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 235699,
-      "change": "+3",
-      "change_val": 3
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "460177396",
+      "app_name": "Twitch: Live Streaming",
+      "developer": "Twitch Interactive, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/60/f2/0e60f2cb-a96f-a951-2242-2b51f42aa26b/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2813718,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 9,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade Football & more",
       "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/a0/d6/15a0d663-4c27-d4ea-7002-204c4a5fdb89/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/30/59/fa30592e-59e6-69d2-70c1-7de62a5aa093/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
       "rating_count": 608873,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 280769,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/78/e5/d678e565-c338-6ea1-58b8-1ff377b0270d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1046841,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 18,
       "app_id": "310633997",
       "app_name": "WhatsApp Messenger",
       "developer": "WhatsApp Inc.",
@@ -214,32 +202,44 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18790221,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/78/e5/d678e565-c338-6ea1-58b8-1ff377b0270d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1046841,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
-      "app_id": "719972451",
-      "app_name": "DoorDash: Food, Grocery, More",
-      "developer": "DoorDash, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/38/4a/ed384a8f-298c-4d4e-e90f-5a8954d61b73/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "368677368",
+      "app_name": "Uber - Rides, Eats, Hotels",
+      "developer": "Uber Technologies, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/3f/42/7a3f424c-d273-a56c-059d-8f6c32359d88/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 23412513,
+      "rating": 4.9,
+      "rating_count": 17069206,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "545519333",
-      "app_name": "Amazon Prime Video",
-      "developer": "AMZN Mobile LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/1a/ad/021aad30-18ea-3f77-0a0c-eefc68a33a9c/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/e0/b4/62e0b43d-a3ca-fdde-b0f5-26ebd143eb02/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 3073009,
-      "change": "-3",
-      "change_val": -3
+      "rating": 4.7,
+      "rating_count": 2235702,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
