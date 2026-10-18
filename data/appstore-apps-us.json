@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "rankings": [
     {
       "rank": 1,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1124201,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 281071,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,23 +142,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2350855,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f0/b2/d8f0b203-3968-dd77-07ff-70134b89f7c1/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18395808,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -170,19 +158,19 @@
       "change_val": 1
     },
     {
-      "rank": 15,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/7d/17/067d170f-6f76-ab80-0356-39ac02ccd63c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "rank": 14,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f0/b2/d8f0b203-3968-dd77-07ff-70134b89f7c1/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 18794373,
+      "rating_count": 18395808,
       "change": "-1",
       "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -194,7 +182,31 @@
       "change_val": 1
     },
     {
+      "rank": 16,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/41/dd/4341dd76-bd1b-c2ab-a8eb-20f19d859288/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 235866,
+      "change": "+4",
+      "change_val": 4
+    },
+    {
       "rank": 17,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/7d/17/067d170f-6f76-ab80-0356-39ac02ccd63c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18794373,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 18,
       "app_id": "544007664",
       "app_name": "YouTube",
       "developer": "Google",
@@ -206,7 +218,7 @@
       "change_val": -1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -214,11 +226,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2445993,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "app_id": "389801252",
       "app_name": "Instagram",
       "developer": "Instagram, Inc.",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 29607197,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/41/dd/4341dd76-bd1b-c2ab-a8eb-20f19d859288/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 235866,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
