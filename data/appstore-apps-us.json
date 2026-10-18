@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6446202561",
-      "app_name": "KICK - Live Streaming",
-      "developer": "Kick Streaming",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/bb/77/91bb7757-3b94-4438-912a-d1c6a9db6b11/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 145032,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "6741796873",
       "app_name": "TikTok Pro - Events",
       "developer": "TikTok Ltd.",
@@ -58,20 +46,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 73076,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6446202561",
+      "app_name": "KICK - Live Streaming",
+      "developer": "Kick Streaming",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/bb/77/91bb7757-3b94-4438-912a-d1c6a9db6b11/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 145032,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/41/dd/4341dd76-bd1b-c2ab-a8eb-20f19d859288/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "922103212",
+      "app_name": "McDonald's",
+      "developer": "McDonald's USA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 236865,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 7883831,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 7,
@@ -87,15 +87,15 @@
     },
     {
       "rank": 8,
-      "app_id": "922103212",
-      "app_name": "McDonald's",
-      "developer": "McDonald's USA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/41/dd/4341dd76-bd1b-c2ab-a8eb-20f19d859288/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 7883831,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 236865,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 9,
@@ -174,7 +174,7 @@
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/6c/55/7d6c55bb-1cb9-2bea-c823-3c35e3d8a9d2/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/88/64/9488640b-74bb-84f0-fe2c-ac13c96ba19c/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 7414196,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "368677368",
-      "app_name": "Uber - Rides, Eats, Hotels",
-      "developer": "Uber Technologies, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/3f/42/7a3f424c-d273-a56c-059d-8f6c32359d88/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 17081039,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -214,11 +202,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5238208,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "518684914",
       "app_name": "Depop - Buy & Sell Clothes",
       "developer": "Depop Ltd",
@@ -226,8 +214,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1048736,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "368677368",
+      "app_name": "Uber - Rides, Eats, Hotels",
+      "developer": "Uber Technologies, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/3f/42/7a3f424c-d273-a56c-059d-8f6c32359d88/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 17081039,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,
