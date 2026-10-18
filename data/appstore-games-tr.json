@@ -39,30 +39,18 @@
     },
     {
       "rank": 4,
-      "app_id": "1531842415",
-      "app_name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/27/98/24279835-6eaa-fc2e-5299-835f7330a791/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.2,
-      "rating_count": 20291,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 694784,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 5,
-      "app_id": "6443575749",
-      "app_name": "Whiteout Survival",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 47780,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 6,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -74,16 +62,28 @@
       "change_val": 1
     },
     {
-      "rank": 7,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "rank": 6,
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/5a/db/1f5adbc9-8ca2-966a-a708-a599b6910efa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.2,
-      "rating_count": 694784,
+      "rating": 4.6,
+      "rating_count": 47780,
       "change": "-1",
       "change_val": -1
+    },
+    {
+      "rank": 7,
+      "app_id": "1531842415",
+      "app_name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/27/98/24279835-6eaa-fc2e-5299-835f7330a791/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 20291,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 8,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 879746,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 154432,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/43/ef/8c43ef6b-c868-5174-2b06-734e54b1f684/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 49749,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 15,
       "app_id": "6752886832",
       "app_name": "Hotel Legacy: Merge Game",
       "developer": "Century Games Innovation Pte. Ltd.",
@@ -178,20 +166,32 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 2124,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/43/ef/8c43ef6b-c868-5174-2b06-734e54b1f684/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 49749,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
-      "app_id": "6757350661",
-      "app_name": "Police Chief",
-      "developer": "VoyagerOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/45/70/77457063-ee4f-6243-695a-a41d44f4a964/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "app_id": "6769314786",
+      "app_name": "Food Hunt: Pixel Puzzle",
+      "developer": "FUNFINITY PTE. LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/ac/ec/a6acec67-bbc4-7f72-99be-878d6af28aca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 2417,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.6,
+      "rating_count": 3155,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 17,
@@ -214,31 +214,31 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 41415,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "6769314786",
-      "app_name": "Food Hunt: Pixel Puzzle",
-      "developer": "FUNFINITY PTE. LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/ac/ec/a6acec67-bbc4-7f72-99be-878d6af28aca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6757350661",
+      "app_name": "Police Chief",
+      "developer": "VoyagerOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/45/70/77457063-ee4f-6243-695a-a41d44f4a964/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 3155,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.8,
+      "rating_count": 2417,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 20,
-      "app_id": "6739554056",
-      "app_name": "Kingshot",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/37/32/073732fc-1aa2-007b-882f-3cdfae8e6f2d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "506627515",
+      "app_name": "Hay Day",
+      "developer": "Supercell",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/07/69/4f076947-6bf8-75a9-7bc3-a0654ea6defb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.4,
-      "rating_count": 19918,
-      "change": "=",
+      "rating": 4.6,
+      "rating_count": 157660,
+      "change": "new",
       "change_val": 0
     }
   ]
