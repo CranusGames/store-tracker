@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "rankings": [
     {
       "rank": 1,
@@ -70,11 +70,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 47852,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 7,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 695020,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "app_id": "1105855019",
       "app_name": "Gardenscapes",
       "developer": "Playrix",
@@ -84,18 +96,6 @@
       "rating_count": 154476,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 8,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 695020,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 9,
@@ -147,30 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "1531842415",
-      "app_name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/27/98/24279835-6eaa-fc2e-5299-835f7330a791/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 20390,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 14,
-      "app_id": "638689075",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/4a/4f/104a4fc2-250c-15a1-23a4-4366a2ce4449/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 122538,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "6752886832",
       "app_name": "Hotel Legacy: Merge Game",
       "developer": "Century Games Innovation Pte. Ltd.",
@@ -178,11 +154,11 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 2141,
-      "change": "-2",
-      "change_val": -2
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 16,
+      "rank": 14,
       "app_id": "6769314786",
       "app_name": "Food Hunt: Pixel Puzzle",
       "developer": "FUNFINITY PTE. LTD",
@@ -190,35 +166,47 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3221,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 15,
+      "app_id": "638689075",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/4a/4f/104a4fc2-250c-15a1-23a4-4366a2ce4449/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 122538,
       "change": "-1",
       "change_val": -1
     },
     {
-      "rank": 17,
-      "app_id": "1229016807",
-      "app_name": "Brawl Stars",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/98/dd/2798dd4e-f772-d93b-0a82-588d3fb55302/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rank": 16,
+      "app_id": "1531842415",
+      "app_name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/27/98/24279835-6eaa-fc2e-5299-835f7330a791/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 880127,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.2,
+      "rating_count": 20390,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 17,
+      "app_id": "1369521645",
+      "app_name": "Words of Wonders: Crossword",
+      "developer": "FUGO BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/de/46/18de46ea-89c1-0df2-0776-8bd447cb22f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 596466,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 18,
-      "app_id": "1482155847",
-      "app_name": "Royal Match",
-      "developer": "Dream Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/de/aa/24deaa83-7e15-c811-cc29-5f8dca26bbf9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 247353,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 19,
       "app_id": "6754014472",
       "app_name": "Double Tile!",
       "developer": "Hungry Studio",
@@ -230,14 +218,26 @@
       "change_val": 1
     },
     {
-      "rank": 20,
-      "app_id": "1369521645",
-      "app_name": "Words of Wonders: Crossword",
-      "developer": "FUGO BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/de/46/18de46ea-89c1-0df2-0776-8bd447cb22f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 19,
+      "app_id": "1482155847",
+      "app_name": "Royal Match",
+      "developer": "Dream Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/de/aa/24deaa83-7e15-c811-cc29-5f8dca26bbf9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 596466,
+      "rating": 4.6,
+      "rating_count": 247353,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 20,
+      "app_id": "6760325543",
+      "app_name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 4640,
       "change": "new",
       "change_val": 0
     }
