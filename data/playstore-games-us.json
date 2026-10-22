@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "com.miniclip.eightballpool",
-      "app_name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.8,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "com.dts.freefiremax",
       "app_name": "Free Fire MAX x NARUTO",
       "developer": "GARENA INTERNATIONAL I",
@@ -46,8 +34,20 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "com.miniclip.eightballpool",
+      "app_name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.8,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -58,7 +58,7 @@
       "installs": "1,000,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -82,47 +82,11 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "com.matteljv.uno",
-      "app_name": "UNO!™",
-      "developer": "Mattel Game Studios HK Limited",
-      "icon_url": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
-      "installs": "100,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
-      "app_id": "com.ludo.king",
-      "app_name": "Ludo King®",
-      "developer": "Gametion",
-      "icon_url": "https://play-lh.googleusercontent.com/qSN0Eb6mDVPIX4PRggTB3PsEU1oyPorteUfiuJ709P9cZxdWP9Y-kV0htG7rtJNYywGE-3wlrC_7Gix0h0-Urw",
-      "installs": "1,000,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "com.imangi.templerun2",
-      "app_name": "Temple Run 2",
-      "developer": "Imangi Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
-      "installs": "1,000,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "com.block.juggle",
       "app_name": "Block Blast!",
       "developer": "HungryStudio",
@@ -130,8 +94,44 @@
       "installs": "1,000,000,000+",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 9,
+      "app_id": "com.matteljv.uno",
+      "app_name": "UNO!™",
+      "developer": "Mattel Game Studios HK Limited",
+      "icon_url": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
+      "installs": "100,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 10,
+      "app_id": "com.ludo.king",
+      "app_name": "Ludo King®",
+      "developer": "Gametion",
+      "icon_url": "https://play-lh.googleusercontent.com/qSN0Eb6mDVPIX4PRggTB3PsEU1oyPorteUfiuJ709P9cZxdWP9Y-kV0htG7rtJNYywGE-3wlrC_7Gix0h0-Urw",
+      "installs": "1,000,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 11,
+      "app_id": "com.imangi.templerun2",
+      "app_name": "Temple Run 2",
+      "developer": "Imangi Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
+      "installs": "1,000,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -154,8 +154,8 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,35 +166,11 @@
       "installs": "100,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 15,
-      "app_id": "com.dreamgames.royalmatch",
-      "app_name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 16,
-      "app_id": "com.bigduckgames.flow",
-      "app_name": "Flow Free",
-      "developer": "Big Duck Games LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/EfhYQZbslbUgQzI4rz0kNtqTPXhom-yYdkaO1Pv7OuUqJaNq4lvIIdAL7dubS_rJ03aG6ZCJqkSeLDf6bbah37A",
-      "installs": "100,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 17,
+      "rank": 15,
       "app_id": "solitaire.patience.card.games.klondike.free",
       "app_name": "Solitaire - Classic Card Games",
       "developer": "Guru Puzzle Game",
@@ -202,11 +178,11 @@
       "installs": "50,000,000+",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "-4",
-      "change_val": -4
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 18,
+      "rank": 16,
       "app_id": "com.topfreegames.bikeracefreeworld",
       "app_name": "Bike Race：Motorcycle Games",
       "developer": "Wildlife Studios",
@@ -214,23 +190,35 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "com.dreamgames.royalmatch",
+      "app_name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 18,
+      "app_id": "com.kiloo.subwaysurf",
+      "app_name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "icon_url": "https://play-lh.googleusercontent.com/G1eIJ3yor1yW20izrYjOfCzHgVkRtewlfPFG9CEFTHzSI2m0Lwds_Y1xYgeg21CFok_UXrol-ox2IwqL4JMrLQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "com.tocaboca.tocalifeworld",
-      "app_name": "Toca Boca World",
-      "developer": "Toca Boca",
-      "icon_url": "https://play-lh.googleusercontent.com/RbCkY3iXSo5b4GcS176iPu1sE27MnakJV7iW6VbiOYBXrP_ekoq7IeNKGddS9q-C93g1H-KpQ-a5BJHq1OdL",
-      "installs": "100,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 20,
       "app_id": "bubbleshooter.orig",
       "app_name": "Bubble Shooter - Classic Pop",
       "developer": "Bubble Shooter",
@@ -238,8 +226,20 @@
       "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.bigduckgames.flow",
+      "app_name": "Flow Free",
+      "developer": "Big Duck Games LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/EfhYQZbslbUgQzI4rz0kNtqTPXhom-yYdkaO1Pv7OuUqJaNq4lvIIdAL7dubS_rJ03aG6ZCJqkSeLDf6bbah37A",
+      "installs": "100,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "-4",
+      "change_val": -4
     }
   ]
 }
