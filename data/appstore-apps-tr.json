@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "rankings": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/23/eb/3023ebb0-1e40-6314-9909-f490a704b5d1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/3b/1d/423b1d61-1b55-0bca-d3b9-1ce597c7b4b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 1181246,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 2858,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445507,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 8459,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 548020,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918676,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,11 +154,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4683381,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/d0/2c/14d02c98-150e-c030-739a-94c2c8139a56/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1929368,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 15,
       "app_id": "397585390",
       "app_name": "Migros: Food & Groceries",
       "developer": "MigrosOne",
@@ -170,7 +182,7 @@
       "change_val": -1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "app_id": "1234494259",
       "app_name": "Cepte Şok",
       "developer": "Şok Marketler Tic. A.Ş.",
@@ -178,18 +190,6 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 69386,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 16,
-      "app_id": "481035064",
-      "app_name": "Hepsiburada: Online Shopping",
-      "developer": "Hepsiburada",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/d0/2c/14d02c98-150e-c030-739a-94c2c8139a56/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1929368,
       "change": "-1",
       "change_val": -1
     },
@@ -202,23 +202,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 94033,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 18,
-      "app_id": "1668441657",
-      "app_name": "tabii",
-      "developer": "Turkiye Radyo ve Televizyon Kurumu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 68301,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "6445905219",
       "app_name": "DramaBox - Stream Drama Shorts",
       "developer": "STORYMATRIX PTE. LTD.",
@@ -230,6 +218,18 @@
       "change_val": 1
     },
     {
+      "rank": 19,
+      "app_id": "1668441657",
+      "app_name": "tabii",
+      "developer": "Turkiye Radyo ve Televizyon Kurumu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 68301,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 20,
       "app_id": "686449807",
       "app_name": "Telegram Messenger",
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 3.6,
       "rating_count": 27819,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
