@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f2/7b/5af27b71-8b04-890f-5da6-e09c89d22f61/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445507,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
@@ -94,8 +82,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 8459,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f2/7b/5af27b71-8b04-890f-5da6-e09c89d22f61/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 445507,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "373034841",
-      "app_name": "Yemeksepeti: Food & Grocery",
-      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/e2/2d/a8e22daf-6aa0-8b5e-618e-3cb314d7304c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1918676,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "524362642",
       "app_name": "Trendyol: Online Shopping",
       "developer": "trendyol.com",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4683381,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/e2/2d/a8e22daf-6aa0-8b5e-618e-3cb314d7304c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1918676,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1929368,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 389040,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 69386,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -207,6 +207,18 @@
     },
     {
       "rank": 18,
+      "app_id": "1636235979",
+      "app_name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 21423,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
       "app_id": "6445905219",
       "app_name": "DramaBox - Stream Drama Shorts",
       "developer": "STORYMATRIX PTE. LTD.",
@@ -214,18 +226,6 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 12856,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 19,
-      "app_id": "1668441657",
-      "app_name": "tabii",
-      "developer": "Turkiye Radyo ve Televizyon Kurumu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/de/67/c3de67a1-d903-8383-11cf-4bc983907bfd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 68301,
       "change": "-1",
       "change_val": -1
     },

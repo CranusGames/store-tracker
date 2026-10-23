@@ -27,42 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6760173601",
-      "app_name": "Muse from Meta",
-      "developer": "Meta Platforms, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/eb/1b/43eb1bff-c145-7968-55a6-1ff63ec49644/HatchAppIconPublic-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 325432,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/78/45/ea784534-39b0-b4cd-9105-f143cf0703bb/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 75416,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/3b/1d/423b1d61-1b55-0bca-d3b9-1ce597c7b4b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 11543979,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "6462904878",
       "app_name": "BigFuture School",
       "developer": "The College Board",
@@ -70,8 +34,44 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 18892,
-      "change": "new",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 4,
+      "app_id": "6760173601",
+      "app_name": "Muse from Meta",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/eb/1b/43eb1bff-c145-7968-55a6-1ff63ec49644/HatchAppIconPublic-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 325432,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 5,
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/78/45/ea784534-39b0-b4cd-9105-f143cf0703bb/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 75416,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 6,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/3b/1d/423b1d61-1b55-0bca-d3b9-1ce597c7b4b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 11543979,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -82,11 +82,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 26832,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
+      "app_id": "545519333",
+      "app_name": "Amazon Prime Video",
+      "developer": "AMZN Mobile LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/f0/ac/2bf0acc8-5fc6-44bf-13b6-9f85937ed415/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3077512,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 9,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
@@ -98,7 +110,7 @@
       "change_val": -1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "app_id": "922103212",
       "app_name": "McDonald's",
       "developer": "McDonald's USA",
@@ -106,20 +118,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 7884181,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/06/62/300662ce-cd91-f109-8ca9-ca1517193f61/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2365036,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -135,6 +135,18 @@
     },
     {
       "rank": 12,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/06/62/300662ce-cd91-f109-8ca9-ca1517193f61/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2365036,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 13,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -142,11 +154,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2319935,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -158,7 +170,7 @@
       "change_val": -1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -170,7 +182,7 @@
       "change_val": -1
     },
     {
-      "rank": 15,
+      "rank": 16,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -178,47 +190,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5258341,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "1113153706",
-      "app_name": "Microsoft Teams",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/49/2c/4f492cd9-5ad1-38ea-9663-4f0663eefa75/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3381083,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 17,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/75/48/14754808-d06b-705b-0e4c-d2bd6865d697/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 714984,
       "change": "-1",
       "change_val": -1
     },
     {
-      "rank": 18,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/31/87/8e31877a-3470-627d-3d6d-df1242f025c5/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "rank": 17,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/6d/04/106d0419-4ca2-462c-48e5-69fc1e801d8c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 7420421,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.8,
+      "rating_count": 1054231,
+      "change": "new",
+      "change_val": 0
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -230,16 +218,28 @@
       "change_val": 1
     },
     {
-      "rank": 20,
-      "app_id": "1089294040",
-      "app_name": "Capital One Shopping: Save Now",
-      "developer": "Wikibuy, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/ad/88/ddad8826-e6be-3b1d-7e57-9418cc66d4ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 19,
+      "app_id": "338137227",
+      "app_name": "Walmart: Shopping & Savings",
+      "developer": "Walmart",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/c6/51/85c65107-ec02-21e7-6139-4b61d6f9b8d9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 1704992,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.8,
+      "rating_count": 18781366,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/a1/10/78a11046-7937-eaf8-24b6-96ee9a30d479/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18824030,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
