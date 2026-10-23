@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 10191,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1786956,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,23 +70,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2777789,
-      "change": "+5",
-      "change_val": 5
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
-      "app_id": "6746743297",
-      "app_name": "Bus Fever Party!",
-      "developer": "Lumi Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/ee/79/2dee794e-972f-546d-2dbc-14a09462ac16/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 19441,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 8,
       "app_id": "6793924927",
       "app_name": "Rotate Rings",
       "developer": "Nebula Studio",
@@ -94,6 +82,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 55554,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6746743297",
+      "app_name": "Bus Fever Party!",
+      "developer": "Lumi Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/ee/79/2dee794e-972f-546d-2dbc-14a09462ac16/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 19441,
       "change": "-1",
       "change_val": -1
     },
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 20436693,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 556944,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 133486,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 82251,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 25714,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2219575,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,23 +190,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 38421,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 17,
-      "app_id": "6475757306",
-      "app_name": "Disney Solitaire",
-      "developer": "SuperPlay",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/2d/70/b82d7015-4dda-7ffe-5227-0d96828ccdf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 745153,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 18,
+      "rank": 17,
       "app_id": "329218549",
       "app_name": "Chess.com - Play and Learn",
       "developer": "Chess.com",
@@ -214,23 +202,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 851956,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/81/c7/f981c765-378f-b3c1-feea-767162c548c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 210513,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "app_id": "6475757306",
+      "app_name": "Disney Solitaire",
+      "developer": "SuperPlay",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/2d/70/b82d7015-4dda-7ffe-5227-0d96828ccdf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 745153,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
       "app_id": "6758326278",
       "app_name": "Amaze GO!™",
       "developer": "Oakever Games",
@@ -238,6 +226,18 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 242530,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/81/c7/f981c765-378f-b3c1-feea-767162c548c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 210513,
       "change": "-1",
       "change_val": -1
     }

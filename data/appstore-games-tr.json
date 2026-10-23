@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 48030,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,35 +82,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 154569,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "6767834940",
-      "app_name": "Top Lords",
-      "developer": "GAME SPARK PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/7e/7e/417e7e2f-ae1b-e7e9-fbcd-21498e7ba81c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1277,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 9,
-      "app_id": "6783815362",
-      "app_name": "Word Tiles - Relaxing Puzzle",
-      "developer": "Agave Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/9b/53/4e9b53ea-48ea-8b58-8d44-2aa8892f3199/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1613,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 10,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -118,23 +94,35 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 695424,
-      "change": "+3",
-      "change_val": 3
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 11,
-      "app_id": "6769314786",
-      "app_name": "Food Hunt: Pixel Puzzle",
-      "developer": "FUNFINITY PTE. LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/ac/ec/a6acec67-bbc4-7f72-99be-878d6af28aca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 9,
+      "app_id": "6767834940",
+      "app_name": "Top Lords",
+      "developer": "GAME SPARK PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/7e/7e/417e7e2f-ae1b-e7e9-fbcd-21498e7ba81c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 3340,
+      "rating": 4.8,
+      "rating_count": 1277,
       "change": "-1",
       "change_val": -1
     },
     {
-      "rank": 12,
+      "rank": 10,
+      "app_id": "6783815362",
+      "app_name": "Word Tiles - Relaxing Puzzle",
+      "developer": "Agave Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/9b/53/4e9b53ea-48ea-8b58-8d44-2aa8892f3199/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1613,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 11,
       "app_id": "512939461",
       "app_name": "Subway Surfers",
       "developer": "Sybo Games ApS",
@@ -142,6 +130,18 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 344373,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "6769314786",
+      "app_name": "Food Hunt: Pixel Puzzle",
+      "developer": "FUNFINITY PTE. LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/ac/ec/a6acec67-bbc4-7f72-99be-878d6af28aca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 3340,
       "change": "-1",
       "change_val": -1
     },
@@ -154,11 +154,23 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 271610,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
+      "app_id": "1229016807",
+      "app_name": "Brawl Stars",
+      "developer": "Supercell",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/98/dd/2798dd4e-f772-d93b-0a82-588d3fb55302/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 880502,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 15,
       "app_id": "638689075",
       "app_name": "Township",
       "developer": "Playrix",
@@ -166,20 +178,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 122667,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/c7/4a/35c74a02-d93c-991e-a2a4-775c023ea6bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 5313,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
@@ -190,20 +190,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 4839,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "1229016807",
-      "app_name": "Brawl Stars",
-      "developer": "Supercell",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/98/dd/2798dd4e-f772-d93b-0a82-588d3fb55302/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6748950306",
+      "app_name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/c7/4a/35c74a02-d93c-991e-a2a4-775c023ea6bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 880502,
-      "change": "new",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 5313,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
@@ -219,18 +219,6 @@
     },
     {
       "rank": 19,
-      "app_id": "1597760047",
-      "app_name": "OneState RP: Role Play Online",
-      "developer": "CHILLBASE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/b7/e8/fab7e803-db24-efb8-5b1f-979e23d3c385/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 1225,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 20,
       "app_id": "6744975195",
       "app_name": "Sled Surfers",
       "developer": "Crazy Labs",
@@ -238,6 +226,18 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 3060,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "1369521645",
+      "app_name": "Words of Wonders: Crossword",
+      "developer": "FUGO BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/68/dc/5968dccf-34ef-f61d-81fd-682c57dd4d6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 596774,
       "change": "new",
       "change_val": 0
     }
