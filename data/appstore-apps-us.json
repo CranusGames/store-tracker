@@ -15,30 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "632064380",
-      "app_name": "Vinted: Pre-loved marketplace",
-      "developer": "Vinted Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/cd/83/d3cd83d1-4d21-6390-1c53-4e1557fdf70d/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 567768,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
-      "app_id": "6741796873",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/78/45/ea784534-39b0-b4cd-9105-f143cf0703bb/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 76414,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "6760173601",
       "app_name": "Muse from Meta",
       "developer": "Meta Platforms, Inc.",
@@ -46,8 +22,32 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 340326,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 3,
+      "app_id": "632064380",
+      "app_name": "Vinted: Pre-loved marketplace",
+      "developer": "Vinted Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/cd/83/d3cd83d1-4d21-6390-1c53-4e1557fdf70d/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 567768,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 4,
+      "app_id": "6741796873",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/78/45/ea784534-39b0-b4cd-9105-f143cf0703bb/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 76414,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -63,6 +63,18 @@
     },
     {
       "rank": 6,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/00/7c/eb007c0a-a26e-eb3e-9f89-cb1c37049237/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 285565,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 7,
       "app_id": "6462904878",
       "app_name": "BigFuture School",
       "developer": "The College Board",
@@ -70,20 +82,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 19250,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
-      "app_id": "922103212",
-      "app_name": "McDonald's",
-      "developer": "McDonald's USA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 7884245,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -99,15 +99,15 @@
     },
     {
       "rank": 9,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/92/7d/0c927dd4-5dfa-b3ed-fc7f-74871727e9fa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "922103212",
+      "app_name": "McDonald's",
+      "developer": "McDonald's USA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 285565,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 7884245,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1124843,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2369400,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,35 +154,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 86984,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 14,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/43/5d/b8435d95-8bbe-9b14-bacc-6b8bbd2808b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 241167,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 15,
-      "app_id": "545519333",
-      "app_name": "Amazon Prime Video",
-      "developer": "AMZN Mobile LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/f0/ac/2bf0acc8-5fc6-44bf-13b6-9f85937ed415/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3078167,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -190,11 +166,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5265491,
-      "change": "-2",
-      "change_val": -2
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 17,
+      "rank": 15,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/43/5d/b8435d95-8bbe-9b14-bacc-6b8bbd2808b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 241167,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 16,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
@@ -202,8 +190,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7422660,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "545519333",
+      "app_name": "Amazon Prime Video",
+      "developer": "AMZN Mobile LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/f0/ac/2bf0acc8-5fc6-44bf-13b6-9f85937ed415/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3078167,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
@@ -214,23 +214,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18405017,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "310633997",
-      "app_name": "WhatsApp Messenger",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/a1/10/78a11046-7937-eaf8-24b6-96ee9a30d479/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18832702,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 20,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2447849,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/a1/10/78a11046-7937-eaf8-24b6-96ee9a30d479/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18832702,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
