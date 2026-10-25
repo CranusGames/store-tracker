@@ -87,24 +87,24 @@
     },
     {
       "rank": 8,
-      "app_id": "com.matteljv.uno",
-      "app_name": "UNO!™",
-      "developer": "Mattel Game Studios HK Limited",
-      "icon_url": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
-      "installs": "100,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 9,
       "app_id": "com.ta.strike.ops",
       "app_name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
       "icon_url": "https://play-lh.googleusercontent.com/eiOZd_w3-KqGU1NfuZDqrY8FclcKAdGegweEXsNcjBWPs9yWffAY78PCITk1wj9vtEdM0S3DuKdoXiqUF1o_",
       "installs": "100,000,000+",
       "rating": 4.5,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "com.matteljv.uno",
+      "app_name": "UNO!™",
+      "developer": "Mattel Game Studios HK Limited",
+      "icon_url": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
+      "installs": "100,000,000+",
+      "rating": 4.3,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
@@ -130,8 +130,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -166,8 +166,8 @@
       "installs": "50,000,000+",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,7 +190,7 @@
       "installs": "50,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
