@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 20450666,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2783027,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -114,7 +114,7 @@
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/da/19/ccda19ad-fdfb-79d4-badc-02f4d2fab23c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/27/55/6727554c-ae64-7306-fe1e-80ec77d85e42/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
       "rating_count": 1791049,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "6748084174",
-      "app_name": "Smash Fest!",
-      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/4b/9b/1d4b9b41-f0b1-b709-220f-cb4d3d51d10c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 561012,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "6475757306",
       "app_name": "Disney Solitaire",
       "developer": "SuperPlay",
@@ -214,8 +202,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 748428,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "6748084174",
+      "app_name": "Smash Fest!",
+      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/4b/9b/1d4b9b41-f0b1-b709-220f-cb4d3d51d10c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 561012,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 210844,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]

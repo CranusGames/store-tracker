@@ -10,8 +10,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 349626,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 578746,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 77073,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/43/5d/b8435d95-8bbe-9b14-bacc-6b8bbd2808b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 241927,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade Sports & Events",
       "developer": "KalshiEX LLC",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 631383,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/43/5d/b8435d95-8bbe-9b14-bacc-6b8bbd2808b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 241927,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/53/9e/fb539e09-8f98-9b9e-0d13-c19c2373ff2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1124963,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -130,8 +118,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2325462,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/53/9e/fb539e09-8f98-9b9e-0d13-c19c2373ff2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1124963,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -147,6 +147,18 @@
     },
     {
       "rank": 13,
+      "app_id": "1636235979",
+      "app_name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 514109,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 14,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -154,20 +166,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2372041,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
-      "app_id": "368677368",
-      "app_name": "Uber - Rides, Eats, Hotels",
-      "developer": "Uber Technologies, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/28/46/e12846e9-d8b5-a073-7e36-e9d5335f8f6d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 17132315,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -178,35 +178,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7424333,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 16,
-      "app_id": "1636235979",
-      "app_name": "ReelShort - Stream Drama & TV",
-      "developer": "NewLeaf Publishing",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 514109,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 17,
-      "app_id": "6746049430",
-      "app_name": "FOX One: Live News, Sports, TV",
-      "developer": "Fox Digital Services, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/82/db/6082db62-fc2b-858e-2a49-89781f4d0a42/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 108651,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "app_id": "6761538521",
       "app_name": "StoryReel: Drama Shorts & TV",
       "developer": "Equinox Enterprises‌ Technology Limited",
@@ -214,7 +190,31 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 53804,
-      "change": "=",
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "368677368",
+      "app_name": "Uber - Rides, Eats, Hotels",
+      "developer": "Uber Technologies, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/28/46/e12846e9-d8b5-a073-7e36-e9d5335f8f6d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 17132315,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 18,
+      "app_id": "6768593043",
+      "app_name": "BlinkDrama - Short Dramas",
+      "developer": "Atlas Ventures Culture & Technology Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/1d/38/141d38dc-d178-8426-3fb5-d66f82295d01/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 24591,
+      "change": "new",
       "change_val": 0
     },
     {
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5270394,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "719972451",
-      "app_name": "DoorDash: Food, Grocery, More",
-      "developer": "DoorDash, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/ee/76/e5ee76b4-1ff0-4982-4802-797a3aefc280/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/7c/4a/577c4a80-1f4b-acfc-da17-06af4ada18c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 23478115,
-      "change": "-3",
-      "change_val": -3
+      "rating": 4.7,
+      "rating_count": 2242229,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
