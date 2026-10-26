@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 77635,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 357642,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -75,18 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "922103212",
-      "app_name": "McDonald's",
-      "developer": "McDonald's USA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 7884344,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -94,20 +82,32 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 91141,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/00/7c/eb007c0a-a26e-eb3e-9f89-cb1c37049237/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 287017,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 9,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/53/9e/fb539e09-8f98-9b9e-0d13-c19c2373ff2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "922103212",
+      "app_name": "McDonald's",
+      "developer": "McDonald's USA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 1125042,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.8,
+      "rating_count": 7884344,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 10,
@@ -123,30 +123,18 @@
     },
     {
       "rank": 11,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/00/7c/eb007c0a-a26e-eb3e-9f89-cb1c37049237/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/53/9e/fb539e09-8f98-9b9e-0d13-c19c2373ff2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 287017,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 1125042,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 12,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/43/5d/b8435d95-8bbe-9b14-bacc-6b8bbd2808b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 242906,
-      "change": "+5",
-      "change_val": 5
-    },
-    {
-      "rank": 13,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -154,23 +142,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2374394,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/e6/8e/10e68e33-386d-389e-f80d-847446271908/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 5274629,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/43/5d/b8435d95-8bbe-9b14-bacc-6b8bbd2808b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 242906,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 14,
       "app_id": "1636235979",
       "app_name": "ReelShort - Stream Drama & TV",
       "developer": "NewLeaf Publishing",
@@ -178,35 +166,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 514704,
-      "change": "-3",
-      "change_val": -3
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
-      "app_id": "1605170923",
-      "app_name": "GoWish - Your Digital Wishlist",
-      "developer": "Onskeskyen ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/00/73/670073f0-73fc-bc8f-3858-8e8f787e4652/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 198945,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/33/74/99337468-d03a-5efc-d436-67c0f4d918e1/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18406683,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 18,
+      "rank": 15,
       "app_id": "6761538521",
       "app_name": "StoryReel: Drama Shorts & TV",
       "developer": "Equinox Enterprises‌ Technology Limited",
@@ -214,30 +178,66 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 54225,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 16,
+      "app_id": "1605170923",
+      "app_name": "GoWish - Your Digital Wishlist",
+      "developer": "Onskeskyen ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/17/68/ae176857-8330-1480-ebf6-3b8a54299878/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 198945,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/e6/8e/10e68e33-386d-389e-f80d-847446271908/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 5274629,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 18,
+      "app_id": "6768593043",
+      "app_name": "BlinkDrama - Short Dramas",
+      "developer": "Atlas Ventures Culture & Technology Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/1d/38/141d38dc-d178-8426-3fb5-d66f82295d01/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 25017,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "338137227",
-      "app_name": "Walmart: Shopping & Savings",
-      "developer": "Walmart",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/e6/0f/7ce60f3f-57e5-dcb9-ccd8-3f6504f02ec9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/97/0c/b2970ce9-291e-e0b5-c45f-b53c92bca016/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 18819190,
+      "rating_count": 1059174,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "389801252",
-      "app_name": "Instagram",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/2d/b1/012db1a7-249a-86e8-f025-72491c2a6475/Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1641486558",
+      "app_name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/b7/9f/78b79f32-7b85-a086-cfdc-1f988d5b5bb8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 29638902,
+      "rating_count": 2242839,
       "change": "new",
       "change_val": 0
     }
