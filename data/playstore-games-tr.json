@@ -70,23 +70,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
-      "app_id": "com.imangi.templerun2",
-      "app_name": "Temple Run 2",
-      "developer": "Imangi Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
-      "installs": "1,000,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 8,
       "app_id": "com.ludo.king",
       "app_name": "Ludo King®",
       "developer": "Gametion",
@@ -98,6 +86,18 @@
       "change_val": 1
     },
     {
+      "rank": 8,
+      "app_id": "com.imangi.templerun2",
+      "app_name": "Temple Run 2",
+      "developer": "Imangi Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0",
+      "installs": "1,000,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 9,
       "app_id": "com.media720.games2020",
       "app_name": "Offline Games: No WiFi - FunOn",
@@ -106,8 +106,8 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,7 +118,7 @@
       "installs": "100,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -142,8 +142,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,23 +178,11 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 16,
-      "app_id": "com.ea.gp.fifamobile",
-      "app_name": "EA SPORTS FC Soccer Mobile 27",
-      "developer": "ELECTRONIC ARTS",
-      "icon_url": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
-      "installs": "500,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
       "app_name": "Kids Games: For Toddlers 3-5",
       "developer": "RV AppStudios",
@@ -202,8 +190,20 @@
       "installs": "50,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "com.ea.gp.fifamobile",
+      "app_name": "EA SPORTS FC Soccer Mobile 27",
+      "developer": "ELECTRONIC ARTS",
+      "icon_url": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
+      "installs": "500,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "100,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,17 +226,17 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "jp.konami.pesam",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
-      "installs": "100,000,000+",
-      "rating": 4.4,
+      "app_id": "solitaire.patience.card.games.klondike.free",
+      "app_name": "Solitaire - Classic Card Games",
+      "developer": "Guru Puzzle Game",
+      "icon_url": "https://play-lh.googleusercontent.com/nVTU-EbcHkMg-KXt93shtsgX506v_zDBLG04H2pnp4Lom2J_mSp5gHO5YtZhCSpDpLJUgBYneCd5h6oDduKJ6Q",
+      "installs": "50,000,000+",
+      "rating": 4.9,
       "rating_count": 0,
       "change": "new",
       "change_val": 0

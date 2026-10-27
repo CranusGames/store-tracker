@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 368488,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 11669897,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 11238040,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,23 +70,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 608341,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 7,
-      "app_id": "6767364919",
-      "app_name": "Trump Accounts: Official App",
-      "developer": "U.S. Department of the Treasury",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/61/dc/1361dcfc-3281-b0eb-f57f-607586f342e0/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 28044,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
@@ -94,23 +82,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 287880,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6767364919",
+      "app_name": "Trump Accounts: Official App",
+      "developer": "U.S. Department of the Treasury",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/61/dc/1361dcfc-3281-b0eb-f57f-607586f342e0/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 28044,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
-      "app_id": "1632713844",
-      "app_name": "Kalshi: Trade Sports & Events",
-      "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/14/a9/0214a93a-da9c-5f66-7a8e-ea9466ad5836/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 640288,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -118,8 +106,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 94220,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "1632713844",
+      "app_name": "Kalshi: Trade Sports & Events",
+      "developer": "KalshiEX LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/14/a9/0214a93a-da9c-5f66-7a8e-ea9466ad5836/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 640288,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2329804,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,20 +142,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2377359,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/53/9e/fb539e09-8f98-9b9e-0d13-c19c2373ff2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/d8/5b/31d85b5d-7785-5789-df84-1b052afd2e43/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
       "rating_count": 1125151,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 7884397,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -183,30 +183,18 @@
     },
     {
       "rank": 16,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/97/0c/b2970ce9-291e-e0b5-c45f-b53c92bca016/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "6823260015",
+      "app_name": "دربونة - تطبيق الملاحة العراقي",
+      "developer": "HAQIBAT ELMOMEN",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/d8/62/15d862f8-7873-303f-ab21-4db1334409c7/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 1060677,
+      "rating": 4.3,
+      "rating_count": 33,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "1662982304",
-      "app_name": "Partiful: Party Invite Maker",
-      "developer": "Partiful",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/7a/27/367a27d7-f8e9-88d0-0e3f-f98a44dac2c7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 5.0,
-      "rating_count": 277795,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "1636235979",
       "app_name": "ReelShort - Stream Drama & TV",
       "developer": "NewLeaf Publishing",
@@ -214,11 +202,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 515661,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 19,
+      "rank": 18,
       "app_id": "6761538521",
       "app_name": "StoryReel: Drama Shorts & TV",
       "developer": "Equinox Enterprises‌ Technology Limited",
@@ -230,15 +218,27 @@
       "change_val": 1
     },
     {
+      "rank": 19,
+      "app_id": "333903271",
+      "app_name": "X",
+      "developer": "X Corp.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/60/61/5660612b-d28d-d172-0b07-38d21fbe4db4/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 11142233,
+      "change": "new",
+      "change_val": 0
+    },
+    {
       "rank": 20,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/b7/9f/78b79f32-7b85-a086-cfdc-1f988d5b5bb8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/40/96/46409649-8a79-6247-7b01-9257b4b10192/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 2243597,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
