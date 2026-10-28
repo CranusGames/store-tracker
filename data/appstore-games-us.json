@@ -10,7 +10,7 @@
       "installs": "",
       "rating": 0,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -21,9 +21,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/6c/e6/e36ce6bc-bd13-4658-d15e-c31347de4563/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 380449,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 382148,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -33,9 +33,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/1b/1d/911b1df9-6703-2b81-aa3c-16b38a18c494/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 333451,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 334512,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -45,9 +45,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/13/98/281398d0-ffa8-152d-0e1f-c1f2d35adaf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 708039,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 709166,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -57,9 +57,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/e0/ce/1ae0cecb-2d8b-a8fb-7782-42ce46ee8202/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 12761,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 13001,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -69,120 +69,84 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/82/4a/fd824a27-46ed-eb18-6716-dba2436000df/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 65211,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 7,
-      "app_id": "6760325543",
-      "app_name": "CubeAway - 3DPuzzle",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/c7/7b/51c77bcc-fa99-7bd6-aab0-9df976598ced/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 138582,
+      "rating_count": 66247,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/a9/19/baa9198e-fc78-56ed-fdea-e35728062a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 2793443,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 2794791,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6760325543",
+      "app_name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/c7/7b/51c77bcc-fa99-7bd6-aab0-9df976598ced/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 139154,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
-      "app_id": "6746743297",
-      "app_name": "Bus Fever Party!",
-      "developer": "Lumi Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/01/88/210188d3-eb83-2adb-ce54-3d843c9f9f3a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 21526,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 10,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/a9/1f/9aa91f3a-25df-c3cc-c168-f764d69021f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 1796334,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 11,
-      "app_id": "6779167923",
-      "app_name": "Colony Flow!",
-      "developer": "ABI GLOBAL LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/12/c7/b012c763-4dca-924e-e7e8-f9718529cae2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 39445,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/d3/7e/4dd37e0f-350f-535c-84c6-5ed8019c7f7c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 20483807,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 20486513,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 10,
+      "app_id": "6746743297",
+      "app_name": "Bus Fever Party!",
+      "developer": "Lumi Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/01/88/210188d3-eb83-2adb-ce54-3d843c9f9f3a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 21751,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 11,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/a9/1f/9aa91f3a-25df-c3cc-c168-f764d69021f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 1797419,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 12,
+      "app_id": "6779167923",
+      "app_name": "Colony Flow!",
+      "developer": "ABI GLOBAL LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/12/c7/b012c763-4dca-924e-e7e8-f9718529cae2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 39662,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 84266,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 14,
-      "app_id": "6756482832",
-      "app_name": "Brain Puzzle 3: Crazy Mind",
-      "developer": "SmallStep Dev Team",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/10/47/d910471a-6dab-f930-9001-3d451d121904/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 27070,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 15,
-      "app_id": "638689075",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/4a/4f/104a4fc2-250c-15a1-23a4-4366a2ce4449/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 2223161,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 16,
       "app_id": "6758332966",
       "app_name": "BLEACH Mirrors High",
       "developer": "Bandai Namco Entertainment Inc.",
@@ -190,20 +154,56 @@
       "installs": "",
       "rating": 0,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 14,
+      "app_id": "638689075",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3c/77/833c7735-48b5-c3b5-bca3-32e438c977e1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 2223513,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 84508,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
+      "app_id": "6756482832",
+      "app_name": "Brain Puzzle 3: Crazy Mind",
+      "developer": "SmallStep Dev Team",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/10/47/d910471a-6dab-f930-9001-3d451d121904/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 27192,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 17,
       "app_id": "329218549",
       "app_name": "Chess.com - Play and Learn",
       "developer": "Chess.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/a1/f9/30a1f9ea-2fa2-3e6f-5290-87123acbc065/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/b8/e0/91b8e01b-bf34-8031-4c01-e38170ea7211/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 858141,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 858821,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -213,9 +213,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/42/32/424232fe-86e4-fbd1-5cf6-83cb5cdd2fe0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 247866,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 248492,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -225,9 +225,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/9e/a8/529ea85d-b184-c831-9c51-f5d1a6274a9e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 46452,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 47166,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -237,9 +237,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/2d/70/b82d7015-4dda-7ffe-5227-0d96828ccdf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 753339,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 754139,
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
