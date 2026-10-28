@@ -3,6 +3,18 @@
   "rankings": [
     {
       "rank": 1,
+      "app_id": "6444520814",
+      "app_name": "Monster Hunter Outlanders",
+      "developer": "Level Infinite",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/73/e0/0073e0c8-a9e4-1956-8966-f83a136ee71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 0,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 2,
       "app_id": "6761760135",
       "app_name": "Meowdoku!",
       "developer": "Oakever Games",
@@ -10,11 +22,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 380449,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 2,
+      "rank": 3,
       "app_id": "6752672568",
       "app_name": "Block Out! - Color Sort Puzzle",
       "developer": "Grand Games A.Ş.",
@@ -22,11 +34,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 333451,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 3,
+      "rank": 4,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -34,11 +46,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 708039,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "app_id": "6757140488",
       "app_name": "Sand Blocks: Drop Puzzle",
       "developer": "Rollic Games",
@@ -46,11 +58,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 12761,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 5,
+      "rank": 6,
       "app_id": "6793924927",
       "app_name": "Rotate Rings",
       "developer": "Nebula Studio",
@@ -58,20 +70,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 65211,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
-      "app_id": "1617391485",
-      "app_name": "Block Blast！",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/a9/19/baa9198e-fc78-56ed-fdea-e35728062a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 2793443,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
@@ -87,6 +87,18 @@
     },
     {
       "rank": 8,
+      "app_id": "1617391485",
+      "app_name": "Block Blast！",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/a9/19/baa9198e-fc78-56ed-fdea-e35728062a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 2793443,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 9,
       "app_id": "6746743297",
       "app_name": "Bus Fever Party!",
       "developer": "Lumi Games",
@@ -94,11 +106,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 21526,
-      "change": "+2",
-      "change_val": 2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -106,11 +118,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1796334,
-      "change": "+3",
-      "change_val": 3
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "app_id": "6779167923",
+      "app_name": "Colony Flow!",
+      "developer": "ABI GLOBAL LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/12/c7/b012c763-4dca-924e-e7e8-f9718529cae2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 39445,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 12,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -118,47 +142,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 20483807,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 11,
-      "app_id": "6779167923",
-      "app_name": "Colony Flow!",
-      "developer": "ABI GLOBAL LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/44/f5/8744f5f8-d9c9-4b0d-2fe1-e6d1e2508a2c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 39445,
       "change": "-2",
       "change_val": -2
     },
     {
-      "rank": 12,
-      "app_id": "6756482832",
-      "app_name": "Brain Puzzle 3: Crazy Mind",
-      "developer": "SmallStep Dev Team",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/10/47/d910471a-6dab-f930-9001-3d451d121904/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 27070,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
       "rank": 13,
-      "app_id": "638689075",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/4a/4f/104a4fc2-250c-15a1-23a4-4366a2ce4449/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 2223161,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 14,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -170,7 +158,31 @@
       "change_val": 1
     },
     {
+      "rank": 14,
+      "app_id": "6756482832",
+      "app_name": "Brain Puzzle 3: Crazy Mind",
+      "developer": "SmallStep Dev Team",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/10/47/d910471a-6dab-f930-9001-3d451d121904/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 27070,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
       "rank": 15,
+      "app_id": "638689075",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/4a/4f/104a4fc2-250c-15a1-23a4-4366a2ce4449/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 2223161,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
       "app_id": "6758332966",
       "app_name": "BLEACH Mirrors High",
       "developer": "Bandai Namco Entertainment Inc.",
@@ -178,11 +190,11 @@
       "installs": "",
       "rating": 0,
       "rating_count": 0,
-      "change": "-7",
-      "change_val": -7
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 16,
+      "rank": 17,
       "app_id": "329218549",
       "app_name": "Chess.com - Play and Learn",
       "developer": "Chess.com",
@@ -190,11 +202,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 858141,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "app_id": "6758326278",
       "app_name": "Amaze GO!™",
       "developer": "Oakever Games",
@@ -202,11 +214,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 247866,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 18,
+      "rank": 19,
       "app_id": "6783815362",
       "app_name": "Word Tiles - Relaxing Puzzle",
       "developer": "Agave Games",
@@ -214,11 +226,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 46452,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 19,
+      "rank": 20,
       "app_id": "6475757306",
       "app_name": "Disney Solitaire",
       "developer": "SuperPlay",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 753339,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 20,
-      "app_id": "6754464806",
-      "app_name": "Car Evolve",
-      "developer": "Heseri Games Inc",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/db/02/e0db02b3-49d6-e031-3233-1ce83f7e46ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 11672,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }

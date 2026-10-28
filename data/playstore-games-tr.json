@@ -70,8 +70,8 @@
       "installs": "1,000,000,000+",
       "rating": 3.3,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,35 +130,11 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "com.kiloo.subwaysurf",
-      "app_name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "icon_url": "https://play-lh.googleusercontent.com/G1eIJ3yor1yW20izrYjOfCzHgVkRtewlfPFG9CEFTHzSI2m0Lwds_Y1xYgeg21CFok_UXrol-ox2IwqL4JMrLQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 13,
-      "app_id": "com.dreamgames.royalmatch",
-      "app_name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/YH_Xv6Hr-jrex3V_HcLqbaUTO_Upfa6UHHB5nX7YGRis8MneU563WbdGQ--KiQ2sSYfZsqpkeDsY7umYXNDOEw",
-      "installs": "100,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 14,
       "app_id": "com.ea.gp.fifamobile",
       "app_name": "EA SPORTS FC Soccer Mobile 27",
       "developer": "ELECTRONIC ARTS",
@@ -170,6 +146,30 @@
       "change_val": 2
     },
     {
+      "rank": 13,
+      "app_id": "com.kiloo.subwaysurf",
+      "app_name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "icon_url": "https://play-lh.googleusercontent.com/G1eIJ3yor1yW20izrYjOfCzHgVkRtewlfPFG9CEFTHzSI2m0Lwds_Y1xYgeg21CFok_UXrol-ox2IwqL4JMrLQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 14,
+      "app_id": "com.dreamgames.royalmatch",
+      "app_name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/YH_Xv6Hr-jrex3V_HcLqbaUTO_Upfa6UHHB5nX7YGRis8MneU563WbdGQ--KiQ2sSYfZsqpkeDsY7umYXNDOEw",
+      "installs": "100,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 15,
       "app_id": "com.topfreegames.bikeracefreeworld",
       "app_name": "Bike Race：Motorcycle Games",
@@ -178,23 +178,11 @@
       "installs": "100,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 16,
-      "app_id": "bubbleshooter.orig",
-      "app_name": "Bubble Shooter - Classic Pop",
-      "developer": "Bubble Shooter",
-      "icon_url": "https://play-lh.googleusercontent.com/AyPKDJx_IvwDoatX91zVX1Hl9e1xtUHOYeQh4cXKBhB-Npascc9Y7Bw5gv3wNoqRL8KBfnloU9o1Y9dDGXYVpFs",
-      "installs": "500,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "com.firsttouchgames.dls7",
       "app_name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -206,6 +194,18 @@
       "change_val": 1
     },
     {
+      "rank": 17,
+      "app_id": "bubbleshooter.orig",
+      "app_name": "Bubble Shooter - Classic Pop",
+      "developer": "Bubble Shooter",
+      "icon_url": "https://play-lh.googleusercontent.com/AyPKDJx_IvwDoatX91zVX1Hl9e1xtUHOYeQh4cXKBhB-Npascc9Y7Bw5gv3wNoqRL8KBfnloU9o1Y9dDGXYVpFs",
+      "installs": "500,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 18,
       "app_id": "jp.konami.pesam",
       "app_name": "eFootball™",
@@ -214,7 +214,7 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -226,8 +226,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "500,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
