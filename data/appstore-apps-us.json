@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "rankings": [
     {
       "rank": 1,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2381499,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,11 +94,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 97258,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
+      "app_id": "1632713844",
+      "app_name": "Kalshi: Trade Sports & Events",
+      "developer": "KalshiEX LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/07/49/97074906-8ba2-bd9c-d9ba-c4cbe67f0372/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 643475,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -106,20 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2333128,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "1632713844",
-      "app_name": "Kalshi: Trade Sports & Events",
-      "developer": "KalshiEX LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/14/a9/0214a93a-da9c-5f66-7a8e-ea9466ad5836/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 643475,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -130,20 +130,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 7884526,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "6823260015",
-      "app_name": "دربونة - تطبيق الملاحة العراقي",
-      "developer": "HAQIBAT ELMOMEN",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/d8/62/15d862f8-7873-303f-ab21-4db1334409c7/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/75/48/14754808-d06b-705b-0e4c-d2bd6865d697/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
       "installs": "",
-      "rating": 4.3,
-      "rating_count": 202,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.7,
+      "rating_count": 717965,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 13,
@@ -154,47 +154,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1125279,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/75/48/14754808-d06b-705b-0e4c-d2bd6865d697/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 717965,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 15,
-      "app_id": "6767364919",
-      "app_name": "Trump Accounts: Official App",
-      "developer": "U.S. Department of the Treasury",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/0e/aa/fc0eaac4-52ad-54e6-8c4c-f8f60988c206/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 28727,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 16,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/e6/8e/10e68e33-386d-389e-f80d-847446271908/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 5287038,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 17,
+      "rank": 14,
       "app_id": "1113153706",
       "app_name": "Microsoft Teams",
       "developer": "Microsoft Corporation",
@@ -202,23 +166,47 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3382121,
-      "change": "new",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 15,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/e6/8e/10e68e33-386d-389e-f80d-847446271908/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 5287038,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6823260015",
+      "app_name": "دربونة - تطبيق الملاحة العراقي",
+      "developer": "HAQIBAT ELMOMEN",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/d8/62/15d862f8-7873-303f-ab21-4db1334409c7/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 202,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 17,
+      "app_id": "6767364919",
+      "app_name": "Trump Accounts: Official App",
+      "developer": "U.S. Department of the Treasury",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/0e/aa/fc0eaac4-52ad-54e6-8c4c-f8f60988c206/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 28727,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
-      "app_id": "6761538521",
-      "app_name": "StoryReel: Drama Shorts & TV",
-      "developer": "Equinox Enterprises‌ Technology Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/ad/08/4ead0834-1232-dce0-9b05-11e87b18a2d3/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 55373,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 19,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -226,7 +214,19 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2449303,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "338137227",
+      "app_name": "Walmart: Shopping & Savings",
+      "developer": "Walmart",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/34/8f/dc348f88-8cf7-9dc3-1c19-7d26bd8f2595/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 18847060,
+      "change": "new",
       "change_val": 0
     },
     {
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2244680,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
