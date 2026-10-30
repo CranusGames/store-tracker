@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 15322,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -70,11 +70,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 47758,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/2d/27/722d272a-9d6f-d186-8a92-6a884107df8f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1203159,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
       "app_id": "6745820631",
       "app_name": "Shots: Photo & Video Generator",
       "developer": "DeePix AI",
@@ -84,18 +96,6 @@
       "rating_count": 2993,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 8,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/2d/27/722d272a-9d6f-d186-8a92-6a884107df8f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1203159,
-      "change": "-4",
-      "change_val": -4
     },
     {
       "rank": 9,
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "1636235979",
-      "app_name": "ReelShort - Stream Drama & TV",
-      "developer": "NewLeaf Publishing",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 21719,
-      "change": "+8",
-      "change_val": 8
-    },
-    {
-      "rank": 11,
       "app_id": "6780867301",
       "app_name": "Bildirio",
       "developer": "URYEN UGUR KEM",
@@ -130,8 +118,20 @@
       "installs": "",
       "rating": 2.1,
       "rating_count": 319,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "1636235979",
+      "app_name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 21719,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 8845,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,47 +154,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 381221,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
-      "app_id": "6754755473",
-      "app_name": "Reverse Audio: Sing Fun",
-      "developer": "VarMeta",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/bb/ae/86bbae2d-6e41-e649-49b0-ac3fa3835d70/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.1,
-      "rating_count": 1356,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 15,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/76/ce/f876ce27-b7c2-e674-5c9d-8d0fcb041673/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 176123,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 16,
-      "app_id": "6800211040",
-      "app_name": "CarTV - M3U IPTV Player & Cast",
-      "developer": "Lyntra Technology Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/3e/0e/5b3e0edf-cb0a-3741-964c-6f30cab1e295/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 2718,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
+      "rank": 14,
       "app_id": "6463031298",
       "app_name": "Trendyol Go: Food & Groceries",
       "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
@@ -202,23 +166,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445545,
-      "change": "-6",
-      "change_val": -6
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 18,
-      "app_id": "6736946513",
-      "app_name": "MEBİ",
-      "developer": "Ortaogretim Genel Mudurlugu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/97/ae/b697ae72-98e3-d3c8-18e5-8f347ce212e9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 2942,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 19,
+      "rank": 15,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -226,18 +178,66 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9703,
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 16,
+      "app_id": "6754755473",
+      "app_name": "Reverse Audio: Sing Fun",
+      "developer": "VarMeta",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/bb/ae/86bbae2d-6e41-e649-49b0-ac3fa3835d70/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 1356,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/76/ce/f876ce27-b7c2-e674-5c9d-8d0fcb041673/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 176123,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 18,
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/c2/c7/a1c2c7f2-087d-3da1-923a-92a533eb32a6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1918741,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
+      "app_id": "1511527605",
+      "app_name": "Museums of Türkiye - Official",
+      "developer": "T. C. Kültür ve Turizm Bakanlığı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/00/a0/c200a066-031e-a8b4-8f1d-f49d2d41c050/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 85399,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "1451805015",
-      "app_name": "ÖSYM Aday İşlemleri Sistemi",
-      "developer": "Olcme Secme ve Yerlestirme Merkezi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/9c/9c/e69c9c77-bc26-5e1a-9c3c-5afa4c6cdf95/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 1.4,
-      "rating_count": 6565,
+      "rating": 4.7,
+      "rating_count": 548022,
       "change": "new",
       "change_val": 0
     }

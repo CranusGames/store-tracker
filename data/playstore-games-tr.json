@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "com.ea.gp.fifamobile",
-      "app_name": "EA SPORTS FC Soccer Mobile 27",
-      "developer": "ELECTRONIC ARTS",
-      "icon_url": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
-      "installs": "500,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
       "app_id": "com.miniclip.eightballpool",
       "app_name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -118,8 +106,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "com.ea.gp.fifamobile",
+      "app_name": "EA SPORTS FC Soccer Mobile 27",
+      "developer": "ELECTRONIC ARTS",
+      "icon_url": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
+      "installs": "500,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -178,8 +178,8 @@
       "installs": "100,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,

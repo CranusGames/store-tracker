@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "1617391485",
-      "app_name": "Block Blast!",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/a9/19/baa9198e-fc78-56ed-fdea-e35728062a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 100797,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "1105855019",
       "app_name": "Gardenscapes",
       "developer": "Playrix",
@@ -46,11 +34,35 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 154806,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "1617391485",
+      "app_name": "Block Blast!",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/a9/19/baa9198e-fc78-56ed-fdea-e35728062a4d/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 100797,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
+      "app_id": "6742809194",
+      "app_name": "Warline: Sniper Strike",
+      "developer": "Powerfantasy",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/5b/d6/a75bd655-da6d-12ff-3d0d-02a1bfcbd5a4/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 2473,
+      "change": "+10",
+      "change_val": 10
+    },
+    {
+      "rank": 6,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -58,11 +70,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1936588,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "app_id": "6443575749",
       "app_name": "Whiteout Survival",
       "developer": "Century Games Pte. Ltd.",
@@ -70,35 +82,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 48393,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 7,
-      "app_id": "6746743297",
-      "app_name": "Bus Fever Party!",
-      "developer": "Lumi Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/01/88/210188d3-eb83-2adb-ce54-3d843c9f9f3a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 1949,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
-      "app_id": "6816267506",
-      "app_name": "Projeto Grau 2",
-      "developer": "Anderson Mateus de Lima",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/fd/e0/6afde0e3-d12e-a9aa-b4b6-29e6f2a612bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 15,
-      "change": "+6",
-      "change_val": 6
-    },
-    {
-      "rank": 9,
       "app_id": "6767834940",
       "app_name": "Top Lords",
       "developer": "GAME SPARK PTE. LTD.",
@@ -106,47 +94,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1436,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 10,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 696416,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 11,
-      "app_id": "6748084174",
-      "app_name": "Smash Fest!",
-      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/4b/9b/1d4b9b41-f0b1-b709-220f-cb4d3d51d10c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 16073,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 12,
-      "app_id": "512939461",
-      "app_name": "Subway Surfers",
-      "developer": "Sybo Games ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/2c/63/f92c63f0-bfc0-150b-d5e5-a8fed31cb934/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 345189,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 13,
+      "rank": 9,
       "app_id": "1636072966",
       "app_name": "Mini Soccer Star 2027",
       "developer": "VIVA GAMES S.L.",
@@ -158,31 +110,43 @@
       "change_val": 4
     },
     {
-      "rank": 14,
-      "app_id": "638689075",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3c/77/833c7735-48b5-c3b5-bca3-32e438c977e1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rank": 10,
+      "app_id": "6748084174",
+      "app_name": "Smash Fest!",
+      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/4b/9b/1d4b9b41-f0b1-b709-220f-cb4d3d51d10c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 122924,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.5,
+      "rating_count": 16073,
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
-      "app_id": "6742809194",
-      "app_name": "Warline: Sniper Strike",
-      "developer": "Powerfantasy",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/5b/d6/a75bd655-da6d-12ff-3d0d-02a1bfcbd5a4/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rank": 11,
+      "app_id": "6816267506",
+      "app_name": "Projeto Grau 2",
+      "developer": "Anderson Mateus de Lima",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/fd/e0/6afde0e3-d12e-a9aa-b4b6-29e6f2a612bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 2473,
-      "change": "+5",
-      "change_val": 5
+      "rating": 3.9,
+      "rating_count": 15,
+      "change": "-3",
+      "change_val": -3
     },
     {
-      "rank": 16,
+      "rank": 12,
+      "app_id": "6746743297",
+      "app_name": "Bus Fever Party!",
+      "developer": "Lumi Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/01/88/210188d3-eb83-2adb-ce54-3d843c9f9f3a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 1949,
+      "change": "-5",
+      "change_val": -5
+    },
+    {
+      "rank": 13,
       "app_id": "6744975195",
       "app_name": "Sled Surfers",
       "developer": "Crazy Labs",
@@ -190,8 +154,44 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 3192,
-      "change": "new",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 14,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 696416,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 15,
+      "app_id": "512939461",
+      "app_name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/2c/63/f92c63f0-bfc0-150b-d5e5-a8fed31cb934/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 345189,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 16,
+      "app_id": "638689075",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3c/77/833c7735-48b5-c3b5-bca3-32e438c977e1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 122924,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 17,
@@ -202,35 +202,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 272566,
-      "change": "-5",
-      "change_val": -5
-    },
-    {
-      "rank": 18,
-      "app_id": "1369521645",
-      "app_name": "Words of Wonders: Crossword",
-      "developer": "FUGO BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/68/dc/5968dccf-34ef-f61d-81fd-682c57dd4d6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 597540,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 19,
-      "app_id": "6752886832",
-      "app_name": "Hotel Legacy: Merge Game",
-      "developer": "Century Games Innovation Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/59/25/aa59252f-f756-7f98-3ee4-b4a93727f641/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.0,
-      "rating_count": 2260,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
-      "rank": 20,
+      "rank": 18,
       "app_id": "1606549505",
       "app_name": "Royal Kingdom",
       "developer": "Dream Games",
@@ -238,8 +214,32 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 44497,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "1345968745",
+      "app_name": "Helix Jump",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/21/9f/c8219f06-a80e-3264-9312-bf96a5f66fb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 118453,
       "change": "new",
       "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "6752886832",
+      "app_name": "Hotel Legacy: Merge Game",
+      "developer": "Century Games Innovation Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/59/25/aa59252f-f756-7f98-3ee4-b4a93727f641/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.0,
+      "rating_count": 2260,
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
