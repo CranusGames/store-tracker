@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "rankings": [
     {
       "rank": 1,
@@ -34,8 +34,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 3613,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -46,23 +46,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 154776,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 696292,
-      "change": "+5",
-      "change_val": 5
-    },
-    {
-      "rank": 6,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -70,23 +58,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1936498,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/98/24/6d9824dd-f75f-9bd6-221e-33324fedecb2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 696292,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 7,
-      "app_id": "6443575749",
-      "app_name": "Whiteout Survival",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/9e/98/e69e9840-fa2b-7b53-c7f9-75a75021de26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 48349,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 8,
       "app_id": "6746743297",
       "app_name": "Bus Fever Party!",
       "developer": "Lumi Games",
@@ -94,6 +82,18 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 1924,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/9e/98/e69e9840-fa2b-7b53-c7f9-75a75021de26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 48349,
       "change": "-1",
       "change_val": -1
     },
@@ -106,23 +106,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 15985,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "6767834940",
-      "app_name": "Top Lords",
-      "developer": "GAME SPARK PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/e9/e0/16e9e0f6-9cd0-5773-fc9e-676aea547021/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1414,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 11,
       "app_id": "512939461",
       "app_name": "Subway Surfers",
       "developer": "Sybo Games ApS",
@@ -130,23 +118,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 345086,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "1531842415",
-      "app_name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/27/98/24279835-6eaa-fc2e-5299-835f7330a791/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 20698,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 11,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -156,6 +132,30 @@
       "rating_count": 272452,
       "change": "+2",
       "change_val": 2
+    },
+    {
+      "rank": 12,
+      "app_id": "6767834940",
+      "app_name": "Top Lords",
+      "developer": "GAME SPARK PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/e9/e0/16e9e0f6-9cd0-5773-fc9e-676aea547021/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1414,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 13,
+      "app_id": "1531842415",
+      "app_name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/27/98/24279835-6eaa-fc2e-5299-835f7330a791/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 20698,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
@@ -178,47 +178,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 122892,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "1636072966",
-      "app_name": "Mini Soccer Star 2027",
-      "developer": "VIVA GAMES S.L.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/56/c2/c856c27d-78b8-31e5-cb61-62a1eed98c77/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 8019,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "1345968745",
-      "app_name": "Helix Jump",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/21/9f/c8219f06-a80e-3264-9312-bf96a5f66fb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 118448,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "6744975195",
-      "app_name": "Sled Surfers",
-      "developer": "Crazy Labs",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/76/93/94769325-1aed-458a-8168-57171696ca80/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 3177,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "1369521645",
       "app_name": "Words of Wonders: Crossword",
       "developer": "FUGO BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
@@ -226,20 +190,56 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 597420,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 17,
+      "app_id": "1636072966",
+      "app_name": "Mini Soccer Star 2027",
+      "developer": "VIVA GAMES S.L.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/56/c2/c856c27d-78b8-31e5-cb61-62a1eed98c77/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 8019,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 18,
+      "app_id": "1345968745",
+      "app_name": "Helix Jump",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/21/9f/c8219f06-a80e-3264-9312-bf96a5f66fb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 118448,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "6744975195",
+      "app_name": "Sled Surfers",
+      "developer": "Crazy Labs",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/76/93/94769325-1aed-458a-8168-57171696ca80/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 3177,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 20,
-      "app_id": "6742809194",
-      "app_name": "Warline: Sniper Strike",
-      "developer": "Powerfantasy",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/5b/d6/a75bd655-da6d-12ff-3d0d-02a1bfcbd5a4/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6816267506",
+      "app_name": "Projeto Grau 2",
+      "developer": "Anderson Mateus de Lima",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/fd/e0/6afde0e3-d12e-a9aa-b4b6-29e6f2a612bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 2454,
-      "change": "-1",
-      "change_val": -1
+      "rating": 3.9,
+      "rating_count": 14,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
