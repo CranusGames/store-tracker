@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "rankings": [
     {
       "rank": 1,
-      "app_id": "1644664646",
-      "app_name": "A101: Tek Uygulama",
-      "developer": "YENİ MAĞAZACILIK ANONİM ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/57/1e/1f571ee8-2c44-6757-b0dc-abb637af6068/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/ed/07/8ded072b-5d6f-4053-07fa-d24a00b5b72f/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 23240,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.4,
+      "rating_count": 76211,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 2,
@@ -22,20 +22,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 29348,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/ed/07/8ded072b-5d6f-4053-07fa-d24a00b5b72f/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1644664646",
+      "app_name": "A101: Tek Uygulama",
+      "developer": "YENİ MAĞAZACILIK ANONİM ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/57/1e/1f571ee8-2c44-6757-b0dc-abb637af6068/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.4,
-      "rating_count": 76211,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.5,
+      "rating_count": 23240,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 4,
@@ -51,18 +51,6 @@
     },
     {
       "rank": 5,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/33/1b/63331b32-bc24-fa24-d7e7-935cb16e6c34/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 468152,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
@@ -74,6 +62,18 @@
       "change_val": 1
     },
     {
+      "rank": 6,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/33/1b/63331b32-bc24-fa24-d7e7-935cb16e6c34/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 468152,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 7,
       "app_id": "6504849169",
       "app_name": "NetShort - Popular Dramas & TV",
@@ -82,20 +82,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 47892,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "6745820631",
-      "app_name": "Shots: Photo & Video Generator",
-      "developer": "DeePix AI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "app_id": "6754755473",
+      "app_name": "Reverse Audio: Sing Fun",
+      "developer": "VarMeta",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/bb/ae/86bbae2d-6e41-e649-49b0-ac3fa3835d70/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.0,
-      "rating_count": 3001,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.1,
+      "rating_count": 1395,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 9,
@@ -111,15 +111,15 @@
     },
     {
       "rank": 10,
-      "app_id": "6754755473",
-      "app_name": "Reverse Audio: Sing Fun",
-      "developer": "VarMeta",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/bb/ae/86bbae2d-6e41-e649-49b0-ac3fa3835d70/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "app_id": "6745820631",
+      "app_name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.1,
-      "rating_count": 1395,
-      "change": "+6",
-      "change_val": 6
+      "rating": 4.0,
+      "rating_count": 3001,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 11,
@@ -130,47 +130,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445550,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/7d/46/8e7d46b1-57f2-77eb-60e2-cd42c9563e45/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 8885,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/59/ac/1159acee-a4cc-e3f0-4cbf-3475797e68cb/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 381798,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
-      "app_id": "6780867301",
-      "app_name": "Bildirio",
-      "developer": "URYEN UGUR KEM",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/af/27/1daf27e5-b67a-894a-26e5-48820b72bb7c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 2.1,
-      "rating_count": 320,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 15,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -178,35 +142,35 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9705,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 16,
-      "app_id": "1636235979",
-      "app_name": "ReelShort - Stream Drama & TV",
-      "developer": "NewLeaf Publishing",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 21746,
-      "change": "-5",
-      "change_val": -5
-    },
-    {
-      "rank": 17,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/76/ce/f876ce27-b7c2-e674-5c9d-8d0fcb041673/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "rank": 13,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/7d/46/8e7d46b1-57f2-77eb-60e2-cd42c9563e45/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 176162,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 8885,
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 18,
+      "rank": 14,
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/59/ac/1159acee-a4cc-e3f0-4cbf-3475797e68cb/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 381798,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 15,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -214,11 +178,35 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918750,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 19,
+      "rank": 16,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/76/ce/f876ce27-b7c2-e674-5c9d-8d0fcb041673/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 176162,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "1636235979",
+      "app_name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 21746,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 18,
       "app_id": "6736946513",
       "app_name": "MEBİ",
       "developer": "Ortaogretim Genel Mudurlugu",
@@ -226,20 +214,32 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 2961,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/d8/5b/31d85b5d-7785-5789-df84-1b052afd2e43/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 94117,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "6780867301",
+      "app_name": "Bildirio",
+      "developer": "URYEN UGUR KEM",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/af/27/1daf27e5-b67a-894a-26e5-48820b72bb7c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 548019,
-      "change": "=",
-      "change_val": 0
+      "rating": 2.1,
+      "rating_count": 320,
+      "change": "-6",
+      "change_val": -6
     }
   ]
 }

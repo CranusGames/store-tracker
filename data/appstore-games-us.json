@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "rankings": [
     {
       "rank": 1,
@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "6444520814",
-      "app_name": "Monster Hunter Outlanders",
-      "developer": "Level Infinite",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/73/e0/0073e0c8-a9e4-1956-8966-f83a136ee71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1480,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
@@ -58,35 +46,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2800420,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
-      "app_id": "6757140488",
-      "app_name": "Sand Blocks: Drop Puzzle",
-      "developer": "Rollic Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/59/cb/c659cb87-b681-4be3-172d-569aec073029/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 14072,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
-      "app_id": "329218549",
-      "app_name": "Chess.com - Play and Learn",
-      "developer": "Chess.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/b8/e0/91b8e01b-bf34-8031-4c01-e38170ea7211/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 862284,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "app_id": "431946152",
       "app_name": "Roblox",
       "developer": "Roblox Corporation",
@@ -94,11 +58,35 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 20502843,
-      "change": "=",
-      "change_val": 0
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "app_id": "329218549",
+      "app_name": "Chess.com - Play and Learn",
+      "developer": "Chess.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/b8/e0/91b8e01b-bf34-8031-4c01-e38170ea7211/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 862284,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6444520814",
+      "app_name": "Monster Hunter Outlanders",
+      "developer": "Level Infinite",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/73/e0/0073e0c8-a9e4-1956-8966-f83a136ee71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1480,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 8,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -110,7 +98,31 @@
       "change_val": 1
     },
     {
+      "rank": 9,
+      "app_id": "6757140488",
+      "app_name": "Sand Blocks: Drop Puzzle",
+      "developer": "Rollic Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/59/cb/c659cb87-b681-4be3-172d-569aec073029/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 14072,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
       "rank": 10,
+      "app_id": "638689075",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3c/77/833c7735-48b5-c3b5-bca3-32e438c977e1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 2224934,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
       "app_id": "6793924927",
       "app_name": "Rotate Rings",
       "developer": "Nebula Studio",
@@ -122,28 +134,16 @@
       "change_val": -1
     },
     {
-      "rank": 11,
-      "app_id": "638689075",
-      "app_name": "Township",
-      "developer": "Playrix",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3c/77/833c7735-48b5-c3b5-bca3-32e438c977e1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 2224934,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 12,
-      "app_id": "6760325543",
-      "app_name": "CubeAway - 3DPuzzle",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/c7/7b/51c77bcc-fa99-7bd6-aab0-9df976598ced/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "app_id": "6758332966",
+      "app_name": "BLEACH Mirrors High",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/b1/15/c1b115d9-f48c-2ed2-24db-196de528bca6/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 141287,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.9,
+      "rating_count": 5435,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 13,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "6758332966",
-      "app_name": "BLEACH Mirrors High",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/b1/15/c1b115d9-f48c-2ed2-24db-196de528bca6/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 5435,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 15,
       "app_id": "6779167923",
       "app_name": "Colony Flow!",
       "developer": "ABI GLOBAL LTD.",
@@ -178,11 +166,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 40378,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "6758326278",
       "app_name": "Amaze GO!™",
       "developer": "Oakever Games",
@@ -190,8 +178,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 251958,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "6760325543",
+      "app_name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/c7/7b/51c77bcc-fa99-7bd6-aab0-9df976598ced/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 141287,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 17,
