@@ -18,7 +18,7 @@
       "app_id": "6760173601",
       "app_name": "Muse from Meta",
       "developer": "Meta Platforms, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/dd/8e/eddd8e47-3746-3872-91e0-e009f15d1354/HatchAppIconPublic-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/50/aa/5e50aa6f-edf9-9ef4-6519-e7515f562369/HatchAppIconPublic-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
       "rating_count": 411007,
@@ -63,18 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6754134922",
-      "app_name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/99/e7/6399e727-1be9-77fc-5b03-0710fe7a43ba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 104898,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 7,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade Sports & Events",
       "developer": "KalshiEX LLC",
@@ -82,8 +70,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 649828,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6754134922",
+      "app_name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/99/e7/6399e727-1be9-77fc-5b03-0710fe7a43ba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 104898,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 291552,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 197172,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 17174836,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/d8/5b/31d85b5d-7785-5789-df84-1b052afd2e43/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1125545,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "922103212",
       "app_name": "McDonald's",
       "developer": "McDonald's USA",
@@ -154,11 +142,35 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 7884193,
-      "change": "+4",
-      "change_val": 4
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/d8/5b/31d85b5d-7785-5789-df84-1b052afd2e43/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1125545,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
+      "app_id": "1662982304",
+      "app_name": "Partiful: Party Invite Maker",
+      "developer": "Partiful",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/00/73/bf0073a5-c890-c085-7944-6e8fc61a78c1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 5.0,
+      "rating_count": 281069,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -166,18 +178,6 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2339101,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 15,
-      "app_id": "1662982304",
-      "app_name": "Partiful: Party Invite Maker",
-      "developer": "Partiful",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/7a/27/367a27d7-f8e9-88d0-0e3f-f98a44dac2c7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 5.0,
-      "rating_count": 281069,
       "change": "-1",
       "change_val": -1
     },
@@ -190,8 +190,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 7433349,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 57568,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,11 +214,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 18875629,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 19,
+      "app_id": "1089294040",
+      "app_name": "Capital One Shopping: Save Now",
+      "developer": "Wikibuy, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/ad/88/ddad8826-e6be-3b1d-7e57-9418cc66d4ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 1712967,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "529379082",
       "app_name": "Lyft",
       "developer": "Lyft, Inc.",
@@ -228,18 +240,6 @@
       "rating_count": 17877475,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 20,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/43/5d/b8435d95-8bbe-9b14-bacc-6b8bbd2808b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 245839,
-      "change": "-7",
-      "change_val": -7
     }
   ]
 }
