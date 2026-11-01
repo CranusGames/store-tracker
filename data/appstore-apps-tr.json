@@ -3,18 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8d/18/458d18f9-abec-fc34-84ec-1db33fb58832/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 29604,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 2,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -22,23 +10,23 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 76698,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8d/18/458d18f9-abec-fc34-84ec-1db33fb58832/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 29604,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 3,
-      "app_id": "6504849169",
-      "app_name": "NetShort - Popular Dramas & TV",
-      "developer": "NETSTORY PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/0d/42/ef0d42c6-12b6-b9f6-3d9f-d95b91cd5627/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 48247,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 4,
       "app_id": "1644664646",
       "app_name": "A101: Tek Uygulama",
       "developer": "YENİ MAĞAZACILIK ANONİM ŞİRKETİ",
@@ -46,23 +34,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 23245,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/2d/27/722d272a-9d6f-d186-8a92-6a884107df8f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1209936,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 5,
-      "app_id": "6445905219",
-      "app_name": "DramaBox - Stream Drama Shorts",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1d/06/621d0653-5b14-893d-fba2-e13ea62cd120/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 13297,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 6,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -74,19 +62,19 @@
       "change_val": 1
     },
     {
-      "rank": 7,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/2d/27/722d272a-9d6f-d186-8a92-6a884107df8f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
+      "rank": 6,
+      "app_id": "6504849169",
+      "app_name": "NetShort - Popular Dramas & TV",
+      "developer": "NETSTORY PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/0d/42/ef0d42c6-12b6-b9f6-3d9f-d95b91cd5627/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 1209936,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.5,
+      "rating_count": 48247,
+      "change": "-3",
+      "change_val": -3
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "6736946513",
       "app_name": "MEBİ",
       "developer": "Ortaogretim Genel Mudurlugu",
@@ -94,11 +82,11 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 2974,
-      "change": "+4",
-      "change_val": 4
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -106,44 +94,56 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1935844,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6445905219",
+      "app_name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1d/06/621d0653-5b14-893d-fba2-e13ea62cd120/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 13297,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 10,
-      "app_id": "1507132907",
-      "app_name": "Watsons: Kozmetik ve Alışveriş",
-      "developer": "A.S. Watson Guzellik ve Bakim Urunleri Ticaret Anonim Sirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/66/96/476696bf-6657-a4b5-819b-ca0b8f2f5c79/WTR-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f2/7b/5af27b71-8b04-890f-5da6-e09c89d22f61/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 86296,
-      "change": "new",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 445556,
+      "change": "+8",
+      "change_val": 8
     },
     {
       "rank": 11,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/d6/f1/d7d6f168-f3ce-ee3c-e8fd-0563019400d4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/c2/c7/a1c2c7f2-087d-3da1-923a-92a533eb32a6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 9005,
-      "change": "-3",
-      "change_val": -3
+      "rating": 4.6,
+      "rating_count": 1918733,
+      "change": "+8",
+      "change_val": 8
     },
     {
       "rank": 12,
-      "app_id": "1636235979",
-      "app_name": "ReelShort - Stream Drama & TV",
-      "developer": "NewLeaf Publishing",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6754755473",
+      "app_name": "Reverse Audio: Sing Fun",
+      "developer": "VarMeta",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/bb/ae/86bbae2d-6e41-e649-49b0-ac3fa3835d70/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 21856,
-      "change": "+6",
-      "change_val": 6
+      "rating": 4.1,
+      "rating_count": 1450,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 13,
@@ -154,20 +154,20 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 27732,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "6754755473",
-      "app_name": "Reverse Audio: Sing Fun",
-      "developer": "VarMeta",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/bb/ae/86bbae2d-6e41-e649-49b0-ac3fa3835d70/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/d6/f1/d7d6f168-f3ce-ee3c-e8fd-0563019400d4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.1,
-      "rating_count": 1450,
-      "change": "-4",
-      "change_val": -4
+      "rating": 4.5,
+      "rating_count": 9005,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 15,
@@ -183,18 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/59/ac/1159acee-a4cc-e3f0-4cbf-3475797e68cb/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 383438,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 17,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
@@ -202,42 +190,54 @@
       "installs": "",
       "rating": 3.4,
       "rating_count": 9705,
-      "change": "-6",
-      "change_val": -6
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/59/ac/1159acee-a4cc-e3f0-4cbf-3475797e68cb/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 383438,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f2/7b/5af27b71-8b04-890f-5da6-e09c89d22f61/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "1507132907",
+      "app_name": "Watsons: Kozmetik ve Alışveriş",
+      "developer": "A.S. Watson Guzellik ve Bakim Urunleri Ticaret Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/66/96/476696bf-6657-a4b5-819b-ca0b8f2f5c79/WTR-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 445556,
-      "change": "-5",
-      "change_val": -5
+      "rating": 4.5,
+      "rating_count": 86296,
+      "change": "-8",
+      "change_val": -8
     },
     {
       "rank": 19,
-      "app_id": "373034841",
-      "app_name": "Yemeksepeti: Food & Grocery",
-      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/c2/c7/a1c2c7f2-087d-3da1-923a-92a533eb32a6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1636235979",
+      "app_name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 1918733,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.8,
+      "rating_count": 21856,
+      "change": "-7",
+      "change_val": -7
     },
     {
       "rank": 20,
-      "app_id": "6758667154",
-      "app_name": "VibeShort: AI Short Dramas",
-      "developer": "AGILE QUADRANT MEDIA LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/eb/8d/b8eb8d4a-784b-e41c-5e82-3e94989107e4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "524362642",
+      "app_name": "Trendyol: Online Shopping",
+      "developer": "trendyol.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/4f/ca/544fcab8-6f66-78ba-f238-6dd9afdb0850/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2646,
+      "rating": 4.6,
+      "rating_count": 4696197,
       "change": "new",
       "change_val": 0
     }
