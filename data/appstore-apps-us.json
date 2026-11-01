@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "rankings": [
     {
       "rank": 1,
@@ -70,11 +70,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 649828,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
+      "app_id": "368677368",
+      "app_name": "Uber - Rides, Eats, Hotels",
+      "developer": "Uber Technologies, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/21/b7/9021b7b0-dfd3-1009-9ddd-ede0f47c1605/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 17174836,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 8,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -86,7 +98,7 @@
       "change_val": -1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
@@ -94,11 +106,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 291552,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "app_id": "6670430706",
       "app_name": "DramaWave - Dramas & Reels",
       "developer": "SKYWORK AI PTE LTD",
@@ -106,23 +118,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 197172,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "368677368",
-      "app_name": "Uber - Rides, Eats, Hotels",
-      "developer": "Uber Technologies, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/21/b7/9021b7b0-dfd3-1009-9ddd-ede0f47c1605/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 17174836,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
+      "app_id": "1662982304",
+      "app_name": "Partiful: Party Invite Maker",
+      "developer": "Partiful",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/00/73/bf0073a5-c890-c085-7944-6e8fc61a78c1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 5.0,
+      "rating_count": 281069,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 12,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
@@ -130,23 +142,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2388985,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
-      "app_id": "922103212",
-      "app_name": "McDonald's",
-      "developer": "McDonald's USA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 7884193,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 13,
+      "app_id": "1556928106",
+      "app_name": "Posh – Create & Find Events",
+      "developer": "Posh Group Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/54/78/1254784c-c4b7-e0a0-10bf-4876947d98c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 57568,
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 14,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -158,28 +170,16 @@
       "change_val": -1
     },
     {
-      "rank": 14,
-      "app_id": "1662982304",
-      "app_name": "Partiful: Party Invite Maker",
-      "developer": "Partiful",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/00/73/bf0073a5-c890-c085-7944-6e8fc61a78c1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 5.0,
-      "rating_count": 281069,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
       "rank": 15,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/ed/07/8ded072b-5d6f-4053-07fa-d24a00b5b72f/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "922103212",
+      "app_name": "McDonald's",
+      "developer": "McDonald's USA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 2339101,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.8,
+      "rating_count": 7884193,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 16,
@@ -195,15 +195,15 @@
     },
     {
       "rank": 17,
-      "app_id": "1556928106",
-      "app_name": "Posh – Create & Find Events",
-      "developer": "Posh Group Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/54/78/1254784c-c4b7-e0a0-10bf-4876947d98c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/ed/07/8ded072b-5d6f-4053-07fa-d24a00b5b72f/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 57568,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.6,
+      "rating_count": 2339101,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
@@ -219,18 +219,6 @@
     },
     {
       "rank": 19,
-      "app_id": "1089294040",
-      "app_name": "Capital One Shopping: Save Now",
-      "developer": "Wikibuy, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/ad/88/ddad8826-e6be-3b1d-7e57-9418cc66d4ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 1712967,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
       "app_id": "529379082",
       "app_name": "Lyft",
       "developer": "Lyft, Inc.",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 17877475,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/43/5d/b8435d95-8bbe-9b14-bacc-6b8bbd2808b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 245839,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
