@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "rankings": [
     {
       "rank": 1,
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 11857165,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,23 +58,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 11262666,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
-      "app_id": "6742177802",
-      "app_name": "New York Road Runners",
-      "developer": "New York Road Runners, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/2c/34/e82c345a-ae8a-98d6-75a5-fb60e0c269e2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 2.1,
-      "rating_count": 65,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 7,
       "app_id": "6754134922",
       "app_name": "PineDrama - Short Dramas",
       "developer": "TikTok Ltd.",
@@ -82,6 +70,18 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 109786,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6742177802",
+      "app_name": "New York Road Runners",
+      "developer": "New York Road Runners, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/2c/34/e82c345a-ae8a-98d6-75a5-fb60e0c269e2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 2.1,
+      "rating_count": 65,
       "change": "-1",
       "change_val": -1
     },
@@ -94,8 +94,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 293374,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
@@ -106,20 +106,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 656799,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/33/1b/63331b32-bc24-fa24-d7e7-935cb16e6c34/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "6742024490",
+      "app_name": "Reco Social",
+      "developer": "Reco Social, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/54/20/38542091-86c2-08fa-09d1-7c4296b9c9ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2394514,
-      "change": "+3",
-      "change_val": 3
+      "rating_count": 31919,
+      "change": "+5",
+      "change_val": 5
     },
     {
       "rank": 11,
@@ -130,11 +130,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 206341,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/33/1b/63331b32-bc24-fa24-d7e7-935cb16e6c34/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2394514,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 13,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -142,11 +154,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2344134,
-      "change": "+3",
-      "change_val": 3
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "app_id": "983156458",
       "app_name": "Microsoft Authenticator",
       "developer": "Microsoft Corporation",
@@ -154,11 +166,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 720255,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 14,
+      "rank": 15,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -166,35 +178,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1125807,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "6742024490",
-      "app_name": "Reco Social",
-      "developer": "Reco Social, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/54/20/38542091-86c2-08fa-09d1-7c4296b9c9ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 31919,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 16,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8d/18/458d18f9-abec-fc34-84ec-1db33fb58832/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 198762,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 17,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -202,11 +190,47 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2248423,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "310633997",
+      "app_name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/eb/39/15eb3965-bec3-4737-950a-9d9df5303e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18888873,
+      "change": "new",
       "change_val": 0
     },
     {
       "rank": 18,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/af/40/4baf40d2-5fec-a1fe-da33-cafd0c87f18b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18420137,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8d/18/458d18f9-abec-fc34-84ec-1db33fb58832/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 198762,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 20,
       "app_id": "1089294040",
       "app_name": "Capital One Shopping: Save Now",
       "developer": "Wikibuy, LLC",
@@ -214,32 +238,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1714949,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 19,
-      "app_id": "6447582581",
-      "app_name": "Netflix Game Controller",
-      "developer": "Netflix, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/36/f1/1736f19b-ac32-eca3-764c-fa0cc3f5776f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 247828,
-      "change": "-10",
-      "change_val": -10
-    },
-    {
-      "rank": 20,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/2f/56/1b2f5678-e28a-32bf-3483-7aab05093f32/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 5310190,
-      "change": "new",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }
