@@ -3,39 +3,39 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "6736946513",
-      "app_name": "MEBİ",
-      "developer": "Ortaogretim Genel Mudurlugu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/97/ae/b697ae72-98e3-d3c8-18e5-8f347ce212e9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 3010,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ae/77/41ae77b4-ea15-2bbf-dc7d-3b67e887209e/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 77137,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 77267,
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 3,
+      "rank": 2,
       "app_id": "6477489729",
       "app_name": "Google Gemini",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/33/1b/63331b32-bc24-fa24-d7e7-935cb16e6c34/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 471370,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 471795,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "6736946513",
+      "app_name": "MEBİ",
+      "developer": "Ortaogretim Genel Mudurlugu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/97/ae/b697ae72-98e3-d3c8-18e5-8f347ce212e9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 3015,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 4,
@@ -45,9 +45,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/30/2c/d8302c98-e7af-be9f-cf4f-2a601bb372fd/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1936994,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1937398,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -57,9 +57,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/57/1e/1f571ee8-2c44-6757-b0dc-abb637af6068/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 23249,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 23250,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -69,57 +69,57 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/2d/27/722d272a-9d6f-d186-8a92-6a884107df8f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1214709,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1216001,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
-      "app_id": "6822465999",
-      "app_name": "Atanalım: Tercih Rehberi",
-      "developer": "Anadolu Tercih Danışmanlık Limited Şirketi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/a6/bd/07a6bda6-e2a1-aeab-fa7b-4545373cb9c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 173,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 8,
       "app_id": "6504849169",
       "app_name": "NetShort - Popular Dramas & TV",
       "developer": "NETSTORY PTE. LTD.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/4b/f9/8b4bf965-3625-9640-1cb4-211a80e5ecac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 48560,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 48641,
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 9,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8d/18/458d18f9-abec-fc34-84ec-1db33fb58832/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 29826,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/d6/f1/d7d6f168-f3ce-ee3c-e8fd-0563019400d4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 9103,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 9150,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 9,
+      "app_id": "6822465999",
+      "app_name": "Atanalım: Tercih Rehberi",
+      "developer": "Anadolu Tercih Danışmanlık Limited Şirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/a6/bd/07a6bda6-e2a1-aeab-fa7b-4545373cb9c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 189,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 10,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8d/18/458d18f9-abec-fc34-84ec-1db33fb58832/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 29891,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -129,33 +129,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1d/06/621d0653-5b14-893d-fba2-e13ea62cd120/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 13375,
+      "rating_count": 13398,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/9c/b6/e49cb6e9-95db-8ee4-fb02-9a23e5e9c02a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.4,
-      "rating_count": 9710,
-      "change": "+2",
-      "change_val": 2
+      "rating": 4.7,
+      "rating_count": 548015,
+      "change": "+6",
+      "change_val": 6
     },
     {
       "rank": 13,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f2/7b/5af27b71-8b04-890f-5da6-e09c89d22f61/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "1454358771",
+      "app_name": "MARTI: TAG & Scooter",
+      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/59/ac/1159acee-a4cc-e3f0-4cbf-3475797e68cb/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 445559,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.8,
+      "rating_count": 385244,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 14,
@@ -165,21 +165,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/07/91/830791b9-3600-3865-aef0-bb0dea48848a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 27730,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 27729,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "373034841",
-      "app_name": "Yemeksepeti: Food & Grocery",
-      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/cb/81/dacb819e-9c1f-9bea-9202-6a6459d1a296/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/9c/b6/e49cb6e9-95db-8ee4-fb02-9a23e5e9c02a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 1918756,
-      "change": "+1",
-      "change_val": 1
+      "rating": 3.4,
+      "rating_count": 9709,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 16,
@@ -189,32 +189,32 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/b7/b4/9cb7b49f-6b4e-6be4-4bd7-6c78ab42f048/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 16555,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 17,
-      "app_id": "1454358771",
-      "app_name": "MARTI: TAG & Scooter",
-      "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/59/ac/1159acee-a4cc-e3f0-4cbf-3475797e68cb/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 384975,
+      "rating_count": 16632,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 18,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "rank": 17,
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f2/7b/5af27b71-8b04-890f-5da6-e09c89d22f61/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 548014,
-      "change": "=",
+      "rating_count": 445553,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 18,
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/26/75/1a2675f0-76b8-3699-da56-092b21ec2213/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 389608,
+      "change": "new",
       "change_val": 0
     },
     {
@@ -225,21 +225,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/76/ce/f876ce27-b7c2-e674-5c9d-8d0fcb041673/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 176294,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 176306,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "524362642",
-      "app_name": "Trendyol: Online Shopping",
-      "developer": "trendyol.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/4f/ca/544fcab8-6f66-78ba-f238-6dd9afdb0850/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "373034841",
+      "app_name": "Yemeksepeti: Food & Grocery",
+      "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/cb/81/dacb819e-9c1f-9bea-9202-6a6459d1a296/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 4698609,
-      "change": "new",
-      "change_val": 0
+      "rating_count": 1918728,
+      "change": "-5",
+      "change_val": -5
     }
   ]
 }
