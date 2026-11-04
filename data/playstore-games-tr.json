@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "rankings": [
     {
       "rank": 1,
@@ -63,24 +63,24 @@
     },
     {
       "rank": 6,
-      "app_id": "com.block.juggle",
-      "app_name": "Block Blast!",
-      "developer": "HungryStudio",
-      "icon_url": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
-      "installs": "1,000,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 7,
       "app_id": "com.ludo.king",
       "app_name": "Ludo King®",
       "developer": "Gametion",
       "icon_url": "https://play-lh.googleusercontent.com/qSN0Eb6mDVPIX4PRggTB3PsEU1oyPorteUfiuJ709P9cZxdWP9Y-kV0htG7rtJNYywGE-3wlrC_7Gix0h0-Urw",
       "installs": "1,000,000,000+",
       "rating": 3.3,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "com.block.juggle",
+      "app_name": "Block Blast!",
+      "developer": "HungryStudio",
+      "icon_url": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
+      "installs": "1,000,000,000+",
+      "rating": 4.7,
       "rating_count": 0,
       "change": "-1",
       "change_val": -1
@@ -183,18 +183,6 @@
     },
     {
       "rank": 16,
-      "app_id": "com.playrix.gardenscapes",
-      "app_name": "Gardenscapes",
-      "developer": "Playrix",
-      "icon_url": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
-      "installs": "500,000,000+",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
       "app_id": "com.kitkagames.fallbuddies",
       "app_name": "Stumble Guys",
       "developer": "Scopely",
@@ -202,23 +190,23 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "com.playrix.gardenscapes",
+      "app_name": "Gardenscapes",
+      "developer": "Playrix",
+      "icon_url": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
+      "installs": "500,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 18,
-      "app_id": "com.dreamgames.royalmatch",
-      "app_name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/YH_Xv6Hr-jrex3V_HcLqbaUTO_Upfa6UHHB5nX7YGRis8MneU563WbdGQ--KiQ2sSYfZsqpkeDsY7umYXNDOEw",
-      "installs": "100,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "com.firsttouchgames.dls7",
       "app_name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -226,8 +214,20 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "com.dreamgames.royalmatch",
+      "app_name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/YH_Xv6Hr-jrex3V_HcLqbaUTO_Upfa6UHHB5nX7YGRis8MneU563WbdGQ--KiQ2sSYfZsqpkeDsY7umYXNDOEw",
+      "installs": "100,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
