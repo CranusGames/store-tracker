@@ -142,8 +142,8 @@
       "installs": "500,000,000+",
       "rating": 3.9,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -154,16 +154,16 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "com.kiloo.subwaysurf",
-      "app_name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "icon_url": "https://play-lh.googleusercontent.com/G1eIJ3yor1yW20izrYjOfCzHgVkRtewlfPFG9CEFTHzSI2m0Lwds_Y1xYgeg21CFok_UXrol-ox2IwqL4JMrLQ",
-      "installs": "1,000,000,000+",
+      "app_id": "com.ea.gp.fifamobile",
+      "app_name": "EA SPORTS FC Soccer Mobile 27",
+      "developer": "ELECTRONIC ARTS",
+      "icon_url": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
+      "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
       "change": "+1",
@@ -171,11 +171,11 @@
     },
     {
       "rank": 15,
-      "app_id": "com.ea.gp.fifamobile",
-      "app_name": "EA SPORTS FC Soccer Mobile 27",
-      "developer": "ELECTRONIC ARTS",
-      "icon_url": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
-      "installs": "500,000,000+",
+      "app_id": "com.kiloo.subwaysurf",
+      "app_name": "Subway Surfers",
+      "developer": "SYBO Games",
+      "icon_url": "https://play-lh.googleusercontent.com/G1eIJ3yor1yW20izrYjOfCzHgVkRtewlfPFG9CEFTHzSI2m0Lwds_Y1xYgeg21CFok_UXrol-ox2IwqL4JMrLQ",
+      "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
       "change": "-1",
@@ -190,8 +190,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "100,000,000+",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
