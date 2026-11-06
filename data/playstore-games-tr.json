@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "com.dts.freefiremax",
-      "app_name": "Free Fire MAX: Storm Arena",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/CHTegoh7kat0rwX0gsbqrAAepT4qYASGwJi-KyAdcxVlnQxN3pe4ahKNe6lh4_vOCutj-oQp6rWRoBKiuxvdEw",
-      "installs": "500,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "com.tencent.ig",
       "app_name": "PUBG MOBILE",
       "developer": "Level Infinite",
@@ -38,19 +26,7 @@
       "change_val": 1
     },
     {
-      "rank": 4,
-      "app_id": "com.king.candycrushsaga",
-      "app_name": "Candy Crush Saga",
-      "developer": "King",
-      "icon_url": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
-      "installs": "1,000,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "app_id": "com.miniclip.eightballpool",
       "app_name": "8 Ball Pool",
       "developer": "Miniclip.com",
@@ -58,8 +34,32 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 4,
+      "app_id": "com.dts.freefiremax",
+      "app_name": "Free Fire MAX: Storm Arena",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/CHTegoh7kat0rwX0gsbqrAAepT4qYASGwJi-KyAdcxVlnQxN3pe4ahKNe6lh4_vOCutj-oQp6rWRoBKiuxvdEw",
+      "installs": "500,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
       "change": "-2",
       "change_val": -2
+    },
+    {
+      "rank": 5,
+      "app_id": "com.king.candycrushsaga",
+      "app_name": "Candy Crush Saga",
+      "developer": "King",
+      "icon_url": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+      "installs": "1,000,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 6,
@@ -114,7 +114,7 @@
       "app_id": "com.kitkagames.fallbuddies",
       "app_name": "Stumble Guys",
       "developer": "Scopely",
-      "icon_url": "https://play-lh.googleusercontent.com/v7cn-JqS-IMwCjnTkmDA-6s68B5_MdDsid2ObABpIOBYOuwiqkx4_OjZJQt2i-TLJxEaVWctKay1P98ctZWL7Q",
+      "icon_url": "https://play-lh.googleusercontent.com/NW7_ezBVEWM3ovtvz57SrSNJw-n9C78cV8PSz2sjhp5eCmtBAawQ3CE3VR3Da9hESb8QQ1hhz2wEFg71y1rG",
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "com.firsttouchgames.dls7",
-      "app_name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/ldysRAGsIH0zWeNoCMhAUNx6OXp6SuNyeSMXiW7SHTluJVAkfxHP2XLTlxiV9WkBvvE2JXsK08JveGAuGNZNMw",
-      "installs": "100,000,000+",
-      "rating": 4.0,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "com.playrix.gardenscapes",
       "app_name": "Gardenscapes",
       "developer": "Playrix",
@@ -214,8 +202,20 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "com.firsttouchgames.dls7",
+      "app_name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/ldysRAGsIH0zWeNoCMhAUNx6OXp6SuNyeSMXiW7SHTluJVAkfxHP2XLTlxiV9WkBvvE2JXsK08JveGAuGNZNMw",
+      "installs": "100,000,000+",
+      "rating": 4.0,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
