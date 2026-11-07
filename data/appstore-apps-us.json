@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "rankings": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 86517,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 20047,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 296742,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,20 +82,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 11278544,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "1631584032",
-      "app_name": "PLAYFUL REWARDS: Earn Rewards",
-      "developer": "Playful Rewards",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/1a/4e/8f1a4ec0-1d16-3b6c-abb0-22b79e379554/AppIcon-0-0-1x_U007epad-0-11-85-220.jpeg/100x100bb.png",
+      "app_id": "6754134922",
+      "app_name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/99/e7/6399e727-1be9-77fc-5b03-0710fe7a43ba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 132483,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.9,
+      "rating_count": 125696,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 9,
@@ -106,23 +106,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2404393,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "6754134922",
-      "app_name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/99/e7/6399e727-1be9-77fc-5b03-0710fe7a43ba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 125696,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 11,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade Sports & Events",
       "developer": "KalshiEX LLC",
@@ -130,11 +118,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 670314,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -142,11 +130,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2353325,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "686449807",
       "app_name": "Telegram Messenger",
       "developer": "Telegram FZ-LLC",
@@ -154,8 +142,20 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 285426,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "310633997",
+      "app_name": "WhatsApp",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/eb/39/15eb3965-bec3-4737-950a-9d9df5303e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18911980,
+      "change": "+4",
+      "change_val": 4
     },
     {
       "rank": 14,
@@ -171,6 +171,42 @@
     },
     {
       "rank": 15,
+      "app_id": "1631584032",
+      "app_name": "PLAYFUL REWARDS: Earn Rewards",
+      "developer": "Playful Rewards",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/1a/4e/8f1a4ec0-1d16-3b6c-abb0-22b79e379554/AppIcon-0-0-1x_U007epad-0-11-85-220.jpeg/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 132483,
+      "change": "-7",
+      "change_val": -7
+    },
+    {
+      "rank": 16,
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/af/40/4baf40d2-5fec-a1fe-da33-cafd0c87f18b/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 18425266,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
+      "app_id": "1605170923",
+      "app_name": "GoWish - Your Digital Wishlist",
+      "developer": "Onskeskyen ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/7b/05/397b0598-7180-04a7-751f-3f3e5d29f3f1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 213639,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 18,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -178,44 +214,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5326941,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 16,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/75/48/14754808-d06b-705b-0e4c-d2bd6865d697/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 722499,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "310633997",
-      "app_name": "WhatsApp",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/eb/39/15eb3965-bec3-4737-950a-9d9df5303e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18911980,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "1641486558",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/7e/af/e17eafc7-cbc2-6898-32da-57b06f2bb0a9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2251840,
-      "change": "=",
-      "change_val": 0
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 19,
@@ -226,18 +226,18 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2451474,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/a7/0f/95a70f0b-2bf2-d364-43b0-5c808c66b8ed/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/36/f1/1736f19b-ac32-eca3-764c-fa0cc3f5776f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 7442308,
+      "rating": 4.6,
+      "rating_count": 250506,
       "change": "new",
       "change_val": 0
     }
