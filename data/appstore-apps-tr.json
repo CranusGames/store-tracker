@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2b/83/932b830e-b3d1-4961-3a46-93806fbf1115/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1729284,
+      "rating_count": 1729659,
       "change": "=",
       "change_val": 0
     },
@@ -21,7 +21,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ae/77/41ae77b4-ea15-2bbf-dc7d-3b67e887209e/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 78526,
+      "rating_count": 78672,
       "change": "=",
       "change_val": 0
     },
@@ -33,9 +33,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/3a/b1/aa3ab1c5-d435-4212-edb7-f2e2204f07e0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 23258,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 23257,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -45,43 +45,43 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/96/f2/c396f2cb-1981-3845-5b59-7cffb0565921/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 476836,
+      "rating_count": 477471,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 5,
-      "app_id": "6745820631",
-      "app_name": "Shots: Photo & Video Generator",
-      "developer": "DeePix AI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 3091,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 6,
-      "app_id": "481035064",
-      "app_name": "Hepsiburada: Online Shopping",
-      "developer": "Hepsiburada",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/27/5a/5f275aac-9b28-03d5-0e49-d0964a88d596/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 1941223,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 7,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
       "developer": "OpenAI OpCo, LLC",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/9c/84/5c9c8431-bd39-08fa-cba4-8bb6561f9877/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1230589,
+      "rating_count": 1232307,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 6,
+      "app_id": "6745820631",
+      "app_name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/a8/6d/6ba86d85-4e2a-eb13-4e8c-0b5ba972010a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 3101,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 7,
+      "app_id": "481035064",
+      "app_name": "Hepsiburada: Online Shopping",
+      "developer": "Hepsiburada",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/27/5a/5f275aac-9b28-03d5-0e49-d0964a88d596/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 1941665,
       "change": "-1",
       "change_val": -1
     },
@@ -94,19 +94,19 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445572,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "6445905219",
-      "app_name": "DramaBox - Stream Drama Shorts",
-      "developer": "STORYMATRIX PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/c7/91/4bc79141-b302-525f-1731-f5406f441400/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "603336861",
+      "app_name": "beIN CONNECT",
+      "developer": "DIGITURK",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/62/97/14629779-037f-e9e2-990d-19e8828a02c4/AppIcon-0-0-1x_U007emarketing-0-9-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.5,
-      "rating_count": 13561,
-      "change": "=",
+      "rating": 4.4,
+      "rating_count": 27522,
+      "change": "new",
       "change_val": 0
     },
     {
@@ -117,9 +117,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/6d/38/fd6d38a7-9464-7fc5-c6d2-9ea0e83eebda/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 9427,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 9462,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -129,43 +129,43 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/cb/81/dacb819e-9c1f-9bea-9202-6a6459d1a296/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1918741,
-      "change": "+5",
-      "change_val": 5
+      "rating_count": 1918747,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
+      "app_id": "6445905219",
+      "app_name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/c7/91/4bc79141-b302-525f-1731-f5406f441400/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 13573,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 13,
+      "app_id": "398157427",
+      "app_name": "Mackolik Live Score | M Scores",
+      "developer": "Mackolik Internet Hizmetleri Ticaret Anonim Sirketi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/78/93/437893e7-ab21-01f1-4fc5-173d85d4d852/Mackolik_-_AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 42632,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 14,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/a7/0f/95a70f0b-2bf2-d364-43b0-5c808c66b8ed/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 176460,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 13,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/ce/40/08ce40ee-4644-deba-4a38-1df5dcd45656/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 30375,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 14,
-      "app_id": "6504849169",
-      "app_name": "NetShort - Popular Dramas & TV",
-      "developer": "NETSTORY PTE. LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/eb/ee/4febeede-16b1-2b8c-6356-3c5301b1dc15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 49301,
+      "rating_count": 176494,
       "change": "-2",
       "change_val": -2
     },
@@ -177,69 +177,69 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/77/0f/ba770fcc-5a1b-edba-5b94-cd8612328328/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 4707233,
+      "rating_count": 4709304,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 16,
+      "app_id": "6670430706",
+      "app_name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/ce/40/08ce40ee-4644-deba-4a38-1df5dcd45656/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 30447,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 17,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/2f/56/1b2f5678-e28a-32bf-3483-7aab05093f32/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 373493,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 18,
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
       "developer": "MARTİ TEKNOLOJİ LİMİTED ŞİRKETİ",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/59/ac/1159acee-a4cc-e3f0-4cbf-3475797e68cb/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 388468,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 388989,
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 17,
-      "app_id": "1234494259",
-      "app_name": "Cepte Şok",
-      "developer": "Şok Marketler Tic. A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/6d/58/a76d5817-324e-4c9c-2953-e96d94408433/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 69395,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
+      "rank": 19,
       "app_id": "472650686",
       "app_name": "Yandex Go: Taxi Food Delivery",
       "developer": "Mikromobilnost doo",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/f4/e4/08f4e4b4-ddf6-9cf0-f17d-ee36e84df3bb/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 158882,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 19,
-      "app_id": "6795664118",
-      "app_name": "Fırsat: İndirim ve Alışveriş",
-      "developer": "FIRSAT YAPAY ZEKA TEKNOLOJILERI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/d4/8e/c4d48eef-568f-121d-f916-e668c3185451/firsat-app-icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 66,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 159110,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
-      "app_id": "1636235979",
-      "app_name": "ReelShort - Stream Drama & TV",
-      "developer": "NewLeaf Publishing",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/d5/c1/41d5c184-935e-0040-b565-a9dedfeccbb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1234494259",
+      "app_name": "Cepte Şok",
+      "developer": "Şok Marketler Tic. A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/6d/58/a76d5817-324e-4c9c-2953-e96d94408433/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 22140,
-      "change": "-6",
-      "change_val": -6
+      "rating": 4.5,
+      "rating_count": 69396,
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }
