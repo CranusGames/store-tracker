@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "app_id": "com.rovio.baba",
-      "app_name": "Angry Birds 2",
-      "developer": "Rovio Entertainment Oy",
-      "icon_url": "https://play-lh.googleusercontent.com/XrA1acf-l1YT0jw0QTxWqpJLE_TYSgdGpWE1vrEepFpA2128Zx4to0ARPvKFdhT5vAc0LHHC7xAAwa8aABIFeg",
-      "installs": "100,000,000+",
-      "rating": 4.1,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
       "app_id": "com.bigduckgames.flow",
       "app_name": "Flow Free",
       "developer": "Big Duck Games LLC",
@@ -190,8 +178,20 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "com.rovio.baba",
+      "app_name": "Angry Birds 2",
+      "developer": "Rovio Entertainment Oy",
+      "icon_url": "https://play-lh.googleusercontent.com/XrA1acf-l1YT0jw0QTxWqpJLE_TYSgdGpWE1vrEepFpA2128Zx4to0ARPvKFdhT5vAc0LHHC7xAAwa8aABIFeg",
+      "installs": "100,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "50,000,000+",
       "rating": 4.9,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -234,7 +234,7 @@
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/YH_Xv6Hr-jrex3V_HcLqbaUTO_Upfa6UHHB5nX7YGRis8MneU563WbdGQ--KiQ2sSYfZsqpkeDsY7umYXNDOEw",
+      "icon_url": "https://play-lh.googleusercontent.com/lUzqBD356bdUuhqH0S6THgftTXyqDXW76fstJX1fQbdd0mpxL4oHjI38vrpzsnGQ_-qmBOIkf0uOGaNWFFbmC-A",
       "installs": "100,000,000+",
       "rating": 4.6,
       "rating_count": 0,
