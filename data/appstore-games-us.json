@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "rankings": [
     {
       "rank": 1,
@@ -66,7 +66,7 @@
       "app_id": "329218549",
       "app_name": "Chess.com - Play and Learn",
       "developer": "Chess.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/4f/fb/b64ffb2b-8ed9-a000-a3b8-cb8de6f64245/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/b4/78/81b478e5-8011-26f4-7faf-179b6e9dc1bf/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
       "rating_count": 882124,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2837719,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,23 +94,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 20606841,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "6759763476",
-      "app_name": "Bus Traffic Fever!",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 89833,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 10,
       "app_id": "6756482832",
       "app_name": "Brain Puzzle 3: Crazy Mind",
       "developer": "SmallStep Dev Team",
@@ -118,8 +106,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 31170,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "6759763476",
+      "app_name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 89833,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 11,
@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "6758326278",
-      "app_name": "Amaze GO!™",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/f6/c0/baf6c09b-9d3a-842e-2106-3c4f86b23bd1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 268699,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "6475757306",
       "app_name": "Disney Solitaire",
       "developer": "SuperPlay",
@@ -166,8 +154,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 773748,
-      "change": "+6",
-      "change_val": 6
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "6758326278",
+      "app_name": "Amaze GO!™",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/f6/c0/baf6c09b-9d3a-842e-2106-3c4f86b23bd1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 268699,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
@@ -178,35 +178,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 16670,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 16,
-      "app_id": "6783815362",
-      "app_name": "Word Tiles - Relaxing Puzzle",
-      "developer": "Agave Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/c8/c5/b0c8c5a9-30ba-12e6-438d-41029a42d96c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 66302,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 17,
-      "app_id": "6779167923",
-      "app_name": "Colony Flow!",
-      "developer": "ABI GLOBAL LTD.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/4c/ca/e34ccaf7-8718-cef3-e268-473387c28b41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 43839,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -214,6 +190,30 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1819617,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
+      "app_id": "6783815362",
+      "app_name": "Word Tiles - Relaxing Puzzle",
+      "developer": "Agave Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/c8/c5/b0c8c5a9-30ba-12e6-438d-41029a42d96c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 66302,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 18,
+      "app_id": "6779167923",
+      "app_name": "Colony Flow!",
+      "developer": "ABI GLOBAL LTD.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/4c/ca/e34ccaf7-8718-cef3-e268-473387c28b41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 43839,
       "change": "-1",
       "change_val": -1
     },
@@ -226,20 +226,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 2173,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6760325543",
-      "app_name": "CubeAway - 3DPuzzle",
-      "developer": "GOODROID,Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/c7/7b/51c77bcc-fa99-7bd6-aab0-9df976598ced/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/95/09/a7950973-f828-69a3-9d21-4e9c598a596b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 149753,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.6,
+      "rating_count": 214068,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
