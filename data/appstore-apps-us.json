@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 300468,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,20 +70,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 147624,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/96/f2/c396f2cb-1981-3845-5b59-7cffb0565921/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "1605170923",
+      "app_name": "GoWish - Your Digital Wishlist",
+      "developer": "Onskeskyen ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/90/57/c590573d-b3bf-4766-99c8-714da3ed902b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2416198,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.8,
+      "rating_count": 224618,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 8,
@@ -94,18 +94,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 11295949,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "1605170923",
-      "app_name": "GoWish - Your Digital Wishlist",
-      "developer": "Onskeskyen ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/90/57/c590573d-b3bf-4766-99c8-714da3ed902b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/96/f2/c396f2cb-1981-3845-5b59-7cffb0565921/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 224618,
+      "rating": 4.7,
+      "rating_count": 2416198,
       "change": "-2",
       "change_val": -2
     },
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 683071,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "983156458",
-      "app_name": "Microsoft Authenticator",
-      "developer": "Microsoft Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/75/48/14754808-d06b-705b-0e4c-d2bd6865d697/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 724343,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "6446901002",
       "app_name": "Threads",
       "developer": "Instagram, Inc.",
@@ -154,11 +142,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 2363254,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
+      "rank": 13,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -166,11 +154,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1126598,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "310633997",
       "app_name": "WhatsApp",
       "developer": "WhatsApp Inc.",
@@ -178,11 +166,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18938049,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/75/48/14754808-d06b-705b-0e4c-d2bd6865d697/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 724343,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 16,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/07/2e/89072e25-d928-13d3-cf0b-225fa37d04e4/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 5345474,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 17,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -194,7 +206,7 @@
       "change_val": -1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "app_id": "6768593043",
       "app_name": "BlinkDrama - Short Dramas",
       "developer": "Atlas Ventures Culture & Technology Limited",
@@ -202,44 +214,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 32380,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/07/2e/89072e25-d928-13d3-cf0b-225fa37d04e4/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 5345474,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
-      "app_id": "422689480",
-      "app_name": "Gmail - Email by Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/13/c7/a313c76e-dec3-2413-d9a4-2afa5e56dedc/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/3d/a9/d63da965-c181-8058-8f11-301f7b9cd548/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 2452203,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.8,
+      "rating_count": 1077825,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "686449807",
-      "app_name": "Telegram Messenger",
-      "developer": "Telegram FZ-LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/0b/bc/bf0bbc9b-79b5-07c5-f803-048d7cad9b2f/Telegram-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/6f/b8/ff6fb807-f6c8-6eb9-993a-2e2fb1cde9b8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.0,
-      "rating_count": 285995,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.8,
+      "rating_count": 1088560,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
