@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "rankings": [
     {
       "rank": 1,
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "310633997",
-      "app_name": "WhatsApp",
-      "developer": "WhatsApp Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/00/4b/3f004b17-4292-838b-922b-587c91807222/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18943979,
-      "change": "+5",
-      "change_val": 5
-    },
-    {
-      "rank": 10,
       "app_id": "1605170923",
       "app_name": "GoWish - Your Digital Wishlist",
       "developer": "Onskeskyen ApS",
@@ -118,20 +106,32 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 226874,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "338137227",
+      "app_name": "Walmart: Shopping & Savings",
+      "developer": "Walmart",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/f5/b3/58f5b39a-43d7-a867-29dc-1a97c5c9bfa9/AppIconHolidays-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 19015653,
+      "change": "+5",
+      "change_val": 5
     },
     {
       "rank": 11,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/8b/f0/f78bf0bc-f9f8-fd23-be94-fdd995ae1880/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "310633997",
+      "app_name": "WhatsApp",
+      "developer": "WhatsApp Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/00/4b/3f004b17-4292-838b-922b-587c91807222/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 18430865,
-      "change": "+8",
-      "change_val": 8
+      "rating_count": 18943979,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 12,
@@ -142,18 +142,18 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 685585,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/e1/e3/cee1e3b0-37d1-3724-7122-1729878e40c8/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "835599320",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/8b/f0/f78bf0bc-f9f8-fd23-be94-fdd995ae1880/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 2365424,
+      "rating": 4.7,
+      "rating_count": 18430865,
       "change": "-2",
       "change_val": -2
     },
@@ -166,35 +166,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2452423,
-      "change": "+4",
-      "change_val": 4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "338137227",
-      "app_name": "Walmart: Shopping & Savings",
-      "developer": "Walmart",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/f5/b3/58f5b39a-43d7-a867-29dc-1a97c5c9bfa9/AppIconHolidays-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 19015653,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 16,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/eb/ab/efebab85-a422-d5da-1fab-23de4f2845ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1126687,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 17,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -202,6 +178,30 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5349620,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 16,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/e1/e3/cee1e3b0-37d1-3724-7122-1729878e40c8/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 2365424,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 17,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/eb/ab/efebab85-a422-d5da-1fab-23de4f2845ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1126687,
       "change": "-1",
       "change_val": -1
     },
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2256371,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,18 +226,18 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 724996,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "389801252",
-      "app_name": "Instagram",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/5f/80/f75f80a8-4726-0c0d-783d-8bbf1d31da37/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "app_id": "1488269261",
+      "app_name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/6f/b8/ff6fb807-f6c8-6eb9-993a-2e2fb1cde9b8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 29703746,
+      "rating": 4.8,
+      "rating_count": 1089909,
       "change": "new",
       "change_val": 0
     }
