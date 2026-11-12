@@ -82,23 +82,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2421557,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "1605170923",
-      "app_name": "GoWish - Your Digital Wishlist",
-      "developer": "Onskeskyen ApS",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/db/a7/97dba708-d1c5-c2af-73c7-5f7729d76261/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 228558,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 9,
       "app_id": "407558537",
       "app_name": "Capital One Mobile",
       "developer": "Capital One",
@@ -110,7 +98,31 @@
       "change_val": 1
     },
     {
+      "rank": 9,
+      "app_id": "1605170923",
+      "app_name": "GoWish - Your Digital Wishlist",
+      "developer": "Onskeskyen ApS",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/db/a7/97dba708-d1c5-c2af-73c7-5f7729d76261/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 228558,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 10,
+      "app_id": "338137227",
+      "app_name": "Walmart: Shopping & Savings",
+      "developer": "Walmart",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/f5/b3/58f5b39a-43d7-a867-29dc-1a97c5c9bfa9/AppIconHolidays-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 19028872,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade Sports & Events",
       "developer": "KalshiEX LLC",
@@ -120,18 +132,6 @@
       "rating_count": 687508,
       "change": "-1",
       "change_val": -1
-    },
-    {
-      "rank": 11,
-      "app_id": "338137227",
-      "app_name": "Walmart: Shopping & Savings",
-      "developer": "Walmart",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/f5/b3/58f5b39a-43d7-a867-29dc-1a97c5c9bfa9/AppIconHolidays-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 19028872,
-      "change": "=",
-      "change_val": 0
     },
     {
       "rank": 12,
@@ -147,18 +147,6 @@
     },
     {
       "rank": 13,
-      "app_id": "1500855883",
-      "app_name": "CapCut: Photo & Video Editor",
-      "developer": "Bytedance Pte. Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/eb/ab/efebab85-a422-d5da-1fab-23de4f2845ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1126779,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
       "app_id": "1641486558",
       "app_name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -166,11 +154,35 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2257247,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 14,
+      "app_id": "1500855883",
+      "app_name": "CapCut: Photo & Video Editor",
+      "developer": "Bytedance Pte. Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/eb/ab/efebab85-a422-d5da-1fab-23de4f2845ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1126779,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 15,
+      "app_id": "983156458",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/9e/2c/7b9e2cc2-0b2f-2e9b-c686-cc4da73779ed/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 725499,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 16,
       "app_id": "310633997",
       "app_name": "WhatsApp",
       "developer": "WhatsApp Inc.",
@@ -178,23 +190,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 18948731,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 16,
-      "app_id": "518684914",
-      "app_name": "Depop - Buy & Sell Clothes",
-      "developer": "Depop Ltd",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/3d/a9/d63da965-c181-8058-8f11-301f7b9cd548/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1079938,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 17,
+      "app_id": "1113153706",
+      "app_name": "Microsoft Teams",
+      "developer": "Microsoft Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/25/a9/5b25a98e-bd5c-d624-d383-f069f891be9d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3384838,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 18,
       "app_id": "284815942",
       "app_name": "Google",
       "developer": "Google",
@@ -202,23 +214,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 5353323,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
-      "app_id": "1488269261",
-      "app_name": "Whatnot: Shop, Sell, Connect",
-      "developer": "Whatnot Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/6f/b8/ff6fb807-f6c8-6eb9-993a-2e2fb1cde9b8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1090919,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 19,
+      "app_id": "518684914",
+      "app_name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/3d/a9/d63da965-c181-8058-8f11-301f7b9cd548/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1079938,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 20,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2452562,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 20,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/8b/f0/f78bf0bc-f9f8-fd23-be94-fdd995ae1880/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 18431658,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }

@@ -22,23 +22,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 45880,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
-      "app_id": "1105855019",
-      "app_name": "Gardenscapes",
-      "developer": "Playrix",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/4d/ec/1d4dec1f-653b-82a4-f137-d0fb9302ff2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 155441,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 4,
       "app_id": "6746743297",
       "app_name": "Bus Fever Party!",
       "developer": "Lumi Games",
@@ -46,8 +34,20 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 2308,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "1105855019",
+      "app_name": "Gardenscapes",
+      "developer": "Playrix",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/4d/ec/1d4dec1f-653b-82a4-f137-d0fb9302ff2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 155441,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -58,23 +58,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 102313,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
-      "app_id": "6742809194",
-      "app_name": "Warline: Sniper Squad",
-      "developer": "Powerfantasy",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/da/be/e6dabe74-dc92-76c8-e9ba-a5e6e161b5b2/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 2948,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 7,
       "app_id": "649260774",
       "app_name": "101 YüzBir Okey Plus",
       "developer": "Zynga Inc.",
@@ -82,23 +70,23 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1938165,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "6742809194",
+      "app_name": "Warline: Sniper Squad",
+      "developer": "Powerfantasy",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/da/be/e6dabe74-dc92-76c8-e9ba-a5e6e161b5b2/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 2948,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 8,
-      "app_id": "6831095082",
-      "app_name": "Hangi Kapı",
-      "developer": "Ahmet Ozturk",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/f4/10/d7f4101c-9fe8-7cbb-6d65-1e7c212bd975/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 282,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 9,
       "app_id": "1330123889",
       "app_name": "PUBG MOBILE",
       "developer": "Tencent Mobile International Limited",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 696973,
-      "change": "+2",
-      "change_val": 2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "6831095082",
+      "app_name": "Hangi Kapı",
+      "developer": "Ahmet Ozturk",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/dc/a2/bcdca2f7-07a6-b77e-9e13-1277589a0475/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 282,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 4479,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1821,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
@@ -142,23 +142,11 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 346818,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 13,
-      "app_id": "6443575749",
-      "app_name": "Whiteout Survival",
-      "developer": "Century Games Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/9e/98/e69e9840-fa2b-7b53-c7f9-75a75021de26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 48974,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 14,
+      "rank": 13,
       "app_id": "1117270703",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -170,7 +158,31 @@
       "change_val": 1
     },
     {
+      "rank": 14,
+      "app_id": "6812384218",
+      "app_name": "Pigeon Online World",
+      "developer": "Rokogame",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/3f/ff/cf3fff66-3a59-5069-159d-68da457f6e8f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 95,
+      "change": "+6",
+      "change_val": 6
+    },
+    {
       "rank": 15,
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/9e/98/e69e9840-fa2b-7b53-c7f9-75a75021de26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 48974,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
       "app_id": "1597760047",
       "app_name": "OneState RP: Role Play Online",
       "developer": "CHILLBASE LTD",
@@ -178,11 +190,23 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 1366,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 17,
+      "app_id": "553834731",
+      "app_name": "Candy Crush Saga",
+      "developer": "King",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7c/c8/e87cc8f5-5ed8-63b4-b548-9ce85f7ab628/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 307972,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 18,
       "app_id": "638689075",
       "app_name": "Township",
       "developer": "Playrix",
@@ -194,50 +218,26 @@
       "change_val": -2
     },
     {
-      "rank": 17,
-      "app_id": "6748950306",
-      "app_name": "Solitaire Associations Journey",
-      "developer": "Hitapps Games LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/35/fa/cd35fab7-013e-6907-4e09-9f91655f2cb1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 5725,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 18,
-      "app_id": "553834731",
-      "app_name": "Candy Crush Saga",
-      "developer": "King",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/7c/c8/e87cc8f5-5ed8-63b4-b548-9ce85f7ab628/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 307972,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
       "rank": 19,
-      "app_id": "6757350661",
-      "app_name": "Police Chief",
-      "developer": "VoyagerOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/44/a1/7044a1d2-c3d0-544d-1cfe-5b3f865e333e/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "app_id": "6786206777",
+      "app_name": "Cube Smash - Puzzle Game",
+      "developer": "Combo Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/90/44/079044c5-7bff-7785-69ad-9660da3cf61c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 3582,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 195,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6812384218",
-      "app_name": "Pigeon Online World",
-      "developer": "Rokogame",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/3f/ff/cf3fff66-3a59-5069-159d-68da457f6e8f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6783815362",
+      "app_name": "Word Tiles - Relaxing Puzzle",
+      "developer": "Agave Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/c8/c5/b0c8c5a9-30ba-12e6-438d-41029a42d96c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.9,
-      "rating_count": 95,
+      "rating": 4.8,
+      "rating_count": 3077,
       "change": "new",
       "change_val": 0
     }
