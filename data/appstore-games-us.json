@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "rankings": [
     {
       "rank": 1,
@@ -10,20 +10,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 428674,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
-      "app_id": "6772922295",
-      "app_name": "Transformers: Eternal War",
-      "developer": "HOOLAI GAME LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/4f/c5/204fc5b5-682c-eba9-6fd1-617b8f7d581b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/5f/74/a65f7480-26b5-450b-a216-987d1dd43543/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 0,
-      "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.7,
+      "rating_count": 737305,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 3,
@@ -34,23 +34,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 368886,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
-      "app_id": "6499209744",
-      "app_name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/5f/74/a65f7480-26b5-450b-a216-987d1dd43543/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 737305,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 5,
       "app_id": "6483539426",
       "app_name": "Fortnite",
       "developer": "Epic Games Inc.",
@@ -58,8 +46,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 421571,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6772922295",
+      "app_name": "Transformers: Eternal War",
+      "developer": "HOOLAI GAME LIMITED",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/4f/c5/204fc5b5-682c-eba9-6fd1-617b8f7d581b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 0,
+      "rating_count": 0,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 6,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 885003,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,15 +94,15 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 90454,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/bf/ff/74bfffb2-4346-fa6c-062f-287e24ad9809/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/18/9b/1f189b56-414a-33d9-46de-4b6577b8ca8d/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
       "rating_count": 2842508,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "6756482832",
-      "app_name": "Brain Puzzle 3: Crazy Mind",
-      "developer": "SmallStep Dev Team",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/10/47/d910471a-6dab-f930-9001-3d451d121904/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 31684,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 13,
       "app_id": "6780195090",
       "app_name": "82-0.com",
       "developer": "Vaulty Studios Inc.",
@@ -154,15 +142,15 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 16919,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 14,
+      "rank": 13,
       "app_id": "6758326278",
       "app_name": "Amaze GO!™",
       "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/f6/c0/baf6c09b-9d3a-842e-2106-3c4f86b23bd1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/87/16/c287162b-c7c1-a9a9-8c4f-7747fdd45804/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 271248,
@@ -170,16 +158,28 @@
       "change_val": 1
     },
     {
-      "rank": 15,
-      "app_id": "6475757306",
-      "app_name": "Disney Solitaire",
-      "developer": "SuperPlay",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/d8/4d/94d84dec-869b-e5ad-2161-30d6057dd2b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 14,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/95/47/84954751-4132-82e0-d6af-58d9905c14ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 776744,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 1822359,
+      "change": "+4",
+      "change_val": 4
+    },
+    {
+      "rank": 15,
+      "app_id": "6756482832",
+      "app_name": "Brain Puzzle 3: Crazy Mind",
+      "developer": "SmallStep Dev Team",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/10/47/d910471a-6dab-f930-9001-3d451d121904/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 31684,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 16,
@@ -195,30 +195,18 @@
     },
     {
       "rank": 17,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/95/09/a7950973-f828-69a3-9d21-4e9c598a596b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6475757306",
+      "app_name": "Disney Solitaire",
+      "developer": "SuperPlay",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/d8/4d/94d84dec-869b-e5ad-2161-30d6057dd2b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 214422,
-      "change": "+2",
-      "change_val": 2
+      "rating": 4.9,
+      "rating_count": 776744,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/85/8f/79858fd2-c429-ec05-f6f7-83c0973d0760/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 1822359,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
       "app_id": "6793924927",
       "app_name": "Rotate Rings",
       "developer": "Nebula Studio",
@@ -226,8 +214,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 93292,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "1623318294",
+      "app_name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/95/09/a7950973-f828-69a3-9d21-4e9c598a596b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 214422,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 150929,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
