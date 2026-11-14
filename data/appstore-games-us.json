@@ -3,6 +3,42 @@
   "rankings": [
     {
       "rank": 1,
+      "app_id": "6761760135",
+      "app_name": "Meowdoku!",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/8d/f3/a38df3ae-b984-a8f6-4a54-ee48e4074dbc/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 432839,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "6752672568",
+      "app_name": "Block Out! - Color Sort Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/94/bd/eb94bd83-7267-d1a5-17c5-98f0007bf083/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 371400,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 3,
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/5f/74/a65f7480-26b5-450b-a216-987d1dd43543/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 739770,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
       "app_id": "6740521489",
       "app_name": "PUBG MOBILE FLASH",
       "developer": "Tencent Mobile International Limited",
@@ -10,44 +46,8 @@
       "installs": "",
       "rating": 0,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
-      "app_id": "6761760135",
-      "app_name": "Meowdoku!",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/8d/f3/a38df3ae-b984-a8f6-4a54-ee48e4074dbc/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 431812,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
-      "app_id": "6752672568",
-      "app_name": "Block Out! - Color Sort Puzzle",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/94/bd/eb94bd83-7267-d1a5-17c5-98f0007bf083/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 370655,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
-      "app_id": "6499209744",
-      "app_name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/5f/74/a65f7480-26b5-450b-a216-987d1dd43543/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 739099,
-      "change": "=",
-      "change_val": 0
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 5,
@@ -57,7 +57,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/c4/00/a9c4002f-046a-ee19-68c9-730ee92109fa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 424030,
+      "rating_count": 425989,
       "change": "=",
       "change_val": 0
     },
@@ -69,7 +69,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/dd/6e/acdd6e9e-de12-21f1-716a-4aa68560f4b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 27709,
+      "rating_count": 27905,
       "change": "=",
       "change_val": 0
     },
@@ -81,7 +81,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/b4/78/81b478e5-8011-26f4-7faf-179b6e9dc1bf/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 886895,
+      "rating_count": 887937,
       "change": "=",
       "change_val": 0
     },
@@ -93,7 +93,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 90770,
+      "rating_count": 90905,
       "change": "=",
       "change_val": 0
     },
@@ -105,9 +105,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/18/9b/1f189b56-414a-33d9-46de-4b6577b8ca8d/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 2845840,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 2847011,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
@@ -117,81 +117,81 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/a1/0f/19a10fa0-874d-bf10-221a-ed7fe7b4cfe1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 20631978,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 11,
-      "app_id": "6772922295",
-      "app_name": "Transformers: Eternal War",
-      "developer": "HOOLAI GAME LIMITED",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/4f/c5/204fc5b5-682c-eba9-6fd1-617b8f7d581b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 69,
+      "rating_count": 20635092,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "638689075",
       "app_name": "Township",
       "developer": "Playrix",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/3c/77/833c7735-48b5-c3b5-bca3-32e438c977e1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 2235539,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 2235784,
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 13,
-      "app_id": "6793924927",
-      "app_name": "Rotate Rings",
-      "developer": "Nebula Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/77/c0/7377c091-3e7b-1461-6711-b3db14d13ed5/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 94850,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "app_id": "6758326278",
       "app_name": "Amaze GO!™",
       "developer": "Oakever Games",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/87/16/c287162b-c7c1-a9a9-8c4f-7747fdd45804/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 272699,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 273388,
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 15,
-      "app_id": "6468921495",
-      "app_name": "Vita Mahjong",
-      "developer": "Vita Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/95/47/84954751-4132-82e0-d6af-58d9905c14ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 1823866,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "app_id": "6780195090",
       "app_name": "82-0.com",
       "developer": "Vaulty Studios Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/e5/82/26e58216-d437-5490-d370-d6fb8584f28b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 17073,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 17131,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 14,
+      "app_id": "6468921495",
+      "app_name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/95/47/84954751-4132-82e0-d6af-58d9905c14ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 1824556,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 15,
+      "app_id": "6793924927",
+      "app_name": "Rotate Rings",
+      "developer": "Nebula Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/77/c0/7377c091-3e7b-1461-6711-b3db14d13ed5/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 95671,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
+      "app_id": "6756482832",
+      "app_name": "Brain Puzzle 3: Crazy Mind",
+      "developer": "SmallStep Dev Team",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/ae/05/f2ae05f0-b5b8-e098-2ddc-e93898074db3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 32119,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 17,
@@ -201,43 +201,43 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/95/09/a7950973-f828-69a3-9d21-4e9c598a596b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 214594,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 18,
-      "app_id": "6756482832",
-      "app_name": "Brain Puzzle 3: Crazy Mind",
-      "developer": "SmallStep Dev Team",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/ae/05/f2ae05f0-b5b8-e098-2ddc-e93898074db3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 32015,
+      "rating_count": 214673,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 19,
-      "app_id": "6475757306",
-      "app_name": "Disney Solitaire",
-      "developer": "SuperPlay",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/d8/4d/94d84dec-869b-e5ad-2161-30d6057dd2b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 778374,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 20,
+      "rank": 18,
       "app_id": "6783815362",
       "app_name": "Word Tiles - Relaxing Puzzle",
       "developer": "Agave Games",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/c8/c5/b0c8c5a9-30ba-12e6-438d-41029a42d96c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 71159,
+      "rating_count": 71879,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 19,
+      "app_id": "6760325543",
+      "app_name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/c7/7b/51c77bcc-fa99-7bd6-aab0-9df976598ced/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 151684,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "6475757306",
+      "app_name": "Disney Solitaire",
+      "developer": "SuperPlay",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/d8/4d/94d84dec-869b-e5ad-2161-30d6057dd2b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 779136,
       "change": "-1",
       "change_val": -1
     }
