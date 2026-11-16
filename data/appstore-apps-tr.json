@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "rankings": [
     {
       "rank": 1,
@@ -10,11 +10,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1669704,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 2,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/e1/e3/cee1e3b0-37d1-3724-7122-1729878e40c8/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 81005,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 2,
+      "rank": 3,
       "app_id": "6670430706",
       "app_name": "DramaWave - Dramas & Reels",
       "developer": "SKYWORK AI PTE LTD",
@@ -26,18 +38,6 @@
       "change_val": -1
     },
     {
-      "rank": 3,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/e1/e3/cee1e3b0-37d1-3724-7122-1729878e40c8/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 81005,
-      "change": "=",
-      "change_val": 0
-    },
-    {
       "rank": 4,
       "app_id": "6448311069",
       "app_name": "ChatGPT",
@@ -46,8 +46,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1258825,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 487265,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 445614,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 23273,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
@@ -94,23 +94,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918760,
-      "change": "+5",
-      "change_val": 5
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/61/ff/3961fff5-0331-2f4e-9c90-b28d30998f69/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 176800,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 10,
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
@@ -118,11 +106,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 10010,
-      "change": "-3",
-      "change_val": -3
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 11,
+      "rank": 10,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -130,47 +118,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1949042,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/61/ff/3961fff5-0331-2f4e-9c90-b28d30998f69/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 176800,
       "change": "-2",
       "change_val": -2
     },
     {
       "rank": 12,
-      "app_id": "839482639",
-      "app_name": "MEB E-OKUL VBS",
-      "developer": "T.C. Milli Egitim Bakanligı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/d5/6e/59d56e07-a805-2cf0-3b0f-360d825f9ae6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.7,
-      "rating_count": 34124,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 13,
-      "app_id": "397585390",
-      "app_name": "Migros: Food & Groceries",
-      "developer": "MigrosOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/d0/fd/afd0fdc6-1086-2693-ae70-9187cf1e345e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 390145,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 14,
-      "app_id": "1511527605",
-      "app_name": "Museums of Türkiye - Official",
-      "developer": "T. C. Kültür ve Turizm Bakanlığı",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/88/40/228840d6-354d-93de-0515-fa0813b59ebc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 85435,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 15,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -182,6 +146,42 @@
       "change_val": 3
     },
     {
+      "rank": 13,
+      "app_id": "839482639",
+      "app_name": "MEB E-OKUL VBS",
+      "developer": "T.C. Milli Egitim Bakanligı",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/d5/6e/59d56e07-a805-2cf0-3b0f-360d825f9ae6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.7,
+      "rating_count": 34124,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 14,
+      "app_id": "524362642",
+      "app_name": "Trendyol: Online Shopping",
+      "developer": "trendyol.com",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/77/0f/ba770fcc-5a1b-edba-5b94-cd8612328328/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 4726866,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 15,
+      "app_id": "6754755473",
+      "app_name": "Reverse Audio: Sing Challenge",
+      "developer": "VarMeta",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/64/53/8a6453fb-1c51-9308-f8f5-8c4535568f23/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 1922,
+      "change": "new",
+      "change_val": 0
+    },
+    {
       "rank": 16,
       "app_id": "1454358771",
       "app_name": "MARTI: TAG & Scooter",
@@ -190,20 +190,20 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 395334,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
-      "app_id": "524362642",
-      "app_name": "Trendyol: Online Shopping",
-      "developer": "trendyol.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/77/0f/ba770fcc-5a1b-edba-5b94-cd8612328328/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "app_id": "397585390",
+      "app_name": "Migros: Food & Groceries",
+      "developer": "MigrosOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/d0/fd/afd0fdc6-1086-2693-ae70-9187cf1e345e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 4726866,
-      "change": "new",
-      "change_val": 0
+      "rating": 4.7,
+      "rating_count": 390145,
+      "change": "-4",
+      "change_val": -4
     },
     {
       "rank": 18,
@@ -214,11 +214,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 162766,
-      "change": "-4",
-      "change_val": -4
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/07/2e/89072e25-d928-13d3-cf0b-225fa37d04e4/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 376737,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "422689480",
       "app_name": "Gmail - Email by Google",
       "developer": "Google",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 86342,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "835599320",
-      "app_name": "TikTok - Videos, Music & LIVE",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/8b/f0/f78bf0bc-f9f8-fd23-be94-fdd995ae1880/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 1071469,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }
