@@ -87,18 +87,6 @@
     },
     {
       "rank": 8,
-      "app_id": "com.turkcell.gncplay",
-      "app_name": "fizy: Music & Audiobook",
-      "developer": "Lifecell Music",
-      "icon_url": "https://play-lh.googleusercontent.com/wGaT8hqLH3k-mrJqPY0PkiR57UNCVlgyaSJsKJaEc8_TCfFEzW1JMhTJH94FXuoI4Ad3O6mSrk2SXmO2Omf7Gw",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
       "app_id": "com.etstur",
       "app_name": "Etstur - Otel Ara, Uçak Bileti",
       "developer": "Etstur",
@@ -106,8 +94,20 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "com.turkcell.gncplay",
+      "app_name": "fizy: Music & Audiobook",
+      "developer": "Lifecell Music",
+      "icon_url": "https://play-lh.googleusercontent.com/wGaT8hqLH3k-mrJqPY0PkiR57UNCVlgyaSJsKJaEc8_TCfFEzW1JMhTJH94FXuoI4Ad3O6mSrk2SXmO2Omf7Gw",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
