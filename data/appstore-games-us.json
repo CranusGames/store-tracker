@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "rankings": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 378444,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 443275,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -90,7 +90,7 @@
       "app_id": "329218549",
       "app_name": "Chess.com - Play and Learn",
       "developer": "Chess.com",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/b4/78/81b478e5-8011-26f4-7faf-179b6e9dc1bf/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/69/ef/3369efe4-8177-00ef-e545-96ff6218b808/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
       "rating_count": 895864,
@@ -135,18 +135,6 @@
     },
     {
       "rank": 12,
-      "app_id": "6758326278",
-      "app_name": "Amaze GO!™",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/87/16/c287162b-c7c1-a9a9-8c4f-7747fdd45804/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 278480,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 13,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -154,6 +142,18 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1829799,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6758326278",
+      "app_name": "Amaze GO!™",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/87/16/c287162b-c7c1-a9a9-8c4f-7747fdd45804/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 278480,
       "change": "-1",
       "change_val": -1
     },
@@ -166,20 +166,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2846,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
-      "app_id": "6783815362",
-      "app_name": "Word Tiles - Relaxing Puzzle",
-      "developer": "Agave Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/77/78/3c777814-a276-ac8e-1473-5f6e3b933576/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6793924927",
+      "app_name": "Rotate Rings",
+      "developer": "Nebula Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/fb/42/95fb4241-1c58-78e7-9057-25927d4ad5b9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 77066,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.8,
+      "rating_count": 101225,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 16,
@@ -195,15 +195,15 @@
     },
     {
       "rank": 17,
-      "app_id": "6793924927",
-      "app_name": "Rotate Rings",
-      "developer": "Nebula Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/fb/42/95fb4241-1c58-78e7-9057-25927d4ad5b9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "6783815362",
+      "app_name": "Word Tiles - Relaxing Puzzle",
+      "developer": "Agave Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/77/78/3c777814-a276-ac8e-1473-5f6e3b933576/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 101225,
-      "change": "=",
-      "change_val": 0
+      "rating": 4.9,
+      "rating_count": 77066,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 215322,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 17667,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 153589,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
