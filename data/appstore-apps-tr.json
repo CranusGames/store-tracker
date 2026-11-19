@@ -10,35 +10,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 1065,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 2,
-      "app_id": "1633045734",
-      "app_name": "İŞKUR Mobil",
-      "developer": "Türkiye İş Kurumu",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/20/cf/eb20cf3d-f299-74df-bc1d-9626d35dd258/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 20893,
-      "change": "+6",
-      "change_val": 6
-    },
-    {
-      "rank": 3,
-      "app_id": "1451805015",
-      "app_name": "ÖSYM Aday İşlemleri Sistemi",
-      "developer": "Olcme Secme ve Yerlestirme Merkezi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/2c/3a/1e2c3aa6-ee36-c392-adc9-03a51de467ed/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 1.4,
-      "rating_count": 6579,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "6816638026",
       "app_name": "KadroBul: Memur Alım İlanları",
       "developer": "MUHAMMET OGUZHAN ORAL",
@@ -46,8 +22,32 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 75,
-      "change": "new",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 3,
+      "app_id": "1633045734",
+      "app_name": "İŞKUR Mobil",
+      "developer": "Türkiye İş Kurumu",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/20/cf/eb20cf3d-f299-74df-bc1d-9626d35dd258/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 20893,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 4,
+      "app_id": "1451805015",
+      "app_name": "ÖSYM Aday İşlemleri Sistemi",
+      "developer": "Olcme Secme ve Yerlestirme Merkezi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/2c/3a/1e2c3aa6-ee36-c392-adc9-03a51de467ed/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 1.4,
+      "rating_count": 6579,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -58,11 +58,71 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 82097,
-      "change": "-3",
-      "change_val": -3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 6,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/19/7e/05197e14-033a-7a5c-4b7b-32cecc32952e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1271797,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 7,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/0b/96/ab0b965d-c303-140d-62ae-d9c201e41045/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 491703,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 8,
+      "app_id": "6473753684",
+      "app_name": "Claude by Anthropic",
+      "developer": "Anthropic PBC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b2/9e/54b29e8c-1a68-d582-6e0e-c83cf7d11ccc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 10348,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 9,
+      "app_id": "6752504090",
+      "app_name": "MemurJet: Kamu Personeli Alımı",
+      "developer": "BURAK ALP KARA",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2c/39/262c393e-c9c8-6dc4-09b2-9674a8c375f1/icon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 76,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 10,
+      "app_id": "976505454",
+      "app_name": "e-Devlet",
+      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/9c/b6/e49cb6e9-95db-8ee4-fb02-9a23e5e9c02a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.4,
+      "rating_count": 9745,
+      "change": "=",
+      "change_val": 0
+    },
+    {
+      "rank": 11,
       "app_id": "6446202561",
       "app_name": "KICK - Live Streaming",
       "developer": "Kick Streaming",
@@ -74,76 +134,16 @@
       "change_val": -5
     },
     {
-      "rank": 7,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/0b/96/ab0b965d-c303-140d-62ae-d9c201e41045/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 491703,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 8,
-      "app_id": "6473753684",
-      "app_name": "Claude by Anthropic",
-      "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b2/9e/54b29e8c-1a68-d582-6e0e-c83cf7d11ccc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 10348,
-      "change": "-5",
-      "change_val": -5
-    },
-    {
-      "rank": 9,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/19/7e/05197e14-033a-7a5c-4b7b-32cecc32952e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1271797,
-      "change": "-4",
-      "change_val": -4
-    },
-    {
-      "rank": 10,
-      "app_id": "976505454",
-      "app_name": "e-Devlet",
-      "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/9c/b6/e49cb6e9-95db-8ee4-fb02-9a23e5e9c02a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.4,
-      "rating_count": 9745,
-      "change": "+5",
-      "change_val": 5
-    },
-    {
-      "rank": 11,
-      "app_id": "6752504090",
-      "app_name": "MemurJet: Kamu Personeli Alımı",
-      "developer": "BURAK ALP KARA",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/2c/39/262c393e-c9c8-6dc4-09b2-9674a8c375f1/icon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 76,
-      "change": "new",
-      "change_val": 0
-    },
-    {
       "rank": 12,
-      "app_id": "6670430706",
-      "app_name": "DramaWave - Dramas & Reels",
-      "developer": "SKYWORK AI PTE LTD",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/1a/45/581a45be-318a-cbe7-4f01-ed9ee931cfd4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f2/7b/5af27b71-8b04-890f-5da6-e09c89d22f61/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 32375,
-      "change": "-5",
-      "change_val": -5
+      "rating": 4.7,
+      "rating_count": 445601,
+      "change": "+7",
+      "change_val": 7
     },
     {
       "rank": 13,
@@ -154,35 +154,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 23285,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 14,
-      "app_id": "980446169",
-      "app_name": "e-Nabız",
-      "developer": "T.C. Saglik Bakanligi",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 547955,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 15,
       "app_id": "585027354",
       "app_name": "Google Maps",
       "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/61/ff/3961fff5-0331-2f4e-9c90-b28d30998f69/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/f6/2f/17f62fbc-d010-5a9e-e5ce-a2a3e4b7ab8b/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
       "rating_count": 177039,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "333903271",
       "app_name": "X",
       "developer": "X Corp.",
@@ -190,23 +178,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1670632,
-      "change": "-10",
-      "change_val": -10
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
-      "app_id": "885993234",
-      "app_name": "Ziraat Mobil",
-      "developer": "T.C. Ziraat Bankası A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2b/83/932b830e-b3d1-4961-3a46-93806fbf1115/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1735040,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
@@ -214,23 +190,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 1951772,
-      "change": "-9",
-      "change_val": -9
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 19,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f2/7b/5af27b71-8b04-890f-5da6-e09c89d22f61/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445601,
-      "change": "-9",
-      "change_val": -9
-    },
-    {
-      "rank": 20,
+      "rank": 17,
       "app_id": "373034841",
       "app_name": "Yemeksepeti: Food & Grocery",
       "developer": "YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI",
@@ -238,8 +202,44 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1918687,
-      "change": "-9",
-      "change_val": -9
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 18,
+      "app_id": "980446169",
+      "app_name": "e-Nabız",
+      "developer": "T.C. Saglik Bakanligi",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 547955,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 19,
+      "app_id": "885993234",
+      "app_name": "Ziraat Mobil",
+      "developer": "T.C. Ziraat Bankası A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2b/83/932b830e-b3d1-4961-3a46-93806fbf1115/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1735040,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 20,
+      "app_id": "284815942",
+      "app_name": "Google - More ways to search",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/33/d8/7233d884-35b3-1ed3-4376-b3888064295f/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 378328,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
