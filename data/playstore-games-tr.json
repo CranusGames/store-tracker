@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "rankings": [
     {
       "rank": 1,
@@ -166,23 +166,11 @@
       "installs": "50,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
-      "app_id": "bubbleshooter.orig",
-      "app_name": "Bubble Shooter - Classic Pop",
-      "developer": "Bubble Shooter",
-      "icon_url": "https://play-lh.googleusercontent.com/xyfJ1bJJpGj_4fz_dQMFvvE5HH3wATJAGYFUjBQ4sQwvEO7yCr8v-Xi-GmaSd-iTk8__i8IbTq3nh-rSQIi3w5o",
-      "installs": "500,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "com.supercell.brawlstars",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
@@ -190,8 +178,20 @@
       "installs": "500,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 16,
+      "app_id": "com.firsttouchgames.dls7",
+      "app_name": "Dream League Soccer 2026",
+      "developer": "First Touch Games Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/ldysRAGsIH0zWeNoCMhAUNx6OXp6SuNyeSMXiW7SHTluJVAkfxHP2XLTlxiV9WkBvvE2JXsK08JveGAuGNZNMw",
+      "installs": "100,000,000+",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 17,
@@ -207,15 +207,15 @@
     },
     {
       "rank": 18,
-      "app_id": "com.firsttouchgames.dls7",
-      "app_name": "Dream League Soccer 2026",
-      "developer": "First Touch Games Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/ldysRAGsIH0zWeNoCMhAUNx6OXp6SuNyeSMXiW7SHTluJVAkfxHP2XLTlxiV9WkBvvE2JXsK08JveGAuGNZNMw",
-      "installs": "100,000,000+",
-      "rating": 4.1,
+      "app_id": "bubbleshooter.orig",
+      "app_name": "Bubble Shooter - Classic Pop",
+      "developer": "Bubble Shooter",
+      "icon_url": "https://play-lh.googleusercontent.com/xyfJ1bJJpGj_4fz_dQMFvvE5HH3wATJAGYFUjBQ4sQwvEO7yCr8v-Xi-GmaSd-iTk8__i8IbTq3nh-rSQIi3w5o",
+      "installs": "500,000,000+",
+      "rating": 4.4,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 19,
@@ -226,8 +226,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -238,8 +238,8 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     }
   ]
 }
