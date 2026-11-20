@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "rankings": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/42/58/f942580f-3b49-693f-10cf-8736e72f21c7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1065,
+      "rating_count": 1562,
       "change": "=",
       "change_val": 0
     },
@@ -21,9 +21,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/1f/19/611f191f-9637-f3b0-dc5c-6b45faf540eb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 75,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 76,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -33,12 +33,48 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/20/cf/eb20cf3d-f299-74df-bc1d-9626d35dd258/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 20893,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 21178,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/85/7a/f4857a17-dd54-31c0-e82f-0e17dd67ba2e/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.4,
+      "rating_count": 82258,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/19/7e/05197e14-033a-7a5c-4b7b-32cecc32952e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 1273879,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/42/70/0042705c-df7a-cff7-d36e-bc19b959ee3e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 492420,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
       "app_id": "1451805015",
       "app_name": "ÖSYM Aday İşlemleri Sistemi",
       "developer": "Olcme Secme ve Yerlestirme Merkezi",
@@ -46,44 +82,8 @@
       "installs": "",
       "rating": 1.4,
       "rating_count": 6579,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 5,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/85/7a/f4857a17-dd54-31c0-e82f-0e17dd67ba2e/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.4,
-      "rating_count": 82097,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/19/7e/05197e14-033a-7a5c-4b7b-32cecc32952e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 1271797,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 7,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/0b/96/ab0b965d-c303-140d-62ae-d9c201e41045/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 491703,
-      "change": "=",
-      "change_val": 0
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 8,
@@ -93,7 +93,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b2/9e/54b29e8c-1a68-d582-6e0e-c83cf7d11ccc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 10348,
+      "rating_count": 10400,
       "change": "=",
       "change_val": 0
     },
@@ -106,92 +106,92 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 76,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 10,
+      "app_id": "6446202561",
+      "app_name": "KICK - Live Streaming",
+      "developer": "Kick Streaming",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/1f/df/3d1fdfce-be5c-df45-a74b-f060c79db077/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.9,
+      "rating_count": 6036,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
       "app_id": "976505454",
       "app_name": "e-Devlet",
       "developer": "T.C. CUMHURBAŞKANLIĞI SİBER GÜVENLİK BAŞKANLIĞI",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/9c/b6/e49cb6e9-95db-8ee4-fb02-9a23e5e9c02a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 3.4,
-      "rating_count": 9745,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
-      "app_id": "6446202561",
-      "app_name": "KICK - Live Streaming",
-      "developer": "Kick Streaming",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/76/a2/9276a27a-4405-f8fe-859f-9fe0c29de1e1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 5969,
-      "change": "-5",
-      "change_val": -5
+      "rating_count": 9747,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
-      "app_id": "6463031298",
-      "app_name": "Trendyol Go: Food & Groceries",
-      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f2/7b/5af27b71-8b04-890f-5da6-e09c89d22f61/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 445601,
-      "change": "+7",
-      "change_val": 7
-    },
-    {
-      "rank": 13,
-      "app_id": "1644664646",
-      "app_name": "A101: Tek Uygulama",
-      "developer": "YENİ MAĞAZACILIK ANONİM ŞİRKETİ",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/3a/b1/aa3ab1c5-d435-4212-edb7-f2e2204f07e0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 23285,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
-      "app_id": "585027354",
-      "app_name": "Google Maps",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/f6/2f/17f62fbc-d010-5a9e-e5ce-a2a3e4b7ab8b/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 177039,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 15,
       "app_id": "333903271",
       "app_name": "X",
       "developer": "X Corp.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/ed/ad/30edad77-18a2-4e44-1276-1e530ff10d74/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1670632,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 1670761,
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 16,
+      "rank": 13,
+      "app_id": "6463031298",
+      "app_name": "Trendyol Go: Food & Groceries",
+      "developer": "TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f2/7b/5af27b71-8b04-890f-5da6-e09c89d22f61/AppIconV2-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 445585,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 14,
       "app_id": "481035064",
       "app_name": "Hepsiburada: Online Shopping",
       "developer": "Hepsiburada",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/64/f5/6e64f5bc-a3c0-84b4-6ded-f1bba3812338/AppIcon-iPhone-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 1951772,
+      "rating_count": 1952200,
       "change": "+2",
       "change_val": 2
+    },
+    {
+      "rank": 15,
+      "app_id": "585027354",
+      "app_name": "Google Maps",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/f6/2f/17f62fbc-d010-5a9e-e5ce-a2a3e4b7ab8b/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 177066,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 16,
+      "app_id": "1644664646",
+      "app_name": "A101: Tek Uygulama",
+      "developer": "YENİ MAĞAZACILIK ANONİM ŞİRKETİ",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/3a/b1/aa3ab1c5-d435-4212-edb7-f2e2204f07e0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 23283,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 17,
@@ -201,9 +201,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/d0/26/3bd026ae-b509-378c-caa4-df778cf05df6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 1918687,
-      "change": "+3",
-      "change_val": 3
+      "rating_count": 1918679,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 18,
@@ -213,9 +213,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/6f/32/2a6f3278-2987-ef87-8882-e1ca48c07f44/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 547955,
-      "change": "-4",
-      "change_val": -4
+      "rating_count": 547934,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -225,9 +225,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/2b/83/932b830e-b3d1-4961-3a46-93806fbf1115/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 1735040,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 1735301,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 20,
@@ -237,8 +237,8 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/33/d8/7233d884-35b3-1ed3-4376-b3888064295f/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.4,
-      "rating_count": 378328,
-      "change": "new",
+      "rating_count": 378575,
+      "change": "=",
       "change_val": 0
     }
   ]

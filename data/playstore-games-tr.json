@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "rankings": [
     {
       "rank": 1,
@@ -111,18 +111,6 @@
     },
     {
       "rank": 10,
-      "app_id": "com.fun.lastwar.gp",
-      "app_name": "Last War:Survival Game",
-      "developer": "FUNFLY PTE. LTD.",
-      "icon_url": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "com.tocaboca.tocalifeworld",
       "app_name": "Toca Boca World",
       "developer": "Toca Boca",
@@ -130,11 +118,11 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 12,
+      "rank": 11,
       "app_id": "com.kiloo.subwaysurf",
       "app_name": "Subway Surfers",
       "developer": "SYBO Games",
@@ -142,8 +130,20 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 12,
+      "app_id": "com.ea.gp.fifamobile",
+      "app_name": "EA SPORTS FC Soccer Mobile 27",
+      "developer": "ELECTRONIC ARTS",
+      "icon_url": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
+      "installs": "500,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 13,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "com.ea.gp.fifamobile",
-      "app_name": "EA SPORTS FC Soccer Mobile 27",
-      "developer": "ELECTRONIC ARTS",
-      "icon_url": "https://play-lh.googleusercontent.com/uT1JkXWK9pv1DWWOuVebnsbATHMZmhG4LUDkvoXne9H2MDF1im00_-U4taZPifIBpJ47sA0i8IoCh5aEVuUG5JI",
-      "installs": "500,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "com.firsttouchgames.dls7",
       "app_name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -178,11 +166,11 @@
       "installs": "100,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "com.supercell.brawlstars",
       "app_name": "Brawl Stars",
       "developer": "Supercell",
@@ -190,23 +178,11 @@
       "installs": "500,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
-      "app_id": "bubbleshooter.orig",
-      "app_name": "Bubble Shooter - Classic Pop",
-      "developer": "Bubble Shooter",
-      "icon_url": "https://play-lh.googleusercontent.com/xyfJ1bJJpGj_4fz_dQMFvvE5HH3wATJAGYFUjBQ4sQwvEO7yCr8v-Xi-GmaSd-iTk8__i8IbTq3nh-rSQIi3w5o",
-      "installs": "500,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "app_id": "jp.konami.pesam",
       "app_name": "eFootball™",
       "developer": "KONAMI",
@@ -214,11 +190,11 @@
       "installs": "100,000,000+",
       "rating": 4.4,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 19,
+      "rank": 17,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -226,11 +202,23 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 18,
+      "app_id": "bubbleshooter.orig",
+      "app_name": "Bubble Shooter - Classic Pop",
+      "developer": "Bubble Shooter",
+      "icon_url": "https://play-lh.googleusercontent.com/xyfJ1bJJpGj_4fz_dQMFvvE5HH3wATJAGYFUjBQ4sQwvEO7yCr8v-Xi-GmaSd-iTk8__i8IbTq3nh-rSQIi3w5o",
+      "installs": "500,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
       "change": "-1",
       "change_val": -1
     },
     {
-      "rank": 20,
+      "rank": 19,
       "app_id": "com.playrix.gardenscapes",
       "app_name": "Gardenscapes",
       "developer": "Playrix",
@@ -238,7 +226,19 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "com.kitkagames.fallbuddies",
+      "app_name": "Stumble Guys",
+      "developer": "Scopely",
+      "icon_url": "https://play-lh.googleusercontent.com/NW7_ezBVEWM3ovtvz57SrSNJw-n9C78cV8PSz2sjhp5eCmtBAawQ3CE3VR3Da9hESb8QQ1hhz2wEFg71y1rG",
+      "installs": "100,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "new",
       "change_val": 0
     }
   ]
