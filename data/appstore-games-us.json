@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "rankings": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/52/bf/9c52bf76-e0d2-baed-3504-c50d57c59491/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 449088,
+      "rating_count": 449837,
       "change": "=",
       "change_val": 0
     },
@@ -21,9 +21,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/cd/31/29cd31ef-903b-8620-f3e4-9cd9822d1b3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 382779,
-      "change": "+2",
-      "change_val": 2
+      "rating_count": 383417,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -33,9 +33,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 93305,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 93457,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -45,9 +45,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/bb/99/71bb9954-ada9-c5e5-be3f-5f841bf0d74e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 750322,
-      "change": "-1",
-      "change_val": -1
+      "rating_count": 750944,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 5,
@@ -57,7 +57,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/79/9b/19799bab-c3cb-6e9c-e0c6-53cbf1fb833f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 30556,
+      "rating_count": 30708,
       "change": "=",
       "change_val": 0
     },
@@ -69,33 +69,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/69/ef/3369efe4-8177-00ef-e545-96ff6218b808/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 900873,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 901712,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
-      "app_id": "6783815362",
-      "app_name": "Word Tiles - Relaxing Puzzle",
-      "developer": "Agave Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/77/78/3c777814-a276-ac8e-1473-5f6e3b933576/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 81439,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 8,
       "app_id": "6483539426",
       "app_name": "Fortnite",
       "developer": "Epic Games Inc.",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/c4/00/a9c4002f-046a-ee19-68c9-730ee92109fa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 442504,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 443281,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 8,
+      "app_id": "6783815362",
+      "app_name": "Word Tiles - Relaxing Puzzle",
+      "developer": "Agave Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/77/78/3c777814-a276-ac8e-1473-5f6e3b933576/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 82241,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -105,33 +105,33 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b8/b8/05b8b8cc-1410-a32b-eb2c-3e24acd99189/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.5,
-      "rating_count": 20694432,
+      "rating_count": 20697485,
       "change": "=",
       "change_val": 0
     },
     {
       "rank": 10,
-      "app_id": "6812166638",
-      "app_name": "Sort Streak: Color Puzzle",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/be/8d/93be8dd1-a300-58a6-5886-8b63e4090e21/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 7274,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/1e/9f/481e9f1d-900d-d4d7-2fab-354ba5f433de/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 2865411,
-      "change": "=",
-      "change_val": 0
+      "rating_count": 2866326,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 11,
+      "app_id": "6812166638",
+      "app_name": "Sort Streak: Color Puzzle",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/be/8d/93be8dd1-a300-58a6-5886-8b63e4090e21/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 8174,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 12,
@@ -141,7 +141,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/b8/18/68b81866-bfa9-f349-199e-20706e24ba11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 1833808,
+      "rating_count": 1834409,
       "change": "=",
       "change_val": 0
     },
@@ -153,7 +153,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/fa/ae/71faae5b-1569-34d5-2c5b-0e763c811ed0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
-      "rating_count": 105450,
+      "rating_count": 106138,
       "change": "=",
       "change_val": 0
     },
@@ -165,7 +165,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/1b/52/311b52d8-1de2-5561-cad2-4c4643ac1fb0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 2239306,
+      "rating_count": 2239540,
       "change": "=",
       "change_val": 0
     },
@@ -177,7 +177,7 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/28/38/00283898-8de9-64fa-7f0d-62e829de0db6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
-      "rating_count": 281993,
+      "rating_count": 282516,
       "change": "=",
       "change_val": 0
     },
@@ -189,9 +189,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/da/be/e6dabe74-dc92-76c8-e9ba-a5e6e161b5b2/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 31494,
-      "change": "+1",
-      "change_val": 1
+      "rating_count": 31632,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 17,
@@ -201,8 +201,8 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/95/09/a7950973-f828-69a3-9d21-4e9c598a596b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.6,
-      "rating_count": 215836,
-      "change": "new",
+      "rating_count": 215914,
+      "change": "=",
       "change_val": 0
     },
     {
@@ -213,9 +213,9 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/66/e8/d566e8a2-c080-4e17-b700-03d20da45aeb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 7873,
-      "change": "-2",
-      "change_val": -2
+      "rating_count": 7901,
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 19,
@@ -225,21 +225,21 @@
       "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/29/97/6c29979b-16aa-f9ae-d770-ad7e95782969/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.9,
-      "rating_count": 31144,
-      "change": "new",
+      "rating_count": 31320,
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 20,
-      "app_id": "6747492600",
-      "app_name": "Mahjong Blast",
-      "developer": "Nebula Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/3f/ac/a93faca7-5a55-6734-ed81-a0231c46f0e0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "1443446174",
+      "app_name": "Magic Tiles 3™: Piano Game",
+      "developer": "Amanotes Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/09/85/2109855a-4b74-8685-6801-b0b2c3756364/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.9,
-      "rating_count": 674168,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.6,
+      "rating_count": 858710,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
