@@ -27,18 +27,6 @@
     },
     {
       "rank": 3,
-      "app_id": "6448311069",
-      "app_name": "ChatGPT",
-      "developer": "OpenAI OpCo, LLC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/19/7e/05197e14-033a-7a5c-4b7b-32cecc32952e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 12435658,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
       "app_id": "632064380",
       "app_name": "Vinted: Pre-loved marketplace",
       "developer": "Vinted Limited",
@@ -46,8 +34,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 832630,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 4,
+      "app_id": "6448311069",
+      "app_name": "ChatGPT",
+      "developer": "OpenAI OpCo, LLC",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/19/7e/05197e14-033a-7a5c-4b7b-32cecc32952e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 12435658,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
@@ -66,7 +66,7 @@
       "app_id": "6473753684",
       "app_name": "Claude by Anthropic",
       "developer": "Anthropic PBC",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/b2/9e/54b29e8c-1a68-d582-6e0e-c83cf7d11ccc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/3c/7b/213c7baf-7731-12fc-ea82-e1628b3fa4e7/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 310449,
@@ -75,78 +75,6 @@
     },
     {
       "rank": 7,
-      "app_id": "6477489729",
-      "app_name": "Google Gemini",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/42/70/0042705c-df7a-cff7-d36e-bc19b959ee3e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 2446955,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 8,
-      "app_id": "284815942",
-      "app_name": "Google",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/33/d8/7233d884-35b3-1ed3-4376-b3888064295f/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 5390564,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
-      "app_id": "6754134922",
-      "app_name": "PineDrama - Short Dramas",
-      "developer": "TikTok Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/10/77/9b107787-a4ee-9612-764b-4b0b5a18e5f6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 188790,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 10,
-      "app_id": "410896080",
-      "app_name": "PlayStation App",
-      "developer": "PlayStation Mobile Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/47/a6/7a47a62b-e11d-e11a-62b0-529d38ba42b3/PlayStation-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 92053,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
-      "app_id": "1223471316",
-      "app_name": "Shop: Track, Pay, Discover",
-      "developer": "Shopify Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/96/fd/6f96fd79-f61c-c037-7aaf-479ac9c59a31/AppIconProduction-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 7266265,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 12,
-      "app_id": "6446901002",
-      "app_name": "Threads",
-      "developer": "Instagram, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/85/7a/f4857a17-dd54-31c0-e82f-0e17dd67ba2e/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 2385197,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
       "app_id": "680819774",
       "app_name": "Google Home",
       "developer": "Google",
@@ -154,11 +82,71 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1406525,
+      "change": "+6",
+      "change_val": 6
+    },
+    {
+      "rank": 8,
+      "app_id": "6477489729",
+      "app_name": "Google Gemini",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/42/70/0042705c-df7a-cff7-d36e-bc19b959ee3e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 2446955,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 9,
+      "app_id": "284815942",
+      "app_name": "Google",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/33/d8/7233d884-35b3-1ed3-4376-b3888064295f/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 5390564,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 10,
+      "app_id": "6754134922",
+      "app_name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/10/77/9b107787-a4ee-9612-764b-4b0b5a18e5f6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 188790,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 11,
+      "app_id": "410896080",
+      "app_name": "PlayStation App",
+      "developer": "PlayStation Mobile Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/47/a6/7a47a62b-e11d-e11a-62b0-529d38ba42b3/PlayStation-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 92053,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 12,
+      "app_id": "6447582581",
+      "app_name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/1e/55/6b1e5551-d877-a7cc-a5a1-b1b68dc07e28/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 262879,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 14,
+      "rank": 13,
       "app_id": "1605170923",
       "app_name": "GoWish - Your Digital Wishlist",
       "developer": "Onskeskyen ApS",
@@ -166,35 +154,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 247992,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 15,
-      "app_id": "407558537",
-      "app_name": "Capital One Mobile",
-      "developer": "Capital One",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/5e/87/125e8742-c02e-f7fd-b7ce-371762b6eaa5/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 11337487,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 16,
-      "app_id": "535886823",
-      "app_name": "Google Chrome",
-      "developer": "Google",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/f7/78/84f778d8-131e-7ce0-fa6b-c3e58f598e68/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 4115455,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
+      "rank": 14,
       "app_id": "1500855883",
       "app_name": "CapCut: Photo & Video Editor",
       "developer": "Bytedance Pte. Ltd",
@@ -202,23 +166,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 1127397,
-      "change": "-2",
-      "change_val": -2
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 18,
-      "app_id": "6742024490",
-      "app_name": "Reco Social",
-      "developer": "Reco Social, Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/17/6c/a9176cf2-f2f7-16ad-81d4-32887755d218/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rank": 15,
+      "app_id": "6446901002",
+      "app_name": "Threads",
+      "developer": "Instagram, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/85/7a/f4857a17-dd54-31c0-e82f-0e17dd67ba2e/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.7,
-      "rating_count": 34865,
-      "change": "-7",
-      "change_val": -7
+      "rating": 4.6,
+      "rating_count": 2385197,
+      "change": "-3",
+      "change_val": -3
     },
     {
-      "rank": 19,
+      "rank": 16,
       "app_id": "1632713844",
       "app_name": "Kalshi: Trade Sports & Events",
       "developer": "KalshiEX LLC",
@@ -226,11 +190,35 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 710530,
-      "change": "+1",
-      "change_val": 1
+      "change": "+3",
+      "change_val": 3
     },
     {
-      "rank": 20,
+      "rank": 17,
+      "app_id": "1223471316",
+      "app_name": "Shop: Track, Pay, Discover",
+      "developer": "Shopify Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/96/fd/6f96fd79-f61c-c037-7aaf-479ac9c59a31/AppIconProduction-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 7266265,
+      "change": "-6",
+      "change_val": -6
+    },
+    {
+      "rank": 18,
+      "app_id": "535886823",
+      "app_name": "Google Chrome",
+      "developer": "Google",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/f7/78/84f778d8-131e-7ce0-fa6b-c3e58f598e68/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 4115455,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 19,
       "app_id": "6472232952",
       "app_name": "Koupon: Promo Codes & Deals",
       "developer": "Koupon Inc.",
@@ -238,8 +226,20 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 58208,
-      "change": "-2",
-      "change_val": -2
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 20,
+      "app_id": "719972451",
+      "app_name": "DoorDash: Food, Grocery, More",
+      "developer": "DoorDash, Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/dd/ad/0addadd4-ba07-377e-fa9e-30682ee57d75/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 23688326,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }

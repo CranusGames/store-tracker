@@ -3,30 +3,6 @@
   "rankings": [
     {
       "rank": 1,
-      "app_id": "com.zhiliaoapp.musically",
-      "app_name": "TikTok - Videos, Shop & LIVE",
-      "developer": "TikTok Pte. Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/2o7iuqPe-0msP3DvNhzoOgNo4eZ6GkL_RtGVeKyBn5UBQAW5cw-GW5V3wDOHB1yTQuqWzrFLFOv2u4_5ea1uhg",
-      "installs": "",
-      "rating": 3.9,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
-      "app_id": "com.ss.android.ugc.tiktok.pro",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Pte. Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/PKSZ5KxriEBiLm1_LyNrOMANu7sI59pfIxwzmv2-9NXqf3IaK1kRW13rj_J8PtrW72dcDdN9BzYsjs02Tge0OA",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "com.facebook.lite",
       "app_name": "Facebook Lite",
       "developer": "Meta Platforms, Inc.",
@@ -34,11 +10,11 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 4,
+      "rank": 2,
       "app_id": "com.facebook.katana",
       "app_name": "Facebook",
       "developer": "Meta Platforms, Inc.",
@@ -46,11 +22,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 5,
+      "rank": 3,
       "app_id": "com.instagram.android",
       "app_name": "Instagram",
       "developer": "Instagram",
@@ -58,11 +34,11 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 6,
+      "rank": 4,
       "app_id": "com.snapchat.android",
       "app_name": "Snapchat",
       "developer": "Snap Inc",
@@ -70,35 +46,35 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 7,
-      "app_id": "com.pinterest",
-      "app_name": "Pinterest",
-      "developer": "Pinterest",
-      "icon_url": "https://play-lh.googleusercontent.com/VExMwhu9Fe5kz72YnPWP6mHrNA5WfgZ-PJMnBnQmXFpLncTAOaaHtK4b8w7b2xxGxtqycDatYslVyNSLucl9QA",
+      "rank": 5,
+      "app_id": "tv.twitch.android.app",
+      "app_name": "Twitch: Live Streaming",
+      "developer": "Twitch Interactive, Inc.",
+      "icon_url": "https://play-lh.googleusercontent.com/ii5k3zcHiswGTgLkaQJDUm_nVBR_mo8u_M2M7oPWYuQWm8aviaSLd_ldf8PO_U1-lOdVLzZ6DARs_UxMG9sL",
       "installs": "",
-      "rating": 4.2,
-      "rating_count": 0,
-      "change": "+4",
-      "change_val": 4
-    },
-    {
-      "rank": 8,
-      "app_id": "com.wejoy.weplay.ar",
-      "app_name": "WePlay(ويبلاي) - Game & Chat",
-      "developer": "WEJOY Pte. Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/HHZnQirqcof4SThIcK2ysafYon3CooC3EnzYF1O306O56wLLTg3xfG1DEW7xBL976t-BPjJNpdu0bqRH_k9U",
-      "installs": "",
-      "rating": 4.2,
+      "rating": 4.3,
       "rating_count": 0,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 9,
+      "rank": 6,
+      "app_id": "com.ss.android.ugc.tiktok.pro",
+      "app_name": "TikTok Pro - Events",
+      "developer": "TikTok Pte. Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/PKSZ5KxriEBiLm1_LyNrOMANu7sI59pfIxwzmv2-9NXqf3IaK1kRW13rj_J8PtrW72dcDdN9BzYsjs02Tge0OA",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 7,
       "app_id": "sg.bigo.live",
       "app_name": "Bigo Live - Live Streaming App",
       "developer": "Bigo Technology Pte. Ltd.",
@@ -106,8 +82,32 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 8,
+      "app_id": "com.pinterest",
+      "app_name": "Pinterest",
+      "developer": "Pinterest",
+      "icon_url": "https://play-lh.googleusercontent.com/VExMwhu9Fe5kz72YnPWP6mHrNA5WfgZ-PJMnBnQmXFpLncTAOaaHtK4b8w7b2xxGxtqycDatYslVyNSLucl9QA",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 9,
+      "app_id": "com.wejoy.weplay.ar",
+      "app_name": "WePlay(ويبلاي) - Game & Chat",
+      "developer": "WEJOY Pte. Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/HHZnQirqcof4SThIcK2ysafYon3CooC3EnzYF1O306O56wLLTg3xfG1DEW7xBL976t-BPjJNpdu0bqRH_k9U",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
@@ -118,7 +118,7 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -130,39 +130,15 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 12,
-      "app_id": "com.discord",
-      "app_name": "Discord - Talk, Play, Hang Out",
-      "developer": "Discord Inc.",
-      "icon_url": "https://play-lh.googleusercontent.com/w2DdjDHGSj3DQElQQM0_J3PsNsALS-WD3CBeH0aXOYceR-F3aT02gFonhoFzz-Tc9ec8Dx9cLqh48-tzIFcP",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "-9",
-      "change_val": -9
-    },
-    {
-      "rank": 13,
-      "app_id": "com.instagram.barcelona",
-      "app_name": "Threads",
-      "developer": "Instagram",
-      "icon_url": "https://play-lh.googleusercontent.com/6PzXaP0KaRU4DifAfsXKbWNVA3JPrP9uklvEh5EDhzPRdPfHV4tzszhAavQa4bq0YGdbnphBucz9vEUXiu1Ebg",
-      "installs": "",
-      "rating": 4.0,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 14,
-      "app_id": "link.socialai.app",
-      "app_name": "status - sims but social media",
-      "developer": "WishRoll",
-      "icon_url": "https://play-lh.googleusercontent.com/ZJ9BekAbmjR-Ic49QsonD7L6eUOYnGUBqrPs_pvNKjAsGK1o7e5hN9j-ofvZWDWJ6pye1R2GCQ7tBPwqrshy",
+      "app_id": "juo.nko.lio",
+      "app_name": "Junko - Voice Chat Room",
+      "developer": "St Mira Inc",
+      "icon_url": "https://play-lh.googleusercontent.com/zaYDs8CM8a34NaJDy5jhCsBOWnjOQPt74i8gVe8ZXk-Sf99SyJYt-t6TdPJ29jmEkd4kW7k-h1iTIfnaj5l4ORY",
       "installs": "",
       "rating": 4.2,
       "rating_count": 0,
@@ -170,11 +146,11 @@
       "change_val": 0
     },
     {
-      "rank": 15,
-      "app_id": "com.wejoy.weplay.us",
-      "app_name": "WePlay - Game and Party",
-      "developer": "WEJOY Pte. Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/ke5EtAx5t2gjSo6UwgI8N31lEL1LbGuEXMo-j_6W7Xw8UWBPud9uRPH371yL4X-6GxaPURByvAIl9poZxk7Z_g",
+      "rank": 13,
+      "app_id": "com.client.goparty",
+      "app_name": "Vava.chat-Video Call&Translate",
+      "developer": "GoParty Team",
+      "icon_url": "https://play-lh.googleusercontent.com/mPl1kTMtPTioFvQr2wGvk_IAKZ27abE1-I6bxVMPTfE0ocpYkSQphE4OYHuLAY8ImhrY9xC8BvVcNpdVJmAt",
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
@@ -182,7 +158,7 @@
       "change_val": 0
     },
     {
-      "rank": 16,
+      "rank": 14,
       "app_id": "com.taka.vhgyk",
       "app_name": "Taka - Chat, Live, Games room",
       "developer": "Taka Group",
@@ -190,8 +166,32 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 15,
+      "app_id": "com.instagram.barcelona",
+      "app_name": "Threads",
+      "developer": "Instagram",
+      "icon_url": "https://play-lh.googleusercontent.com/6PzXaP0KaRU4DifAfsXKbWNVA3JPrP9uklvEh5EDhzPRdPfHV4tzszhAavQa4bq0YGdbnphBucz9vEUXiu1Ebg",
+      "installs": "",
+      "rating": 4.0,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 16,
+      "app_id": "link.socialai.app",
+      "app_name": "status - sims but social media",
+      "developer": "WishRoll",
+      "icon_url": "https://play-lh.googleusercontent.com/ZJ9BekAbmjR-Ic49QsonD7L6eUOYnGUBqrPs_pvNKjAsGK1o7e5hN9j-ofvZWDWJ6pye1R2GCQ7tBPwqrshy",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 17,
@@ -202,11 +202,23 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 18,
+      "app_id": "com.wejoy.weplay.us",
+      "app_name": "WePlay - Game and Party",
+      "developer": "WEJOY Pte. Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/ke5EtAx5t2gjSo6UwgI8N31lEL1LbGuEXMo-j_6W7Xw8UWBPud9uRPH371yL4X-6GxaPURByvAIl9poZxk7Z_g",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 19,
       "app_id": "com.kick.mobile",
       "app_name": "KICK: Live Streaming",
       "developer": "KICK - Live Streaming",
@@ -214,20 +226,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "com.love.vone",
-      "app_name": "Vone: Live, Video Party & Fun",
-      "developer": "Vone Team",
-      "icon_url": "https://play-lh.googleusercontent.com/-_B7j_dpetuDd6MX_r_cl0hFNdP8VL1y2iz6qRNQQIkbn57jTy7SGAV9FyJwwyGK9SA7TXhnUD-6GzWv4FPn",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 20,
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 3.6,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]
