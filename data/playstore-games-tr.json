@@ -15,18 +15,6 @@
     },
     {
       "rank": 2,
-      "app_id": "com.dts.freefiremax",
-      "app_name": "Free Fire MAX: Storm Arena",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/CHTegoh7kat0rwX0gsbqrAAepT4qYASGwJi-KyAdcxVlnQxN3pe4ahKNe6lh4_vOCutj-oQp6rWRoBKiuxvdEw",
-      "installs": "500,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 3,
       "app_id": "com.king.candycrushsaga",
       "app_name": "Candy Crush Saga",
       "developer": "King",
@@ -34,11 +22,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 4,
+      "rank": 3,
       "app_id": "com.ta.strike.ops",
       "app_name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -46,11 +34,11 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 5,
+      "rank": 4,
       "app_id": "com.imangi.templerun2",
       "app_name": "Temple Run 2",
       "developer": "Imangi Studios",
@@ -58,11 +46,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "com.block.juggle",
       "app_name": "Block Blast!",
       "developer": "HungryStudio",
@@ -70,11 +58,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 7,
+      "rank": 6,
       "app_id": "com.ludo.king",
       "app_name": "Ludo King®",
       "developer": "Gametion",
@@ -82,8 +70,20 @@
       "installs": "1,000,000,000+",
       "rating": 3.3,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 7,
+      "app_id": "com.dts.freefiremax",
+      "app_name": "Free Fire MAX: Storm Arena",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/CHTegoh7kat0rwX0gsbqrAAepT4qYASGwJi-KyAdcxVlnQxN3pe4ahKNe6lh4_vOCutj-oQp6rWRoBKiuxvdEw",
+      "installs": "500,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-5",
+      "change_val": -5
     },
     {
       "rank": 8,
