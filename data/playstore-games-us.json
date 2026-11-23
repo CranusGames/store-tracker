@@ -22,8 +22,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 4,
@@ -54,7 +54,7 @@
       "app_id": "com.kitkagames.fallbuddies",
       "app_name": "Stumble Guys",
       "developer": "Scopely",
-      "icon_url": "https://play-lh.googleusercontent.com/v7cn-JqS-IMwCjnTkmDA-6s68B5_MdDsid2ObABpIOBYOuwiqkx4_OjZJQt2i-TLJxEaVWctKay1P98ctZWL7Q",
+      "icon_url": "https://play-lh.googleusercontent.com/NW7_ezBVEWM3ovtvz57SrSNJw-n9C78cV8PSz2sjhp5eCmtBAawQ3CE3VR3Da9hESb8QQ1hhz2wEFg71y1rG",
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
@@ -70,8 +70,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,23 +82,11 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 8,
-      "app_id": "com.innersloth.spacemafia",
-      "app_name": "Among Us",
-      "developer": "Innersloth LLC",
-      "icon_url": "https://play-lh.googleusercontent.com/pfGArJJx-vtMRVu2-ziedzAhTLsHgks6N3mNyyOC0oxRdsXINGwdd9h4ZutdTG7MfgiqlDXBXnk-kNo-Fns70Q",
-      "installs": "500,000,000+",
-      "rating": 3.9,
-      "rating_count": 0,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 9,
+      "rank": 8,
       "app_id": "com.ta.strike.ops",
       "app_name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -106,23 +94,23 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "com.innersloth.spacemafia",
+      "app_name": "Among Us",
+      "developer": "Innersloth LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/pfGArJJx-vtMRVu2-ziedzAhTLsHgks6N3mNyyOC0oxRdsXINGwdd9h4ZutdTG7MfgiqlDXBXnk-kNo-Fns70Q",
+      "installs": "500,000,000+",
+      "rating": 3.9,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 10,
-      "app_id": "com.block.juggle",
-      "app_name": "Block Blast!",
-      "developer": "HungryStudio",
-      "icon_url": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
-      "installs": "1,000,000,000+",
-      "rating": 4.8,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 11,
       "app_id": "com.ludo.king",
       "app_name": "Ludo King®",
       "developer": "Gametion",
@@ -134,6 +122,18 @@
       "change_val": 1
     },
     {
+      "rank": 11,
+      "app_id": "com.block.juggle",
+      "app_name": "Block Blast!",
+      "developer": "HungryStudio",
+      "icon_url": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
+      "installs": "1,000,000,000+",
+      "rating": 4.8,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 12,
       "app_id": "com.imangi.templerun2",
       "app_name": "Temple Run 2",
@@ -142,8 +142,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
@@ -166,7 +166,7 @@
       "installs": "50,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -195,18 +195,6 @@
     },
     {
       "rank": 17,
-      "app_id": "com.dreamgames.royalmatch",
-      "app_name": "Royal Match",
-      "developer": "Dream Games, Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/lUzqBD356bdUuhqH0S6THgftTXyqDXW76fstJX1fQbdd0mpxL4oHjI38vrpzsnGQ_-qmBOIkf0uOGaNWFFbmC-A",
-      "installs": "100,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
       "app_id": "jigsaw.puzzle.free.games",
       "app_name": "Jigsaw Puzzles HD Puzzle Games",
       "developer": "Guru Puzzle Game",
@@ -214,8 +202,20 @@
       "installs": "10,000,000+",
       "rating": 4.8,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "com.dreamgames.royalmatch",
+      "app_name": "Royal Match",
+      "developer": "Dream Games, Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/lUzqBD356bdUuhqH0S6THgftTXyqDXW76fstJX1fQbdd0mpxL4oHjI38vrpzsnGQ_-qmBOIkf0uOGaNWFFbmC-A",
+      "installs": "100,000,000+",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 19,
@@ -231,14 +231,14 @@
     },
     {
       "rank": 20,
-      "app_id": "com.kiloo.subwaysurf",
-      "app_name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "icon_url": "https://play-lh.googleusercontent.com/G1eIJ3yor1yW20izrYjOfCzHgVkRtewlfPFG9CEFTHzSI2m0Lwds_Y1xYgeg21CFok_UXrol-ox2IwqL4JMrLQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.6,
+      "app_id": "com.playrix.township",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://play-lh.googleusercontent.com/bVg7mo4Mdc1bq882a-q3SxgiWKIiRLsW1MdYcwXvtLEDlXrKorLm3p8kHB2MUJhWL5tjVk6_-_I2DOAIwmR2EA",
+      "installs": "500,000,000+",
+      "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
+      "change": "new",
       "change_val": 0
     }
   ]
