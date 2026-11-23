@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "rankings": [
     {
       "rank": 1,
       "app_id": "6761760135",
       "app_name": "Meowdoku!",
       "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/52/bf/9c52bf76-e0d2-baed-3504-c50d57c59491/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/3d/0e/773d0ed6-4e4e-859f-7817-c5f7a42466e5/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
       "rating_count": 454084,
@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "431946152",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b8/b8/05b8b8cc-1410-a32b-eb2c-3e24acd99189/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 20717605,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 5,
       "app_id": "6499209744",
       "app_name": "Magic Sort!",
       "developer": "Grand Games A.Ş.",
@@ -58,6 +46,18 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 753914,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "431946152",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b8/b8/05b8b8cc-1410-a32b-eb2c-3e24acd99189/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 20717605,
       "change": "-1",
       "change_val": -1
     },
@@ -99,18 +99,6 @@
     },
     {
       "rank": 9,
-      "app_id": "1617391485",
-      "app_name": "Block Blast！",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/1e/9f/481e9f1d-900d-d4d7-2fab-354ba5f433de/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 2871326,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 10,
       "app_id": "6783815362",
       "app_name": "Word Tiles - Relaxing Puzzle",
       "developer": "Agave Games",
@@ -118,23 +106,23 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 86273,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 10,
+      "app_id": "1617391485",
+      "app_name": "Block Blast！",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/ea/66/b2ea6657-0f8d-99a0-913d-b633fab329f2/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 2871326,
       "change": "-1",
       "change_val": -1
     },
     {
       "rank": 11,
-      "app_id": "6812166638",
-      "app_name": "Sort Streak: Color Puzzle",
-      "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/be/8d/93be8dd1-a300-58a6-5886-8b63e4090e21/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 11658,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 12,
       "app_id": "6744975195",
       "app_name": "Sled Surfers",
       "developer": "Crazy Labs",
@@ -142,11 +130,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 89212,
-      "change": "+3",
-      "change_val": 3
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 13,
+      "rank": 12,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -154,15 +142,27 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1837020,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 13,
+      "app_id": "6812166638",
+      "app_name": "Sort Streak: Color Puzzle",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/be/8d/93be8dd1-a300-58a6-5886-8b63e4090e21/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 11658,
+      "change": "-2",
+      "change_val": -2
     },
     {
       "rank": 14,
       "app_id": "6793924927",
       "app_name": "Rotate Rings",
       "developer": "Nebula Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/fa/ae/71faae5b-1569-34d5-2c5b-0e763c811ed0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/2a/62/282a62f6-4a75-3e53-2c42-3ff2071ee932/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.8,
       "rating_count": 108703,
@@ -178,11 +178,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2240606,
-      "change": "-2",
-      "change_val": -2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
+      "app_id": "6747492600",
+      "app_name": "Mahjong Blast",
+      "developer": "Nebula Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/e9/cb/1ae9cb1f-3e0b-1532-6e34-108fd0bebc07/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 678196,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
       "app_id": "6758326278",
       "app_name": "Amaze GO!™",
       "developer": "Oakever Games",
@@ -190,11 +202,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 284687,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 17,
+      "rank": 18,
       "app_id": "6779167923",
       "app_name": "Colony Flow!",
       "developer": "ABI GLOBAL LTD.",
@@ -202,11 +214,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 47007,
-      "change": "=",
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "6473058122",
+      "app_name": "Charades Guess Game · Guessly",
+      "developer": "smak apps",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/70/4d/7c704daf-029f-d808-9300-dc4928fded70/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 28794,
+      "change": "new",
       "change_val": 0
     },
     {
-      "rank": 18,
+      "rank": 20,
       "app_id": "1443446174",
       "app_name": "Magic Tiles 3™: Piano Game",
       "developer": "Amanotes Pte. Ltd.",
@@ -214,32 +238,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 859965,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 19,
-      "app_id": "6742809194",
-      "app_name": "Warline: Sniper Squad",
-      "developer": "Powerfantasy",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/da/be/e6dabe74-dc92-76c8-e9ba-a5e6e161b5b2/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.9,
-      "rating_count": 32141,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 20,
-      "app_id": "1623318294",
-      "app_name": "Gossip Harbor®: Merge & Story",
-      "developer": "Microfun Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/95/09/a7950973-f828-69a3-9d21-4e9c598a596b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 216216,
-      "change": "-1",
-      "change_val": -1
+      "change": "-2",
+      "change_val": -2
     }
   ]
 }

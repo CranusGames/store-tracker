@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "rankings": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 2329,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 2,
@@ -22,15 +22,15 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 756,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 3,
       "app_id": "6761760135",
       "app_name": "Meowdoku!",
       "developer": "Oakever Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/52/bf/9c52bf76-e0d2-baed-3504-c50d57c59491/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/3d/0e/773d0ed6-4e4e-859f-7817-c5f7a42466e5/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 4256,
@@ -54,7 +54,7 @@
       "app_id": "1617391485",
       "app_name": "Block Blast!",
       "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/1e/9f/481e9f1d-900d-d4d7-2fab-354ba5f433de/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/ea/66/b2ea6657-0f8d-99a0-913d-b633fab329f2/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.7,
       "rating_count": 104180,
@@ -63,30 +63,6 @@
     },
     {
       "rank": 6,
-      "app_id": "6812384218",
-      "app_name": "Pigeon Online World",
-      "developer": "Rokogame",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/97/19/d8971936-0962-5f42-7201-303c996d2c38/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 3.8,
-      "rating_count": 220,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 7,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/54/01/af54015c-e5c2-a8fd-dbbf-cd353acd8767/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1939481,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 8,
       "app_id": "6833120681",
       "app_name": "Project W",
       "developer": "RAMAZAN CAKICI",
@@ -94,8 +70,32 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 122,
-      "change": "=",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
+    },
+    {
+      "rank": 7,
+      "app_id": "6812384218",
+      "app_name": "Pigeon Online World",
+      "developer": "Rokogame",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/97/19/d8971936-0962-5f42-7201-303c996d2c38/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 3.8,
+      "rating_count": 220,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 8,
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/54/01/af54015c-e5c2-a8fd-dbbf-cd353acd8767/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1939481,
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 9,
@@ -106,35 +106,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 3332,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 10,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1a/dc/0c1adcc0-b63f-6bdb-3cba-d74161aad06a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 702277,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 11,
-      "app_id": "6740521489",
-      "app_name": "PUBG MOBILE FLASH",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/5e/cd/745ecdd3-06e9-0bf9-6c1a-2541a8025888/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.1,
-      "rating_count": 620,
       "change": "=",
       "change_val": 0
     },
     {
-      "rank": 12,
+      "rank": 10,
       "app_id": "6746743297",
       "app_name": "Bus Fever Party!",
       "developer": "Lumi Games",
@@ -146,7 +122,7 @@
       "change_val": 2
     },
     {
-      "rank": 13,
+      "rank": 11,
       "app_id": "6755455500",
       "app_name": "Hollywood Merge",
       "developer": "VoyagerOne",
@@ -154,23 +130,35 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 5217,
-      "change": "-4",
-      "change_val": -4
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 14,
-      "app_id": "1531842415",
-      "app_name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/e3/b0/b6e3b098-cb9d-f6a8-3730-b679a43689f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 12,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1a/dc/0c1adcc0-b63f-6bdb-3cba-d74161aad06a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
       "installs": "",
       "rating": 4.2,
-      "rating_count": 22762,
+      "rating_count": 702277,
       "change": "-2",
       "change_val": -2
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "app_id": "6740521489",
+      "app_name": "PUBG MOBILE FLASH",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/5e/cd/745ecdd3-06e9-0bf9-6c1a-2541a8025888/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 620,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 14,
       "app_id": "6503262430",
       "app_name": "Social Gamebox: Impostor Game",
       "developer": "Madami UG (haftungsbeschraenkt)",
@@ -182,7 +170,31 @@
       "change_val": 1
     },
     {
+      "rank": 15,
+      "app_id": "1531842415",
+      "app_name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/4b/80/d84b8099-e0f8-5a57-ac08-accbcf88bb88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 22762,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
       "rank": 16,
+      "app_id": "6783815362",
+      "app_name": "Word Tiles - Relaxing Puzzle",
+      "developer": "Agave Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/20/72/712072de-5e89-95dd-5a05-71e1bcdc45a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3829,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 17,
       "app_id": "512939461",
       "app_name": "Subway Surfers",
       "developer": "Sybo Games ApS",
@@ -190,23 +202,23 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 348851,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 17,
-      "app_id": "6757350661",
-      "app_name": "Police Chief",
-      "developer": "VoyagerOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/04/76/7804760a-1593-97f3-e24d-a850cc2b4b55/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 3987,
-      "change": "-2",
-      "change_val": -2
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 18,
+      "app_id": "6757350661",
+      "app_name": "Police Chief",
+      "developer": "VoyagerOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/5b/15/d05b15dd-4ac3-95f5-1cdc-22bb9234d5a9/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3987,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
       "app_id": "6744975195",
       "app_name": "Sled Surfers",
       "developer": "Crazy Labs",
@@ -214,18 +226,6 @@
       "installs": "",
       "rating": 4.4,
       "rating_count": 3746,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 19,
-      "app_id": "1423046460",
-      "app_name": "Paper.io 2",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/e7/bc/53e7bcd4-40b7-67da-be7d-41a51bfd29fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.3,
-      "rating_count": 80732,
       "change": "-1",
       "change_val": -1
     },
@@ -238,7 +238,7 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 276300,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     }
   ]

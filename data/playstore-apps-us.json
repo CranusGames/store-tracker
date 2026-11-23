@@ -1,20 +1,8 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "rankings": [
     {
       "rank": 1,
-      "app_id": "musicplayer.playmusic.audioplayer",
-      "app_name": "Music Player & MP3 - DDMusic",
-      "developer": "Hitchhike Tech",
-      "icon_url": "https://play-lh.googleusercontent.com/2F74s6pJaCCVKZiflk6xPlCjCUObpEs5NEMAvSi5sLn3RDpIuWjklsDS3Bk4d57BxJDfk_D58jxW_1BM0T9l",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 2,
       "app_id": "com.lemon.lvoverseas",
       "app_name": "CapCut - Video Editor",
       "developer": "Bytedance Pte. Ltd.",
@@ -22,11 +10,35 @@
       "installs": "",
       "rating": 3.5,
       "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 2,
+      "app_id": "com.facebook.lite",
+      "app_name": "Facebook Lite",
+      "developer": "Meta Platforms, Inc.",
+      "icon_url": "https://play-lh.googleusercontent.com/HWNSz5n5jIISnAJDfnReYsNN565LJlEBfg8GoCsGWpS-rbt9txAwXCQCSJkpl8UObQLRqrGx2xi50epl1JfKP4o",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 0,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 3,
+      "app_id": "musicplayer.playmusic.audioplayer",
+      "app_name": "Music Player & MP3 - DDMusic",
+      "developer": "Hitchhike Tech",
+      "icon_url": "https://play-lh.googleusercontent.com/2F74s6pJaCCVKZiflk6xPlCjCUObpEs5NEMAvSi5sLn3RDpIuWjklsDS3Bk4d57BxJDfk_D58jxW_1BM0T9l",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 4,
       "app_id": "com.facebook.katana",
       "app_name": "Facebook",
       "developer": "Meta Platforms, Inc.",
@@ -34,11 +46,11 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "app_id": "com.spotify.music",
       "app_name": "Spotify: Music and Podcasts",
       "developer": "Spotify AB",
@@ -50,31 +62,31 @@
       "change_val": -1
     },
     {
-      "rank": 5,
-      "app_id": "com.tapon.read",
-      "app_name": "Tapon - Novels & Short Reels",
-      "developer": "Spoton Limited",
-      "icon_url": "https://play-lh.googleusercontent.com/ZHUVt2CqHMQpfRV2nQ5xm6lut4eO3f27WuuWlQTGaa0cDlc37r1Z83RkOf6TSHPO4NKrzHJHvrnnRxBB_Wp7xg",
+      "rank": 6,
+      "app_id": "com.zhiliaoapp.musically",
+      "app_name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Pte. Ltd.",
+      "icon_url": "https://play-lh.googleusercontent.com/2o7iuqPe-0msP3DvNhzoOgNo4eZ6GkL_RtGVeKyBn5UBQAW5cw-GW5V3wDOHB1yTQuqWzrFLFOv2u4_5ea1uhg",
       "installs": "",
-      "rating": 3.7,
+      "rating": 3.9,
       "rating_count": 0,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 6,
-      "app_id": "com.truecaller",
-      "app_name": "Truecaller: Spam Call Blocker",
-      "developer": "Truecaller",
-      "icon_url": "https://play-lh.googleusercontent.com/kVMxXC3fV4cyG56MZunYS2-HYaHh3eM3YTWoDbYaN5-G9xIU2k235hHVQmRrm79tzBSzt0cZ6GsBbzGzGbbMwg",
+      "rank": 7,
+      "app_id": "com.pandora.android",
+      "app_name": "Pandora - Music & Podcasts",
+      "developer": "Pandora",
+      "icon_url": "https://play-lh.googleusercontent.com/XgDrpaSgIZyml9rjxwY2ZIkVQvhqrSh7FCkD2FDYUJgUWZt33gbVaeqMZLl8UhJGkmObLwivCMPAPY-jlpcp_PQ",
       "installs": "",
-      "rating": 4.4,
+      "rating": 3.9,
       "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
+      "change": "new",
+      "change_val": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "app_id": "com.dd.doordash",
       "app_name": "DoorDash: Food, Grocery, More",
       "developer": "DoorDash",
@@ -82,11 +94,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 8,
+      "rank": 9,
       "app_id": "com.magicv.airbrush",
       "app_name": "Airbrush: Face & Photo Editor",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
@@ -94,23 +106,23 @@
       "installs": "",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 9,
-      "app_id": "colorwidgets.ios.widget.topwidgets",
-      "app_name": "Color Widgets, Theme: iWidgets",
-      "developer": "AI Photo Team",
-      "icon_url": "https://play-lh.googleusercontent.com/NDGAe0eILVJepafbhcAgZUOC8c8FfWLwApmwkPCdCgYuGZV9DY6ujxEE3RJHFzXG4jLYRu8fNPxKoChFjFgU",
+      "rank": 10,
+      "app_id": "tv.twitch.android.app",
+      "app_name": "Twitch: Live Streaming",
+      "developer": "Twitch Interactive, Inc.",
+      "icon_url": "https://play-lh.googleusercontent.com/ii5k3zcHiswGTgLkaQJDUm_nVBR_mo8u_M2M7oPWYuQWm8aviaSLd_ldf8PO_U1-lOdVLzZ6DARs_UxMG9sL",
       "installs": "",
-      "rating": 4.6,
+      "rating": 4.3,
       "rating_count": 0,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "app_id": "mymusic.offlinemusicplayer.mp3player.playmusic",
       "app_name": "Offline Music Player: Play MP3",
       "developer": "Dairy App & Notes & Audio Editor & Voice Recorder",
@@ -118,15 +130,15 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 11,
-      "app_id": "com.ubercab.eats",
-      "app_name": "Uber Eats: Food and Grocery",
-      "developer": "Uber Technologies, Inc.",
-      "icon_url": "https://play-lh.googleusercontent.com/nQpl8xd3y1dpvHp-VcZrQ7H8ikP5jDYi0tYdS-FzqKyb0qqBb-0FVzuC3eepETxYECADHSitC89yhvWkXxcy",
+      "rank": 12,
+      "app_id": "com.crunchyroll.crunchyroid",
+      "app_name": "Crunchyroll: Anime Streaming",
+      "developer": "Crunchyroll, LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/FUEOotGzxEZqItvGGov0YBiOhZBCACxCM6kF37OtpWrCG9H6EyxSeY2G8PDXQGueLxlxtL3Xr0fbkvXaQ67NLg",
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
@@ -134,7 +146,19 @@
       "change_val": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "app_id": "com.calm.android",
+      "app_name": "Calm - Sleep, Meditate, Relax",
+      "developer": "Calm.com, Inc.",
+      "icon_url": "https://play-lh.googleusercontent.com/Xkdn4M50zGD8JQk4jsNSAu_s5XaaPJDDTifjTi52R3lnKYYhva9mnNsxKG3rE2Ib-yspI90WWXrIqneMHlL0ag",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 14,
       "app_id": "com.apple.atve.androidtv.appletv",
       "app_name": "Apple TV: Shows, Movies & More",
       "developer": "Apple",
@@ -142,11 +166,23 @@
       "installs": "",
       "rating": 3.7,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 13,
+      "rank": 15,
+      "app_id": "colorwidgets.ios.widget.topwidgets",
+      "app_name": "Color Widgets, Theme: iWidgets",
+      "developer": "AI Photo Team",
+      "icon_url": "https://play-lh.googleusercontent.com/NDGAe0eILVJepafbhcAgZUOC8c8FfWLwApmwkPCdCgYuGZV9DY6ujxEE3RJHFzXG4jLYRu8fNPxKoChFjFgU",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 0,
+      "change": "-6",
+      "change_val": -6
+    },
+    {
+      "rank": 16,
       "app_id": "audioeditor.musiceditor.soundeditor.songeditor",
       "app_name": "Audio Editor & Music Editor",
       "developer": "Dairy App & Notes & Audio Editor & Voice Recorder",
@@ -154,23 +190,35 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 17,
+      "app_id": "org.telegram.messenger",
+      "app_name": "Telegram",
+      "developer": "Telegram FZ-LLC",
+      "icon_url": "https://play-lh.googleusercontent.com/PyZ3akMGXPV0tKKirKNwfO--PSQW3FHR6rD_H9mAaukZ8LiHyYFuBLeU8UZ2ok6r5SP79-3prkfybWKh98AZAD0",
+      "installs": "",
+      "rating": 3.8,
+      "rating_count": 0,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 14,
-      "app_id": "com.suno.android",
-      "app_name": "Suno - AI Music & Songs Maker",
-      "developer": "Suno, Inc",
-      "icon_url": "https://play-lh.googleusercontent.com/lIxYxKnQwksOzWMmNqWK3x3S5W7fDIVW9c5XWG9QF9KPHk5oZbsZcJKzWiKA-YOU7QiENwviQuyqXUkLPBaxNA",
+      "rank": 18,
+      "app_id": "com.moonshot.kimichat",
+      "app_name": "Kimi",
+      "developer": "Moonshot AI",
+      "icon_url": "https://play-lh.googleusercontent.com/Nu6-AAFthe9Eb_6o_-tLMd6CNqQflpfJRZK1DyKuJuoO2aUR-A_men-iFKsPg68oodWviEzkoR9f6jzFalwVig",
       "installs": "",
-      "rating": 4.8,
+      "rating": 3.6,
       "rating_count": 0,
-      "change": "-8",
-      "change_val": -8
+      "change": "new",
+      "change_val": 0
     },
     {
-      "rank": 15,
+      "rank": 19,
       "app_id": "video.editor.videomaker.effects.fx",
       "app_name": "AI Video Editor: ShotCut AI",
       "developer": "Shotcut Video Workshop",
@@ -178,11 +226,11 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-4",
+      "change_val": -4
     },
     {
-      "rank": 16,
+      "rank": 20,
       "app_id": "ai.praktika.android",
       "app_name": "Praktika – AI Language Tutor",
       "developer": "Praktika.ai Company",
@@ -190,56 +238,8 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 17,
-      "app_id": "com.einnovation.temu",
-      "app_name": "Temu: Shop Like a Billionaire",
-      "developer": "Temu",
-      "icon_url": "https://play-lh.googleusercontent.com/opNFHpwXUxk8zAVzQbvBgEcBPmgYt0uX-p28VKDZ8nJNFPA7_JHx3PO3ski-GW_FW7gf3jrEP4OCKxTpP7Wv_w",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 18,
-      "app_id": "todolist.scheduleplanner.dailyplanner.todo.reminders",
-      "app_name": "Todoery: To Do List & Planner",
-      "developer": "Dairy App & Notes & Audio Editor & Voice Recorder",
-      "icon_url": "https://play-lh.googleusercontent.com/tc-joHbggyCAMNcdozaeg0W1QF3oQcmlj7UtwkS_Avl5w7sw1BEuU_Qflyweg2J7h4ekvNpNy6Uqm79_6_Eu",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 0,
-      "change": "+2",
-      "change_val": 2
-    },
-    {
-      "rank": 19,
-      "app_id": "co.astra_ai.app.twa",
-      "app_name": "Astra AI: Study & Exam Prep",
-      "developer": "Astra AI",
-      "icon_url": "https://play-lh.googleusercontent.com/BnWNKPqAZAatYUDhcGJ5fEEeKhv0TnePUc0cGDbuYxa9n4VzgrLwQx5l-zh_Xq8mdu8PttD-zyCSx3my1zbjdsQ",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "live.shorttv.apps",
-      "app_name": "ShortMax - Short Dramas & TV",
-      "developer": "SHORTMAX LIMITED",
-      "icon_url": "https://play-lh.googleusercontent.com/qFAWc6vT4KKSCK_SAek_9Zr8Q1KQ7wHxLB_AT1pU6fqRFHvUPU7R1ZtlUqD0qdOF17M5jGI50qbJ4n7JQ2FOrto",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-4",
+      "change_val": -4
     }
   ]
 }
