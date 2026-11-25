@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "rankings": [
     {
       "rank": 1,
@@ -15,15 +15,15 @@
     },
     {
       "rank": 2,
-      "app_id": "com.tencent.ig",
-      "app_name": "PUBG MOBILE",
-      "developer": "Level Infinite",
-      "icon_url": "https://play-lh.googleusercontent.com/Se7jR6A5R0Mk9ClaIguf46yi2K3k32JsqKb3gAtrktIh3JwnFfxrQRmG9GLvdMpbxbMrReUOxzDkStxGxNo-5Q",
-      "installs": "1,000,000,000+",
+      "app_id": "com.dts.freefiremax",
+      "app_name": "Free Fire MAX: Storm Arena",
+      "developer": "GARENA INTERNATIONAL I",
+      "icon_url": "https://play-lh.googleusercontent.com/CHTegoh7kat0rwX0gsbqrAAepT4qYASGwJi-KyAdcxVlnQxN3pe4ahKNe6lh4_vOCutj-oQp6rWRoBKiuxvdEw",
+      "installs": "500,000,000+",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 3,
@@ -39,18 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "com.dts.freefiremax",
-      "app_name": "Free Fire MAX: Storm Arena",
-      "developer": "GARENA INTERNATIONAL I",
-      "icon_url": "https://play-lh.googleusercontent.com/CHTegoh7kat0rwX0gsbqrAAepT4qYASGwJi-KyAdcxVlnQxN3pe4ahKNe6lh4_vOCutj-oQp6rWRoBKiuxvdEw",
-      "installs": "500,000,000+",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
-    },
-    {
-      "rank": 5,
       "app_id": "com.ta.strike.ops",
       "app_name": "FPS Strike Ops : Modern Arena",
       "developer": "FPS Shooter & Action Game",
@@ -58,8 +46,20 @@
       "installs": "100,000,000+",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 5,
+      "app_id": "com.ludo.king",
+      "app_name": "Ludo King®",
+      "developer": "Gametion",
+      "icon_url": "https://play-lh.googleusercontent.com/qSN0Eb6mDVPIX4PRggTB3PsEU1oyPorteUfiuJ709P9cZxdWP9Y-kV0htG7rtJNYywGE-3wlrC_7Gix0h0-Urw",
+      "installs": "1,000,000,000+",
+      "rating": 3.3,
+      "rating_count": 0,
+      "change": "+3",
+      "change_val": 3
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "installs": "1,000,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 7,
@@ -82,23 +82,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 8,
-      "app_id": "com.ludo.king",
-      "app_name": "Ludo King®",
-      "developer": "Gametion",
-      "icon_url": "https://play-lh.googleusercontent.com/qSN0Eb6mDVPIX4PRggTB3PsEU1oyPorteUfiuJ709P9cZxdWP9Y-kV0htG7rtJNYywGE-3wlrC_7Gix0h0-Urw",
-      "installs": "1,000,000,000+",
-      "rating": 3.3,
-      "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 9,
       "app_id": "com.media720.games2020",
       "app_name": "Offline Games: No WiFi - FunOn",
       "developer": "Fun Offline Games",
@@ -106,8 +94,20 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 9,
+      "app_id": "com.miniclip.eightballpool",
+      "app_name": "8 Ball Pool",
+      "developer": "Miniclip.com",
+      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
+      "installs": "1,000,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 10,
@@ -123,15 +123,15 @@
     },
     {
       "rank": 11,
-      "app_id": "com.miniclip.eightballpool",
-      "app_name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "icon_url": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
-      "installs": "1,000,000,000+",
-      "rating": 4.7,
+      "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
+      "app_name": "Kids Games: For Toddlers 3-5",
+      "developer": "RV AppStudios",
+      "icon_url": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
+      "installs": "50,000,000+",
+      "rating": 4.3,
       "rating_count": 0,
-      "change": "-2",
-      "change_val": -2
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 12,
@@ -142,23 +142,11 @@
       "installs": "1,000,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 13,
-      "app_id": "com.rvappstudios.baby.toddler.kids.games.learning.activity",
-      "app_name": "Kids Games: For Toddlers 3-5",
-      "developer": "RV AppStudios",
-      "icon_url": "https://play-lh.googleusercontent.com/o1sK2IxDibPnVfApVx6XlsMdv1Di-xLCU902O6ahnkKsIphDKlRFrKLnm3p2nioDgcgZIUyWT7Xsh6ItHca4xw",
-      "installs": "50,000,000+",
-      "rating": 4.3,
-      "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 14,
       "app_id": "com.ea.gp.fifamobile",
       "app_name": "EA SPORTS FC Soccer Mobile 27",
       "developer": "ELECTRONIC ARTS",
@@ -166,11 +154,11 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-3",
-      "change_val": -3
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 15,
+      "rank": 14,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -178,11 +166,11 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "com.firsttouchgames.dls7",
       "app_name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -190,23 +178,11 @@
       "installs": "100,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
-      "app_id": "jp.konami.pesam",
-      "app_name": "eFootball™",
-      "developer": "KONAMI",
-      "icon_url": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
-      "installs": "100,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "app_id": "com.playrix.gardenscapes",
       "app_name": "Gardenscapes",
       "developer": "Playrix",
@@ -214,23 +190,11 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 19,
-      "app_id": "bubbleshooter.orig",
-      "app_name": "Bubble Shooter - Classic Pop",
-      "developer": "Bubble Shooter",
-      "icon_url": "https://play-lh.googleusercontent.com/xyfJ1bJJpGj_4fz_dQMFvvE5HH3wATJAGYFUjBQ4sQwvEO7yCr8v-Xi-GmaSd-iTk8__i8IbTq3nh-rSQIi3w5o",
-      "installs": "500,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
-    },
-    {
-      "rank": 20,
+      "rank": 17,
       "app_id": "com.kitkagames.fallbuddies",
       "app_name": "Stumble Guys",
       "developer": "Scopely",
@@ -238,8 +202,44 @@
       "installs": "100,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "-1",
-      "change_val": -1
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 18,
+      "app_id": "bubbleshooter.orig",
+      "app_name": "Bubble Shooter - Classic Pop",
+      "developer": "Bubble Shooter",
+      "icon_url": "https://play-lh.googleusercontent.com/xyfJ1bJJpGj_4fz_dQMFvvE5HH3wATJAGYFUjBQ4sQwvEO7yCr8v-Xi-GmaSd-iTk8__i8IbTq3nh-rSQIi3w5o",
+      "installs": "500,000,000+",
+      "rating": 4.4,
+      "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 19,
+      "app_id": "com.playrix.township",
+      "app_name": "Township",
+      "developer": "Playrix",
+      "icon_url": "https://play-lh.googleusercontent.com/bVg7mo4Mdc1bq882a-q3SxgiWKIiRLsW1MdYcwXvtLEDlXrKorLm3p8kHB2MUJhWL5tjVk6_-_I2DOAIwmR2EA",
+      "installs": "500,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
+      "app_id": "com.supercell.brawlstars",
+      "app_name": "Brawl Stars",
+      "developer": "Supercell",
+      "icon_url": "https://play-lh.googleusercontent.com/QNLPDSxg6A4xz5pRQW30Fec-Q9JtyBe_oNIZ84ssgmaX-06nKgoKu9qbwq1ug1jwdqSD17eZ8P_Oz_IshakH5g",
+      "installs": "500,000,000+",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
     }
   ]
 }
