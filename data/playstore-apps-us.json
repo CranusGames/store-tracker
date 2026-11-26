@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "rankings": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -22,7 +22,7 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
@@ -34,23 +34,11 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 4,
-      "app_id": "com.ss.android.ugc.tiktok.pro",
-      "app_name": "TikTok Pro - Events",
-      "developer": "TikTok Pte. Ltd.",
-      "icon_url": "https://play-lh.googleusercontent.com/PKSZ5KxriEBiLm1_LyNrOMANu7sI59pfIxwzmv2-9NXqf3IaK1kRW13rj_J8PtrW72dcDdN9BzYsjs02Tge0OA",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
       "app_id": "com.pinterest",
       "app_name": "Pinterest",
       "developer": "Pinterest",
@@ -58,11 +46,11 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 6,
+      "rank": 5,
       "app_id": "com.qianwen.tellolive",
       "app_name": "Tello",
       "developer": "Devprof",
@@ -70,20 +58,32 @@
       "installs": "",
       "rating": 4.3,
       "rating_count": 0,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 6,
+      "app_id": "land.lifeoasis.maum",
+      "app_name": "Maum: 1 on 1 Voice Chat",
+      "developer": "LIFE OASIS",
+      "icon_url": "https://play-lh.googleusercontent.com/chz2oOH8c5ZmsNuJ9oravq2yOTjoLBid2kDTPbiYXzf_qVpDfG9MftvD0vSHLzGU8zrXCb46u8B5qenBbr6i",
+      "installs": "",
+      "rating": 4.0,
+      "rating_count": 0,
       "change": "new",
       "change_val": 0
     },
     {
       "rank": 7,
-      "app_id": "com.twitter.android",
-      "app_name": "X",
-      "developer": "X Corp.",
-      "icon_url": "https://play-lh.googleusercontent.com/IsLsCD4eLC2CYvlkgTI6Z5TROj0BJIBgUF7BZ5eliTzyyTjqG_mbofeG4kw2s7oG_JZMSi5ErLz_qsDi169C8w",
+      "app_id": "com.xingzuoba.com",
+      "app_name": "Hala Voice Chat Community",
+      "developer": "hala team",
+      "icon_url": "https://play-lh.googleusercontent.com/yk85xyGAlnF08P13D3f_7rN5G9qqUcy3cZ02nmQ1hN4rmFPerdDs4_tGT1lRcy_XZKtoodI0YPomTVtEF28ItuE",
       "installs": "",
-      "rating": 4.8,
+      "rating": 4.2,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "+2",
+      "change_val": 2
     },
     {
       "rank": 8,
@@ -94,17 +94,17 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 9,
-      "app_id": "com.xingzuoba.com",
-      "app_name": "Hala Voice Chat Community",
-      "developer": "hala team",
-      "icon_url": "https://play-lh.googleusercontent.com/yk85xyGAlnF08P13D3f_7rN5G9qqUcy3cZ02nmQ1hN4rmFPerdDs4_tGT1lRcy_XZKtoodI0YPomTVtEF28ItuE",
+      "app_id": "com.client.goparty",
+      "app_name": "Vava.chat-Video Call&Translate",
+      "developer": "GoParty Team",
+      "icon_url": "https://play-lh.googleusercontent.com/mPl1kTMtPTioFvQr2wGvk_IAKZ27abE1-I6bxVMPTfE0ocpYkSQphE4OYHuLAY8ImhrY9xC8BvVcNpdVJmAt",
       "installs": "",
-      "rating": 4.2,
+      "rating": 4.6,
       "rating_count": 0,
       "change": "new",
       "change_val": 0
@@ -118,15 +118,15 @@
       "installs": "",
       "rating": 4.0,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 11,
-      "app_id": "com.bite.chillchat",
-      "app_name": "ChillChat - Live Chat & Game",
-      "developer": "Mangostar Team",
-      "icon_url": "https://play-lh.googleusercontent.com/8w9Ype_aF_PIa31rVfSV0O9c5CZJp9RiSkKWnNdOvZKRp6VSeZzrgejdTPYMC7-46RB6Pb8FzwSQTH8r5AHr",
+      "app_id": "wyc.sta.hrd",
+      "app_name": "Waki Star-Group Voice Party",
+      "developer": "Staysteal",
+      "icon_url": "https://play-lh.googleusercontent.com/fEfMqB4qH3bkTb7S_5S-dpuE2Gf-WYIp2ruplJfLxQzWUL7w73ZBsjjuf1maqVbjMkq-PbtU6bO9fHWLdHdocLY",
       "installs": "",
       "rating": 4.1,
       "rating_count": 0,
@@ -135,6 +135,18 @@
     },
     {
       "rank": 12,
+      "app_id": "com.bite.chillchat",
+      "app_name": "ChillChat - Live Chat & Game",
+      "developer": "Mangostar Team",
+      "icon_url": "https://play-lh.googleusercontent.com/8w9Ype_aF_PIa31rVfSV0O9c5CZJp9RiSkKWnNdOvZKRp6VSeZzrgejdTPYMC7-46RB6Pb8FzwSQTH8r5AHr",
+      "installs": "",
+      "rating": 4.1,
+      "rating_count": 0,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 13,
       "app_id": "com.wejoy.weplay.us",
       "app_name": "WePlay - Game and Party",
       "developer": "WEJOY Pte. Ltd.",
@@ -142,29 +154,17 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
-      "app_id": "com.happymeet.amo",
-      "app_name": "Maza-Group Voice Chat&Party",
-      "developer": "JOYOUS TEAM",
-      "icon_url": "https://play-lh.googleusercontent.com/oXjtGKhXogUH8mw4ZP7FCVC1PhLdBQhtsgfPTD44cN16vmDYyBNwRzSuqKNKEoFlK9b5Yx26sEZ3gLozdrGgRQ",
-      "installs": "",
-      "rating": 3.6,
-      "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 14,
-      "app_id": "com.wepartytt",
-      "app_name": "HiFami- Small Dreams Come True",
-      "developer": "SPACEZ TECHNOLOGY",
-      "icon_url": "https://play-lh.googleusercontent.com/nHYDmArxTp3MjEpTzatGOi-jrcYrhQHNqiWVhf7PCw3VZDbY8slymiOvFEq_C_e8CW1M-HgU1VJNq7fBpjFh-w",
+      "app_id": "com.tezda.ozb",
+      "app_name": "PingTop",
+      "developer": "PingTop",
+      "icon_url": "https://play-lh.googleusercontent.com/wqkY9lMxD96H-sQevarmLgaZdWduKG0rRZ9QxrQDv1ZLfuFpHnd9iqgAyICFfISvVYIP8cFlWpPDfx4x3CAp01g",
       "installs": "",
-      "rating": 3.7,
+      "rating": 4.3,
       "rating_count": 0,
       "change": "new",
       "change_val": 0
@@ -178,11 +178,47 @@
       "installs": "",
       "rating": 2.3,
       "rating_count": 0,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 16,
+      "app_id": "com.wepartytt",
+      "app_name": "HiFami- Small Dreams Come True",
+      "developer": "SPACEZ TECHNOLOGY",
+      "icon_url": "https://play-lh.googleusercontent.com/nHYDmArxTp3MjEpTzatGOi-jrcYrhQHNqiWVhf7PCw3VZDbY8slymiOvFEq_C_e8CW1M-HgU1VJNq7fBpjFh-w",
+      "installs": "",
+      "rating": 3.7,
+      "rating_count": 0,
+      "change": "-2",
+      "change_val": -2
+    },
+    {
+      "rank": 17,
+      "app_id": "com.happymeet.amo",
+      "app_name": "Maza-Group Voice Chat&Party",
+      "developer": "JOYOUS TEAM",
+      "icon_url": "https://play-lh.googleusercontent.com/oXjtGKhXogUH8mw4ZP7FCVC1PhLdBQhtsgfPTD44cN16vmDYyBNwRzSuqKNKEoFlK9b5Yx26sEZ3gLozdrGgRQ",
+      "installs": "",
+      "rating": 3.6,
+      "rating_count": 0,
+      "change": "-4",
+      "change_val": -4
+    },
+    {
+      "rank": 18,
+      "app_id": "com.funny.yari",
+      "app_name": "Yari-Voice Chat Party",
+      "developer": "YARI TEAM",
+      "icon_url": "https://play-lh.googleusercontent.com/Df2hqn4V2Yi6LAcgwnRG9qNygYnLeXaQdLhaMvsfPexNHqsnx5JA5B01fjBPKNdSIX2NO3e4NmiFX_S3GWmVF0A",
+      "installs": "",
+      "rating": 4.3,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 19,
       "app_id": "com.yubby.yubby",
       "app_name": "Shxging",
       "developer": "SAMULIN LLC",
@@ -190,8 +226,8 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 0,
-      "change": "new",
-      "change_val": 0
+      "change": "-3",
+      "change_val": -3
     }
   ]
 }
