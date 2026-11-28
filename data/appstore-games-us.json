@@ -3,6 +3,18 @@
   "rankings": [
     {
       "rank": 1,
+      "app_id": "6831317859",
+      "app_name": "Tidy Room!",
+      "developer": "Circle Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/7f/5e/6f7f5ec0-7bf8-cec6-f7f9-29642e63c0d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 3290,
+      "change": "+6",
+      "change_val": 6
+    },
+    {
+      "rank": 2,
       "app_id": "6761760135",
       "app_name": "Meowdoku!",
       "developer": "Oakever Games",
@@ -10,11 +22,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 470295,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 2,
+      "rank": 3,
       "app_id": "6756058501",
       "app_name": "Jelly Busters: Puzzle Game",
       "developer": "Moon Active",
@@ -22,11 +34,11 @@
       "installs": "",
       "rating": 4.8,
       "rating_count": 14357,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 3,
+      "rank": 4,
       "app_id": "6752672568",
       "app_name": "Block Out! - Color Sort Puzzle",
       "developer": "Grand Games A.Ş.",
@@ -34,35 +46,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 396046,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 4,
-      "app_id": "431946152",
-      "app_name": "Roblox",
-      "developer": "Roblox Corporation",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b8/b8/05b8b8cc-1410-a32b-eb2c-3e24acd99189/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 20789859,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     },
     {
       "rank": 5,
-      "app_id": "6499209744",
-      "app_name": "Magic Sort!",
-      "developer": "Grand Games A.Ş.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/bb/99/71bb9954-ada9-c5e5-be3f-5f841bf0d74e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 762279,
-      "change": "+1",
-      "change_val": 1
-    },
-    {
-      "rank": 6,
       "app_id": "6759763476",
       "app_name": "Bus Traffic Fever!",
       "developer": "GOODROID,Inc.",
@@ -74,16 +62,28 @@
       "change_val": 1
     },
     {
-      "rank": 7,
-      "app_id": "6831317859",
-      "app_name": "Tidy Room!",
-      "developer": "Circle Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/7f/5e/6f7f5ec0-7bf8-cec6-f7f9-29642e63c0d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "rank": 6,
+      "app_id": "6499209744",
+      "app_name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/bb/99/71bb9954-ada9-c5e5-be3f-5f841bf0d74e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 3290,
-      "change": "-2",
-      "change_val": -2
+      "rating": 4.7,
+      "rating_count": 762279,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 7,
+      "app_id": "431946152",
+      "app_name": "Roblox",
+      "developer": "Roblox Corporation",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b8/b8/05b8b8cc-1410-a32b-eb2c-3e24acd99189/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 20789859,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 8,
@@ -99,6 +99,18 @@
     },
     {
       "rank": 9,
+      "app_id": "6483539426",
+      "app_name": "Fortnite",
+      "developer": "Epic Games Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/68/0a/f3680a12-042c-a886-4724-b4714629eaaf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 460983,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 10,
       "app_id": "6744975195",
       "app_name": "Sled Surfers",
       "developer": "Crazy Labs",
@@ -106,11 +118,23 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 91735,
-      "change": "+2",
-      "change_val": 2
+      "change": "-1",
+      "change_val": -1
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "app_id": "6746743297",
+      "app_name": "Bus Fever Party!",
+      "developer": "Lumi Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/36/d8/2936d8ce-bbf4-94d5-8ad5-5d920507cf76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 33286,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
+      "rank": 12,
       "app_id": "1617391485",
       "app_name": "Block Blast！",
       "developer": "Hungry Studio",
@@ -118,11 +142,11 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 2888649,
-      "change": "=",
-      "change_val": 0
+      "change": "-2",
+      "change_val": -2
     },
     {
-      "rank": 11,
+      "rank": 13,
       "app_id": "6745120053",
       "app_name": "Imposter Game - Party Edition",
       "developer": "Sven Vucak",
@@ -134,40 +158,16 @@
       "change_val": -2
     },
     {
-      "rank": 12,
-      "app_id": "6483539426",
-      "app_name": "Fortnite",
-      "developer": "Epic Games Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/68/0a/f3680a12-042c-a886-4724-b4714629eaaf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "rank": 14,
+      "app_id": "6793924927",
+      "app_name": "Rotate Rings",
+      "developer": "Nebula Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/2a/62/282a62f6-4a75-3e53-2c42-3ff2071ee932/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.6,
-      "rating_count": 460983,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 13,
-      "app_id": "1423046460",
-      "app_name": "Paper.io 2",
-      "developer": "Voodoo",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/e7/bc/53e7bcd4-40b7-67da-be7d-41a51bfd29fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 3051915,
+      "rating": 4.8,
+      "rating_count": 116701,
       "change": "+2",
       "change_val": 2
-    },
-    {
-      "rank": 14,
-      "app_id": "6746743297",
-      "app_name": "Bus Fever Party!",
-      "developer": "Lumi Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/36/d8/2936d8ce-bbf4-94d5-8ad5-5d920507cf76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 33286,
-      "change": "-1",
-      "change_val": -1
     },
     {
       "rank": 15,
@@ -178,35 +178,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 5300,
-      "change": "+3",
-      "change_val": 3
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "6793924927",
-      "app_name": "Rotate Rings",
-      "developer": "Nebula Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/2a/62/282a62f6-4a75-3e53-2c42-3ff2071ee932/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "app_id": "1423046460",
+      "app_name": "Paper.io 2",
+      "developer": "Voodoo",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/e7/bc/53e7bcd4-40b7-67da-be7d-41a51bfd29fa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.8,
-      "rating_count": 116701,
-      "change": "+1",
-      "change_val": 1
+      "rating": 4.6,
+      "rating_count": 3051915,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 17,
-      "app_id": "1443446174",
-      "app_name": "Magic Tiles 3™: Piano Game",
-      "developer": "Amanotes Pte. Ltd.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/f6/7f/2cf67f47-6b51-2db0-ec78-af0f4150c60e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.6,
-      "rating_count": 864916,
-      "change": "+3",
-      "change_val": 3
-    },
-    {
-      "rank": 18,
       "app_id": "6468921495",
       "app_name": "Vita Mahjong",
       "developer": "Vita Studio",
@@ -214,11 +202,35 @@
       "installs": "",
       "rating": 4.9,
       "rating_count": 1844980,
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 18,
+      "app_id": "1443446174",
+      "app_name": "Magic Tiles 3™: Piano Game",
+      "developer": "Amanotes Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/f6/7f/2cf67f47-6b51-2db0-ec78-af0f4150c60e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.6,
+      "rating_count": 864916,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 19,
+      "app_id": "6761757565",
+      "app_name": "Colorever: Gem Art Puzzle",
+      "developer": "Oakever Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/3a/b6/4f3ab606-0127-c043-26a6-9813bc86b3f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.9,
+      "rating_count": 8612,
       "change": "new",
       "change_val": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "app_id": "6812166638",
       "app_name": "Sort Streak: Color Puzzle",
       "developer": "Oakever Games",
@@ -226,20 +238,8 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 22180,
-      "change": "new",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "1453837845",
-      "app_name": "Charades - Family & Party Game",
-      "developer": "Dmytro Cheverda",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/27/04/ac270450-57e8-4093-517c-f2c5d7a4c8c8/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 138996,
-      "change": "-4",
-      "change_val": -4
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }

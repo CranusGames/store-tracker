@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "app_id": "com.generagames.resistance",
-      "app_name": "Cover Fire: Offline Shooting",
-      "developer": "Viva Games Studios",
-      "icon_url": "https://play-lh.googleusercontent.com/1ND-xKX5STyosxDim6LppRwRp4-BlnmS9sGB9axjN_QQcAECU5yicyKmgkA6LZ2rXfZ3yrnwh3cEC27mcJz7Ew",
-      "installs": "100,000,000+",
-      "rating": 4.5,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 15,
       "app_id": "com.dreamgames.royalmatch",
       "app_name": "Royal Match",
       "developer": "Dream Games, Ltd.",
@@ -178,11 +166,11 @@
       "installs": "100,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 16,
+      "rank": 15,
       "app_id": "com.ea.gp.fifamobile",
       "app_name": "EA SPORTS FC Soccer Mobile 27",
       "developer": "ELECTRONIC ARTS",
@@ -190,11 +178,11 @@
       "installs": "500,000,000+",
       "rating": 4.5,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 17,
+      "rank": 16,
       "app_id": "com.firsttouchgames.dls7",
       "app_name": "Dream League Soccer 2026",
       "developer": "First Touch Games Ltd.",
@@ -202,8 +190,20 @@
       "installs": "100,000,000+",
       "rating": 4.1,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "+1",
+      "change_val": 1
+    },
+    {
+      "rank": 17,
+      "app_id": "com.generagames.resistance",
+      "app_name": "Cover Fire: Offline Shooting",
+      "developer": "Viva Games Studios",
+      "icon_url": "https://play-lh.googleusercontent.com/1ND-xKX5STyosxDim6LppRwRp4-BlnmS9sGB9axjN_QQcAECU5yicyKmgkA6LZ2rXfZ3yrnwh3cEC27mcJz7Ew",
+      "installs": "100,000,000+",
+      "rating": 4.5,
+      "rating_count": 0,
+      "change": "-3",
+      "change_val": -3
     },
     {
       "rank": 18,
@@ -219,6 +219,18 @@
     },
     {
       "rank": 19,
+      "app_id": "com.os.airforce",
+      "app_name": "1945 Air Force: Plane Shooter",
+      "developer": "1SOFT",
+      "icon_url": "https://play-lh.googleusercontent.com/TO_RWb0YYiV5zQRE5J5M_FZ4phplSQqVrZPPjqy2Zp4nhMPUkFpwbTMkB3akiYFZAmjTSsSYgqFaP3H9InGRrg",
+      "installs": "100,000,000+",
+      "rating": 4.7,
+      "rating_count": 0,
+      "change": "new",
+      "change_val": 0
+    },
+    {
+      "rank": 20,
       "app_id": "com.playrix.township",
       "app_name": "Township",
       "developer": "Playrix",
@@ -226,20 +238,8 @@
       "installs": "500,000,000+",
       "rating": 4.7,
       "rating_count": 0,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 20,
-      "app_id": "bubbleshooter.orig",
-      "app_name": "Bubble Shooter - Classic Pop",
-      "developer": "Bubble Shooter",
-      "icon_url": "https://play-lh.googleusercontent.com/xyfJ1bJJpGj_4fz_dQMFvvE5HH3wATJAGYFUjBQ4sQwvEO7yCr8v-Xi-GmaSd-iTk8__i8IbTq3nh-rSQIi3w5o",
-      "installs": "500,000,000+",
-      "rating": 4.4,
-      "rating_count": 0,
-      "change": "=",
-      "change_val": 0
+      "change": "-1",
+      "change_val": -1
     }
   ]
 }

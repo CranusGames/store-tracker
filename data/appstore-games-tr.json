@@ -39,30 +39,6 @@
     },
     {
       "rank": 4,
-      "app_id": "1617391485",
-      "app_name": "Block Blast!",
-      "developer": "Hungry Studio",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/5d/b9/b05db9d7-4bb2-75f1-acb5-6f61dbe2f87f/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.7,
-      "rating_count": 104923,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 5,
-      "app_id": "649260774",
-      "app_name": "101 YüzBir Okey Plus",
-      "developer": "Zynga Inc.",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/54/01/af54015c-e5c2-a8fd-dbbf-cd353acd8767/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.8,
-      "rating_count": 1939814,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 6,
       "app_id": "1597760047",
       "app_name": "OneState RP: Role Play Online",
       "developer": "CHILLBASE LTD",
@@ -70,11 +46,23 @@
       "installs": "",
       "rating": 3.9,
       "rating_count": 1629,
-      "change": "+1",
-      "change_val": 1
+      "change": "+2",
+      "change_val": 2
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "app_id": "1617391485",
+      "app_name": "Block Blast!",
+      "developer": "Hungry Studio",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/5d/b9/b05db9d7-4bb2-75f1-acb5-6f61dbe2f87f/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.7,
+      "rating_count": 104923,
+      "change": "-1",
+      "change_val": -1
+    },
+    {
+      "rank": 6,
       "app_id": "6761760135",
       "app_name": "Meowdoku!",
       "developer": "Oakever Games",
@@ -82,11 +70,11 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 4688,
-      "change": "-1",
-      "change_val": -1
+      "change": "+1",
+      "change_val": 1
     },
     {
-      "rank": 8,
+      "rank": 7,
       "app_id": "6822256962",
       "app_name": "Sarı Durak: Taxi Fleet Tycoon",
       "developer": "OKAN IRTIS",
@@ -94,23 +82,23 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 122,
-      "change": "=",
-      "change_val": 0
-    },
-    {
-      "rank": 9,
-      "app_id": "1330123889",
-      "app_name": "PUBG MOBILE",
-      "developer": "Tencent Mobile International Limited",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1a/dc/0c1adcc0-b63f-6bdb-3cba-d74161aad06a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.2,
-      "rating_count": 703257,
       "change": "+1",
       "change_val": 1
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "app_id": "649260774",
+      "app_name": "101 YüzBir Okey Plus",
+      "developer": "Zynga Inc.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/54/01/af54015c-e5c2-a8fd-dbbf-cd353acd8767/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.8,
+      "rating_count": 1939814,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 9,
       "app_id": "512939461",
       "app_name": "Subway Surfers",
       "developer": "Sybo Games ApS",
@@ -122,6 +110,18 @@
       "change_val": 1
     },
     {
+      "rank": 10,
+      "app_id": "6755455500",
+      "app_name": "Hollywood Merge",
+      "developer": "VoyagerOne",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/d1/4d/8dd14d2a-5b4b-5891-df1e-a13085878837/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.5,
+      "rating_count": 5572,
+      "change": "+3",
+      "change_val": 3
+    },
+    {
       "rank": 11,
       "app_id": "6746743297",
       "app_name": "Bus Fever Party!",
@@ -130,11 +130,23 @@
       "installs": "",
       "rating": 4.5,
       "rating_count": 2786,
-      "change": "+2",
-      "change_val": 2
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 12,
+      "app_id": "1330123889",
+      "app_name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1a/dc/0c1adcc0-b63f-6bdb-3cba-d74161aad06a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png",
+      "installs": "",
+      "rating": 4.2,
+      "rating_count": 703257,
+      "change": "-3",
+      "change_val": -3
+    },
+    {
+      "rank": 13,
       "app_id": "6812384218",
       "app_name": "Pigeon Online World",
       "developer": "Rokogame",
@@ -142,18 +154,6 @@
       "installs": "",
       "rating": 3.8,
       "rating_count": 263,
-      "change": "-3",
-      "change_val": -3
-    },
-    {
-      "rank": 13,
-      "app_id": "6755455500",
-      "app_name": "Hollywood Merge",
-      "developer": "VoyagerOne",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/d1/4d/8dd14d2a-5b4b-5891-df1e-a13085878837/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "installs": "",
-      "rating": 4.5,
-      "rating_count": 5572,
       "change": "-1",
       "change_val": -1
     },
@@ -166,8 +166,8 @@
       "installs": "",
       "rating": 4.2,
       "rating_count": 726,
-      "change": "+1",
-      "change_val": 1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 15,
@@ -178,18 +178,18 @@
       "installs": "",
       "rating": 4.6,
       "rating_count": 47937,
-      "change": "-1",
-      "change_val": -1
+      "change": "=",
+      "change_val": 0
     },
     {
       "rank": 16,
-      "app_id": "6743131179",
-      "app_name": "Cursed house Multiplayer(GMM)",
-      "developer": "Abdul Rafy Muhammad",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/b3/4a/86b34a5c-1463-a700-bd94-5e7b7e80092f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "1531842415",
+      "app_name": "Super Bear Adventure",
+      "developer": "Earthkwak Games",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/4b/80/d84b8099-e0f8-5a57-ac08-accbcf88bb88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 3.8,
-      "rating_count": 805,
+      "rating": 4.2,
+      "rating_count": 23129,
       "change": "+3",
       "change_val": 3
     },
@@ -214,20 +214,20 @@
       "installs": "",
       "rating": 4.7,
       "rating_count": 4244,
-      "change": "new",
+      "change": "=",
       "change_val": 0
     },
     {
       "rank": 19,
-      "app_id": "1531842415",
-      "app_name": "Super Bear Adventure",
-      "developer": "Earthkwak Games",
-      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/4b/80/d84b8099-e0f8-5a57-ac08-accbcf88bb88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "app_id": "6443575749",
+      "app_name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/9e/98/e69e9840-fa2b-7b53-c7f9-75a75021de26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "installs": "",
-      "rating": 4.2,
-      "rating_count": 23129,
-      "change": "-1",
-      "change_val": -1
+      "rating": 4.6,
+      "rating_count": 49537,
+      "change": "new",
+      "change_val": 0
     },
     {
       "rank": 20,
